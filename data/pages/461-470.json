@@ -1,0 +1,96 @@
+{
+  "from": 461,
+  "to": 470,
+  "pages": [
+    {
+      "page": 461,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – kaistanvaihto, kapeat ajoneuvot ja esteet",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nKaistanvaihto\nDISTRONIC Plus ei ole vielä tunnistanut kaistaa vaihtavaa ajoneuvoa. Etäisyys kaistaa vaihtavaan ajoneuvoon jää riittämättömäksi.\n\nKapeat ajoneuvot\nKapean muotonsa vuoksi kaistan ulkoreunan lähellä ajavia ajoneuvoja DISTRONIC Plus ei ole vielä tunnistanut. Etäisyys edessä oleviin ajoneuvoihin jää riittämättömäksi.\n\nEsteet ja paikallaan olevat ajoneuvot\nDISTRONIC Plus ei jarruta esteiden eikä paikallaan olevien ajoneuvojen vuoksi. Jos esimerkiksi edessänne tunnistettu ajoneuvo vaihtaa kaistaa väistääkseen edessä olevaa estettä tai paikallaan olevaa ajoneuvoa, DISTRONIC Plus ei jarruta kyseisen esteen tai paikallaan olevan ajoneuvon vuoksi.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=461",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/461/bg1cd.webp",
+      "originalPath": "original/461.html"
+    },
+    {
+      "page": 462,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – poikittaisliikenne; Active Body Control (ABC)",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nPoikittaisliikenne\nDISTRONIC Plus voi tunnistaa virheellisesti poikittaisliikenteessä olevia ajoneuvoja. Jos kytkette DISTRONIC Plusin päälle esimerkiksi liikennevaloissa, joissa on poikittaisliikennettä, ajoneuvo voi yhtäkkiä lähteä liikkeelle.\n\nActive Body Control (ABC)\nABC-järjestelmä on aktiivinen, tietokoneohjattu järjestelmä, joka säätää hydraulisesti jousitusta kaikilla neljällä pyörällä eri ajotilanteisiin. Se valitsee automaattisesti ajoneuvollenne sopivimman jousituksen säädön ja ajoasennon korkeuden.\n\nAjoneuvon korkeudensäätö\n\nVaroitus!\nKun sammutatte moottorin, koko ajoneuvo laskeutuu. Varmistakaa siksi, ettei kukaan ole pyöränkotelon lähellä eikä ajoneuvon alla, kun sammutatte moottorin. Muuten henkilön ruumiinosia voi jäädä puristuksiin.\n\n!\nKun sammutatte moottorin, koko ajoneuvo laskeutuu. Pysäköidessänne asettakaa ajoneuvo niin, ettei se esimerkiksi raavi reunakiveä laskeutuessaan. Muuten ajoneuvo voi vahingoittua.\n\ni\nVain CL 63 AMG ja CL 65 AMG:\nKun sammutatte moottorin, koko ajoneuvo laskeutuu 0,2 in (5 mm).\n\nVaroitus!\nHenkilövahinkojen välttämiseksi pitäkää kädet ja jalat poissa pyöränkotelon alueelta ja pysykää loitolla ajoneuvon alta, kun ajoneuvon koria lasketaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=462",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/462/bg1ce.webp",
+      "originalPath": "original/462.html"
+    },
+    {
+      "page": 463,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "ABC – ajoasennon korkeus ja korkeamman tason valinta",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nAjoneuvonne säätää ajoasennon korkeuttaan automaattisesti:\n• lisätäkseen ajoneuvon turvallisuutta\n• vähentääkseen polttoaineenkulutusta\n\nAjoneuvon korin ajoasennon korkeus nousee tai laskee valitun tasoasetuksen ja ajonopeuden mukaan:\n• Nopeuden kasvaessa ajoasennon korkeus alenee enintään noin 0,4 in (10 mm).\n• Nopeuden laskiessa ajoasennon korkeus nousee jälleen valittuun ajoneuvon tasoon.\n\nSeuraavat ajoneuvon tasoasetukset voidaan valita ajoneuvon ollessa paikallaan:\n\nValitkaa ”Raised”-tasoasetus vain, kun vallitsevat ajo-olosuhteet sitä edellyttävät.\nMuuten:\n• Polttoaineenkulutus voi kasvaa.\n• Ajo-ominaisuudet voivat heikentyä.\n\n1 Ajoneuvon korkeudensäädön kytkin\n2 Merkkivalo\n\nKorkeamman tason valinta\n→ Käynnistäkää moottori.\nJos merkkivalo 2 on sammunut:\n→ Painakaa kytkintä 1.\nMerkkivalo 2 syttyy. Ajoneuvo nousee korkeammalle tasolle.\n\ni\nNämä korkeussäädöt ovat niin pieniä, ettette ehkä huomaa muutosta.\n\nTaso\nNormal Ajoon tavallisilla teillä.\nMerkkivalo on sammunut.\nRaised Ajoon huonokuntoisilla teillä tai lumiketjuilla. Merkkivalo palaa.\n\ni\nValittu ajoneuvon tasoasetus säilyy muistissa, vaikka moottori sammutetaan ja käynnistetään uudelleen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=463",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/463/bg1cf.webp",
+      "originalPath": "original/463.html"
+    },
+    {
+      "page": 464,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "ABC – normaali taso ja jousituksen säätö; Parktronic*",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nNormaalin tason valinta\n→ Käynnistäkää moottori.\nJos merkkivalo 2 palaa:\n→ Painakaa kytkintä 1.\nMerkkivalo 2 sammuu. Ajoneuvo säädetään normaalitasolle.\n\nJousituksen säätö\nJousituksen säätö määräytyy seuraavien mukaan:\n• ajotyylinne\n• tienpinnan olosuhteet\n• ajoneuvon kuormaus\n• valitsemanne jousitustyyli\n\nOhjelmatilan valintakytkimellä (C/S) (sivu 427) säädetään jousituksen säätöä:\n→ Käynnistäkää moottori.\n→ Valitkaa haluttu ajo-ohjelma.\n\nAjo-ohjelma Jousituksen säätö\nC Comfort mukava\n(oletusasetus)\nS Sport urheilullinen\ndynaamiseen ajoon\n\nParktronic-järjestelmä*\n\nVaroitus!\nParktronic on täydentävä järjestelmä. Se ei ole tarkoitettu korvaamaan eikä se korvaa äärimmäisen huolellisuuden tarvetta. Vastuu pysäköinnin ja muiden kriittisten manööverien aikana on aina kuljettajalla.\n\nVaroitus!\nVarmistakaa, ettei manöverointialueella ole henkilöitä eikä eläimiä. Muuten voitte vahingoittaa heitä.\n\n!\nErityistä huomiota on kiinnitettävä sileäpintaisiin tai mataliin kohteisiin (esim. perävaunun kytkentälaitteet, maalatut tolpat, korotetut poikkipalkit tai reunakivet). Järjestelmä ei välttämättä tunnista tällaisia kohteita, ja ne voivat vahingoittaa ajoneuvoa.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=464",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/464/bg1d0.webp",
+      "originalPath": "original/464.html"
+    },
+    {
+      "page": 465,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Parktronic* – toiminta ja anturit",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nParktronic-järjestelmä on elektroninen pysäköintiavustin ultraääniantureilla, joka auttaa pysäköinnissä.\nSe ilmaisee visuaalisesti ja äänimerkein suhteellisen etäisyyden ajoneuvon ja esteen välillä.\n\nParktronic-järjestelmä aktivoituu automaattisesti, kun kytkette sytytysvirran, vapautatte elektronisen pysäköintijarrun tai käynnistätte moottorin ja asetatte ajoasennon D, peruutusvaihteen R tai vapaa-asennon N.\n\nParktronic-järjestelmä deaktivoituu noin yli 11 mph (18 km/h) nopeuksilla. Alemmissa nopeuksissa Parktronic-järjestelmä kytkeytyy taas päälle.\n\nParktronic-järjestelmä deaktivoituu myös, kun asetatte automaattivaihteiston pysäköintiasentoon P tai lukitsette ajoneuvon paikalleen elektronisella pysäköintijarrulla ja sammutatte moottorin.\n\nParktronic-järjestelmä valvoo ajoneuvonne ympäristöä kuudella anturilla etupuskurissa ja neljällä anturilla takapuskurissa.\n\n1 Anturit etupuskurissa (näkyvät vain ilman DISTRONIC Plus*:ia)\n\nAntureiden kantama\n\n!\nParktronic-järjestelmän toimintaan voivat vaikuttaa likaiset anturit, erityisesti lumen ja jään aikana.\nVarmistakaa, että puskurien antureiden ympärillä oleva alue on vapaa liasta, jäästä ja/tai sohjosta; muuten Parktronic-järjestelmä ei välttämättä toimi oikein, ks. ”Parktronic*-järjestelmän antureiden puhdistus” (sivu 600).\n\ni\nMuista ultraäänilähteistä (esim. työskentelevät piikkausvasarat, autonpesu tai kuorma-autojen ilmajarrut) aiheutuvat häiriöt voivat saada järjestelmän antamaan harhaanjohtavia ilmoituksia, ja ne on otettava huomioon.\n\ni\nToimiakseen oikein antureiden on oltava vapaita liasta, jäästä, lumesta ja sohjosta. Puhdistakaa anturit säännöllisesti varoen naarmuttamasta tai vahingoittamasta niitä, ks. ”Parktronic*-järjestelmän antureiden puhdistus” (sivu 600).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=465",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/465/bg1d1.webp",
+      "originalPath": "original/465.html"
+    },
+    {
+      "page": 466,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Parktronic* – antureiden kantama ja varoitusilmaisimet",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nEtuanturit\nKeskellä noin 40 in (100 cm)\nKulmissa noin 24 in (60 cm)\n\nTaka-anturit\nKeskellä noin 48 in (120 cm)\nKulmissa noin 32 in (80 cm)\n\nVähimmäisetäisyys\nKeskellä noin 8 in (20 cm)\nKulmissa noin 6 in (15 cm)\n\nJos järjestelmä tunnistaa esteen tällä alueella, kaikki etäisyysvaroitussegmentit syttyvät ja kuulette varoitusäänen. Jos este on lähempänä kuin vähimmäisetäisyys, järjestelmä ei välttämättä enää ilmoita todellista etäisyyttä.\n\nVaroitusilmaisimet\nVisuaaliset signaalit ilmaisevat kuljettajalle suhteellisen etäisyyden antureiden ja esteen välillä.\nEtualueen varoitusilmaisin on mittaristossa. Taka-alueen varoitusilmaisin on takana kattovuorauksessa.\n\n1 Ajoneuvon vasen puoli\n2 Ajoneuvon oikea puoli\n3 Valmiusilmaisimet\n\nKukin varoitusilmaisin on jaettu viiteen keltaiseen ja kahteen punaiseen etäisyyssegmenttiin ajoneuvon kummallekin puolelle.\nJos keltaiset valmiusilmaisimet 3 etäisyyssegmenttien alla palaavat, Parktronic on valmis mittaamaan.\n\n!\nPysäköintimanöövereissä kiinnittäkää erityistä huomiota kohteisiin, jotka ovat antureiden korkeuden ylä- tai alapuolella (esim. reunakivet, maalatut tolpat tai perävaunun kytkentälaitteet jne.). Parktronic-järjestelmä ei tunnista tällaisia kohteita lähietäisyydellä, ja ajoneuvonne tai kohde voi vahingoittua.\nUlkopuoliset ultraäänisignaalit (esim. kuorma-auton ilmajarrut, autonpesu tai piikkausvasarat) voivat heikentää Parktronic-järjestelmän toimintaa.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=466",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/466/bg1d2.webp",
+      "originalPath": "original/466.html"
+    },
+    {
+      "page": 467,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Parktronic* – vaihdeasento ja päälle/pois-kytkentä",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nVaihteenvalitsimen asento määrää, mitkä varoitusilmaisimet aktivoituvat.\n\nVaihteenvalitsimen asento Varoitusilmaisin\nD Etuala aktivoitu\nR Etu- ja taka-alue aktivoitu\nN Elektroninen pysäköintijarru kytkettynä:\nei kumpikaan aktivoitu.\nElektroninen pysäköintijarru vapautettuna:\netu- ja taka-alue aktivoitu.\nP Ei kumpikaan aktivoitu\n\nKun ajoneuvonne lähestyy kohdetta, yksi tai useampi etäisyyssegmentti syttyy etäisyyden mukaan. Kun seitsemäs etäisyyssegmentti syttyy, olette saavuttaneet vähimmäisetäisyyden.\n\n• Etuala:\nKatkonainen äänivaroitus kuuluu, kun ensimmäinen punainen etäisyyssegmentti syttyy, ja jatkuva äänivaroitus enintään 2 sekunnin ajan kuuluu toisen punaisen etäisyyssegmentin syttyessä. Signaali peruuntuu, kun vaihteenvalitsin asetetaan pysäköintiasentoon P.\n• Taka-alue:\nKatkonainen äänivaroitus kuuluu, kun ensimmäinen punainen etäisyyssegmentti syttyy, ja jatkuva äänivaroitus enintään 2 sekunnin ajan kuuluu toisen punaisen etäisyyssegmentin syttyessä. Signaali peruuntuu, kun vaihteenvalitsin asetetaan ajoasentoon D tai pysäköintiasentoon P.\n\nParktronic-järjestelmän kytkeminen päälle tai pois\nParktronic-järjestelmän voi kytkeä pois manuaalisesti.\n\n1 Parktronic-painike\n2 Merkkivalo",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=467",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/467/bg1d3.webp",
+      "originalPath": "original/467.html"
+    },
+    {
+      "page": 468,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Parktronic* – kytkentä ja häiriö; Park Assist*",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\n→ Parktronic-järjestelmän poiskytkentä: Painakaa painiketta 1.\nMerkkivalo 2 syttyy.\n→ Parktronic-järjestelmän päällekytkentä: Painakaa painiketta 1 uudelleen.\nMerkkivalo 2 sammuu.\n\nParktronic-järjestelmän toimintahäiriö\nJos vain punaiset etäisyyssegmentit syttyvät ja äänivaroitus kuuluu, Parktronic-järjestelmässä on toimintahäiriö. Parktronic-järjestelmä kytkeytyy automaattisesti pois 20 sekunnin kuluttua, ja Parktronic-kytkimen merkkivalo syttyy.\n→ Korjauttakaa Parktronic-järjestelmä valtuutetussa Mercedes-Benz-keskuksessa mahdollisimman pian.\n\nJos vain punaiset etäisyyssegmentit syttyvät eikä äänivaroitusta kuulu, Parktronic-järjestelmän anturit ovat likaisia tai muista radio- tai ultraäänisignaaleista aiheutuu häiriötä. Parktronic-järjestelmä kytkeytyy automaattisesti pois 20 sekunnin kuluttua, ja Parktronic-kytkimen merkkivalo syttyy.\n→ Kytkekää sytytysvirta pois (sivu 365).\n→ Puhdistakaa Parktronic-järjestelmän anturit (sivu 600).\n→ Kytkekää sytytysvirta päälle.\ntai\n→ Tarkistakaa Parktronic-järjestelmän toiminta toisessa paikassa sulkeaksenne pois ulkopuolisten radio- tai ultraäänisignaalien häiriön.\n\nPark Assist*\n\ni\nParktronic-järjestelmä kytkeytyy automaattisesti päälle, kun sytytysvirta kytketään (sivu 365).\n\nVaroitus!\nPark Assist on täydentävä järjestelmä. Se ei ole tarkoitettu korvaamaan eikä se korvaa äärimmäisen huolellisuuden tarvetta. Vastuu pysäköinnin ja muiden kriittisten manööverien aikana on aina kuljettajalla.\n\nVaroitus!\nVarmistakaa, ettei manöverointialueella ole henkilöitä eikä eläimiä. Muuten voitte vahingoittaa heitä.\n\n!\nErityistä huomiota on kiinnitettävä sileäpintaisiin tai mataliin kohteisiin (esim. perävaunun kytkentälaitteet, maalatut tolpat, korotetut poikkipalkit tai reunakivet). Järjestelmä ei välttämättä tunnista tällaisia kohteita, ja ne voivat vahingoittaa ajoneuvoa.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=468",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/468/bg1d4.webp",
+      "originalPath": "original/468.html"
+    },
+    {
+      "page": 469,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Park Assist* – tutka-anturit ja aktivointi",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nPark Assist on elektroninen pysäköintiavustin tutka-antureilla, joka auttaa pysäköinnissä.\n\nKanadassa matkustaessanne ajoneuvolla, jota ei ole rekisteröity Kanadaan, teidän on kytkettävä tutka-anturijärjestelmä* pois (sivu 302).\nKanadan laki ei salli tutka-anturijärjestelmän* käyttöä (sivu 302) Kanadan ulkopuolelta tulevilla ajoneuvoilla. Kun kytkette tutka-anturijärjestelmän* pois, seuraavat toiminnot deaktivoidaan:\n• BAS Plus* (sivu 68)\n• PRE-SAFE® Brake* (sivu 75)\n• DISTRONIC Plus* (sivu 443)\n• Park Assist* (sivu 467)\n• Advanced Parking Guidance* (sivu 471)\n• Blind Spot Assist* (sivu 485)\n\nSe ilmaisee visuaalisesti ja äänimerkein suhteellisen etäisyyden ajoneuvon ja esteen välillä.\n\nPark Assist aktivoituu automaattisesti, kun moottori käy ja vaihteisto on ajoasennossa D, peruutusvaihteella R tai vapaa-asennossa N.\n\ni\nVain USA:\nFCC on hyväksynyt tämän laitteen ”Vehicular Radar System” -järjestelmäksi. Tutka-anturi on tarkoitettu käytettäväksi vain autojen tutka-järjestelmässä. Laitteen irrottaminen, peukaloiminen tai muuttaminen mitätöi takuut eikä FCC salli sitä. Älkää peukaloiko, muuttako älkääkä käyttäkö laitetta millään hyväksymättömällä tavalla.\nMikä tahansa luvaton muutos tähän laitteeseen voi mitätöidä käyttäjän oikeuden käyttää laitetta.\n\ni\nVain Kanada:\nTämä laite täyttää Industry Canadan RSS-210 -vaatimukset. Käyttö edellyttää seuraavia kahta ehtoa:\n(1) Tämä laite ei saa aiheuttaa häiriöitä, ja\n(2) tämän laitteen on hyväksyttävä kaikki vastaanotetut häiriöt, mukaan lukien häiriöt, jotka voivat aiheuttaa ei-toivottua toimintaa.\nLaitteen irrottaminen, peukaloiminen tai muuttaminen mitätöi takuut eikä ole sallittua. Älkää peukaloiko, muuttako älkääkä käyttäkö laitetta millään hyväksymättömällä tavalla.\nMikä tahansa luvaton muutos tähän laitteeseen voi mitätöidä käyttäjän oikeuden käyttää laitetta.\n\n!\nPark Assist -järjestelmän toimintaan voivat vaikuttaa likaiset anturit, erityisesti lumen ja jään aikana.\nVarmistakaa, että puskurien antureiden ympärillä oleva alue on vapaa liasta, jäästä ja/tai sohjosta; muuten Park Assist ei välttämättä toimi oikein, ks. ”Ajojärjestelmien antureiden puhdistus” (sivu 601).\n\n!\nKorkeataajuuslähteet, kuten tietulliasemat, nopeudenmittausjärjestelmät jne., voivat aiheuttaa Park Assist -järjestelmän toimintahäiriön. Voitte kytkeä Park Assistin pois Park Assist -painikkeella (sivu 471) tai kytkeä tutka-anturit pois (sivu 302) mahdollisen toimintahäiriön estämiseksi.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=469",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/469/bg1d5.webp",
+      "originalPath": "original/469.html"
+    },
+    {
+      "page": 470,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Park Assist* – poiskytkentä ja antureiden kantama",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nPark Assist -järjestelmä deaktivoituu noin yli 10 mph (16 km/h) nopeuksilla. Alemmissa nopeuksissa Park Assist -järjestelmä kytkeytyy taas päälle.\n\nPark Assist kytketään myös pois, kun asetatte automaattivaihteiston pysäköintiasentoon P tai sammutatte moottorin.\n\nVaihteiston ollessa vapaa-asennossa N Park Assist kytketään pois, jos lukitsette ajoneuvon paikalleen elektronisella pysäköintijarrulla.\n\nPark Assist -järjestelmä valvoo ajoneuvonne ympäristöä neljällä anturilla etupuskurissa ja kahdella anturilla takapuskurissa.\n\nAntureiden kantama\nPark Assist -järjestelmän anturit on integroitu etu- ja takapuskureihin.\nVarmistakaa, että puskureissa antureiden alueella ei ole likaa, jäätä eikä sohjoa; muuten Park Assist ei välttämättä toimi oikein, ks. ”Ajojärjestelmien antureiden puhdistus” (sivu 601).\n\nEtuanturit\nKeskellä noin 40 in (100 cm)\nKulmissa noin 24 in (60 cm)\n\nTaka-anturit\nKeskellä noin 50 in (125 cm)\nKulmissa noin 24 in (60 cm)\n\ni\nAntureiden laajan tunnistusalueen vuoksi Park Assist voi tunnistaa myös seuraavia esteitä ja antaa varoituksen:\n• maassa olevat esteet, esim. viemärinkannet, kiskot, tien epätasaisuudet tai ojat\n• nopeasti ylöspäin liikkuvat esteet, esim. rullaavat autotallinovet\n\n!\nPysäköidessänne kiinnittäkää erityistä huomiota antureiden ylä- tai alapuolella oleviin kohteisiin, esim. kukkaruukkuihin, korotettuun poikkipalkkiin tai perävaunun vetokoukkuun. Park Assist ei tunnista tällaisia lähellä olevia kohteita. Muuten voitte vahingoittaa ajoneuvoa tai kohteita.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=470",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/470/bg1d6.webp",
+      "originalPath": "original/470.html"
+    }
+  ]
+}

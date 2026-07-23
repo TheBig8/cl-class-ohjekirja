@@ -1,0 +1,97 @@
+{
+  "from": 331,
+  "to": 340,
+  "fetchedAt": "2026-07-23T13:21:12.225Z",
+  "pages": [
+    {
+      "page": 331,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=331",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/331/bg14b.webp",
+      "originalPath": "original/331.html",
+      "title": "330",
+      "en": "330\n Control systems\n Voice Control radio\n “Sat Radio”\n Use this command for switching on the\n satellite radio.\n “Next station” or “Previous station”\n The following commands are used to start\n the station search and to tune in the next\n station:\n • “Next station”\n • “Previous station”\n Selecting frequency (FM, AM only)\n You may, for example, select a frequency\n in the FM band (87.9 to 107.9 Megahertz)\n directly using a verbal command such as\n “Ninety-five five”. The Voice Control System also recognizes the words “frequency”, “point” and “megahertz”. You may for\n example use the command “Frequency\n ninety-five point five”.\n Sample dialog:\n s Ninety-five point five\n The Voice Control System tunes the radio\n to frequency FM 95.5.\n “Save station” (List saved stations)\n Use this command to save the set station\n (AM and FM only) by name in your personal\n station list. After using this command, the\n Voice Control System will prompt you to\n repeat the name two to four times before it\n is saved in the station list. When repeating\n the station name, make sure that you pronounce it in the same manner as during the\n first input. Otherwise the name cannot be\n saved and the Voice Control System cancels the save procedure.\n Sample dialog:\n s Save station\n t Please say the station name\n s Smooth Jazz\n t Please say the station name again\n s Smooth Jazz\n t The station Smooth Jazz has been\n saved\n “Select station” (List saved stations)\n Use the command “Select station” (AM\n and FM only) to select a saved station\n name from your station list.\n Sample dialog:\n s Select station\n t Please say the station name\n s Smooth Jazz\n The Voice Control System tunes to the corresponding frequency.\n i\n The Voice Control System may recognize\n names even if not saved in your voice. For optimum performance, however, call up only names\n you have saved yourself.\n i\n You can freely select the station name, for\n example “Favorite station”."
+    },
+    {
+      "page": 332,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=332",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/332/bg14c.webp",
+      "originalPath": "original/332.html",
+      "title": "331",
+      "en": "331\n Control systems\n Voice Control radio\n “Station Smooth Jazz” (List saved stations)\n Use this command (AM and FM only) to directly select a saved station name from\n your station list.\n Sample dialog:\n s Station Smooth Jazz\n The Voice Control System tunes to the corresponding station.\n “List station list” and select station\n from list\n Use this command to list the entire station\n list, or to select an entry from the station\n list.\n Sample dialog:\n s List station list\n The Voice Control System reads out the\n entire list.\n To select a station:\n When the system reads the desired station:\n 왘 Press ! .\n 왘 Canceling the dialog: Pre ss L .\n The dialog is concluded. The system\n confirms “Cancel”.\n “Delete station” (List saved stations)\n Use the command “Delete station” (AM\n and FM only) to delete a station from your\n personal station list.\n Sample dialog:\n s Delete station\n t Which station do you want to delete?\n s Smooth Jazz\n t Do you want to delete Smooth Jazz?\n s Yes\n t Station deleted\n i\n If the Voice Control System does not recognize the station name you requested, please refer to the section “List station list” (\n 컄 page 331).\n By following the dialog, you can check and determine if the name is saved in the station list."
+    },
+    {
+      "page": 333,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=333",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/333/bg14d.webp",
+      "originalPath": "original/333.html",
+      "title": "332",
+      "en": "332\n Control systems\n Voice Control radio\n “Delete station list”\n Use this command to delete the complete\n station list or one or more stations from\n the station list.\n Sample dialog:\n s Delete station list\n t Do you want to delete all voice\n names from the station list?\n s Yes\n t Are you sure?\n s Yes\n t All voice names have been deleted\n from the station list\n The system deletes the complete station\n list. The deletion of the station list cannot\n be undone.\n or\n t No\n The system starts reading the station list.\n When the system reads the station to be\n deleted:\n 왘 Press ! .\n The station to be deleted is selected.\n The name of the selected station is\n read out once more.\n t Do you want to delete Smooth Jazz?\n s Yes\n t Station deleted\n The station is erased and the remaining\n station entries are read out.\n or\n t No\n The system continues reading the station\n list entry by entry."
+    },
+    {
+      "page": 334,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=334",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/334/bg14e.webp",
+      "originalPath": "original/334.html",
+      "title": "333",
+      "en": "333\n Control systems\n Voice Control CD/DVD changer/MP3\n 왔 Voice Control CD/DVD changer/MP3\n Operation\n The Voice Control System gives you the\n ability to:\n • Select a CD/DVD/medium\n • Select a track\n • Select a folder in MP3 mode\n • Select a group in audio-DVD mode\n To operate the DVD changer using the\n Voice Control System, the Voice Control\n System must be activated (\n 컄 page 306).\n Selecting CD mode\n 왘 Press ! .\n 왘 Speak one of the following commands:\n • “CD”\n • “DVD”\n • “MP3”\n 왘 Press ! .\n 왘 Speak one of the following commands.\n Warning! G\n Please devote your attention first and foremost to the traffic situation you are in.\n Before your journey, please familiarize yourself with the audio functions.\n Only use the Voice Control System when\n road and traffic conditions permit you to do\n so. Otherwise you could be involved in an\n accident in which you or others could be injured.\n i\n The following commands “Next/Previous\n CD/DVD” and “CD/DVD 1” to “CD/DVD 6”,\n cause the DVD changer to switch from one slot\n to another, regardless of the type of medium\n found in the selected slot. In your command, you\n can therefore replace the term “CD/DVD” with\n “Medium”."
+    },
+    {
+      "page": 335,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=335",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/335/bg14f.webp",
+      "originalPath": "original/335.html",
+      "title": "334",
+      "en": "334\n Control systems\n Voice Control CD/DVD changer/MP3\n Commands\n For a complete list of commands\n (\n 컄 page 335).\n “Help CD”, “Help DVD” or “Help MP3”\n Use the commands\n • “Help CD”\n • “Help DVD”\n • “Help MP3”\n and the Voice Control System will read out\n a complete list of available commands for\n the CD, DVD or MP3.\n “CD/DVD/Medium 1” to\n “CD/DVD/Medium 6”\n Use commands “CD/DVD/Medium 1” to\n “CD/DVD/Medium 6” to select one of up\n to 6 mediums in your DVD changer.\n “Next CD/DVD/Medium”\n Use the command “Next CD/DVD/Medium” to select the next available medium in\n the DVD changer.\n “Track 1” to “Track 39”\n Use the commands “Track 1” to\n “Track 39” to select one of up to 39 title\n numbers of a loaded medium.\n “Next track”\n Use the command “Next track” to select\n the next track.\n “Previous track” or “Repeat track”\n Use the command “Previous track” or “Repeat track” to play again the track you are\n listening to.\n “Group 1” to “Group 9”\n The “Group 1” to “Group 9” commands are\n used to select a group on the inserted audio-DVD.\n “Next group”/“Previous group”\n The “Next group”/“Previous group” commands are used to select a group on the inserted audio-DVD.\n “Memory card”\n The “Memory card” command is used to\n switch from the DVD drive to the PCMCIA\n card.\n “Drive”\n The “Drive” command is used to switch\n from the PCMCIA card to the DVD drive."
+    },
+    {
+      "page": 336,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=336",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/336/bg150.webp",
+      "originalPath": "original/336.html",
+      "title": "335",
+      "en": "335\n Control systems\n Voice Control command list\n 왔 Voice Control command list\n Command list\n Chapter “Command list” gives you on overview of all commands available for use to\n control the Voice Control System.\n Which commands are available for use is\n dependent on the equipment level in your\n vehicle.\n General commands\n i\n Some functions can be operated using several different commands. In the following list,\n these commands are grouped in one cell.\n Choose your preferred command from those\n available.\n • yes\n • right\n • ok\n • cancel\n • stop\n • quit\n • abort\n • terminate\n • no\n • no thank you\n • address book\n • MP3\n • CD\n • navigation\n • route guidance\n • audio DVD\n • radio\n • sat radio\n • satellite radio\n • telephone\n • messages\n • SMS\n • vehicle\n • correction\n • wrong\n • incorrect\n • help\n • help please\n • please help\n • help functions\n • help devices\n • help voice control\n • linguatronic help\n • general help"
+    },
+    {
+      "page": 337,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=337",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/337/bg151.webp",
+      "originalPath": "original/337.html",
+      "title": "336",
+      "en": "336\n Control systems\n Voice Control command list\n Telephone* commands\n • help permanent commands\n • help global commands\n • letters of the English alphabet\n • digits 0 - 9\n • continue\n • go forward\n • next page\n • back\n • go back\n • previous page\n • help radio\n • help tuner\n • radio help\n • tuner help\n • help telephone\n • help phone\n • help address book\n • help CD\n • help disc\n • help CD player\n • help CD changer\n • help audio DVD\n • help DVDA\n • help DVD audio\n • help DVD audio player\n • help DVD audio changer\n • help navigation\n • help nav\n • help navi\n • help route guidance\n • help routing\n • help destination guidance\n • telephone (on)\n • phone (on)\n • telephone off\n • save\n • save PIN\n • save PIN code\n • save number\n • save PIN number\n • save telephone number\n • save name\n • save password\n • store PIN\n • store PIN code\n • store number\n • store PIN number"
+    },
+    {
+      "page": 338,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=338",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/338/bg152.webp",
+      "originalPath": "original/338.html",
+      "title": "337",
+      "en": "337\n Control systems\n Voice Control command list\n • store telephone number\n • store name\n • store password\n • dial\n • dial PIN\n • dial number\n • dial PIN number\n • dial PIN code\n • dial phone number\n • dial telephone number\n • dial password\n • dial unlock code\n • confirm\n • confirm PIN\n • confirm number\n • confirm PIN number\n • confirm PIN code\n • confirm phone number\n • confirm telephone number\n • confirm password\n • confirm unlock code\n • repeat PIN\n • repeat number\n • repeat PIN number\n • repeat PIN code\n • repeat phone number\n • repeat telephone number\n • repeat password\n • repeat unlock code\n • enter PIN\n • enter PIN code\n • enter PIN number\n • enter code\n • enter unlock code\n • list phone book\n • read out phone book\n • play phone book\n • get phone book\n • recall phone book\n • redial\n • redial last number\n • redial last phone number\n • correction\n • wrong PIN\n • wrong number\n • wrong PIN number\n • wrong PIN code\n • wrong phone number\n • wrong telephone number\n • wrong unlock code\n • incorrect PIN\n • incorrect number\n • incorrect PIN number\n • incorrect PIN code"
+    },
+    {
+      "page": 339,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=339",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/339/bg153.webp",
+      "originalPath": "original/339.html",
+      "title": "338",
+      "en": "338\n Control systems\n Voice Control command list\n Navigation commands\n • incorrect phone number\n • incorrect telephone number\n • incorrect unlock code\n • delete\n • delete PIN\n • delete number\n • delete PIN number\n • delete PIN code\n • delete phone number\n • delete telephone number\n • delete unlock code\n • navigation\n • nav\n • navi\n • route guidance\n • routing\n • destination guidance\n • guidance instructions on\n • switch guidance instruction on\n • switch guidance instructions on\n • switch route guidance instruction on\n • switch route guidance instructions on\n • switch on guidance instruction\n • switch on guidance instructions\n • switch on route guidance instruction\n • switch on route guidance instructions\n • guidance instructions off\n • switch guidance instructions off\n • switch route guidance instructions off\n • switch off guidance instructions\n • switch off route guidance instructions\n • mute guidance instructions\n • mute route guidance instructions\n • house number\n • enter house number\n • map (on)\n • show map\n • switch on map\n • zoom in\n • zoom in on map\n • zoom out\n • zoom out on map\n • zoom in completely\n • zoom out completely\n • enter country\n • enter another country\n • spell country\n • spell another country\n • change country\n • change another country\n • intersection\n • spell intersection"
+    },
+    {
+      "page": 340,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=340",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/340/bg154.webp",
+      "originalPath": "original/340.html",
+      "title": "339",
+      "en": "339\n Control systems\n Voice Control command list\n • spell cross street\n • enter intersection\n • enter cross street\n • last destinations\n • last states\n • last provinces\n • spell town\n • spell city\n • spell name of town\n • spell name of city\n • enter town\n • enter city\n • enter name of town\n • enter name of city\n • district\n • center\n • spell district\n • spell center\n • enter district\n • enter center\n • points of interest\n • enter points of interest\n • enter point of interest\n • enter POI\n • enter POIs\n • street\n • spell street\n • spell name of street\n • enter street\n • enter name of street\n • enter destination\n • destination entry\n • destination input\n • address entry\n • address input\n • save destination\n • save address\n • store destination\n • store address\n • start route guidance\n • start navigation\n • start nav\n • start routing\n • begin route guidance\n • begin navigation\n • begin route guidance\n • begin routing\n • continue route guidance\n • continue navigation\n • continue nav\n • continue routing\n • destination guidance on\n • cancel route guidance\n • cancel navigation"
+    }
+  ]
+}

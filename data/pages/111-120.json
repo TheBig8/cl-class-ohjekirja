@@ -1,0 +1,96 @@
+{
+  "from": 111,
+  "to": 120,
+  "pages": [
+    {
+      "page": 111,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Kanavien viritys kanavaluettelosta",
+      "fi": "Ohjausjärjestelmät\nCOMAND-satelliittiradio\nKanavien viritys kanavaluettelosta\n\n→ Valitkaa ”Audio” → ”Audio” → ”Sat Radio” → ”Sat Radio” → ”Channel List”.\nKanavaluettelo tulee näkyviin. Piste R luettelokohdan edessä ilmaisee sillä hetkellä valitun kanavan.\n\n→ Valitkaa kanava pyörittämällä y m z tai siirtämällä q m r ja painakaa n .\n\nKanavien tallennus\n\nVaihtoehto 1\n→ Valitkaa ”Audio” → ”Audio” → ”Sat Radio” → ”Sat Radio” → ”Save Channel”.\n\nVaihtoehto 2\n→ Painakaa n , kun pääalue on valittuna.\n\nVaihtoehto 3\n→ Valitkaa ”Audio” → ”Audio” → ”Sat Radio” → ”Presets”.\n\nKaikki kolme vaihtoehtoa avaavat esiasetusvalikon. Piste R esiasetuspaikan edessä ilmaisee, että kyseessä on sillä hetkellä valittu ja kuunneltava kanava.\n\n→ Esiasetuspaikan valinta:\nSiirtäkää q m r tai pyörittäkää y m z .\n\nKanavan tallennus valittuun esiasetuspaikkaan\n\nJos olette avanneet kanavan esiasetusnäytön vaihtoehdolla 1:\n→ Painakaa n lyhyesti.\n\nVaihtoehdoissa 2 ja 3:\n→ Painakaa ja pitäkää n painettuna, kunnes kuulette äänimerkin.\nKanava tallennetaan.\n\ni\nKanavaluettelon sisältö riippuu siitä, mitkä kanavat kuuluvat tilaukseenne ja minkä ohjelmakategorian olette valinneet (sivu 107). Jos vain esikatselukanava on aktivoitu, kanavaluettelo sisältää ainoastaan esikatselukanavan.\n\ni\nKäytettävissä on kaksikymmentä esiasetuspaikkaa.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=111",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/111/bg6f.webp",
+      "originalPath": "original/111.html"
+    },
+    {
+      "page": 112,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ohjelmatiedot ja SIRIUS-palvelu",
+      "fi": "Ohjausjärjestelmät\nCOMAND-satelliittiradio\nOhjelmatietojen näyttö\n\n→ Valitkaa ”Audio” → ”Audio” → ”Sat Radio” → ”Info”.\nNäette näytön, joka voi sisältää seuraavat tiedot:\n• Valittu ohjelmakategoria\n• Valittu kanava\n• Parhaillaan toistettavan kappaleen esittäjä\n• Nykyisen kappaleen nimi\n\n→ Näytön sulkeminen: Siirtäkää o m p tai painakaa n .\n\nKanavapäivitys\nPalveluntarjoaja voi suorittaa kanavapäivityksen.\nPäivityksen aikana näytössä näkyy viesti ”Updating channels...”.\nPäivityksen aikana satelliittiradiotilan toimintoja ei voi käyttää.\n\nSIRIUS Service Centerin soittaminen\n\n→ Valitkaa ”Audio” → ”Audio” → ”Sat Radio” → ”Sat Radio” → ”Service”.\nNäyttöön tulevat SIRIUS Service Centerin puhelinnumero sekä kyseisen vastaanottimen kahdentoista numeron elektroninen sarjanumero (SIRIUS-ID).\n\n→ Näytön sulkeminen: Siirtäkää o m p tai painakaa n .\n\ni\nJos ohjelmantarjoaja ei tarjoa tietoja, valikkokohtaa ”Info” ei voi valita.\n\ni\nOhjelmantarjoaja määrää, mitä tietoja näytössä esitetään. COMAND näyttää enintään kaksi riviä kutakin tietokohtaa kohti. Jos tietokohta on liian pitkä, COMAND lyhentää sitä.\n\ni\nSIRIUS Service Centeriin soittaminen voi olla tarpeen esimerkiksi, jos:\n• Haluatte peruuttaa tilauksen tai tilata palvelun uudelleen myöhemmin.\n• Olette unohtaneet maksaa laskun.\n• Myytte auton toiselle henkilölle.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=112",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/112/bg70.webp",
+      "originalPath": "original/112.html"
+    },
+    {
+      "page": 113,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Audio-CD/DVD/MP3 – turvaohjeet",
+      "fi": "Ohjausjärjestelmät\nCOMAND audio-CD/audio-DVD/MP3\nTurvallisuusohjeet\nHuomioita MP3-tilasta\n\nSallitut mediat MP3-tiedostoille\n• CD-R ja CD-RW\n• DVD-R ja DVD-RW\n• PCMCIA-kortti (sivu 117)\n\nSallitut tiedostojärjestelmät\n• ISO9660/Joliet CD-levyille\n• UDF DVD-levyille\n• FAT16 tai FAT32 PCMCIA-korteille, joissa on tallennusväline\n\nVaroitus!\nCOMAND on luokiteltu Class 1 -laserlaitteeksi. Koteloa ei saa avata. Jos avatte kotelon tai jos kotelo on viallinen tai vahingoittunut, on olemassa näkymättömälle lasersäteilylle altistumisen vaara.\n\nCOMAND ei sisällä osia, joita voitte huoltaa itse. Turvallisuussyistä kaikki huoltotoimet on teetettävä pätevillä teknikolla.\n\nMuistakaa, että jo nopeudella 30 mph (noin 50 km/h) auto kulkee 44 jalkaa (noin 14 m) joka sekunti.\n\nVaroitus!\nTehkää seuraavat toimet vain ajoneuvon ollessa paikallaan:\n• Levyn asettaminen\n• Levyn poisto\n\nJos lataatte CD-/DVD-levyn ajon aikana, onnettomuusriski kasvaa, koska huomionne voi irrota tiestä ja liikenteestä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=113",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/113/bg71.webp",
+      "originalPath": "original/113.html"
+    },
+    {
+      "page": 114,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Multisession-CD:t ja MP3-rakenne",
+      "fi": "Ohjausjärjestelmät\nCOMAND audio-CD/audio-DVD/MP3\nMultisession-CD:t\n\nMultisession-CD:illä CD:n ensimmäinen session tyyppi määrää, miten COMAND käsittelee CD:n.\n\nJos esimerkiksi ensimmäinen session tyyppi on audio-CD-standardin mukainen ja toinen session tyyppi on data-CD-standardin mukainen ja sisältää MP3-kappaleita, COMAND käsittelee CD:n tavanomaisena audio-CD:nä. Tämä tarkoittaa, että vain audio-CD-kappaleisiin pääsee käsiksi. MP3-kappaleisiin ei pääse käsiksi.\n\nVastaavasti, jos ensimmäinen session tyyppi on data-CD-standardin mukainen ja sisältää MP3-kappaleita ja toinen session tyyppi on audio-CD-standardin mukainen, COMAND käsittelee CD:n data-CD:nä. Tämä tarkoittaa, että vain MP3-kappaleisiin pääsee käsiksi. Audio-CD-kappaleisiin ei pääse käsiksi.\n\nTiedostorakenne levyllä\nKun luotte MP3-levyn, MP3-kappaleet voidaan järjestää kansioihin. Kansio voi sisältää myös muita kansioita. Levyllä voi olla enintään 255 kansiota. Jokainen kansio voi sisältää enintään 255 kappaletta ja 255 kansiota. Levyllä voi olla enintään 4000 kappaletta. Tätä määrää ei yleensä saavuteta, koska jokainen MP3-kappaleen minuutti vaatii noin 1 Mt tallennustilaa.\n\nKappale- ja kansionimet\nKun luotte MP3-levyn, voitte antaa nimet MP3-kappaleille ja kansioille. COMAND käyttää näitä nimiä vastaavassa näytössä MP3-tilassa. COMAND ei näytä tyhjiä kansioita eikä kansioita, jotka sisältävät muuta dataa kuin MP3-kappaleita.\n\nJos MP3-tiedostot tallennetaan suoraan juurihakemistoon (tallennusvälineen ylimpään hakemistoon), myös juurihakemistoa käsitellään kansiona. COMAND näyttää tällöin juurihakemiston nimen kansionimenä.\n\nKappalenimiä antaessanne on noudatettava seuraavaa:\n• Kappalenimessä on oltava vähintään yksi merkki.\n• Kappalenimellä on oltava tunniste ”mp3”.\n• Kappalenimen ja tunnisteen välissä on oltava piste.\n\nEsimerkki oikeasta kappalenimestä:\nTrack1.mp3\n\nCOMAND ei pysty tunnistamaan MP3-kappaletta, jos:\n• kappaleotsikon ja tunnisteen välissä ei ole pistettä\n• tunnistetta ei ole\n\ni\nCOMAND ei tue ID3-tageja.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=114",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/114/bg72.webp",
+      "originalPath": "original/114.html"
+    },
+    {
+      "page": 115,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "MP3-formaatit ja audio-DVD",
+      "fi": "Ohjausjärjestelmät\nCOMAND audio-CD/audio-DVD/MP3\nSallitut MP3-formaatit\nCOMAND tukee MPEG1 Audio Layer 3 -formaattia.\n\nSallitut bitti- ja näytteenottotaajuudet\n• Kiinteät ja muuttuvat bittinopeudet aina 320 kbit/s asti\n• Näytteenottotaajuudet 24 kHz – 48 kHz\n\nHuomioita tekijänoikeuksista\nMusiikkikappaleet, joita luotte MP3-tilaa varten ja joita voitte toistaa MP3-tilassa, ovat yleensä tekijänoikeussuojattuja sovellettavien kansainvälisten ja kansallisten säännösten mukaisesti.\n\nMonissa maissa jäljentäminen ei ole sallittua ilman tekijänoikeuden haltijan etukäteistä suostumusta, ei edes yksityiseen käyttöön.\n\nVarmistakaa, että tunnette sovellettavat tekijänoikeussäännökset ja noudatatte niitä.\n\nJos omistatte nämä oikeudet itse, esim. omiin sävellyksiinne ja äänityksiinne, tai jos tekijänoikeuden haltija on myöntänyt teille luvan, nämä rajoitukset eivät koske teitä.\n\nHuomioita audio-DVD-käytöstä\nCOMAND voi toistaa kaupallisesti saatavilla olevia, valmiiksi äänitettyjä audio-DVD-levyjä, joissa on seuraava merkintä. Löydätte merkinnän yleensä DVD:n kirjasesta, sisäliitteestä tai DVD:stä itsestään.\n\ni\nTätä formaattia kutsutaan yleisesti nimellä ”MP3”.\n\ni\nKäyttäkää vain MP3-kappaleita, joiden bittinopeus on vähintään 128 kbit/s ja näytteenottotaajuus vähintään 44,1 kHz. Pienemmät arvot voivat aiheuttaa huomattavaa äänenlaadun heikkenemistä. Näin on erityisesti, jos olette aktivoineet surround-äänitoiminnon.\n\ni\nAudio-DVD:t eroavat tallennettavista DVD-R- ja DVD-RW-levyistä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=115",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/115/bg73.webp",
+      "originalPath": "original/115.html"
+    },
+    {
+      "page": 116,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Huomioita CD-/DVD-levyistä",
+      "fi": "Ohjausjärjestelmät\nCOMAND audio-CD/audio-DVD/MP3\n\nAudio-DVD:iden data tallennetaan joko pakkaamattomassa muodossa tai häviöttömästi pakatussa muodossa. Siksi audio-DVD:iden äänenlaatu on parempi kuin tallennettavilla DVD-levyillä, jotka sisältävät MP3-dataa, koska MP3-formaatti käyttää häviöllistä pakkausta.\n\nKaupallisesti saatavilta, valmiiksi äänitetyiltä audio-DVD-levyiltä ei voi poistaa dataa eikä niihin voi tallentaa lisädataa.\n\nOttakaa huomioon seuraavat tiedot CD-/DVD-levyistä ja kiinnittäkää erityistä huomiota huomioihin kopioiduista ja/tai itse kirjoitetuista CD-/DVD-levyistä.\n\nHuomioita CD-/DVD-levyistä\n\ni\nKopiosuojatut audio-CD:t eivät ole yhteensopivia CD-audiostandardin kanssa, eivätkä ne siksi välttämättä toistu COMANDissa.\n\nKopioiduilla levyillä voi esiintyä toisto-ongelmia.\n\nSaatavilla on suuri määrä levyjä, levynkirjoitusohjelmistoja ja kirjoittimia. Tämän moninaisuuden vuoksi ei ole takeita siitä, että järjestelmä pystyy toistamaan itse kirjoittamanne/kopioimanne levyt.\n\nToisto-ongelmia voi esiintyä, jos käytätte itse kopioituja CD-R- tai CD-RW-tyyppisiä levyjä, joiden tallennuskapasiteetti on yli 700 Mt. Nämä CD:t eivät ole yhteensopivia nykyisin voimassa olevien standardien kanssa.\n\n!\nÄlkää kiinnittäkö tarroja tai etikettejä levyihin. Ne voivat irrota ja vahingoittaa COMANDia.\nCOMAND on suunniteltu levyille, jotka täyttävät IEC 60908 -standardin. Voitte siksi käyttää vain levyjä, joiden enimmäispaksuus on 1,3 mm.\n\nJos asetatte paksumpia levyjä, esim. sellaisia, joissa on dataa molemmilla puolilla (DVD toisella ja audiodata toisella), niitä ei voida poistaa ja ne voivat vahingoittaa COMANDia.\n\nÄlkää käyttäkö 8 cm:n halkaisijaltaan olevia levyjä, vaikka niissä olisi sovitin.\nKäyttäkää vain pyöreitä levyjä, joiden halkaisija on 12 cm.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=116",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/116/bg74.webp",
+      "originalPath": "original/116.html"
+    },
+    {
+      "page": 117,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "CD-/DVD-levyjen käsittely ja lataus",
+      "fi": "Ohjausjärjestelmät\nCOMAND audio-CD/audio-DVD/MP3\nHuomioita CD-/DVD-levyjen käsittelystä\n• Pitäkää levyistä kiinni vain reunasta.\n• Käsitelkää levyjä varovasti toisto-ongelmien välttämiseksi.\n• Välttäkää naarmuja, sormenjälkiä ja pölyä levyissä.\n• Puhdistakaa levyjä ajoittain kaupallisesti saatavalla puhdistusliinalla. Älkää pyyhkimättä pyörivin liikkein, vaan ainoastaan suorina viivoina keskustasta ulospäin.\n• Merkitkää levyjä vain siihen tarkoitetulla kynällä.\n• Palauttakaa levyt koteloihinsa käytön jälkeen.\n• Suojatkaa levyt kuumuudelta ja suoralta auringonvalolta.\n\nCD- ja DVD-levyjen asettaminen\nCD-/DVD-vaihtajan lataaminen\n\nCD-/DVD-vaihtaja voi sisältää yhteensä enintään 6 audio-CD:tä tai DVD:tä.\n\n1 Levypaikka\n2 Latauspainike (kaikki makasiinipaikat)\n3 Makasiinipaikan painikkeet 1 – 6\n\nVaroitus!\nAsettakaa CD tai DVD vain ajoneuvon ollessa paikallaan. Jos lataatte CD-/DVD-levyn ajon aikana, onnettomuusriski kasvaa, koska huomionne voi irrota tiestä ja liikenteestä.\n\nMuistakaa, että jo nopeudella 30 mph (noin 50 km/h) auto kulkee 44 jalkaa (noin 14 m) joka sekunti.\n\ni\nJos CD-/DVD-levyllä on painettu puoli, sen on oltava ylöspäin, kun CD/DVD asetetaan. Jos kumpaakaan puolta ei ole painettu, toistettavan puolen on oltava alaspäin.\n\ni\nKukin makasiinipaikan painike 3 ilmaisee vastaavan makasiinipaikan tilan LED-valolla.\n• LED sammunut = makasiinipaikka on tyhjä\n• LED palaa jatkuvasti = makasiinipaikka on ladattu\n• LED vilkkuu = CD-/DVD-vaihtaja pyytää levyn lataamista",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=117",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/117/bg75.webp",
+      "originalPath": "original/117.html"
+    },
+    {
+      "page": 118,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Makasiinin ja PCMCIA-kortin lataus",
+      "fi": "Ohjausjärjestelmät\nCOMAND audio-CD/audio-DVD/MP3\nYksittäisen makasiinipaikan lataaminen\n\n→ Painakaa haluttua makasiinipaikan painiketta 3 .\nJos levy on ladattu, se poistetaan.\n→ Ottakaa levy pois paikkasta 1 .\n→ Odottakaa, kunnes painamanne makasiinipaikan painikkeen 3 LED vilkkuu nopeasti.\n→ Asettakaa levy paikkaan 1 .\nDVD-vaihtaja vetää levyn sisään ja aloittaa toiston, jos:\n• levy on asetettu oikein\n• kyseessä on sallittu levytyyppi\n\nKaikkien kuuden makasiinipaikan lataaminen\n\n→ Painakaa latauspainiketta 2 .\nDVD-vaihtaja tarkistaa kaikkien makasiinipaikkojen lataustilan ja siirtyy ensimmäiseen tyhjään paikkaan.\n→ Odottakaa, kunnes vastaavan makasiinipaikan painikkeen 3 LED vilkkuu nopeasti.\n→ Asettakaa levy paikkaan 1 .\nDVD-vaihtaja siirtyy seuraavaan tyhjään makasiinipaikkaan.\n→ Toistakaa kaksi viimeistä vaihetta, kunnes kaikki paikat on ladattu.\nDVD-vaihtaja toistaa viimeksi lataamanne levyn, jos:\n• levy on asetettu oikein\n• kyseessä on sallittu levytyyppi\n\nPCMCIA-kortin asettaminen\n\n1 PCMCIA-kortin paikka\n\n→ Asettakaa PCMCIA-kortti paikkaan 1 .\nKontaktipuolella varustetun sivun on osoitettava paikkaa kohti.\nJos PCMCIA-kortti sisältää tallennusvälineen, jossa on MP3-kappaleita, COMAND siirtyy MP3-tilaan.\n\ni\nJos levyä ei aseteta noin 15 sekunnin kuluessa, COMAND jatkaa viimeisen levyn toistoa.\n\ni\nCOMAND tukee kaupallisesti saatavia PCMCIA-kortteja tai PCMCIA-korttisovittimia tallennusvälineillä, joita ei ehkä ole suunniteltu ajoneuvossa esiintyville lämpötiloille. Poistakaa siksi PCMCIA-kortti ajoneuvosta, kun sitä ei käytetä, sillä äärimmäiset lämpötilat voivat vahingoittaa näitä laitteita.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=118",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/118/bg76.webp",
+      "originalPath": "original/118.html"
+    },
+    {
+      "page": 119,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "CD-/DVD-levyjen ja PCMCIA-kortin poisto",
+      "fi": "Ohjausjärjestelmät\nCOMAND audio-CD/audio-DVD/MP3\nCD- ja DVD-levyjen poisto\n\nPoisto DVD-vaihtajasta\n\n1 Levypaikka\n2 Makasiinipaikan painikkeet 1 – 6\n3 Poistopainike (kaikki levyt)\n\n→ Yhden levyn poisto: Painakaa haluttua makasiinipaikan painiketta 2 .\n→ Ottakaa levy pois paikkasta 1 .\nJos ette ota levyä pois paikasta 1 , DVD-vaihtaja vetää sen automaattisesti takaisin noin 15 sekunnin kuluttua.\n\n→ Kaikkien levyjen poisto: Painakaa poistopainiketta 3 .\nDVD-vaihtaja siirtyy ensimmäiseen ladattuun paikkaan ja poistaa levyn.\n→ Ottakaa levy pois paikkasta 1 .\nDVD-vaihtaja siirtyy seuraavaan ladattuun makasiinipaikkaan ja poistaa levyn.\n→ Toistakaa viimeinen vaihe, kunnes makasiini on tyhjä.\n\nPCMCIA-kortin poisto\n\n1 Poistopainike\n2 PCMCIA-kortin paikka\n\n→ Painakaa poistopainiketta 1 kahdesti.\nPCMCIA-kortti poistetaan.\n→ Ottakaa PCMCIA-kortti pois paikasta 2 .\n\nVaroitus!\nPoistakaa levy vain ajoneuvon ollessa paikallaan. Muuten huomionne voi irrota liikenteestä ja voitte aiheuttaa onnettomuuden.\n\ni\nJos poistatte yhden levyn toisen levyn toiston aikana, DVD-vaihtaja keskeyttää toiston. Toisto jatkuu, kun levy on poistettu.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=119",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/119/bg77.webp",
+      "originalPath": "original/119.html"
+    },
+    {
+      "page": 120,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Audio-CD/DVD/MP3 – alivalikon yleiskuva",
+      "fi": "Ohjausjärjestelmät\nCOMAND audio-CD/audio-DVD/MP3\nAlivalikon yleiskuva\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\nCD tai DVD-A tai MP3\n• Normal Track Sequence\n• Random Tracks\n• Random folder (vain MP3-tila)\n• Repeat folder (vain MP3-tila)\n• Group (vain DVD-Audio-tila)\n\nPause/Stop/Play\n(vain audio-DVD-tila)\n• Pause playback\n• Stop playback\n• Restart playback\n\nTracks/Track List/Tracks A-Z\n• Show track list (audio-CD-tila ja audio-DVD-tila)\n• Display alphabetical track listing (vain MP3-tila)\n\nFolders\n(vain MP3-tila)\n• Select folder\n\nChanger\n• Select medium\n\nSound\n• Treble\n• Bass\n• Balance/Fader\n• 3D Sound",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=120",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/120/bg78.webp",
+      "originalPath": "original/120.html"
+    }
+  ]
+}

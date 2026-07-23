@@ -1,0 +1,96 @@
+{
+  "from": 421,
+  "to": 430,
+  "pages": [
+    {
+      "page": 421,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Vaihtaminen D:stä tai R:stä N:ään",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nVaihtaminen D:stä tai R:stä N:ään\n\nJos haluatte valita vapaa-asennon N vaihteiston ollessa ajoasennossa D tai peruutusvaihteella R:\n→ Ajoneuvon ollessa pysähdyksissä painakaa jarrupoljinta ja pitäkää se painettuna.\n→ Painakaa elektronisen pysäköintijarrun kahvaa (sivu 412).\n→ Siirtäkää vaihteenvalitsin ylös vastuspisteeseen ajoasennosta D tai alas vastuspisteeseen peruutusvaihteelta R valitaksenne vapaa-asennon N.\n→ Vapauttakaa jarrupoljin.\n\nVaihtotapahtuma\nAutomaattivaihteisto valitsee yksittäiset vaihteet automaattisesti riippuen:\n• ajoasennosta D (sivu 421) vaihdealueineen (sivu 426)\n• valitusta ohjelmatilasta:\n(C / S) (sivu 427)\ntai\n(M / C / S) (vain CL 63 AMG ja CL 65 AMG) (sivu 430)\n• kaasupolkimen asennosta (sivu 424)\n• ajoneuvon nopeudesta\n\nKun ajoasento D on valittuna, voitte vaikuttaa vaihteenvaihtoon ohjauspyörän vaihtopainikkeilla (sivu 429) tai vaihtoläpillä (sivu 429):\n• rajoittamalla vaihdealueita\n• vaihtamalla vaihteita manuaalisesti\n\ni\nKun ajoneuvoa on siirrettävä moottorin ollessa sammutettuna ja vaihteiston ollessa vapaa-asennossa N (sivu 421), älkää painako elektronisen pysäköintijarrun kahvaa.\n\n!\nAntakaa moottorin lämmetä kevyellä kuormituksella. Älkää kuormittako moottoria täydellä teholla ennen kuin käyttölämpötila on saavutettu.\nSiirtäkää peruutusvaihteelle R tai pysäköintiasentoon P vain ajoneuvon ollessa pysähdyksissä.\nVälttäkää vetävän pyörän pyörimistä paikallaan pitkiä aikoja lähdettäessä liikkeelle liukkaalla tiellä. Se voi aiheuttaa voimansiirron vakavan vaurion, jota Mercedes-Benz Limited Warranty ei kata.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=421",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/421/bg1a5.webp",
+      "originalPath": "original/421.html"
+    },
+    {
+      "page": 422,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Vaihteiston asennot",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nVaihteiston asennot\n\nNykyinen vaihteiston asento näkyy monitoiminäytössä.\n1 Nykyinen vaihteiston asento\n\n!\nJos nykyinen vaihteiston asento ei näy monitoiminäytössä esimerkiksi häiriön vuoksi, varmistakaa, että automaattivaihteisto on halutussa asennossa lähtemällä varovasti liikkeelle ajoasennolla D ja ohjelmatilalla S (sivu 427). Älkää rajoittako vaihdealueita.\n\nVaikutus\nP Pysäköintiasento\nSiirtäkää pysäköintiasentoon P vain ajoneuvon ollessa pysähdyksissä. Pysäköintiasentoa ei ole tarkoitettu jarruksi ajoneuvoa pysäköitäessä. Kuljettajan tulee aina kytkeä lisäksi elektroninen pysäköintijarru siirtäessään vaihteiston pysäköintiasentoon P ajoneuvon kiinnittämiseksi.\nJos ajoneuvon sähköjärjestelmässä on häiriö, automaattivaihteisto voi jäädä lukittuneeksi pysäköintiasentoon P.\n→ Korjauttakaa ajoneuvo mahdollisimman pian valtuutetussa Mercedes-Benz-keskuksessa.\n\n!\nSmartKey:\nJos sammutatte moottorin SmartKeyllä ja\n• poistatte SmartKeyn käynnistyskytkimestä\ntai\n• avaatte oven\nvaihteisto siirtyy automaattisesti pysäköintiasentoon P.\nMuistakaa, että pelkkä moottorin sammuttaminen SmartKeyllä siirtää vaihteiston automaattisesti vain vapaa-asentoon N.\n\n!\nKEYLESS-GO*:\nJos sammutatte moottorin KEYLESS-GO-käynnistys-/pysäytyspainikkeella ja avaatte oven, vaihteisto siirtyy automaattisesti pysäköintiasentoon P.\nMuistakaa, että pelkkä moottorin sammuttaminen KEYLESS-GO-käynnistys-/pysäytyspainikkeella siirtää vaihteiston automaattisesti vain vapaa-asentoon N.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=422",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/422/bg1a6.webp",
+      "originalPath": "original/422.html"
+    },
+    {
+      "page": 423,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Vaihteiston asennot R ja N",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\n\nJos haluatte pitää vaihteiston vapaa-asennossa N, esim. ajaessanne automaattisen kuljetintyyppisen pesulinjan läpi tai hinatessanne ajoneuvoa, noudattakaa seuraavia ohjeita.\n\n!\nDISTRONIC Plus*:\nVaihteisto siirtyy automaattisesti pysäköintiasentoon P vain, kun DISTRONIC Plus pysäyttää ajoneuvonne ja samalla vähintään yksi seuraavista ehdoista täyttyy:\n• Moottori on sammutettu.\n• Ovi avataan eikä turvavyö ole lukossa.\n• Konepelti on vapautettu.\n• Tavaratilan kansi on auki peruutusvaihteen R ollessa kytkettynä.\n• Ajoneuvo on pysäköitynä pidemmän aikaa.\nPysäköintiasennon P lisäksi elektroninen pysäköintijarru kytkeytyy automaattisesti.\n\ni\nOttakaa tavaksi siirtää aina pysäköintiasentoon P ennen moottorin sammuttamista ja\n• poistakaa SmartKey käynnistyskytkimestä\ntai\n• avatkaa ovi\ntai KEYLESS-GO*:ta käytettäessä ennen moottorin sammuttamista käynnistys-/pysäytyspainikkeella ja oven avaamista.\n\nVaikutus\nR Peruutusvaihde\nSiirtäkää peruutusvaihteelle R vain ajoneuvon ollessa pysähdyksissä.\n\nN Vapaa\nMoottorista ei välity tehoa vetävälle akselille. Kun jarrut vapautetaan, ajoneuvoa voidaan siirtää vapaasti (työntää tai hinata).\nVaihteistovaurioiden välttämiseksi älkää koskaan siirtäkö vapaa-asentoon N ajon aikana.\nJos ESP® on poiskytketty tai häiriötilassa:\nSiirtäkää vapaa-asentoon N vain, jos ajoneuvo on vaarassa joutua sivuluisuun, esim. jäisellä tiellä.\n\n!\nJos sammutatte moottorin SmartKeyllä tai KEYLESS-GO*-käynnistys-/pysäytyspainikkeella, vaihteisto siirtyy automaattisesti vapaa-asentoon N.\n\nVaroitus!\nKun jätätte SmartKeyn tai SmartKey with KEYLESS-GO*:n käynnistyskytkimeen, älkää jättäkö lapsia valvomatta ajoneuvoon. Lapset voivat kytkeä sytytysvirran, mikä voi johtaa ajoneuvon laitteiden valvomatomaan käyttöön. Ajoneuvon laitteiden valvomaton käyttö voi johtaa onnettomuuteen ja/tai vakavaan henkilövahinkoon.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=423",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/423/bg1a7.webp",
+      "originalPath": "original/423.html"
+    },
+    {
+      "page": 424,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Vapaa-asennon N säilyttäminen ja D",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\n\nAjoneuvot SmartKeyllä:\n→ Ajoneuvon ollessa pysähdyksissä ja sytytysvirran ollessa kytkettynä siirtäkää automaattivaihteisto vapaa-asentoon N.\n→ Jos elektroninen pysäköintijarru on kytkettynä, vapauttakaa se manuaalisesti (sivu 413).\n→ Sammuttakaa sytytysvirta ja jättäkää SmartKey käynnistyskytkimeen.\n\nAjoneuvot KEYLESS-GO*:lla:\n→ Ajoneuvon ollessa pysähdyksissä painakaa jarrupoljinta ja pitäkää se painettuna.\n→ Sytytysvirran ollessa kytkettynä siirtäkää automaattivaihteisto pysäköintiasentoon P.\n→ Vapauttakaa jarrupoljin.\n→ Poistakaa KEYLESS-GO-käynnistys-/pysäytyspainike käynnistyskytkimestä (sivu 366).\n→ Asettakaa SmartKey with KEYLESS-GO käynnistyskytkimeen.\n→ Kytkekää sytytysvirta.\n→ Painakaa jarrupoljinta.\n→ Siirtäkää automaattivaihteisto vapaa-asentoon N.\n→ Vapauttakaa jarrupoljin.\n→ Jos elektroninen pysäköintijarru on kytkettynä, vapauttakaa se manuaalisesti (sivu 413).\n→ Sammuttakaa sytytysvirta ja jättäkää SmartKey with KEYLESS-GO käynnistyskytkimeen.\n\n!\nAjoneuvon rullaaminen tai muu ajo vapaa-asennossa N voi aiheuttaa vaihteistovaurion, jota Mercedes-Benz Limited Warranty ei kata.\n\n!\nNoudattakaa ohjeita\n• kun vietätte ajoneuvon automaattisen kuljetintyyppisen pesulinjan läpi (sivu 598)\n• kun hinataan ajoneuvoa (sivu 710)\n\nVaikutus\nD Ajo\nVaihteisto vaihtaa automaattisesti. Kaikki eteenpäinajon vaihteet ovat käytettävissä.\n\nVaroitus!\nAjoneuvosta poistuminen, kun automaattivaihteisto ei ole täysin lukittuna pysäköintiasentoon P, on vaarallista. Lisäksi rinteeseen pysäköitäessä pelkkä pysäköintiasento P ei välttämättä estä ajoneuvoa liikkumasta ja mahdollisesti törmäämästä henkilöihin tai esineisiin.\nKytkekää aina elektroninen pysäköintijarru lisäksi siirtäessänne vaihteiston pysäköintiasentoon P (sivu 412).\nKun pysäköitte rinteeseen, kääntäkää etupyörät kohti tien reunakiveystä.\nÄlkää pysäköikö ajoneuvoa alueille, joilla palavat materiaalit, kuten ruoho, heinä tai lehdet, voivat joutua kosketuksiin kuuman pakoputkiston kanssa, sillä nämä materiaalit voivat syttyä ja aiheuttaa ajoneuvopalon.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=424",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/424/bg1a8.webp",
+      "originalPath": "original/424.html"
+    },
+    {
+      "page": 425,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Ajo-ohjeita – kaasu, kickdown, pysähdys",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nAjo-ohjeita\n\nKaasupolkimen asento\nAjotapinne vaikuttaa vaihteiston vaihtokäyttäytymiseen:\nVähemmän kaasua Aikaisempi ylösvaihto\nEnemmän kaasua Myöhempi ylösvaihto\n\nKickdown\nKäyttäkää kickdownia, kun tarvitsette maksimaalista kiihtyvyyttä.\n→ Painakaa kaasupoljin vastuspisteen ohi.\nMoottorin käyntinopeudesta riippuen vaihteisto vaihtaa pienemmälle vaihteelle.\n→ Vähentäkää kaasua, kun olette saavuttaneet halutun nopeuden.\nVaihteisto vaihtaa jälleen ylöspäin.\n\nPysähtyminen\nKun pysähdytte lyhyeksi aikaa, esim. liikennevaloissa:\n→ Jättäkää vaihteisto vaihteelle.\n→ Pidättäkää ajoneuvoa jarrulla.\n\nKun pysähdytte pidemmäksi aikaa moottorin käydessä joutokäynnillä ja/tai rinteessä:\n→ Kytkekää elektroninen pysäköintijarru.\n→ Siirtäkää pysäköintiasentoon P.\n\nManöverointi\nKun manöveröitte ahtaissa tiloissa, esim. ajaessanne pysäköintiruutuun:\n→ Säätäkää ajoneuvon nopeutta vapauttamalla jarrua asteittain.\n→ Kiihdyttäkää pehmeästi.\n→ Älkää koskaan painako kaasupoljinta äkillisesti.\n\nVaroitus!\nKun poistutte ajoneuvosta, poistakaa aina SmartKey tai SmartKey with KEYLESS-GO* käynnistyskytkimestä, ottakaa se mukaanne ja lukitkaa ajoneuvo. Älkää jättäkö lapsia valvomatta ajoneuvoon tai siten, että heillä on pääsy lukitsemattomaan ajoneuvoon. Lapset voivat siirtää automaattivaihteiston pois pysäköintiasennosta P, mikä voi johtaa onnettomuuteen ja/tai vakavaan henkilövahinkoon.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=425",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/425/bg1a9.webp",
+      "originalPath": "original/425.html"
+    },
+    {
+      "page": 426,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Ajoneuvon keinaaminen ja mäkilähtöavustin",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nAjoneuvon keinaaminen\n\nAjoneuvon keinuttaminen vaihtamalla ajoasennon D ja peruutusvaihteen R välillä voi auttaa irrottamaan mutaan tai lumeen juuttuneen ajoneuvon.\nTämän ajoneuvon moottorinohjausjärjestelmä rajoittaa elektronisesti vaihtamisen ajoasennon D ja peruutusvaihteen R välillä hyvin alhaisiin nopeuksiin, noin 5 mph (9 km/h). Vaihtaaksenne ajoasennon D ja peruutusvaihteen R välillä siirtäkää vaihteenvalitsin vastuspisteen ohi ylös- tai alaspäin.\n\nTyöskentely ajoneuvon parissa\n\nVaroitus!\nKun työskentelette ajoneuvon parissa, kytkekää elektroninen pysäköintijarru ja siirtäkää pysäköintiasentoon P. Muuten ajoneuvo voi lähteä vierimään.\n\nMäkilähtöavustin\nYlämäissä, joiden kaltevuuskulma on yli 5°, mäkilähtöavustin ylläpitää painetta jarrujärjestelmässä noin 1 sekunnin ajan jarrupolkimen vapauttamisen jälkeen. Näin voitte lähteä liikkeelle pehmeästi ilman, että ajoneuvo liikkuu heti jarrupolkimen vapauttamisen jälkeen.\n\nMäkilähtöavustin on poissa toiminnasta\n• lähdettäessä liikkeelle tasaisella tiellä tai alamäessä\n• vaihteiston ollessa vapaa-asennossa N\n• elektronisen pysäköintijarrun ollessa kytkettynä\n• jos ESP® on kytkeytynyt pois päältä häiriön vuoksi\n\nVaroitus!\nMäkilähtöavustinta ei ole suunniteltu toimimaan elektronisena pysäköintijarruna, eikä se estä ajoneuvoa liikkumasta rinteeseen pysäköitäessä.\nKytkekää aina elektroninen pysäköintijarru lisäksi siirtäessänne vaihteiston pysäköintiasentoon P.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=426",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/426/bg1aa.webp",
+      "originalPath": "original/426.html"
+    },
+    {
+      "page": 427,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Vaihdealueet",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nVaihdealueet\n\nKun automaattivaihteisto on ajoasennossa D ja ajatte ohjelmatilassa C tai S (sivu 427), voitte valita vaihdealueen, jonka puitteissa automaattivaihteisto toimii.\n\nVoitte rajoittaa vaihdealueita painamalla ohjauspyörän vasenta vaihtopainiketta ja poistaa vaihdealueen rajoituksen painamalla ohjauspyörän oikeaa vaihtopainiketta (sivu 428).\n\nValittu vaihdealue näkyy monitoiminäytössä.\n1 Nykyinen vaihdealue\n\nVaikutus\nï Vaihteisto vaihtaa vain kuudenteen vaihteeseen asti (koskee vain ajoneuvoja, joissa on 7-vaihteinen automaattivaihteisto).\nî Vaihteisto vaihtaa vain viidenteen vaihteeseen asti (koskee vain ajoneuvoja, joissa on 7-vaihteinen automaattivaihteisto).\né Vaihteisto vaihtaa vain neljänteen vaihteeseen asti.\n\nVaikutus\nè Vaihteisto vaihtaa vain kolmanteen vaihteeseen asti.\nTällä valinnalla voitte hyödyntää moottorijarrutusta.\nç Vaihteisto vaihtaa vain toiseen vaihteeseen asti.\nMahdollistaa moottorijarrutuksen käytön ajettaessa:\n• jyrkissä alamäissä\n• vuoristoisilla alueilla\n• äärimmäisissä käyttöolosuhteissa\næ Vaihteisto toimii vain ykkösvaihteella.\nMoottorijarrutuksen maksimaaliseen hyödyntämiseen hyvin jyrkissä tai pitkissä alamäissä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=427",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/427/bg1ab.webp",
+      "originalPath": "original/427.html"
+    },
+    {
+      "page": 428,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Automaattinen vaihtohjelma",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nAutomaattinen vaihtohjelma\n\nOhjelmatilan valintakytkimellä säädetään\n• vaihtohjelmaa\n• ABC:n jousituksen säätöä (sivu 461)\n• moottorin ohjausta\n\nOhjelmatilan valintakytkin\nC Comfort Mukavuusajoon\nS Sport Normaaliajoon\n\nOhjelmatilan valintakytkin\n(vain CL 63 AMG ja CL 65 AMG)\nM Manual Manuaaliseen vaihteenvaihtoon (sivu 430)\nC Comfort Normaaliajoon\nS Sport Urheilulliseen ajoon\n\nValittu ohjelmatila näkyy monitoiminäytössä.\n1 Nykyinen ohjelmatila\n\n!\nÄlkää koskaan vaihtako ohjelmatilaa, kun automaattivaihteisto ei ole pysäköintiasennossa P. Se voi muuttaa ajo-ominaisuuksia tavalla, johon ette ole varautuneet.\n\ni\nViimeksi valittu ohjelmatila (C tai S) kytkeytyy päälle, kun moottori käynnistetään uudelleen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=428",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/428/bg1ac.webp",
+      "originalPath": "original/428.html"
+    },
+    {
+      "page": 429,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Ohjelmatilat C/S ja ohjauspyörän vaihto",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\n\n→ Painakaa ohjelmatilan valintakytkintä toistuvasti, kunnes halutun ohjelmatilan kirjain näkyy monitoiminäytössä.\n\nValitkaa C mukavuusajoon\n(CL 63 AMG ja CL 65 AMG: normaaliajoon):\n• Ajoneuvo lähtee liikkeelle kakkosvaihteella (sekä eteen- että taaksepäin) pehmeämpää liikkeellelähtöä varten. Tämä ei koske täyttä kaasua tai vaihdealueen 1 valintaa.\n• Vetokyky ja ajovakaus paranevat jäisillä teillä.\n• Ylösvaihdot tapahtuvat aikaisemmin myös enemmän kaasua annettaessa. Moottori toimii tällöin pienemmillä kierroksilla, ja pyörien luisto on epätodennäköisempää.\n\nValitkaa S normaaliajoon\n(CL 63 AMG ja CL 65 AMG: urheilulliseen ajoon):\n• Ajoneuvo lähtee liikkeelle ykkösvaihteella.\n• Ylösvaihdot tapahtuvat myöhemmin.\n\nOhjauspyörän vaihtokytkimet\nKun ajoasento D on valittuna ja ajatte ohjelmatilassa C tai S, voitte rajoittaa tai laajentaa vaihdealueita.\nJos ajoneuvossanne on manuaalinen vaihtohjelma M, voitte vaihtaa vaihteita manuaalisesti ohjauspyörän vaihtokytkimillä.\n\ni\nVain CL 63 AMG ja CL 65 AMG:\nTietoja ohjauspyörän vaihtokytkimien käytöstä ohjelmatilassa M: ks. ”Manuaalinen vaihtohjelma (vain CL 63 AMG ja CL 65 AMG)” (sivu 430).\n\n!\nAntakaa moottorin lämmetä kevyellä kuormituksella. Älkää kuormittako moottoria täydellä teholla ennen kuin käyttölämpötila on saavutettu.\nSiirtäkää peruutusvaihteelle R tai pysäköintiasentoon P vain ajoneuvon ollessa pysähdyksissä.\nVälttäkää vetävän pyörän pyörimistä paikallaan pitkiä aikoja lähdettäessä liikkeelle liukkaalla tiellä. Se voi aiheuttaa voimansiirron vakavan vaurion, jota Mercedes-Benz Limited Warranty ei kata.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=429",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/429/bg1ad.webp",
+      "originalPath": "original/429.html"
+    },
+    {
+      "page": 430,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Vaihtopainikkeet ja -läpät – rajoitus",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nVaihtokytkimien painikkeet\n1 Vasen vaihtopainike: vaihdealueen rajoittaminen\n2 Oikea vaihtopainike: vaihdealueen laajentaminen\n\nVaihtoläpät (vain CL 63 AMG ja CL 65 AMG)\n1 Vasen vaihtoläppä: vaihdealueen rajoittaminen tai alaspäinvaihto (ohjelmatilassa M)\n2 Oikea vaihtoläppä: vaihdealueen laajentaminen tai ylöspäinvaihto (ohjelmatilassa M)\n\nSeuraavat ohjeet kuvaavat ohjauspyörän vaihtokytkimien käyttöä ajettaessa ohjelmatilassa C tai S.\n\nVaihdealueen rajoittaminen\n→ Painakaa hetkellisesti vasenta vaihtopainiketta 1 tai vetäkää vasenta vaihtoläppää 1.\nVaihteisto vaihtaa seuraavalle pienemmälle vaihteelle vaihtohjelman sallimissa rajoissa. Tämä samalla rajoittaa vaihteiston vaihdealueita (sivu 426).\n\ni\nEtte voi vaihtaa ohjauspyörän vaihtokytkimien painikkeilla, kun vaihteisto on asennossa P, N tai R.\n\nVaroitus!\nÄlkää koskaan vaihtako pienemmälle vaihteelle jarrutuksen aikaansaamiseksi liukkaalla tiellä. Se voi aiheuttaa vetävien pyörien luiston ja heikentää ajoneuvon hallintaa. Ajoneuvonne ABS ei estä tämänkaltaista hallinnan menetystä.\n\ni\nMoottorin ylikierrosten välttämiseksi alaspäin vaihdettaessa vaihteisto ei vaihda pienemmälle vaihteelle, jos moottorin suurin käyntinopeus ylittyisi.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=430",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/430/bg1ae.webp",
+      "originalPath": "original/430.html"
+    }
+  ]
+}

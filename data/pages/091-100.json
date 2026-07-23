@@ -1,0 +1,96 @@
+{
+  "from": 91,
+  "to": 100,
+  "pages": [
+    {
+      "page": 91,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Päävalikon avaaminen",
+      "fi": "Ohjausjärjestelmät\nCOMAND-esittely\nPäävalikon avaaminen\n\nKuva: audion päävalikko\n\nVoitte avata päätoiminnon päävalikon seuraavasti:\n\n→ Siirtyminen päätoimintoriville:\nSiirtäkää q m .\n→ Päätoiminnon valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n\nPystysuorat valikot\n\n→ Valikossa liikkuminen:\nSiirtäkää r m q tai pyörittäkää y m z .\n→ Valikkokohdan valinta: Painakaa n .\n→ Valikosta poistuminen ilman valintaa: Siirtäkää o m p listan suuntaa vastakkaiseen suuntaan tai painakaa takaisin-painiketta L .\n\nVaakasuorat valikot\n\n→ Valikossa liikkuminen:\nSiirtäkää o m p tai pyörittäkää y m z .\n→ Valikkokohdan valinta: Painakaa n .\n→ Valikosta poistuminen ilman valintaa: Siirtäkää r m q listan suuntaa vastakkaiseen suuntaan tai painakaa takaisin-painiketta L .",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=91",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/91/bg5b.webp",
+      "originalPath": "original/091.html"
+    },
+    {
+      "page": 92,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Merkkien syöttö",
+      "fi": "Ohjausjärjestelmät\nCOMAND-esittely\nMerkkien syöttö\n\nKuva: navigointikohteen syöttö\n\nMerkkien valinta\n→ Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nCOMAND täydentää syöttönne heti, kun se on yksiselitteisesti tunnistettavissa. Tällöin teidän ei tarvitse siirtyä luetteloon.\n\nYksittäisten merkkien poisto\n→ Valitkaa ja painakaa ) toistuvasti alarivillä.\n\nKokonaisten sanojen tai numeroiden poisto\n→ Painakaa ja pitäkää ) alarivillä painettuna, kunnes sana tai numero on poistettu.\n\nMerkkisyötöstä poistuminen\n→ Valitkaa ja painakaa ”Back” alarivillä.\ntai\n→ Painakaa keskikonsolin takaisin-painiketta L (sivu 84).\n\nSiirtyminen luetteloon\n→ Siirtäkää q m .\ntai\n→ Valitkaa ja painakaa ? toiseksi alimmalla rivillä.\n→ Luettelosta poistuminen: Siirtäkää o m ja valitkaa ”Back”.\n\nEnsimmäisen kohdan hyväksyminen\n→ Painakaa n , kunnes poistutte merkkisyöttöikkunasta.\n\nLuettelokohdan valinta\n\nKuva: kaupunkiluettelo navigointia varten\n\n1 Symboli muille valintavaihtoehdoille (esim. piirikunta)\n\n→ Rivin valinta: Siirtäkää r m q tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n\nLisävalintavaihtoehtoja on saatavilla luettelokohdille, joissa on symboli 1. Esimerkiksi symbolilla 1 merkityt kaupungit osoittavat, että valitussa maassa on useampi samanniminen kaupunki. Tällaisen luettelokohdan vahvistaminen avaa toisen alivalikon.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=92",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/92/bg5c.webp",
+      "originalPath": "original/092.html"
+    },
+    {
+      "page": 93,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Takaisin-painike ja käyttöesimerkki",
+      "fi": "Ohjausjärjestelmät\nCOMAND-esittely\nTakaisin-painike\n\n1 Takaisin-painike\n\n→ Siirtyminen yhden tason ylemmäs valikossa:\nPainakaa L lyhyesti.\nCOMAND siirtyy yhden valikkotason ylemmäs aktiivisessa käyttötilassa.\n\n→ Siirtyminen päävalikkoon: Painakaa ja pitäkää L painettuna.\nKuuluu äänimerkki, ja COMAND siirtyy aktiivisen käyttötilan päävalikkoon.\n\nEsimerkki COMAND-käytöstä\n\nAlla olevissa kuvauksissa päätoiminnot toimivat aina lähtökohtana yksittäisten valikkokohtien löytämiselle.\n\nEsimerkki:\n”Audio” → ”Audio” → ”FM/AM Radio” → ”Radio” → ”Save Station”\n\nJos näette jo jonkin alivalikon näytöllä (esim. alivalikon ”Audio” → ”Audio” → ”Radio”), ensimmäisiä vaiheita ei tarvitse suorittaa.\n\nEdellä mainitun esimerkin yksittäiset vaiheet kuvataan alla.\n\n→ Siirtyminen päätoimintoriville:\nSiirtäkää q m .\n→ Päätoiminnon ”Audio” valinta:\nSiirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nViimeksi valittu audiokäyttötila tulee näkyviin.\n\n→ Valikon ”Audio” valinta päävalikossa:\nSiirtäkää q m .\n→ Valinnan vahvistus: Painakaa n .\nNäyttöön tulee valintaluettelo päävalikon ”Audio” toiminnoista.\n\ni\nCOMAND-näytössä näette kullekin päävalikolle viimeksi avatun alivalikon.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=93",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/93/bg5d.webp",
+      "originalPath": "original/093.html"
+    },
+    {
+      "page": 94,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Käyttöesimerkki – aseman tallennus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-esittely\n\n→ Valinnan ”FM/AM Radio” tekeminen:\nSiirtäkää q m tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nFM/AM Radio -valikko tulee näkyviin.\n\n→ Valinnan ”Radio” tekeminen: Siirtäkää m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nRadio-alivalikko tulee näkyviin.\n\n→ Valitkaa ”Save Station” valintaluettelosta pyörittämällä y m z tai siirtämällä r m q .\n→ Valitkaa haluttu sijainti.\n→ Valinnan vahvistus: Painakaa n .\nValittu asema tallennetaan ilmoitettuun sijaintiin. Näyttö palaa Radio-näyttöön.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=94",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/94/bg5e.webp",
+      "originalPath": "original/094.html"
+    },
+    {
+      "page": 95,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "COMAND-päävalikot – ääni",
+      "fi": "Ohjausjärjestelmät\nCOMAND-esittely\nCOMAND-päävalikot\n\nÄäni\n\n→ Mykistys: Painakaa keskikonsolin pikanäppäintä F (sivu 84).\nNykyisen äänilähteen ääni kytketään päälle tai mykistetään.\n\nNavigointikuulutusten kytkeminen kokonaan pois\n\n→ Navigointiviestin peruutus:\nPainakaa F -pikanäppäintä lyhyesti kuulutuksen aikana.\n→ Navigointikuulutusten kytkeminen pois:\nPainakaa ja pitäkää F painettuna kuulutuksen aikana, kunnes kuulutus kytkeytyy pois.\nNäette hetken viestin ”The driving instructions have been muted.”\n\nÄänenvoimakkuuden säätö\n\n1 Säätöpyörä\n\n→ Säätö: Kääntäkää säätöpyörää , .\nValitun äänilähteen äänenvoimakkuus muuttuu.\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\ni\nKun ääni on mykistetty, näette tilarivillä symbolin F . Kun vaihdatte äänilähdettä, ääni kytkeytyy automaattisesti päälle. Navigointijärjestelmän kuulutukset kuuluvat myös äänen ollessa mykistettynä.\n\ni\nKuulutukset pysyvät pois päältä, vaikka aloittaisitte uuden reittiopastuksen tai kytkisitte COMANDin pois/päälle o -painikkeella.\n\nJos kytkette COMANDin pois poistamalla SmartKeyn käynnistyskytkimestä ja kytkette sytytysvirran uudelleen päälle yli 3 minuutin kuluttua, kuulutukset kytkeytyvät automaattisesti uudelleen päälle.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=95",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/95/bg5f.webp",
+      "originalPath": "original/095.html"
+    },
+    {
+      "page": 96,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Äänenvoimakkuus ja äänen asetukset",
+      "fi": "Ohjausjärjestelmät\nCOMAND-esittely\nNavigointikuulutusten äänenvoimakkuus\n\nVoitte säätää navigointikuulutusten äänenvoimakkuutta riippumatta kyseisen äänilähteen äänenvoimakkuudesta.\n\nNavigointikuulutuksen aikana:\n→ kääntäkää säätöpyörää ,\ntai\n→ painakaa æ tai ç monitoimirattissa.\n\nPuheluiden äänenvoimakkuuden säätö\n\nHands-free-tilassa voitte säätää puhelun äänenvoimakkuutta puhelun ollessa aktiivinen.\n\nPuhelun aikana:\n→ kääntäkää säätöpyörää ,\ntai\n→ painakaa æ tai ç monitoimirattissa.\n\nÄänen asetusten valinta\n\nVoitte valita eri ääniasetukset kullekin äänilähteelle erikseen. Kyseinen Sound-valikko löytyy sen alivalikon kautta, jolle asetuksia haluatte tehdä.\n\nEsimerkki:\n”Audio” → ”Audio” → ”FM/AM Radio” → ”Sound”\n\nDiskantin tai basson säätö\n→ Valitkaa ”Sound” → ”Treble” tai ”Bass”.\nViimeksi valittu asetus näkyy reunustettuna palkkina.\n\nDiskantin ja basson säätö\n\n1 Viimeksi valittu asetus\n2 Nykyinen asetus\n\n→ Asetuksen muutos: Siirtäkää r m q tai pyörittäkää y m z , kunnes haluttu diskantin tai basson asetus on saavutettu.\n→ Valikosta poistuminen: Painakaa n , L tai siirtäkää o m p .\nAsetus tallennetaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=96",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/96/bg60.webp",
+      "originalPath": "original/096.html"
+    },
+    {
+      "page": 97,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Balance/Fader ja surround-ääni",
+      "fi": "Ohjausjärjestelmät\nCOMAND-esittely\nBalance- tai fader-säätö\n\nBalance määrittää, siirretäänkö äänifokus kuljettajan vai matkustajan puolelle.\nFader määrittää, siirretäänkö äänifokus ajoneuvon etu- vai takaosan suuntaan.\n\n→ Valitkaa ”Sound” → ”Balance/Fader”.\nViimeksi valittu asetus näkyy reunustettuna palkkina.\n\nBalance- ja fader-säätö\n\n1 Nykyinen asetus oranssina ristikkäissymbolina\n\n→ Asetuksen muutos: Siirtäkää r m q tai o m p , kunnes haluttu balance-/fader-asetus on saavutettu.\n→ Valikosta poistuminen: Painakaa n tai L .\nAsetus tallennetaan.\n\nSurround-ääni\n\nSurround-äänellä voitte valita ”LOGIC7® ON” tai ”LOGIC7® OFF”.\n\nharman/kardon LOGIC7® -surround-ääni on käytettävissä seuraavissa käyttötiloissa:\n• Audio-DVD (MLP-, DTS-, PCM- ja Dolby Digital -ääniformaatit)\n• Video-DVD (DTS-, PCM- ja Dolby Digital -ääniformaatit)\n• Audio-CD\n• MP3\n• Radio (FM, AM, WB, Satellite)\n• PCMCIA\n• AUX\n\ni\nKoska joillakin DVD-levyillä on sekä stereo- että monikanavaääniformaatteja, ääniformaattia voi olla tarpeen mukauttaa (sivu 124).\n\ni\nharman/kardon LOGIC7® -surround-äänijärjestelmän toiminto ”LOGIC7® ON” mahdollistaa erillisten 5.1- ja stereoäänitteiden toiston optimaalisella surround-äänellä jokaiselle matkustajalle. CD-levyillä tai audio-DVD-levyillä oleva musiikki korkean resoluution surround-formaateissa, kuten MLP, DTS tai Dolby Digital, toistetaan optimaalisesti.\n\nIhanteellisen äänikokemuksen saavuttamiseksi kaikilla istuimilla LOGIC7® jakaa 5.1-surround-informaation 13-kanavaisen järjestelmäarkkitehtuurin kautta. Tuloksena on ääni sellaisena kuin äänisuunnittelijat sen alkuperäisessä äänityksessä tarkoittivat.\n\nharman/kardon LOGIC7® muuntaa kaiken kaksikanavaisen stereoäänimateriaalin monikanavaiseksi surround-ääneksi. LOGIC7®:n avulla alkuperäiseen äänitykseen tallennettu surround-informaatio luetaan ja jaetaan 13 kanavan kautta. Prosessissa ei luoda tehosteita; auditiiviseksi tulee vain se, mikä oli jo olemassa.\n\nLisäksi harman/kardon LOGIC7® siirtää koetun äänilähteen pois yksittäisistä kaiuttimista ja synnyttää siten luonnollisen 360°:n äänikokemuksen jokaiselle matkustajalle.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=97",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/97/bg61.webp",
+      "originalPath": "original/097.html"
+    },
+    {
+      "page": 98,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Surround-äänen säätö",
+      "fi": "Ohjausjärjestelmät\nCOMAND-esittely\nSurround-äänen säätö\n\nSurround-äänellä voitte valita ”LOGIC7® ON” tai ”LOGIC7® OFF”.\n\n→ Valitkaa ”Sound” → ”3D Sound”.\n\nSurround-äänen säätö\n\n1 Nykyinen asetus\n\n→ Asetuksen valinta: Siirtäkää r m q tai pyörittäkää y m z .\n→ Asetuksen tallennus: Painakaa n .\nAsetus tallennetaan ja valikko sulkeutuu.\n→ Valikosta poistuminen tallentamatta muutoksia: Painakaa L tai siirtäkää o m p .\n\nÄänilähteen kytkeminen pois/päälle\n\n→ Poiskytkentä: Valitkaa ”Audio” → ”Audio” → ”Audio OFF”.\nÄänilähde kytketään pois; näytössä näkyy ”Audio OFF”.\n→ Päällekytkentä: Valitkaa ”Audio” ja sitten haluttu äänilähde.\ntai\n→ Lataakaa CD/DVD (sivu 116) tai PCMCIA-kortti (sivu 117).\n\ni\nValitsemalla ”LOGIC7® OFF” kaikki yhteensopivat formaatit toistetaan sellaisina kuin ne ovat medialla. Ajoneuvon tilaominaisuuksien vuoksi optimaalista äänikokemusta ei taata kaikilla istuimilla.\n\ni\nHuomioikaa seuraavaa:\n• Ihanteellisen äänikokemuksen saavuttamiseksi kaikilla istuimilla balance ja fader tulee säätää matkustamon keskelle LOGIC7®:n ollessa päällä.\n• Parhaat äänitulokset saadaan korkealaatuisilla audio-CD- ja audio-DVD-levyillä.\n• MP3-kappaleilla bittinopeuden tulisi olla vähintään 128 kbit/s.\n• Surround-ääni ei toimi monoäänilähteillä.\n• Huonossa radiovastaanotossa, esim. tunnelissa, LOGIC7® kannattaa kytkeä pois, koska Stereo–Mono-vaihto voi tapahtua dynaamisesti ja aiheuttaa tilapäistä äänivääristymää.\n• Joillakin stereoäänitteillä lopputulos voi poiketa tavanomaisesta stereotoistosta.\n\ni\nKun asetatte audio-CD:n tai audio-DVD:n, siitä tulee automaattisesti aktiivinen äänilähde.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=98",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/98/bg62.webp",
+      "originalPath": "original/098.html"
+    },
+    {
+      "page": 99,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "COMAND FM/AM-radio – alivalikon yleiskuva",
+      "fi": "Ohjausjärjestelmät\nCOMAND FM/AM-radio\nAlivalikon yleiskuva\n\nVaroitus!\nKeskittykää ensisijaisesti liikenne- ja ajotilanteeseen.\n\nTutustukaa radiotoimintoihin ennen matkaa.\n\nKäyttäkää COMANDia vain, kun tie- ja liikenneolosuhteet sen sallivat. Muuten voitte joutua onnettomuuteen, jossa te tai muut voivat loukkaantua.\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\nRadio\n(paitsi Weather Band)\n• Station List (vain FM-aaltoalueella)\n• Autostore\n• Save Station\n• Frequency Entry\n• Show Station Info (vain FM-aaltoalueella)\n\nPresets\n(paitsi Weather Band)\n• Channel list\n• Preset station list\n\nChannel\n(vain Weather Band)\n• Switch to FM waveband\n• Switch to AM waveband\n• Switch to Weather Band\n\nFM tai AM tai WB\nSound\n• Treble\n• Bass\n• Balance/Fader\n• 3D Sound",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=99",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/99/bg63.webp",
+      "originalPath": "original/099.html"
+    },
+    {
+      "page": 100,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Siirtyminen radiotilaan",
+      "fi": "Ohjausjärjestelmät\nCOMAND FM/AM-radio\nSiirtyminen radiotilaan\n\n→ Valitkaa ”Audio” → ”Audio” → ”FM/AM Radio”.\ntai\n→ Painakaa pikanäppäintä M kerran tai kahdesti.\nRadiotilaan siirryttyänne radio-näyttö tulee näkyviin. Kuuluu viimeksi viritetty asema/kanava aiemmin valitulla aaltoalueella, jos asema/kanava on vastaanotettavissa.\n\nKuva: radiotila FM-aaltoalueella\n\n1 Pääalue taajuusnäytöllä\n2 Valitun aseman esiasetuspaikka\n3 Valitun aseman taajuus\n4 Valitun aseman nimi\n5 Äänen asetukset\n6 Siirtyminen Weather Bandiin\n7 Siirtyminen AM-aaltoalueelle\n8 Valittu aaltoalue\n9 Esiasetusvaihtoehdot\na Radiovaihtoehdot\n\nAaltoalueen vaihto\n\nVoitte vaihtaa FM-, AM- ja WB (Weather Band) -aaltoalueiden välillä.\n\n→ Valitkaa ”Audio” → ”Audio” → ”FM/AM Radio” → ”FM” tai ”AM” tai ”WB”.\nKuuluu viimeksi viritetty asema valitulla aaltoalueella.\n\nAsemien/kanavien valinta\n\nTeillä on seuraavat valintavaihtoehdot:\n• Asemaluettelo\n• Hakutoiminto\n• Asemien esiasetukset\n• Manuaalinen taajuussyöttö\n• Kanavaluettelo\n\ni\nKuinka monta kertaa M -pikanäppäintä on painettava, riippuu sillä hetkellä valitusta käyttötilasta.\n\ni\nAsemanimen näyttö 4 on käytettävissä FM-aaltoalueella ja näkyy vain, kun se on kytketty päälle (sivu 103) ja jos asema lähettää nimen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=100",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/100/bg64.webp",
+      "originalPath": "original/100.html"
+    }
+  ]
+}

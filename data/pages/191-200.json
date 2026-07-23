@@ -1,0 +1,96 @@
+{
+  "from": 191,
+  "to": 200,
+  "pages": [
+    {
+      "page": 191,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Karttanäytön avaus ja navigointitila",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (esittely)\nKarttanäytön avaus ja navigointitilaan siirtyminen\n\n→ Painakaa N -pikanäppäintä kerran tai kahdesti.\ntai\n→ Valitkaa päätoimintoriviltä ”Navi”.\nMolemmat tavat avaavat karttanäytön.\nNäette kartan valikkojärjestelmä joko näkyvissä tai piilotettuna.\n\nKuva: kartta ilman aktiivista reittiopastusta, valikkojärjestelmä näkyvissä\n1 Nykyinen ajoneuvon sijainti\n\nKuva: kartta ilman aktiivista reittiopastusta, valikkojärjestelmä piilotettuna\n(kokoruututila)\n1 Nykyinen ajoneuvon sijainti\n2 Asetettu kartan suuntaus (sivu 193)\n3 Valittu mittakaava (sivu 191)\n\ni\nKuinka monta kertaa N -pikanäppäintä on painettava, riippuu sillä hetkellä valitusta toimintatilasta.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=191",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/191/bgbf.webp",
+      "originalPath": "original/191.html"
+    },
+    {
+      "page": 192,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Valikkojen piilotus/näyttö ja mittakaava",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (esittely)\nValikkojärjestelmän piilotus tai näyttö\n\n→ Piilotus: Siirtäkää q m .\nValikkokohta ”Full Screen” tulee näkyviin näytön pääalueelle; se valitaan automaattisesti.\n→ Painakaa n .\nValikkojärjestelmä piilotetaan. Kartta näkyy kokoruudussa.\n→ Näyttö: Painakaa n kokoruutukartan näytössä.\n\nMittakaavan säätö\n→ Pyörittäkää y m z , kunnes haluttu mittakaava on asetettu.\n\n1 Nykyinen mittakaava numerona\n2 Asteikko\n3 Nykyinen mittakaava neulana asteikolla\n4 Aiemmin asetettu arvo ennen asteikon avaamista\n\nHeti kun pyöritätte y m z , asteikko 2 tulee näkyviin. Myötäpäivään kiertäminen lähentää, vastapäivään kiertäminen loitontaa.\n\nNykyisen ajoneuvon sijainnin tallennus kohteeksi viimeisimpien kohteiden luetteloon\n→ Näyttäkää valikkojärjestelmä tarvittaessa: Painakaa n .\n→ Tallennus: Valitkaa ”Position” → ”Save Position”.\nCOMAND tallentaa nykyisen ajoneuvon sijainnin kohteeksi viimeisimpiin kohteisiin (sivu 254).\n\nKartan siirto\n→ Siirtäkää q m r , o m p tai w m x .\nKartalle tulee näkyviin ristikko.\n\ni\nMittakaavaa voi säätää vain, kun valikkojärjestelmä on piilotettu (kokoruutukartta).\n\ni\nKarttaa voi siirtää vain, kun valikkojärjestelmä on piilotettu.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=192",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/192/bgc0.webp",
+      "originalPath": "original/192.html"
+    },
+    {
+      "page": 193,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ristikko, mittakaava ja kartan keskitys",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (esittely)\n\n1 Ristikko\n2 Ristikon sijainnin tiedot\n3 Mittakaava\n\nMittakaavan säätö\n→ Pyörittäkää y m z .\nMyötäpäivään kiertäminen lähentää, vastapäivään kiertäminen loitontaa.\n\nRistikon sijainnin tallennus kohteeksi viimeisimpien kohteiden luetteloon\n→ Näyttäkää valikkojärjestelmä tarvittaessa: Painakaa n .\n→ Tallennus: Valitkaa ”Position” → ”Save Position”.\nCOMAND tallentaa ristikon sijainnin kohteeksi viimeisimpien kohteiden luetteloon (sivu 254).\n\nRistikon piilotus\n→ Painakaa keskikonsolin takaisin-painiketta L (sivu 84).\nRistikko katoaa, ja kartta keskitetään ajoneuvon sijaintiin.\ntai\n→ Asettakaa kartta ajoneuvon tai kohteen sijaintiin, ks. selitys alla.\n\nKartan keskitys ajoneuvon tai kohteen sijaintiin\n→ Keskitys ajoneuvon sijaintiin:\nValitkaa ”Navi” → ”Position” → ”Vehicle Position Map”.\ntai\n→ Painakaa takaisin-painiketta L , kun ristikko on näkyvissä.\n→ Keskitys kohteeseen:\nValitkaa ”Navi” → ”Position” → ”Destination Position Map”.\n\ni\nNäyttö 2 voi olla esimerkiksi kadun nimi, jos digitaalinen kartta sisältää tarvittavat tiedot.\nJos tietoja ei ole saatavilla, näyttö 2 näyttää:\n• ristikon koordinaatit, jos geokoordinaattien näyttö on päällä (sivu 195) ja GPS-signaali on riittävän vahva\n• ei näyttöä, jos geokoordinaattien näyttö on pois päältä (sivu 195)\n\ni\nJos olette siirtäneet karttaa, tällä toiminnolla voitte palauttaa kartan nopeasti ajoneuvon tai kohteen sijaintiin. Kartan keskitys kohteen sijaintiin on mahdollista vain, kun reittiopastus on aktiivinen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=193",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/193/bgc1.webp",
+      "originalPath": "original/193.html"
+    },
+    {
+      "page": 194,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Karttanäkymä ja kartan suuntaus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (esittely)\nPerusasetukset\nKarttanäkymä\nCOMAND voi näyttää kartan lintuperspektiivistä tai tavallisessa karttanäkymässä.\n\n→ Karttanäkymän valinta:\nValitkaa ”Navi” → ”Navi” → ”Map Display”.\nKarttanäytön luettelo tulee näkyviin. Piste R ilmaisee nykyisen asetuksen.\n→ Valitkaa ”Bird’s-eye view”.\nLintuperspektiivi kytketään päälle tai pois aiemmasta tilasta riippuen.\n\nKartan suuntaus\n1 Nykyinen kartan suuntaus\nSeuraavat voivat olla näkyvissä:\n• 8 = ”Heading Up” (kartta näytetään niin, että ajosuunta on aina ylhäällä; kuvakkeen oranssi piste osoittaa pohjoiseen)\n• 9 = ”North Up” (kartta näytetään niin, että pohjoinen on aina ylhäällä)\n\n→ Kartan suuntauksen asetus:\nValitkaa ”Navi” → ”Navi” → ”Map Display”.\nKarttanäytön luettelo tulee näkyviin. Piste R ilmaisee nykyisen asetuksen.\n→ Valitkaa ”North Up” tai ”Heading Up”.\n→ Valikosta poistuminen: Siirtäkää o m p .\nKartan suuntaus muuttuu vastaavasti.\n\ni\nVoitte tehdä seuraavat asetukset riippumatta siitä, onko reittiopastus aktiivinen vai ei.\n\ni\nJos siirrätte karttaa lintuperspektiivissä, COMAND palaa tavalliseen karttanäkymään.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=194",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/194/bgc2.webp",
+      "originalPath": "original/194.html"
+    },
+    {
+      "page": 195,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "POI-symbolit sekä saapumisaika ja etäisyys",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (esittely)\nPOI-symbolien asetus\nVoitte asettaa, mitkä kiinnostavat kohteet (POI) näytetään kartalla symboleina. POI-kohteita ovat esimerkiksi autohuoltoasemat, hotellit, elokuvateatterit tai ravintolat.\n\nSeuraavat asetukset ovat mahdollisia:\n• ”Standard symbols” (tehdasasetusten määrittämät symbolit)\n• ”Personal symbols” (voitte määrittää symbolit itse)\n• ”No symbols”\n\n→ Säätö: Valitkaa ”Navi” → ”Navi” → ”Map Display”.\nKarttanäytön luettelo tulee näkyviin. Piste R ilmaisee nykyisen asetuksen.\n→ Valitkaa ”Standard symbols”, ”Personal symbols” tai ”No symbols”.\nJos valitsette ”Personal symbols”, POI-luettelo tulee näkyviin.\n→ POI-symbolinäytön kytkentä päälle tai pois: Valitkaa haluttu POI.\nVastaavat symbolinäytöt kytketään päälle tai pois aiemmasta tilasta riippuen. Valintamerkki ilmaisee aktiivisen tilan. Voitte kytkeä symbolinäytön päälle useammalle kuin yhdelle POI:lle.\n→ Valikosta poistuminen: Siirtäkää o m p tai painakaa keskikonsolin takaisin-painiketta L (sivu 84).\n\nSaapumisaika ja etäisyys\nVoitte asettaa, näytetäänkö arvioitu saapumisaika ja etäisyys kohteeseen kartalla.\n\n→ Näyttö: Valitkaa ”Navi” → ”Navi” → ”Map Display”.\nKarttanäytön luettelo tulee näkyviin. Piste R ilmaisee nykyisen asetuksen.\n→ Valitkaa ”Arrival Time/Distance”.\nAiemmasta tilasta riippuen saapumisajan ja etäisyyden näyttö kytketään päälle tai pois.\n\ni\nMittakaavasta riippuen POI-symbolit eivät välttämättä näy kartalla, vaikka niiden näyttö olisi aktivoitu. Lisäksi kartan tekstit voivat peittää POI-symboleja.\n\ni\nLuettelo näyttää kaikki digitaalisen kartan symbolit kaikissa osavaltioissa (USA) ja/tai provinsseissa (CDN). Kaikkia POI-kohteita ei kuitenkaan ole saatavilla kaikissa osavaltioissa (USA) tai provinsseissa (CDN). Tietyt POI-symbolit eivät välttämättä näy kartalla, vaikka symbolinäyttö olisi päällä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=195",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/195/bgc3.webp",
+      "originalPath": "original/195.html"
+    },
+    {
+      "page": 196,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Nykyinen katu ja geokoordinaatit",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (esittely)\nNykyinen katu\nVoitte asettaa, näytetäänkö kartalla katu, jolla ajatte.\n\n→ Näyttö: Valitkaa ”Navi” → ”Navi” → ”Map Display”.\nKarttanäytön luettelo tulee näkyviin. Piste R ilmaisee nykyisen asetuksen.\n→ Valitkaa ”Current Street”.\nAiemmasta tilasta riippuen nykyisen kadun näyttö kytketään päälle tai pois.\n\nGeokoordinaattien näyttö\nKuva: kartta geokoordinaattien näytön ollessa päällä\n1 Nykyinen korkeus merenpinnasta\n2 GPS-satelliittien määrä, joista sijainninmääritykseen tarvittavia signaaleja vastaanotetaan\n3 Koordinaattinäyttö\n\nNäyttövaihtoehdot geokoordinaattien näytön ollessa päällä\nJos karttanäkymässä on ristikko (karttaa on siirretty manuaalisesti), vain näyttö 3 on näkyvissä.\nSe näyttää joko ristikon koordinaatit tai muita tietoja ristikon sijainnista, esim. kadun nimen. Digitaalisen kartan on sisällettävä vastaavat tiedot, jotta nämä muut tiedot voidaan näyttää.\n\ni\nNäyttöjen 1 , 2 ja 3 näkymiseen GPS-vastaanoton on oltava riittävä. Korkeusnäyttö 1 on arvio, koska navigointijärjestelmä käyttää laskentaan GPS-signaaleja.\n\ni\nJos karttanäkymässä ei ole ristikkoa, näytöt 1 , 2 ja 3 ovat näkyvissä. Näyttö 3 näyttää nykyisen ajoneuvon sijainnin koordinaatit.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=196",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/196/bgc4.webp",
+      "originalPath": "original/196.html"
+    },
+    {
+      "page": 197,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Geokoordinaatit, reittityyppi ja reittitila",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (esittely)\nGeokoordinaattien näytön kytkentä päälle tai pois\n\n→ Valitkaa ”Navi” → ”Navi” → ”Map Display”.\nKarttanäytön luettelo tulee näkyviin.\n→ Valitkaa ”Coordinates”.\nGeokoordinaattien näyttö kytketään päälle tai pois aiemmasta tilasta riippuen. Valintamerkki ilmaisee aktiivisen tilan.\n→ Valikosta poistuminen: Siirtäkää o m p tai painakaa keskikonsolin takaisin-painiketta L (sivu 84).\n\nReittityypin asetus\nVoitte asettaa seuraavat reittityypit:\n• ”Fast Route”: COMAND laskee reitin, jossa ajoaika on mahdollisimman lyhyt (minimoitu).\n• ”Short Route”: COMAND laskee reitin, jossa matka on mahdollisimman lyhyt (minimoitu) ottaen huomioon sekä matkan että ajoajan.\n\n→ Valitkaa ”Navi” → ”Navi” → ”Mode”.\nTila-luettelo tulee näkyviin. Neliö ilmaisee nykyisen asetuksen.\n→ Valitkaa reittityyppi: ”Fast Route” tai ”Short Route”.\n→ Valikosta poistuminen: Siirtäkää o m p tai painakaa keskikonsolin takaisin-painiketta L (sivu 84).\n\nReittitilan asetus\n→ Valitkaa ”Navi” → ”Navi” → ”Mode”.\nTila-luettelo tulee näkyviin.\n→ Tilan kytkentä päälle tai pois:\nValitkaa halutut tilat.\nAiemmasta tilasta riippuen tila kytketään päälle tai pois. Valintamerkki ilmaisee, että tila on päällä. Voitte kytkeä päälle useamman kuin yhden tilan.\n\ni\nJos muutat reittityypin asetusta aktiivisen reittiopastuksen aikana, COMAND laskee uuden reitin. Jos muutat asetusta reittiopastuksen ollessa pois päältä, COMAND käyttää uutta asetusta seuraavassa reittiopastuksessa.\n\ni\nTällä toiminnolla voitte asettaa seuraavat reittiopastuksen vaihtoehdot:\n• ”Minimize Highways”\n• ”Minimize Toll Roads”\n• ”Minimize Tunnels”\n• ”Minimize Ferries/Motorail”",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=197",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/197/bgc5.webp",
+      "originalPath": "original/197.html"
+    },
+    {
+      "page": 198,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Reittitilojen sisällytys aktiiviseen opastukseen",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (esittely)\n\n→ Valikosta poistuminen: Siirtäkää o m p tai painakaa keskikonsolin takaisin-painiketta L (sivu 84).\nJos valitsette tilat aktiivisen reittiopastuksen aikana, COMAND tarkistaa, voiko se sisällyttää ne.\nJos se voi, COMAND laskee uuden reitin sisällyttäen valitut tilat.\nJos se ei voi, näette ja kuulette vastaavan viestin.\n→ Valitkaa ”OK”.\nCOMAND laskee uuden reitin.\nKäytetään vain niitä tiloja, jotka voidaan sisällyttää.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=198",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/198/bgc6.webp",
+      "originalPath": "original/198.html"
+    },
+    {
+      "page": 199,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Kohteen syöttövaihtoehdot ja osoitesyöttö",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohteen syöttö)\nSeuraavat kohteen syöttövaihtoehdot ovat käytettävissä:\n• Kohteen syöttö osoitteella\n• Kohteen syöttö kohdemuistista\n• Kohteen syöttö viimeisimpien kohteiden luettelosta\n• Kohteen syöttö kartalta\n• Välipysähdyksen syöttö\n• POI:n syöttö\n\nKohteen syöttö osoitteella\nOsoitteen syöttöön voitte edetä seuraavasti:\n• Syöttäkää osavaltio (USA) tai provinssi (CDN), katu ja kaupunki\n• Syöttäkää osavaltio (USA) tai provinssi (CDN), kaupunki ja katu\n• Syöttäkää osavaltio (USA) tai provinssi (CDN), kaupunki ja keskusta\n• Syöttäkää osavaltio (USA) tai provinssi (CDN), postinumero ja keskusta\n• Syöttäkää osavaltio (USA) tai provinssi (CDN), postinumero ja katu\n\nOsoitteen syöttövalikon avaus\n→ Valitkaa ”Navi” → ”Destination” → ”Address Entry”.\nOsoitteen syöttövalikko tulee näkyviin. Se näyttää osavaltion (USA) tai provinssin (CDN). Mikä osavaltio tai provinssi näytetään, riippuu ajoneuvon sijainnista.\n\n1 Osavaltio (USA) tai provinssi (CDN)\n\nVaroitus!\nTurvallisuussyistä syöttäkää uusi kohde vain ajoneuvon ollessa paikallaan.\n\ni\nKohteen syöttö on mahdollista riippumatta siitä, onko reittiopastus aktiivinen vai ei.\n\ni\nOsoitteen syöttö ei ole mahdollista, kun ajoneuvo on ylittänyt tietyn nopeuden. Heti kun ajoneuvon nopeus laskee tietyn arvon alle, toiminto on taas käytettävissä.\n\ni\nJos järjestelmän kieleksi on asetettu venäjä tai kiina, osoite on syötettävä latinalaisin kirjaimin. Järjestelmän kielen asetus (sivu 258).\n\ni\nKadun syötön lisätietona voitte syöttää joko talonumeron tai risteyksen.\nPostinumeron syöttö korvaa kaupungin syötön.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=199",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/199/bgc7.webp",
+      "originalPath": "original/199.html"
+    },
+    {
+      "page": 200,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Osoitteen syöttövalikko ja osavaltion syöttö",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohteen syöttö)\nOsoitteen syöttövalikon valikkokohdat\nJotkin valikkokohdat eivät ole tai eivät vielä ole käytettävissä sen mukaan, missä järjestyksessä syötätte osoitteen ja mikä dataversio on käytössä.\n\nEsimerkki: Jos ette ole tehneet mitään syöttöjä, valikkokohdat ”House No.”, ”Center”, ”Intersection”, ”POI”, ”Start” ja ”Save” eivät ole vielä käytettävissä. Valikkokohta ”Zip Code” ei ole käytettävissä, jos digitaalinen kartta ei sisällä postinumeroita.\n\nOsavaltion syöttö (USA)\n→ Valitkaa osoitteen syöttövalikossa ”State/Prov” → ”States (U.S.)”.\nOsavaltioluettelo tulee näkyviin syöttömerkkeineen; syöttömerkit aktivoidaan automaattisesti.\n\nOsavaltioluettelo syöttömerkeillä\n1 Luettelon ylin merkintä siihenastisen syötön perusteella\n2 Käyttäjän syöttämät merkit\n3 Järjestelmän automaattisesti lisäämät merkit\n4 Viimeksi syötetyn merkin poisto\n5 Tällä hetkellä valittavissa olevat merkit\n6 Tällä hetkellä ei-valittavissa olevat merkit\n7 Syöttömerkit\n8 Osavaltioluettelo\n9 Tällä hetkellä valittu merkki\n\nAlla kuvatun merkkien valinnan aikana ylin luettelomerkintä 1 näyttää aina osavaltion, joka parhaiten vastaa siihenastista syöttöä.\nSamalla COMAND täydentää käyttäjän syöttämät merkit 2 automaattisesti muilla todennäköisillä syöttömerkeillä 3 .\n\n→ Merkkien valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Merkkivalinnan vahvistus: Painakaa n .\n→ Yksittäisten merkkien poisto: Valitkaa ) alarivillä ja painakaa n .\n→ Koko syötön poisto: Valitkaa ) alarivillä ja painakaa n , kunnes koko syöttö on poistettu.\n\ni\nVoitte syöttää vain digitaaliselle kartalle tallennettuja osavaltioita.\n\ni\nSyöttömerkkiluettelossa 7 voitte valita vain tällä hetkellä valittavissa olevia merkkejä.\nMitkä merkit ovat mukana, riippuu kohteen syöttöjärjestyksestä ja digitaalisen kartan dataversiosta.\n\n(jatkuu seuraavalla sivulla)",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=200",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/200/bgc8.webp",
+      "originalPath": "original/200.html"
+    }
+  ]
+}

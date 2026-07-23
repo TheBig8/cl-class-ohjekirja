@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#1a2332" />
+    <title>CL-Class ohjekirja</title>
+    <link rel="stylesheet" href="styles.css?v=769picker" />
+  </head>
+  <body>
+    <div class="app">
+      <div class="chrome">
+        <div class="lang-bar" role="group" aria-label="Kieli">
+          <button type="button" id="btn-fi" class="lang-btn is-active" aria-pressed="true">
+            Suomi
+          </button>
+          <button type="button" id="btn-orig" class="lang-btn" aria-pressed="false">
+            Alkuperäinen
+          </button>
+        </div>
+
+        <header class="top">
+          <div class="top-row">
+            <h1 id="app-title">CL-Class ohjekirja</h1>
+            <p id="progress" class="progress" aria-live="polite"></p>
+          </div>
+          <p id="app-subtitle" class="sr-only">Mercedes-Benz CL-Class (2008)</p>
+          <div class="search-row">
+            <label class="search-label" for="search">
+              <span class="sr-only">Haku</span>
+              <input
+                id="search"
+                type="search"
+                enterkeyhint="search"
+                autocomplete="off"
+                autocorrect="off"
+                spellcheck="false"
+                placeholder="Etsi…"
+              />
+            </label>
+            <button
+              type="button"
+              id="page-jump-btn"
+              class="page-jump-btn"
+              aria-haspopup="listbox"
+              aria-expanded="false"
+              aria-controls="page-picker"
+            >
+              Sivu 1
+            </button>
+            <label class="page-picker-filter-label" for="page-picker-filter">
+              <span class="sr-only">Suodata sivuja</span>
+              <input
+                id="page-picker-filter"
+                type="search"
+                enterkeyhint="search"
+                autocomplete="off"
+                placeholder="Suodata…"
+              />
+            </label>
+            <button type="button" id="page-picker-close" class="page-picker-close">
+              Sulje
+            </button>
+          </div>
+        </header>
+      </div>
+
+      <main class="main" id="main-scroll">
+        <section id="page-picker" class="page-picker" hidden>
+          <h2 class="panel-title">Valitse sivu</h2>
+          <ul id="page-picker-list" class="page-picker-list" role="listbox"></ul>
+        </section>
+
+        <section id="search-panel" class="search-panel" hidden>
+          <h2 class="panel-title">Hakutulokset</h2>
+          <ul id="search-results" class="search-results"></ul>
+          <p id="search-empty" class="muted" hidden>Ei tuloksia.</p>
+        </section>
+
+        <section id="fi-view" class="fi-view">
+          <p id="page-meta" class="page-meta"></p>
+          <h2 id="page-title" class="page-title"></h2>
+          <article id="page-body" class="page-body"></article>
+        </section>
+
+        <section id="orig-view" class="orig-view" hidden>
+          <p class="orig-hint">
+            Alkuperäinen PDF-sivu <strong id="orig-page-label">–</strong>
+          </p>
+          <div id="iframe-wrap" class="iframe-wrap">
+            <iframe
+              id="orig-frame"
+              title="Alkuperäinen PDF-sivu"
+              loading="lazy"
+            ></iframe>
+          </div>
+          <p id="orig-error" class="muted" hidden>
+            PDF-sivua ei löytynyt tälle numerolle.
+          </p>
+        </section>
+      </main>
+
+      <footer class="bottom">
+        <button type="button" id="btn-prev" class="nav-btn">Edellinen</button>
+        <p id="page-indicator" class="page-indicator">–</p>
+        <button type="button" id="btn-next" class="nav-btn">Seuraava</button>
+      </footer>
+    </div>
+
+    <script src="app.js?v=769picker" type="module"></script>
+  </body>
+</html>

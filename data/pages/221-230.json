@@ -1,0 +1,96 @@
+{
+  "from": 221,
+  "to": 230,
+  "pages": [
+    {
+      "page": 221,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Kohdemuisti ilman syöttömerkkejä",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohteen syöttö)\n\n→ Yksittäisten merkkien poisto: Valitkaa ) alariviltä ja painakaa n .\n→ Koko merkinnän poisto: Valitkaa ) alariviltä ja painakaa n , kunnes koko merkintä on poistettu.\n→ Syötön peruutus: Valitkaa ”Back” alariviltä ja painakaa n .\ntai\n→ Painakaa keskikonsolin takaisin-painiketta L (sivu 84).\nHeti kun COMAND pystyy liittämään syötetyt merkit yksiselitteisesti kohteeseen, syöttömerkit 4 katoavat.\nNäette kohdemuistin luettelon ilman syöttömerkkejä. Täällä voitte vahvistaa nykyisen merkinnän tai tehdä toisen valinnan.\nVoitte myös milloin tahansa vaihtaa manuaalisesti kohdemuistin luetteloon ilman syöttömerkkejä.\n\n→ Manuaalinen vaihto kohdemuistin luetteloon ilman syöttömerkkejä: Siirtäkää q m .\ntai\n→ Valitkaa ? toiseksi alimmalla rivillä ja painakaa n .\n\nKohdemuistin luettelo ilman syöttömerkkejä\n→ Kohteen valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan peruutus: Painakaa keskikonsolin takaisin-painiketta L (sivu 84).\ntai\n→ Valitkaa ”Back” ja painakaa n .\n→ Valinnan vahvistus: Painakaa n .\n→ Reitinlaskennan aloitus: Valitkaa ”Start”, ks. myös (sivu 218).\n\ni\nValikkokohta ”Back” on käytettävissä vain, jos tämä luettelo avattiin syöttömerkkiluettelosta.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=221",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/221/bgdd.webp",
+      "originalPath": "original/221.html"
+    },
+    {
+      "page": 222,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Viimeisimmät kohteet ja karttasyöttö",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohteen syöttö)\nKohteen syöttö viimeisimpien kohteiden luettelosta\n\n→ Valitkaa ”Navi” → ”Destination” → ”From Last Destinations”.\nViimeisimpien kohteiden luettelo tulee näkyviin.\nViimeisin kohde on luettelon ylimpänä.\n→ Valitkaa haluttu kohde.\n→ Reitinlaskennan aloitus: Valitkaa ”Start”, ks. myös (sivu 218).\n\nKohteen syöttö kartalta\nKartan avaus\n→ Osoitesyöttövalikossa valitkaa ”Map” (sivu 198).\nNäette kartan ristikolla.\nKartta on asetettu osoitesyöttövalikossa määritettyyn osoitteeseen.\ntai\n→ Valitkaa ”Navi” → ”Destination” → ”Via Map”.\nNäette kartan ristikolla.\n\n1 Ristikko\n2 Ristikon sijainnin tiedot\n3 Kartan mittakaava\n\ni\nAjoneuvon tehdasasetuksista riippuen kohdetta ei ehkä voi syöttää, kun ajoneuvon nopeus ylittää asetetun raja-arvon. Heti kun ajoneuvon nopeus laskee raja-arvon alle, toiminto on jälleen käytettävissä.\nVoitte syöttää kohteen kartalta, jos digitaalinen kartta ei sisällä kohteen osoitetta, mutta kohteen on oltava digitaalisen kartan alueella.\n\ni\nNäyttö 2 voi olla esimerkiksi kadun nimi, jos digitaalinen kartta sisältää tarvittavat tiedot.\nJos tietoja ei ole saatavilla, näyttö 2 näyttää:\n• koordinaatit, jos geokoordinaattinäyttö on kytketty päälle (sivu 195)\n• ei näyttöä, jos geokoordinaattinäyttö on kytketty pois (sivu 195)",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=222",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/222/bgde.webp",
+      "originalPath": "original/222.html"
+    },
+    {
+      "page": 223,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Karttakohteen valinta ja välipysähdys",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohteen syöttö)\nKartan siirtäminen ja kohteen valinta\n\n→ Kartan siirtäminen: Siirtäkää q m r , o m p tai w m x .\n→ Kartan mittakaavan säätö: Pyörittäkää y m z .\nMyötäpäivään kiertäminen suurentaa karttaa, vastapäivään kiertäminen pienentää sitä.\n→ Kohteen valinta: Painakaa n .\nJos ristikko on digitaalisen kartan reunojen ulkopuolella, reittiä tähän kohteeseen ei voi laskea, ja näette viestin ”The destination is located off the map.”.\n→ Valitkaa ”OK”.\n→ Siirtäkää karttaa ja valitkaa kohde uudelleen.\nJos kohde on digitaalisen kartan rajojen sisällä, COMAND yrittää liittää kohteen karttaan, mikä voi kestää noin 2 sekuntia.\nJos kohde voidaan liittää, näette kohteen osoitteen.\nJos ei, näette näytön ”Destination from map”.\n→ Reitinlaskennan aloitus: Valitkaa ”Start”, ks. myös (sivu 218).\n\nVälipysähdyksen syöttö\n\ni\nKun reittiopastus on aktiivinen, voitte syöttää välipysähdyksen. Välipysähdykset voivat olla ennalta määritettyjä kohteita seuraavista kategorioista:\n• ”Mercedes-Benz Center”\n• ”Hospital”\n• ”Gas station”\n• ”Parking lot”\n• ”Restaurant”\nVoitte kuitenkin syöttää myös muita kuin ennalta määritettyjä kohteita.\n\ni\nVälipysähdystoiminnolla voitte vaikuttaa pääkohteeseen laskettavaan reittiin. Kun olette saapuneet välipysähdykseen, COMAND laskee automaattisesti reitin pääkohteeseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=223",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/223/bgdf.webp",
+      "originalPath": "original/223.html"
+    },
+    {
+      "page": 224,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ennalta määritetty välipysähdys",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohteen syöttö)\nEnnalta määritettyjen kohteiden syöttö\n\n→ Valitkaa ”Navi” → ”Destination” → ”Stopover”.\nJos välipysähdys on jo syötetty, voitte muuttaa sitä.\n→ Muuttaminen: Valitkaa ”Change Stopover”.\nVoitte nyt valita kategorian.\n→ Kategorian valinta: Valitkaa kategoria, esim. ”Gas station”.\nCOMAND hakee ensin kohteita ajoneuvon välittömästä läheisyydestä ja ajoneuvon reitin varrelta. Jos kohteita ei ole siellä saatavilla, COMAND hakee kohteita ajoneuvon sijainnin ympäriltä.\nJos COMAND ei löydä kohteita, näette siitä ilmoituksen.\n→ Valitkaa ”OK”.\nVoitte nyt valita toisen kategorian.\nJos COMAND löytää kohteita, näette kohdeluettelon ja etäisyystiedot näytön oikealla puolella. Etäisyystietojen näkyminen voi kestää muutaman sekunnin.\nNäytön vasemmalla puolella kohteet näkyvät kartalla. Luettelossa merkitty kohde korostetaan kartalla.\n→ Kohteen valinta: Valitkaa haluttu kohde luettelosta.\nKohteen osoite tulee näkyviin.\n→ Reitinlaskennan aloitus: Valitkaa ”Start”, ks. myös (sivu 218).\n\nToisen kohteen syöttö välipysähdykseksi\n→ Valitkaa ”Navi” → ”Destination” → ”Stopover”.\n→ Syöttö: Valitkaa ”Other”.\nVoitte valita seuraavista valikkokohdista:\n• ”Address Entry”\n• ”From Memory”\n• ”From Last Destinations”\n• ”From POIs”\n→ Valitkaa valikkokohta.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=224",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/224/bge0.webp",
+      "originalPath": "original/224.html"
+    },
+    {
+      "page": 225,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Välipysähdyksen muutos ja poisto",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohteen syöttö)\n\nMyöhempi kohteen syöttö voi vaihdella valinnan mukaan:\n• Valinta ”Address Entry”:\n→ Syöttäkää kohde osoitteella (sivu 198).\n• Valinta ”From Memory”:\n→ Syöttäkää kohde kohdemuistista (sivu 219).\n• Valinta ”From Last Destinations”:\n→ Syöttäkää kohde viimeisimpien kohteiden luettelosta (sivu 221).\n• Valinta ”From POIs”:\n→ Syöttäkää kiinnostava kohde (sivu 225).\n→ Reitinlaskennan aloitus: Kohteen syötön jälkeen valitkaa ”Start” (sivu 218).\n\nVälipysähdyksen muuttaminen\nJos välipysähdys on jo syötetty, voitte muuttaa sitä.\n→ Valitkaa ”Navi” → ”Destination” → ”Stopover” → ”Change Stopover”.\n→ Syöttäkää toinen kohde välipysähdykseksi.\n\nVälipysähdyksen poistaminen\nJos välipysähdys on jo syötetty, voitte poistaa sen.\n→ Valitkaa ”Navi” → ”Destination” → ”Stopover” → ”Delete Stopover”.\nCOMAND poistaa välipysähdyksen ja laskee reitin pääkohteeseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=225",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/225/bge1.webp",
+      "originalPath": "original/225.html"
+    },
+    {
+      "page": 226,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "POI lähialueella tai kaupungissa",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kiinnostavan kohteen syöttö)\nPOI:n syöttö lähialueella\n\n→ Karttanäkymässä, kun valikkojärjestelmä on näkyvissä, valitkaa (sivu 191) ”Destination” → ”From POIs” → ”Current Position”.\n→ Jatkakaa POI-kategorian määrittämisellä (sivu 226).\n\nPOI:n syöttö tietyn kaupungin läheisyydessä\nVaihtoehto 1\n→ Karttanäkymässä, kun valikkojärjestelmä on näkyvissä, valitkaa (sivu 191) ”Destination” → ”From POIs” → ”Other City”.\n→ Syöttäkää tarvittaessa osavaltio (USA) (sivu 199) tai provinssi (CDN) (sivu 199).\n→ Kaupungin syöttö: Valitkaa ”City”.\nKaupungin syöttövalikko tulee näkyviin.\n→ Toimikaa sitten kuten osiossa ”Kaupungin syöttö” (sivu 204).\n→ Kaupungin syötön jälkeen jatkakaa POI-kategorian määrittämisellä (sivu 226).\n\nVaihtoehto 2\n→ Syöttäkää osoite osoitesyöttövalikossa (sivu 198).\n→ Valitkaa ”POI”.\n→ Jatkakaa POI-kategorian määrittämisellä (sivu 226).\n\nPOI:n syöttö toisella alueella\n→ Karttanäkymässä, kun valikkojärjestelmä on näkyvissä, valitkaa ”Destination” → ”From POIs” → ”Global POI” (sivu 191).\nKategorialuettelo tulee näkyviin. Tällä hetkellä valittu osavaltio (USA) tai provinssi (CDN) näkyy ensimmäisessä luettelokohdassa.\n\ni\nTällä toiminnolla saatte nopean pääsyn POI-kohteisiin, joilla on valtakunnallista merkitystä valitussa osavaltiossa (USA) tai provinssissa (CDN). Seuraavat kategoriat voivat olla saatavilla:\n• ”AIRPORT”\n• ”BORDER CROSSING”\n• ”HIGHWAY ACCESS”\nKaikkia kategorioita ei ole saatavilla kaikissa osavaltioissa (USA) tai provinsseissa (CDN).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=226",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/226/bge2.webp",
+      "originalPath": "original/226.html"
+    },
+    {
+      "page": 227,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "POI-kategoria ja hakualue",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kiinnostavan kohteen syöttö)\n\n→ Toisen osavaltion (USA) tai provinssin (CDN) valinta: Valitkaa ensimmäinen luettelokohta.\nOsavaltio-/provinssiluettelo tulee näkyviin.\n→ Valitkaa haluttu osavaltio (USA) tai provinssi (CDN).\nJos valitulle osavaltiolle (USA) tai provinssille (CDN) ei ole POI-kohteita, näette siitä ilmoituksen.\n→ Ilmoituksen sulkeminen: Valitkaa ”OK”.\nVoitte valita osavaltion (provinssin) uudelleen.\nJos POI-kohteita on, näette kategorialuettelon uudelleen.\n→ Toimikaa kuten kohdassa ”Kategorian valinta” osiossa ”Pääkategorialuettelo ilman syöttömerkkejä” (sivu 228).\n\nPOI-kategorian määrittäminen\nKäytettävissä olevat kategoriat ja POI-kohteet riippuvat siitä, millaisen etäisyyden ajoneuvon sijainnista olette asettaneet POI:lle.\n• POI lähialueella:\nkäytettävissä ovat aakkosjärjestyksessä olevat kategoriat ja etäisyyden mukaan järjestetyt POI-kohteet noin 12 mi säteellä ajoneuvon sijainnista. Voitte laajentaa hakusädettä luettelovaihtoehdoilla (sivu 231).\n• POI tietyssä kaupungissa:\nJos olette syöttäneet vain osavaltion (USA) tai provinssin (CDN) ja kaupungin, käytettävissä ovat aakkosjärjestyksessä olevat kategoriat ja aakkosjärjestyksessä olevat POI-kohteet kaupungissa.\nJos olette syöttäneet enemmän kuin osavaltion (USA) tai provinssin (CDN) ja kaupungin, käytettävissä ovat aakkosjärjestyksessä olevat kategoriat ja etäisyyden mukaan järjestetyt POI-kohteet noin 12 mi säteellä syötetystä osoitteesta. Voitte laajentaa hakusädettä ja kategoriavalikoimaa luettelovaihtoehdoilla (sivu 231).\n• POI-kohteet toisella alueella:\nKäytettävissä ovat aakkosjärjestyksessä olevat kategoriat ja aakkosjärjestyksessä olevat POI-kohteet.\n\nKategorian syöttö\nKäytettävissä olevien kategorioiden määrästä riippuen pääkategorialuettelo tulee kategorian syöttöä varten näkyviin joko syöttömerkkien kanssa tai ilman niitä (sivu 228).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=227",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/227/bge3.webp",
+      "originalPath": "original/227.html"
+    },
+    {
+      "page": 228,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Pääkategorialuettelo syöttömerkeillä",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kiinnostavan kohteen syöttö)\nPääkategorialuettelo syöttömerkeillä\n\nKun tämä luettelo tulee näkyviin, syöttömerkit 5 aktivoituvat automaattisesti.\n\n1 Luettelon ylin merkintä siihenastisen syötön perusteella\n2 Käyttäjän syöttämät merkit\n3 Järjestelmän automaattisesti täydentämät merkit\n4 Symboli saatavilla oleville POI-kohteille tai muille alikategorioille\n5 Syöttömerkit\n6 Tällä hetkellä ei-valittavissa olevat merkit\n7 Tällä hetkellä valittavissa oleva merkki\n8 Tällä hetkellä valittu merkki\n9 Pääkategorialuettelo\n\nKun merkkejä valitaan alla kuvatulla tavalla, luettelon ylin merkintä 1 näyttää aina kategorian, joka parhaiten vastaa siihenastista syöttöä.\nSamalla COMAND täydentää automaattisesti käyttäjän syöttämät merkit 2 sopivilla merkeillä 3 .\n\n→ Merkkien valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Merkkivalinnan vahvistus: Painakaa n .\n→ Yksittäisten merkkien poisto: Valitkaa ) alariviltä ja painakaa n .\n→ Koko merkinnän poisto: Valitkaa ) alariviltä ja painakaa n , kunnes koko merkintä on poistettu.\n→ Syötön peruutus: Valitkaa ”Back” alariviltä ja painakaa n .\ntai\n→ Painakaa keskikonsolin takaisin-painiketta L (sivu 84).\nHeti kun COMAND pystyy liittämään syötetyt merkit yksiselitteisesti kategoriaan, syöttömerkit 5 katoavat.\nNäette pääkategorialuettelon ilman syöttömerkkejä. Täällä voitte vahvistaa nykyisen merkinnän tai tehdä toisen valinnan.\nVoitte myös milloin tahansa vaihtaa manuaalisesti pääkategorialuetteloon ilman syöttömerkkejä.\n\n→ Manuaalinen vaihto pääkategorialuetteloon ilman syöttömerkkejä: Siirtäkää q m .\ntai\n→ Valitkaa ? toiseksi alimmalla rivillä ja painakaa n .\n\ni\nSyöttömerkkiluettelossa 5 voitte valita vain tällä hetkellä valittavissa olevia merkkejä.\nMitkä merkit ovat mukana, riippuu kohteen syöttöjärjestyksestä ja digitaalisen kartan dataversiosta.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=228",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/228/bge4.webp",
+      "originalPath": "original/228.html"
+    },
+    {
+      "page": 229,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Pääkategoria ilman syöttömerkkejä",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kiinnostavan kohteen syöttö)\nPääkategorialuettelo ilman syöttömerkkejä\n\nEsimerkkikuva: pääkategorialuettelo lähialueen POI-kohteille\n1 Kategoria\n2 Symboli saatavilla oleville POI-kohteille tai muille alikategorioille\n\n→ Pääkategorian valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan peruutus: Valitkaa ”Back” ja painakaa n .\ntai\n→ Painakaa keskikonsolin takaisin-painiketta L (sivu 84).\n→ Valinnan vahvistus: Painakaa n .\nPääkategoriat, joissa on symboli 2 , sisältävät joko POI-kohteita tai alikategorioita. Jatko riippuu siitä, sisältääkö valittu pääkategoria alikategorioita vai vain POI-kohteita.\n\nValittu pääkategoria sisältää alikategorioita:\nTällaisen pääkategorian valinta avaa alikategorialuettelon. Alla oleva kuva näyttää esimerkkinä pääkategorian ”RESTAURANT” saatavilla olevine alikategorioineen 4 .\n\n1 Pääkategoria\n2 Näytä kaikki POI-kohteet kaikille alikategorioille kategorian 1 alla\n3 Symboli saatavilla oleville POI-kohteille\n4 Alikategoria\n\n→ Alikategorian valinta: Siirtäkää q m r tai pyörittäkää y m z .",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=229",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/229/bge5.webp",
+      "originalPath": "original/229.html"
+    },
+    {
+      "page": 230,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "POI-luettelo ja nimen syöttö",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kiinnostavan kohteen syöttö)\n\n→ Valinnan peruutus: Valitkaa ”Back” ja painakaa n .\ntai\n→ Painakaa keskikonsolin takaisin-painiketta L (sivu 84).\n→ Valinnan vahvistus: Painakaa n .\nAlikategorian valinnan jälkeen POI-luettelo tulee näkyviin. Se sisältää alikategorian hakusäteellä saatavilla olevat POI-kohteet.\n\nValittu pääkategoria ei sisällä alikategorioita, vaan vain POI-kohteita:\nTällaisen pääkategorian valinta avaa heti POI-luettelon. POI-luettelo sisältää pääkategorian hakusäteellä saatavilla olevat POI-kohteet.\n\nPOI-luettelo\nTilanteesta riippuen COMAND näyttää ensin seuraavan luettelon tai POI-luettelon syöttömerkeillä.\nAlla oleva kuva näyttää esimerkkinä POI-luettelon pääkategorialle ”RESTAURANT”, alikategorialle ”FRENCH CUISINE” lähialueella.\n\n1 Kompassisuunta kohteeseen\n2 Suora etäisyys kohteeseen\n3 Kiinnostava kohde\n\nPOI-luettelossa voitte joko valita POI:n tai syöttää POI:n nimen.\n\nPOI:n valinta\n→ Valitkaa haluttu POI.\nPOI-luettelo katoaa, ja POI:n osoite tulee näkyviin.\n→ Takaisin POI-luetteloon: Valitkaa ”Back” ja painakaa n .\ntai\n→ Painakaa keskikonsolin takaisin-painiketta L (sivu 84).\n→ Reitinlaskennan aloitus: Valitkaa ”Start”, ks. myös (sivu 218).\n\nPOI:n nimen syöttö\n→ Valitkaa ”Options” → ”Spell”.\nPOI-luettelo tulee näkyviin syöttömerkeillä; syöttömerkit aktivoidaan automaattisesti.\n\ni\nJos olette valinneet luettelokohdan 2 , POI-luettelo sisältää kaikki POI-kohteet kaikille alikategorioille pääkategorian 1 hakusäteellä.\n\ni\nNäytöt 1 ja 2 eivät ole näkyvissä, jos olette jo syöttäneet POI:n tietyssä kaupungissa. Näytöt 1 ja 2 ovat staattisia; ne eivät muutu ajon aikana.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=230",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/230/bge6.webp",
+      "originalPath": "original/230.html"
+    }
+  ]
+}

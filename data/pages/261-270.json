@@ -1,0 +1,96 @@
+{
+  "from": 261,
+  "to": 270,
+  "pages": [
+    {
+      "page": 261,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "COMAND-ajoneuvovalikko – yöturvavalaistus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-ajoneuvovalikko\nTässä valikossa voitte ohjelmoida seuraavat ajoneuvotoiminnot:\n\nYöturvavalaistuksen asetus\n(ulosvalaistuksen viivekytkentä)\nTällä toiminnolla asetatte, sytytetäänkö ulosvalaistus pimeässä sen jälkeen, kun olette poistuneet ajoneuvosta ja molemmat ovet on suljettu, sekä kuinka pitkäksi aikaa.\nUlosvalaistus sammuu automaattisesti, kun viivekytkennän aika on umpeutunut.\nVoitte valita:\n• ”0 sec.” – viivekytkentä on pois käytöstä\n• ”15 sec.”, ”30 sec.”, ”45 sec.” tai ”60 sec.” – viivekytkentä on käytössä\n→ Valitkaa ”Vehicle”.\nPääalue on aktiivinen.\n→ Valikon ”Exterior Lighting Delayed Switch-off” valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n→ Ajan pituuden valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\ntai\n→ Valitkaa ”Vehicle” → ”Vehicle” → ”Exterior Lighting Delayed Switch-off”.\nValintaluettelo tulee näkyviin.\nNykyinen asetus on merkitty pisteellä R .\n\nToiminto Sivu\nExterior Lighting Delayed Switch-off 260\nLocator Lighting 261\nExterior Mirror Convenience Settings 262\nAutomatic Locking 263\nEasy Entry/Exit Feature 264\nInterior Ambient Light 265\nInterior Lighting Delayed Switch-off 266\nRear-window Sunshade 267\nTrunk Opening-height Restriction* 268\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\ni\nVoitte aktivoida tämän toiminnon uudelleen 10 minuutin kuluessa avaamalla oven.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=261",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/261/bg105.webp",
+      "originalPath": "original/261.html"
+    },
+    {
+      "page": 262,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Yöturvavalaistus ja paikannusvalaistus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-ajoneuvovalikko\n\n→ Ajan pituuden valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n\nYöturvavalaistuksen aktivointi:\n→ Valitkaa viivekytkennän aika (ks. edellä).\n→ Kääntäkää ulkovalojen kytkin asentoon * ennen moottorin sammuttamista.\n\nPaikannusvalaistus päälle/pois\nKun paikannusvalaistus on aktivoitu ja ulkovalojen kytkin on asennossa * (sivu 391), seuraavat valot syttyvät pimeässä, kun ajoneuvo avataan lukituksesta ulkopuolelta:\n• Seisontavalot\n• Takavalot\n• Rekisterikilven valot\n• Etusumuvalot\n• Oven sisäänkäyntivalot peilissä\n• Sivumerkkivalot\nPaikannusvalaistus sammuu, kun kuljettajan ovi avataan.\nJos ette avaa mitään ovea sen jälkeen, kun olette avanneet ajoneuvon lukituksesta SmartKeyllä, valot sammuvat automaattisesti noin 40 sekunnin kuluttua.\n→ Valitkaa ”Vehicle”.\nPääalue on aktiivinen.\n→ Toiminnon ”Locator Lighting” valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n→ Paikannusvalaistuksen kytkeminen päälle tai pois: Painakaa n .\ntai\n→ Valitkaa ”Vehicle” → ”Vehicle” → ”Locator Lighting”.\nValintamerkki ilmestyy, kun paikannusvalaistus on kytketty päälle.\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=262",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/262/bg106.webp",
+      "originalPath": "original/262.html"
+    },
+    {
+      "page": 263,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Paikannusvalo ja peilien mukavuusasetukset",
+      "fi": "Ohjausjärjestelmät\nCOMAND-ajoneuvovalikko\n\n→ Valinnan vahvistus: Painakaa n .\n\nPaikannusvalaistuksen aktivointi:\n→ Varmistakaa, että toiminto ”Locator Lighting” on asetettu.\n→ Kääntäkää ulkovalojen kytkin asentoon * poistuessanne ajoneuvosta.\n\nUlkopeilien mukavuusasetukset\nValikossa ”Exterior Mirror Convenience Settings” voitte kytkeä seuraavat ulkopeilitoiminnot päälle tai pois:\n• Ulkopeilit taittuvat automaattisesti sisään, kun ajoneuvo lukitaan\n• Etumatkustajan puolen ulkopeili kallistuu automaattisesti alas, kun ajoneuvoa peruutetaan\n→ Valitkaa ”Vehicle”.\nPääalue on aktiivinen.\n→ Valikon ”Exterior Mirror Convenience Settings” valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n→ Valinnan ”Fold in automatically when locking” tai ”Lower mirror when reversing” valinta: Pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n→ Poistukaa valikosta siirtämällä o m p .\ntai\n→ Valitkaa ”Vehicle” → ”Vehicle” → ”Exterior Mirror Convenience Settings”.\nValintaluettelo tulee näkyviin.\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=263",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/263/bg107.webp",
+      "originalPath": "original/263.html"
+    },
+    {
+      "page": 264,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Peiliasetukset ja automaattinen lukitus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-ajoneuvovalikko\n\n→ Toiminnon valinta: Siirtäkää q m r tai pyörittäkää y m z .\nValintamerkki ilmestyy vastaavaan ruutuun, kun vaihtoehto on valittu.\n→ Valinnan vahvistus: Painakaa n .\n→ Poistukaa valikosta siirtämällä o m p .\n\nAutomaattinen lukitus päälle/pois\nTällä toiminnolla aktivoitte tai deaktivoitte automaattisen keskuslukituksen (sivu 363). Kun automaattinen keskuslukitus on aktivoitu, ajoneuvo lukittuu keskitetysti noin nopeudella 9 mph (15 km/h).\n→ Valitkaa ”Vehicle”.\nPääalue on aktiivinen.\n→ Toiminnon ”Automatic Locking” valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Automaattisen lukituksen kytkeminen päälle tai pois: Painakaa n .\ntai\n→ Valitkaa ”Vehicle” → ”Vehicle” → ”Automatic Locking”.\nValintamerkki ilmestyy, kun automaattinen lukitus on kytketty päälle.\n→ Valinnan vahvistus: Painakaa n .\n→ Poistukaa valikosta siirtämällä o m p .\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=264",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/264/bg108.webp",
+      "originalPath": "original/264.html"
+    },
+    {
+      "page": 265,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Helppo sisään-/uloskäyntitoiminto",
+      "fi": "Ohjausjärjestelmät\nCOMAND-ajoneuvovalikko\nHelppo sisään-/uloskäyntitoiminnon aktivointi\nTällä toiminnolla aktivoitte ja deaktivoitte helppo sisään-/uloskäyntitoiminnon (sivu 373).\nSeuraavat asetukset ovat käytettävissä helppo sisään-/uloskäyntitoiminnolle:\n→ Valitkaa ”Vehicle”.\nPääalue on aktiivinen.\n→ Valikon ”Easy Entry/Exit Feature” valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\ntai\n→ Valitkaa ”Vehicle” → ”Vehicle” → ”Easy Entry/Exit Feature”.\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\nOFF Helppo sisään-/uloskäyntitoiminto on deaktivoitu.\nSteering Column & Seat Sekä ohjauspylväs että kuljettajan istuin liikutetaan.\n\nVaroitus!\nTeidän on varmistettava, ettei kukaan jää puristuksiin tai loukkaannu liikkuvan ohjauspyörän ja kuljettajan istuimen vuoksi, kun helppo sisään-/uloskäyntitoiminto on aktivoitu.\nIstuimen/ohjauspyörän liikkeen pysäyttämiseksi tehkää jokin seuraavista:\n• Painakaa istuimen säätökytkintä (sivu 369).\n• Liikuttakaa ohjauspyörän säätövipua (sivu 379).\n• Painakaa jotakin muistiasennon painiketta tai muistipainiketta M (sivu 386).\nÄlkää jättäkö lapsia ilman valvontaa ajoneuvoon tai siten, että heillä on pääsy lukitsemattomaan ajoneuvoon.\nLapset voivat avata kuljettajan oven ja aktivoida tahattomasti helppo sisään-/uloskäyntitoiminnon, mikä voi johtaa onnettomuuteen ja/tai vakavaan henkilövahinkoon.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=265",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/265/bg109.webp",
+      "originalPath": "original/265.html"
+    },
+    {
+      "page": 266,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Sisäänkäyntitoiminto ja ympäristövalaistus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-ajoneuvovalikko\n\n→ Valinnan vahvistus: Painakaa n .\nValintaluettelo tulee näkyviin.\nNykyinen asetus on merkitty pisteellä R .\n→ Asetuksen valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n\nSisätilan ympäristövalaistuksen asetus\nVoitte säätää sisävalaistuksen kirkkautta asteikolla ”0” (pois) – ”5” (kirkas).\n→ Valitkaa ”Vehicle”.\nPääalue on aktiivinen.\n→ Valikon ”Interior Ambient Light” valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n→ Kirkkauden säätö: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\ntai\n→ Valitkaa ”Vehicle” → ”Vehicle” → ”Interior Ambient Light”.\n→ Kirkkauden säätö: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=266",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/266/bg10a.webp",
+      "originalPath": "original/266.html"
+    },
+    {
+      "page": 267,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Sisävalaistuksen viivekytkentä",
+      "fi": "Ohjausjärjestelmät\nCOMAND-ajoneuvovalikko\nSisävalaistuksen viivekytkennän asetus\nTällä toiminnolla asetatte, jääkö sisävalaistus päälle pimeässä sen jälkeen, kun olette poistaneet SmartKeyn käynnistyskytkimestä, sekä kuinka pitkäksi aikaa.\nVoitte valita:\n• ”0 sec.” – viivekytkentä on pois käytöstä\n• ”15 sec.”, ”30 sec.”, ”45 sec.” tai ”60 sec.” – viivekytkentä on käytössä\n→ Valitkaa ”Vehicle”.\nPääalue on aktiivinen.\n→ Valikon ”Interior Lighting Delayed Switch-off” valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nValintaluettelo tulee näkyviin.\nNykyinen asetus on merkitty pisteellä R .\n→ Ajan pituuden valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\ntai\n→ Valitkaa ”Vehicle” → ”Vehicle” → ”Interior Lighting Delayed Switch-off”.\nValintaluettelo tulee näkyviin.\nNykyinen asetus on merkitty pisteellä R .\n→ Ajan pituuden valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=267",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/267/bg10b.webp",
+      "originalPath": "original/267.html"
+    },
+    {
+      "page": 268,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Takalasin aurinkoverho",
+      "fi": "Ohjausjärjestelmät\nCOMAND-ajoneuvovalikko\nTakalasin aurinkoverhon ulos- tai sisäänveto\nTätä toimintoa käytetään taka-aurinkoverhon ulos- tai sisäänvetoon.\n→ Valitkaa ”Vehicle”.\nPääalue on aktiivinen.\n→ Toiminnon ”Rear-window Sunshade” valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Takalasin aurinkoverhon ulos- tai sisäänveto: Painakaa n .\ntai\n→ Valitkaa ”Vehicle” → ”Vehicle” → ”Rear-window Sunshade”.\n→ Valinnan vahvistus: Painakaa n .\n→ Ulos- tai sisäänvedon kääntäminen päinvastaiseksi: Painakaa n uudelleen.\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\ni\nVoitte ohjelmoida tämän toiminnon suosikkinäppäimellä (sivu 259).\n\ni\nLämpötiloissa alle −4 °F (−20 °C) takalasin aurinkoverho on kytketty pois päältä.\n\nVaroitus!\nKun käytätte takalasin aurinkoverhoa, varmistakaa, ettei kukaan joudu vaaraan ulos- tai sisäänvedon vuoksi.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=268",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/268/bg10c.webp",
+      "originalPath": "original/268.html"
+    },
+    {
+      "page": 269,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Tavaratilan avauskorkeuden rajoitus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-ajoneuvovalikko\nTavaratilan avauskorkeuden rajoitus* päälle/pois\nVoitte valita, avautuuko tavaratilan kansi kokonaan vai vain katon korkeuteen.\n→ Valitkaa ”Vehicle”.\nPääalue on aktiivinen.\n→ Toiminnon ”Trunk Opening-height Restriction” valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n→ Päälle tai pois kytkeminen: Painakaa n .\ntai\n→ Valitkaa ”Vehicle” → ”Vehicle” → ”Trunk Opening-height Restriction”.\nValintamerkki ilmestyy, kun tavaratilan avauskorkeuden rajoitus on kytketty päälle.\n→ Valinnan vahvistus: Painakaa n .\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=269",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/269/bg10d.webp",
+      "originalPath": "original/269.html"
+    },
+    {
+      "page": 270,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "COMAND-automaatti-ilmastointi – johdanto",
+      "fi": "Ohjausjärjestelmät\nCOMAND-automaatti-ilmastointi\nCOMAND-automaatti-ilmastointi\nVoitte käyttää automaatti-ilmastointia COMANDin kautta tai automaatti-ilmastoinnin paneelin painikkeilla (sivu 491).\nJoitakin erityisiä ilmastointitoimintoja voi asettaa vain COMANDin kautta.\nSeuraavia automaatti-ilmastoinnin toimintoja voi käyttää COMANDin kautta:\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\nVaroitus!\nKun käytätte automaatti-ilmastointia, ilmanvaihtoaukkojen kautta matkustamoon tuleva ilma voi olla hyvin kuumaa tai hyvin kylmää (asetetusta lämpötilasta riippuen). Tämä voi aiheuttaa palovammoja tai paleltumia suojaamattomalle iholle ilmanvaihtoaukkojen välittömässä läheisyydessä.\nPitäkää aina riittävä etäisyys suojaamattomien kehonosien ja ilmanvaihtoaukkojen välillä. Tarvittaessa ohjatkaa ilma ilmanjaon säädöllä (sivu 271) sellaisiin matkustamon ilmanvaihtoaukkoihin, jotka eivät ole suojaamattoman ihon välittömässä läheisyydessä.\n\nVaroitus!\nNoudattakaa lämmityksen ja jäähdytyksen suositusasetuksia seuraavilla sivuilla sekä osassa ”Yksityiskohtaiset hallintalaitteet” (sivu 491). Muuten ikkunat voivat huurtua, jolloin näkyvyys heikkenee ja te ja muut vaarannatte.\n\nToiminto Sivu\nTemperature 270\nAir distribution 271\nAir volume 271\nSwitching off cooling (”AC OFF”) 272\nCentral climate control (”Mono”) 273\nFootwell temperature 274\nAir flow from air vents 275",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=270",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/270/bg10e.webp",
+      "originalPath": "original/270.html"
+    }
+  ]
+}

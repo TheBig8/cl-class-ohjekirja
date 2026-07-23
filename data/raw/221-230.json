@@ -1,0 +1,97 @@
+{
+  "from": 221,
+  "to": 230,
+  "fetchedAt": "2026-07-23T13:12:41.039Z",
+  "pages": [
+    {
+      "page": 221,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=221",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/221/bgdd.webp",
+      "originalPath": "original/221.html",
+      "title": "220",
+      "en": "220\n Control systems\n COMAND navigation system (entering a destination)\n 왘 Deleting individual characters:\n Select ) in the bottom line and\n press n .\n 왘 Deleting an entir e entry: Select ) in\n the bottom line and press n until the\n entire entry is deleted.\n 왘 Canceling a n entry: Select “ Back ” in\n the bottom line and press n .\n or\n 왘 Press back bu tton L in the cent er\n console (\n 컄 page 84).\n As soon as COMAND can clearly attribute\n the characters entered to a destination,\n the input characters 4 disappear.\n You see the destination memory list without input characters. Here you can confirm\n the current entry or make another selection.\n You can also manually switch to the destination memory list without input characters at any time.\n 왘 Switching manually to the destination memory list without input characters: Sl ide q m .\n or\n 왘 Selec t ? in th e secon d line fr om the\n bottom and press n .\n Destination memory list without input\n characters\n 왘 Selecti ng a destin ation: Slid e q m r or\n rotate y m z .\n 왘 Canceling selection: Press back button L in the center console\n (\n 컄 page 84).\n or\n 왘 Sele ct “ Back ” and pre ss n .\n 왘 Confir ming sel ection : Press n .\n 왘 Starting route calculation:\n Select “ Start ”, see also (\n 컄 page 218).\n i\n The “Back” menu item is only present if this\n list was called up from the list with input characters.\n 컄컄"
+    },
+    {
+      "page": 222,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=222",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/222/bgde.webp",
+      "originalPath": "original/222.html",
+      "title": "221",
+      "en": "221\n Control systems\n COMAND navigation system (entering a destination)\n Entering a destination from the list of\n last destinations\n 왘 Select “ Navi ”  “ Destination ” \n “ From Last Destinations ”.\n The list of last destinations appears.\n The most recent destination is at the\n top of the list.\n 왘 Select desired destination.\n 왘 Starting route calculation:\n Select “ Start ”, see also (\n 컄 page 218).\n Entering a destination from the map\n Calling up the map\n 왘 In the address input menu, select\n “ Map ” (\n 컄 page 198).\n You will see the map with a crosshair.\n The map is set to the address set in the\n address input menu.\n or\n 왘 Select “ Na vi ”  “ Destination ” \n “ Via Map ”.\n You will see the map with a crosshair.\n 1 Crosshair\n 2 Details of the crosshair position\n 3 Map scale\n i\n Depending on the factory settings of the vehicle, it may not be possible to enter a destination while the vehicle exceeds a preset speed. As\n soon as the vehicles speed drops to below the\n preset speed, the function is available again.\n You can enter a destination via the map if the digital map does not contain the address of the destination, but the destination must be within the\n area of the digital map.\n i\n Display 2 may be the name of a road, for\n example, provided the digital map contains the\n necessary data.\n If no data is available, display 2 shows:\n • the coordinates if the geo-coordinate display\n is switched on ( 컄 page 195)\n • no display if the geo-coordinate display is\n switched off ( 컄 page 195)"
+    },
+    {
+      "page": 223,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=223",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/223/bgdf.webp",
+      "originalPath": "original/223.html",
+      "title": "222",
+      "en": "222\n Control systems\n COMAND navigation system (entering a destination)\n Moving the map and selecting the destination\n 왘 Moving m ap: Slide q m r , o m p or\n w m x .\n 왘 Adjusti ng map sc ale: Rot ate y m z .\n Rotating clockwise enlarges the map,\n rotating counterclockwise reduces it.\n 왘 Selecting a d estinatio n: Press n .\n If the crosshair is located off the edge\n of the digital map, a route cannot be\n calculated to this destination and you\n will see the message “ The destination is\n located off the map. ”.\n 왘 Select “ OK ”.\n 왘 Move the map and select a destination\n again.\n If the destination is within the limits of\n the digital map, COMAND attempts to\n attribute the destination to the map,\n which can take approximately\n 2 seconds.\n If the destination can be attributed, you\n will see the address of the destination.\n If not, you will see the display “ Destination from map ”.\n 왘 Starting route calculation:\n Select “ Start ”, see also (\n 컄 page 218).\n Entering a stopover\n i\n When route guidance is active, you can enter a stopover. Stopovers can be predefined destinations from the following predefined\n categories:\n • “Mercedes-Benz Center”\n • “Hospital”\n • “Gas station”\n • “Parking lot”\n • “Restaurant”\n However, you can also enter destinations other\n than the predefined ones.\n i\n You can use the stopover function to influence the route guidance calculation to the main\n destination. When you have reached your stopover, COMAND automatically calculates the\n route to the main destination."
+    },
+    {
+      "page": 224,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=224",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/224/bge0.webp",
+      "originalPath": "original/224.html",
+      "title": "223",
+      "en": "223\n Control systems\n COMAND navigation system (entering a destination)\n Entering predefined destinations\n 왘 Select “ Navi ”  “ Destination ” \n “ Stopover ”.\n If a stopover has already been entered,\n you can change it.\n 왘 Changing: Sele ct “ Change Stop -\n over ”.\n You can now select a category.\n 왘 Selecting a category:\n Select ca tegor y, e.g. “ Gas station ”.\n COMAND first looks for destinations\n within the immediate vicinity of the vehicle and near the vehicle’s route. If\n there are no destinations available\n there, COMAND searches for destinations in an area around the vehicle position.\n If COMAND does not find any destinations, you will see a message to this effect.\n 왘 Select “ OK ”.\n You can now select a different category.\n If COMAND finds destinations, you will\n see a list of the destinations and details\n of how far away they are in the\n right-hand side of the display. The information about how far away the destinations are can take a few seconds to\n be displayed.\n The left-hand part of the display shows\n the destinations on the map. The destination marked in the list is highlighted\n in the map.\n 왘 Selecting a destination: Select the\n desired destination from list.\n The address of the destination appears.\n 왘 Starting route calculation:\n Select “ Start ”, see also (\n 컄 page 218).\n Entering another destination as a\n stopover\n 왘 Select “ Navi ”  “ Dest inat ion ” \n “ Stopover ”.\n 왘 Entering: Select “ Other ”.\n You can select between the following\n menu items:\n • “ Address Entry ”\n • “ From Memory ”\n • “ From Last De stinations ”\n • “ From POIs ”\n 왘 Select a menu item."
+    },
+    {
+      "page": 225,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=225",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/225/bge1.webp",
+      "originalPath": "original/225.html",
+      "title": "224",
+      "en": "224\n Control systems\n COMAND navigation system (entering a destination)\n Subsequent destination entries may differ,\n depending on your selection:\n • “ Address Entry ” selection:\n 왘 Enter a destination by address\n (\n 컄 page 198).\n • “ From Memory ” selection:\n 왘 Enter a destination from the destination memory (\n 컄 page 219).\n • “ From Last Destinations ” selection:\n 왘 Enter a destination from the list of\n last destinations (\n 컄 page 221).\n • “ From POIs ” selection:\n 왘 Enter a special destination\n (\n 컄 page 225).\n 왘 Starting route calculation: After\n entering a destination, select “ Start ”\n (\n 컄 page 218).\n Changing a stopover\n If a stopover has already been entered, you\n can change it.\n 왘 Select “ Navi ”  “ Destination ” \n “ Sto pov er ”  “ Change Stopover ”.\n 왘 Enter another destination as a stopover.\n Deleting the stopover\n If a stopover has already been entered, you\n can delete it.\n 왘 Select “ Navi ”  “ Destination ” \n “ Stopove r ”  “ Dele te Sto pov er ”.\n COMAND deletes the stopover and calculates the route to the main destination."
+    },
+    {
+      "page": 226,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=226",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/226/bge2.webp",
+      "originalPath": "original/226.html",
+      "title": "225",
+      "en": "225\n Control systems\n COMAND navigation system (Point of interest entry)\n 왔 COMAND navigati on system (Point of in terest entry)\n Entering a POI in the surrounding area\n 왘 In the map view while the menu system\n is displayed, select (\n 컄 page 191) “ Destination ”  “ From POI s ”  “ Cu rrent\n Position ”.\n 왘 Continue with designating the POI category (\n 컄 page 226).\n Entering a POI in the surroundings of a\n given city\n Option 1\n 왘 In the map view while the menu system\n is displayed, select (\n 컄 page 191) “ Destination ”  “ From POI s ”  “ Ot her\n City ”.\n 왘 If necessary, enter state (USA)\n (\n 컄 page 199) or province (CDN)\n (\n 컄 page 199).\n 왘 Entering c ity: Se lect “ City ”.\n The city input menu appears.\n 왘 Then proceed as described in the “Entering a city” section (\n 컄 page 204).\n 왘 After entering the city, continue with\n designating the POI category\n (\n 컄 page 226).\n Option 2\n 왘 Enter an address in the address input\n menu (\n 컄 page 198).\n 왘 Select “ POI ”.\n 왘 Continue with designating the POI category (\n 컄 page 226).\n Entering a POI in a different region\n 왘 In the map view while the menu system\n is dis pla yed, sele ct “ Destination ” \n “ From POIs ”  “ Global POI ”\n (\n 컄 page 191).\n The category list appears. The state\n (USA) or province (CDN) currently selected is shown in the first list entry.\n i\n This function gives you quick access to POIs\n which are of national interest in the state (USA)\n or province (CDN) you have selected. The following categories may be available:\n • “AIRPORT”\n • “BORDER CROSSING”\n • “HIGHWAY ACCESS”\n Not all categories are available in all states (USA)\n or provinces (CDN).\n 컄컄"
+    },
+    {
+      "page": 227,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=227",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/227/bge3.webp",
+      "originalPath": "original/227.html",
+      "title": "226",
+      "en": "226\n Control systems\n COMAND navigation system ( Point of interest entry)\n 왘 Selecting another state (USA) or\n province (CDN): Select the first list\n entry.\n A list of states/provinces appears.\n 왘 Select desired state (USA) or province\n (CDN).\n If there are no POIs for the selected\n state (USA) or province (CDN), you will\n see a corresponding message.\n 왘 Closing message: Sele ct “ OK ”.\n You can again select a state (province).\n If there are POIs, you will see the category list again.\n 왘 Proceed as described in the “Selecting\n a category” paragraph in the “Main category list without input characters”\n section (\n 컄 page 228).\n Designating a POI category\n The categories and POIs available depend\n on the distance from the vehicle position\n you have set for the POI.\n • POI in the surrounding area:\n categories sorted alphabetically and\n POIs sorted by distance within a radius\n of about 12 mi around the vehicle position are available. You can extend the\n search radius using the list options\n (\n 컄 page 231).\n • POI within a given city:\n If you have only entered the state (USA)\n or province (CDN) and the city, alphabetically sorted categories and alphabetically sorted POIs within the city are\n available.\n If you have entered more than the state\n (USA) or province (CDN) and the city,\n alphabetically sorted categories and\n POIs sorted by distance within a radius\n of about 12 mi around the address entered are available. You can extend the\n search radius and the category selection using the list options\n (\n 컄 page 231).\n • POIs in a different region:\n Alphabetically sorted categories and\n alphabetically sorted POIs are available.\n Entering a category\n Depending on the number of available categories, the main category list appears for\n category entry either with or without input\n characters (\n 컄 page 228).\n 컄컄"
+    },
+    {
+      "page": 228,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=228",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/228/bge4.webp",
+      "originalPath": "original/228.html",
+      "title": "227",
+      "en": "227\n Control systems\n COMAND navigation system (Point of interest entry)\n Main category list with input characters\n When this list appears, the input characters 5 are automatically activated.\n 1 Top list entry based on the input data\n up to that point\n 2 Characters entered by the user\n 3 Characters automatically added by the\n system\n 4 Symbol for available POIs or other\n available subcategories\n 5 Input characters\n 6 Currently non-selectable characters\n 7 Currently selectable character\n 8 Currently selected character\n 9 Main category list\n While the characters are being selected as\n described below, the top list entry 1 always shows the category which best corresponds to the input data as it has been\n entered up to that point.\n At the same time, COMAND automatically\n supplements characters 2 entered by the\n user with appropriate characters 3 .\n 왘 Selecting charac ters: Sl ide o m p or\n rotate y m z .\n 왘 Confirming character selection:\n Press n .\n 왘 Deleting individual characters:\n Select ) in the bottom line and\n press n .\n 왘 Deleting an entir e entry: Select ) in\n the bottom line and press n until the\n entire entry is deleted.\n 왘 Cancel ing an entry: Select “ Back ” in\n the bottom line and press n .\n or\n 왘 Press back button L in the cen ter\n console (\n 컄 page 84).\n As soon as COMAND can clearly attribute\n the characters entered to a category, the\n input characters 5 disappear.\n You see the list of main categories without\n the input characters. Here you can confirm\n the current entry or make another selection.\n You can also manually switch to the main\n category list without input characters at\n any time.\n 왘 Switching manually to the main category list without input characters:\n Slide q m .\n or\n 왘 Sele ct ? i n the second line from the\n bottom and press n .\n i\n In the list of input characters 5 , you can\n only select currently selectable characters.\n Which characters are included depends on the\n sequence in which you have entered your destination and the data version of the digital map."
+    },
+    {
+      "page": 229,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=229",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/229/bge5.webp",
+      "originalPath": "original/229.html",
+      "title": "228",
+      "en": "228\n Control systems\n COMAND navigation system ( Point of interest entry)\n Main category list without input\n characters\n Example illustration: main category list for\n POIs in the surrounding area\n 1 Category\n 2 Symbol for available POIs or other\n available subcategories\n 왘 Selecting a main category: Slide\n q m r or rotate y m z .\n 왘 Canceling s election: Se lect “ Back ”\n and press n .\n or\n 왘 Press back button L in th e center\n console (\n 컄 page 84).\n 왘 Confirm ing selecti on: Press n .\n Main categories with symbol 2 contain either POIs or subcategories. Further operation depends on whether the\n selected main category contains subcategories or only POIs.\n Selected main category contains subcategories:\n Selecting such a main category opens a list\n of subcategories. The illustration below\n shows by way of example the “ RESTAURANT ” main category with available subcategories 4 .\n 1 Main category\n 2 To show all POIs for all subcategories\n under category 1\n 3 Symbol for available POIs\n 4 Subcategory\n 왘 Selecti ng a su bcate gory: Slide q m r\n or rotate y m z ."
+    },
+    {
+      "page": 230,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=230",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/230/bge6.webp",
+      "originalPath": "original/230.html",
+      "title": "229",
+      "en": "229\n Control systems\n COMAND navigation system (Point of interest entry)\n 왘 Canceling selec tion: Sele ct “ Back ”\n and press n .\n or\n 왘 Press back button L in the center\n console (\n 컄 page 84).\n 왘 Confirmi ng selec tion: Press n .\n After selecting a subcategory, a list of\n POIs appears. It contains the POIs\n available within the search radius of\n the subcategory.\n Selected main category contains no subcategories, but only POIs:\n Selecting such a main category immediately opens a list of POIs. The POI list contains the available POIs within the search\n radius of the main category.\n POI list\n Depending on the situation, COMAND first\n shows the following list or the POI list with\n input characters.\n The illustration below shows by way of example the POI list for the “ RESTAURANT ”\n main categ ory, “ FREN CH CUI SINE ” s ubca tegory within the surrounding area.\n 1 Compass heading to the destination\n 2 Linear distance to the destination\n 3 Special destination\n In the POI list, you can either select a POI\n or enter the name of the POI.\n Selecting a POI\n 왘 Select desired POI.\n The POI list disappears and the address\n of the POI appears.\n 왘 Back to POI list: Select “ Back ” and\n press n .\n or\n 왘 Press back bu tton L in th e center\n console (\n 컄 page 84).\n 왘 Starting route calculation:\n Select “ Start ”, see also (\n 컄 page 218).\n Entering name of POI\n 왘 Select “ Options ”  “ Sp ell ”.\n The POI list appears with input characters; the input characters are automatically activated.\n i\n If you have selected list item 2 , the POI list\n contains all POIs for all subcategories within the\n search radius of main category 1 .\n i\n Displays 1 an d 2 are not visi ble if you\n have already entered a POI within a particular\n city. Disp lays 1 and 2 are static; t hey do not\n change while you are driving."
+    }
+  ]
+}

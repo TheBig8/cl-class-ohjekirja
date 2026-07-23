@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>CL-Class sivu 480</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #e8e8e8;
+      overflow: hidden;
+    }
+    .wrap {
+      box-sizing: border-box;
+      width: 100%;
+      overflow: hidden;
+      padding: 0.35rem;
+    }
+    .frame {
+      margin: 0 auto;
+      overflow: hidden;
+    }
+    .stage {
+      transform-origin: 0 0;
+      position: relative;
+    }
+    .stage.viewer-page {
+      margin: 0;
+      box-shadow: 0 0 4px rgba(0, 0, 0, 0.35);
+    }
+    .bi {
+      background-repeat: no-repeat !important;
+      background-position: 0 0 !important;
+      background-size: 100% 100% !important;
+    }
+    #sidebar{bottom:0;width:250px;overflow:auto}#page-container,#sidebar{position:absolute;top:0;left:0;padding:0;margin:0}#page-container{border:0;-webkit-overflow-scrolling:touch;padding:0!important}@media screen{#sidebar.opened+#page-container{left:250px}#page-container{bottom:0;right:0;overflow:auto}.loading-indicator{display:none}.loading-indicator.active{display:block;position:absolute;top:50%;left:50%;margin-top:-32px;margin-left:-32px;width:32px;height:32px;background:url('https://www.kayttooh.je/images/loading.gif')}.loading-indicator img{position:absolute;inset:0}}.pf{position:relative;background-color:#fff}.pc,.pf{overflow:hidden;margin:0;border:0}.pc{position:absolute;padding:0;top:0;left:0;width:100%;height:100%;transform-origin:0 0;-ms-transform-origin:0 0;-webkit-transform-origin:0 0}.pc,.pc.opened{display:block}.bf{top:0;bottom:0;width:100%;height:100%}.bf,.bi{position:absolute;border:0;margin:0;-moz-user-select:none;-webkit-user-select:none;user-select:none}.c{border:0;padding:0;margin:0;overflow:hidden;display:block}.c,.t{position:absolute}.t{white-space:pre;font-size:1px;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%;unicode-bidi:bidi-override;-moz-font-feature-settings:"liga" 0}._{color:transparent;z-index:-1}.pi{display:none}.d{position:absolute;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%}.tabs{margin-top:.5rem;margin-bottom:-.8rem;overflow-x:scroll;display:flex;align-items:baseline}.tabs .app-icon{margin-right:.3rem;transform:translateY(-2px)}.tabs button{background-color:#2b2f35;color:#fff;margin-left:.3rem;margin-bottom:0;padding:.2rem .5rem;font-weight:400;font-size:.875rem;text-transform:capitalize;transition:background-color .2s;cursor:pointer}.tabs button:first-child{padding-bottom:.8rem;background-color:#3d4652;border-bottom-left-radius:0;border-bottom-right-radius:0}@media(min-width:768px){.tabs button:first-child{margin-left:1rem}}.tabs button:hover{background-color:#3d4652}.hero{z-index:1000;display:flex;justify-content:center;align-content:start;flex-wrap:wrap;padding-top:50px}.hero,.hero:before{position:absolute;top:0;width:100%;height:100%}.hero:before{left:0;background:#ffffff4d;content:"";z-index:-1;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}.hero>div{position:sticky;top:0;max-width:400px;margin:0 auto;z-index:1}.glide__track{padding-bottom:10px}.glide__arrow--left,.glide__arrow--right{position:absolute;top:10px;bottom:10px;width:50px;z-index:10;justify-content:center;align-items:center;display:flex;font-size:1rem;transition:background-color .2s ease-in-out;transform:scale(1);opacity:1;width:80px}.glide__arrow--left:hover,.glide__arrow--right:hover{background-color:#0000001a}.glide__arrow--left:active .app-icon,.glide__arrow--right:active .app-icon{transform:scale(.8)}.glide__arrow--left{left:10px}.glide__arrow--right{right:10px}.glide__arrow .app-icon{margin:30px 0;position:sticky;bottom:50%;top:20px;color:#fff;-webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);z-index:-1;content:"";background:#0003;border:1px solid rgba(0,0,0,.3);border-radius:50%;height:2.5rem;width:2.5rem;display:flex}@media(min-width:768px){.viewer--in-view .glide__arrow .app-icon{animation:blink-desktop 1.5s 3}}.glide__arrow ::v-deep(svg){width:1rem}.viewer{position:relative;width:-100%;direction:ltr;background-color:#3d4652;padding-top:.5rem}@media(min-width:768px){.viewer{padding:.5rem .5rem 0;border-radius:.5rem;margin:0 .5rem;width:calc(100% - 1rem)}}.viewer__toolbar-top{position:absolute;bottom:0;right:.5rem;display:flex}.viewer__toolbar-top button{color:#fff;transition:background-color .3s ease-in-out}.viewer__toolbar-top button .app-icon{height:1.4rem;width:1.4rem}.viewer__toolbar-top button:hover{background-color:#0003}.viewer__title{padding:.5rem 3rem .5rem .5rem;margin:0;color:#fff;font-size:1rem}.viewer-transition{display:flex;flex-direction:row;position:relative}.viewer-transition>div{width:100vw}.js-only .viewer-transition>div{position:absolute;top:0}@media(max-width:767.98px){.viewer--in-view .viewer-container{animation:blink 1s 3}}.viewer-container{max-width:100%;margin:10px}.viewer-container:not(.active){display:none}.mounted .viewer-container{display:list-item}.viewer-page{min-height:80px;box-shadow:0 0 5px #000000e6;position:relative;background:#fff}}.viewer .pf{transform-origin:0 0}.slide-left-enter-active,.slide-left-leave-active,.slide-right-enter-active,.slide-right-leave-active{transition:.4s}@media(max-width:767.98px){.slide-left-enter{transform:translate(100%)!important}.slide-left-leave-to,.slide-right-enter{transform:translate(-100%)!important}.slide-right-leave-to{transform:translate(100%)!important}}@media(min-width:768px){.slide-left-enter{opacity:1}.slide-left-leave-to{opacity:0}.slide-right-enter{opacity:1}.slide-right-leave-to{opacity:0}}@keyframes blink{0%{transform:translate(0)}30%{transform:translate(0)}60%{transform:translate(-20px)}}@keyframes blink-desktop{0%{transform:scale(1)}80%{transform:scale(1)}90%{transform:scale(1.2)}}
+.viewer-page .h1,.viewer-page .h2,.viewer-page .h3,.viewer-page .h4,.viewer-page .h5,.viewer-page .h6,.viewer-page h1,.viewer-page h2,.viewer-page h3,.viewer-page h4,.viewer-page h5,.viewer-page h6{margin-bottom:auto}.viewer-page figure{margin:0}#sidebar{bottom:0;width:250px;overflow:auto}#page-container,#sidebar{position:absolute;top:0;left:0;padding:0;margin:0}#page-container{border:0}@media screen{#sidebar.opened+#page-container{left:250px}#page-container{bottom:0;right:0;overflow:auto}.loading-indicator{display:none}.loading-indicator.active{display:block;position:absolute;width:64px;height:64px;top:50%;left:50%;margin-top:-32px;margin-left:-32px}.loading-indicator img{position:absolute;inset:0}}.pf{position:relative;background-color:#fff}.pc,.pf{overflow:hidden;margin:0;border:0}.pc{position:absolute;padding:0;top:0;left:0;width:100%;height:100%;transform-origin:0 0;-ms-transform-origin:0 0;-webkit-transform-origin:0 0}.pc,.pc.opened{display:block}.bf{top:0;bottom:0;width:100%;height:100%}.bf,.bi{position:absolute;border:0;margin:0;-moz-user-select:none;-webkit-user-select:none;user-select:none}.c{border:0;padding:0;margin:0;overflow:hidden;display:block}.c,.t{position:absolute}.t{white-space:pre;font-size:1px;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%;unicode-bidi:bidi-override;-moz-font-feature-settings:"liga" 0}.t:after{content:""}.t span{position:relative;display:inline-block;unicode-bidi:bidi-override}._{color:transparent;z-index:-1}.pi{display:none}.d{position:absolute;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%}span[data-link]>div{cursor:pointer;transition:background .2s ease-in-out;background-color:transparent!important;z-index:1}span[data-link]>div:hover{background-color:#0003!important}
+.viewer-page .ff0{font-family:sans-serif;visibility:hidden;}
+@font-face{font-family:ff1;font-display:swap;src:url('assets/480/f1.woff')format("woff");}.viewer-page .ff1{font-family:ff1;line-height:0.905000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff2;font-display:swap;src:url('assets/480/f2.woff')format("woff");}.viewer-page .ff2{font-family:ff2;line-height:0.885000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff3;font-display:swap;src:url('assets/480/f3.woff')format("woff");}.viewer-page .ff3{font-family:ff3;line-height:0.914000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff4;font-display:swap;src:url('assets/480/f4.woff')format("woff");}.viewer-page .ff4{font-family:ff4;line-height:0.997000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff5;font-display:swap;src:url('assets/480/f5.woff')format("woff");}.viewer-page .ff5{font-family:ff5;line-height:0.772000;font-style:normal;font-weight:normal;visibility:visible;}
+.viewer-page .m0{transform:matrix(0.250000,0.000000,0.000000,0.250000,0,0);-ms-transform:matrix(0.250000,0.000000,0.000000,0.250000,0,0);-webkit-transform:matrix(0.250000,0.000000,0.000000,0.250000,0,0);}
+.viewer-page .v0{vertical-align:0.000000px;}
+.viewer-page .ls14{letter-spacing:-0.980064px;}
+.viewer-page .ls1d{letter-spacing:-0.406800px;}
+.viewer-page .ls30{letter-spacing:-0.306000px;}
+.viewer-page .ls26{letter-spacing:-0.295200px;}
+.viewer-page .lsf{letter-spacing:-0.266400px;}
+.viewer-page .ls24{letter-spacing:-0.262800px;}
+.viewer-page .ls2e{letter-spacing:-0.259200px;}
+.viewer-page .lsd{letter-spacing:-0.244800px;}
+.viewer-page .ls8{letter-spacing:-0.216000px;}
+.viewer-page .ls32{letter-spacing:-0.194400px;}
+.viewer-page .ls2b{letter-spacing:-0.158400px;}
+.viewer-page .ls0{letter-spacing:-0.144000px;}
+.viewer-page .ls33{letter-spacing:-0.082800px;}
+.viewer-page .ls27{letter-spacing:-0.043200px;}
+.viewer-page .ls31{letter-spacing:-0.036000px;}
+.viewer-page .lsb{letter-spacing:-0.028800px;}
+.viewer-page .ls10{letter-spacing:-0.010800px;}
+.viewer-page .ls15{letter-spacing:0.000000px;}
+.viewer-page .ls1f{letter-spacing:0.007200px;}
+.viewer-page .ls9{letter-spacing:0.021600px;}
+.viewer-page .ls7{letter-spacing:0.061200px;}
+.viewer-page .lsa{letter-spacing:0.068400px;}
+.viewer-page .ls2{letter-spacing:0.078624px;}
+.viewer-page .ls2d{letter-spacing:0.086400px;}
+.viewer-page .ls6{letter-spacing:0.090000px;}
+.viewer-page .ls1{letter-spacing:0.091200px;}
+.viewer-page .ls25{letter-spacing:0.093600px;}
+.viewer-page .ls21{letter-spacing:0.097200px;}
+.viewer-page .ls29{letter-spacing:0.104400px;}
+.viewer-page .ls2f{letter-spacing:0.108000px;}
+.viewer-page .ls16{letter-spacing:0.115200px;}
+.viewer-page .ls5{letter-spacing:0.118800px;}
+.viewer-page .ls2a{letter-spacing:0.122400px;}
+.viewer-page .ls19{letter-spacing:0.133200px;}
+.viewer-page .ls3{letter-spacing:0.136800px;}
+.viewer-page .ls22{letter-spacing:0.144000px;}
+.viewer-page .ls1a{letter-spacing:0.147600px;}
+.viewer-page .ls17{letter-spacing:0.151200px;}
+.viewer-page .ls1e{letter-spacing:0.162000px;}
+.viewer-page .lsc{letter-spacing:0.172800px;}
+.viewer-page .ls1c{letter-spacing:0.176400px;}
+.viewer-page .lse{letter-spacing:0.180000px;}
+.viewer-page .ls2c{letter-spacing:0.183600px;}
+.viewer-page .ls12{letter-spacing:0.194400px;}
+.viewer-page .ls20{letter-spacing:0.205200px;}
+.viewer-page .ls11{letter-spacing:0.208800px;}
+.viewer-page .ls23{letter-spacing:0.212400px;}
+.viewer-page .ls28{letter-spacing:0.219600px;}
+.viewer-page .ls18{letter-spacing:0.223200px;}
+.viewer-page .ls1b{letter-spacing:0.226800px;}
+.viewer-page .ls4{letter-spacing:0.234000px;}
+.viewer-page .ls13{letter-spacing:0.252000px;}
+.viewer-page .sc_{text-shadow:none;}
+.viewer-page .sc0{text-shadow:-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em  transparent;}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.viewer-page .sc_{-webkit-text-stroke:0px transparent;}
+.viewer-page .sc0{-webkit-text-stroke:0.015em transparent;text-shadow:none;}
+}
+.viewer-page .ws21{word-spacing:-3.463200px;}
+.viewer-page .wsb{word-spacing:-2.829600px;}
+.viewer-page .ws14{word-spacing:-2.516400px;}
+.viewer-page .ws5{word-spacing:-2.397600px;}
+.viewer-page .ws7{word-spacing:-2.368800px;}
+.viewer-page .ws2d{word-spacing:-2.365200px;}
+.viewer-page .ws4{word-spacing:-2.034000px;}
+.viewer-page .ws2f{word-spacing:-2.019600px;}
+.viewer-page .ws1d{word-spacing:-1.976400px;}
+.viewer-page .ws8{word-spacing:-1.861200px;}
+.viewer-page .wsd{word-spacing:-1.011600px;}
+.viewer-page .ws27{word-spacing:-0.795600px;}
+.viewer-page .ws1c{word-spacing:-0.586800px;}
+.viewer-page .ws23{word-spacing:-0.572400px;}
+.viewer-page .ws16{word-spacing:-0.554400px;}
+.viewer-page .ws12{word-spacing:-0.540000px;}
+.viewer-page .ws1f{word-spacing:-0.522000px;}
+.viewer-page .ws6{word-spacing:-0.496800px;}
+.viewer-page .ws31{word-spacing:-0.482400px;}
+.viewer-page .ws17{word-spacing:-0.475200px;}
+.viewer-page .ws29{word-spacing:-0.464400px;}
+.viewer-page .ws25{word-spacing:-0.453600px;}
+.viewer-page .ws2e{word-spacing:-0.428400px;}
+.viewer-page .ws19{word-spacing:-0.104400px;}
+.viewer-page .ws28{word-spacing:-0.100800px;}
+.viewer-page .ws34{word-spacing:-0.097200px;}
+.viewer-page .ws1{word-spacing:-0.091200px;}
+.viewer-page .ws15{word-spacing:-0.090000px;}
+.viewer-page .ws26{word-spacing:-0.064800px;}
+.viewer-page .ws10{word-spacing:-0.061200px;}
+.viewer-page .ws33{word-spacing:-0.054000px;}
+.viewer-page .ws18{word-spacing:-0.032400px;}
+.viewer-page .ws1b{word-spacing:-0.028800px;}
+.viewer-page .ws22{word-spacing:-0.025200px;}
+.viewer-page .ws3{word-spacing:-0.018000px;}
+.viewer-page .ws1a{word-spacing:-0.014400px;}
+.viewer-page .ws2b{word-spacing:-0.003600px;}
+.viewer-page .ws0{word-spacing:0.000000px;}
+.viewer-page .ws32{word-spacing:0.010800px;}
+.viewer-page .wsf{word-spacing:0.028800px;}
+.viewer-page .ws2{word-spacing:0.043680px;}
+.viewer-page .ws1e{word-spacing:0.046800px;}
+.viewer-page .wsa{word-spacing:0.097200px;}
+.viewer-page .ws20{word-spacing:0.111600px;}
+.viewer-page .ws13{word-spacing:0.129600px;}
+.viewer-page .wsc{word-spacing:0.147600px;}
+.viewer-page .ws35{word-spacing:0.154800px;}
+.viewer-page .ws2a{word-spacing:0.162000px;}
+.viewer-page .ws2c{word-spacing:0.277200px;}
+.viewer-page .ws36{word-spacing:0.313200px;}
+.viewer-page .ws9{word-spacing:0.334800px;}
+.viewer-page .wse{word-spacing:0.363600px;}
+.viewer-page .ws24{word-spacing:0.381600px;}
+.viewer-page .ws11{word-spacing:0.385200px;}
+.viewer-page .ws30{word-spacing:0.525600px;}
+.viewer-page ._0{margin-left:-1.089600px;}
+.viewer-page ._1{width:1.281600px;}
+.viewer-page ._4{width:9.542480px;}
+.viewer-page ._3{width:36.021120px;}
+.viewer-page ._2{width:399.655872px;}
+.viewer-page .fc2{color:rgb(255,0,0);}
+.viewer-page .fc1{color:rgb(0,0,0);}
+.viewer-page .fc0{color:rgb(255,255,255);}
+.viewer-page .fs5{font-size:31.680000px;}
+.viewer-page .fs2{font-size:36.000000px;}
+.viewer-page .fs3{font-size:39.840000px;}
+.viewer-page .fs1{font-size:43.680000px;}
+.viewer-page .fs0{font-size:48.000000px;}
+.viewer-page .fs4{font-size:55.680000px;}
+.viewer-page .y0{bottom:0.000000px;}
+.viewer-page .y1{bottom:103.481000px;}
+.viewer-page .y41{bottom:143.202700px;}
+.viewer-page .y40{bottom:155.202400px;}
+.viewer-page .y2a{bottom:157.240600px;}
+.viewer-page .y3f{bottom:167.202100px;}
+.viewer-page .y29{bottom:168.280900px;}
+.viewer-page .y3e{bottom:179.201800px;}
+.viewer-page .y28{bottom:183.281000px;}
+.viewer-page .y18{bottom:183.287000px;}
+.viewer-page .y3d{bottom:191.201500px;}
+.viewer-page .y27{bottom:194.200700px;}
+.viewer-page .y17{bottom:195.286700px;}
+.viewer-page .y26{bottom:205.241000px;}
+.viewer-page .y3c{bottom:207.281800px;}
+.viewer-page .y16{bottom:207.286400px;}
+.viewer-page .y3b{bottom:219.281500px;}
+.viewer-page .y15{bottom:219.286100px;}
+.viewer-page .y25{bottom:220.241000px;}
+.viewer-page .y24{bottom:231.281300px;}
+.viewer-page .y14{bottom:231.285800px;}
+.viewer-page .y3a{bottom:235.241200px;}
+.viewer-page .y23{bottom:242.201000px;}
+.viewer-page .y13{bottom:243.285500px;}
+.viewer-page .y39{bottom:247.240900px;}
+.viewer-page .y12{bottom:255.285200px;}
+.viewer-page .y22{bottom:257.201000px;}
+.viewer-page .y38{bottom:259.240600px;}
+.viewer-page .y11{bottom:267.284900px;}
+.viewer-page .y37{bottom:271.240300px;}
+.viewer-page .y21{bottom:272.200700px;}
+.viewer-page .y10{bottom:279.284600px;}
+.viewer-page .y36{bottom:283.240000px;}
+.viewer-page .y20{bottom:283.241000px;}
+.viewer-page .yf{bottom:291.284300px;}
+.viewer-page .y35{bottom:298.240300px;}
+.viewer-page .y1f{bottom:298.241000px;}
+.viewer-page .ye{bottom:303.284000px;}
+.viewer-page .y34{bottom:309.280600px;}
+.viewer-page .y1e{bottom:314.201000px;}
+.viewer-page .yd{bottom:315.283700px;}
+.viewer-page .y33{bottom:320.200300px;}
+.viewer-page .yc{bottom:327.283400px;}
+.viewer-page .y32{bottom:331.240600px;}
+.viewer-page .y1d{bottom:336.881000px;}
+.viewer-page .yb{bottom:339.283100px;}
+.viewer-page .y31{bottom:342.280900px;}
+.viewer-page .ya{bottom:355.242800px;}
+.viewer-page .y30{bottom:357.280900px;}
+.viewer-page .y9{bottom:367.242500px;}
+.viewer-page .y2f{bottom:368.200600px;}
+.viewer-page .y1c{bottom:375.281500px;}
+.viewer-page .y2e{bottom:379.240900px;}
+.viewer-page .y8{bottom:379.242200px;}
+.viewer-page .y1b{bottom:387.281200px;}
+.viewer-page .y7{bottom:391.241900px;}
+.viewer-page .y2d{bottom:394.240700px;}
+.viewer-page .y1a{bottom:399.280900px;}
+.viewer-page .y6{bottom:403.241600px;}
+.viewer-page .y2c{bottom:405.281000px;}
+.viewer-page .y5{bottom:415.241300px;}
+.viewer-page .y2b{bottom:416.200700px;}
+.viewer-page .y19{bottom:421.960900px;}
+.viewer-page .y4{bottom:427.241000px;}
+.viewer-page .y3{bottom:466.000900px;}
+.viewer-page .y2{bottom:485.081000px;}
+.viewer-page .h3{height:24.516000px;}
+.viewer-page .h2{height:29.789760px;}
+.viewer-page .h1{height:32.736000px;}
+.viewer-page .h4{height:44.098560px;}
+.viewer-page .h0{height:595.000000px;}
+.viewer-page .w0{width:842.000000px;}
+.viewer-page .x0{left:0.000000px;}
+.viewer-page .x4{left:163.479700px;}
+.viewer-page .x5{left:344.799700px;}
+.viewer-page .x6{left:359.079700px;}
+.viewer-page .x7{left:526.239600px;}
+.viewer-page .x8{left:540.399700px;}
+.viewer-page .x2{left:592.719600px;}
+.viewer-page .x3{left:607.239600px;}
+.viewer-page .x1{left:668.319600px;}
+
+
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="frame">
+      <div class="stage viewer-page"><div class="page-480 pf w0 h0" data-v-85eae2e3><div id="pf1e0" class="pf w0 h0" data-page-no="1e0"><div class="pc pc1e0 w0 h0"><div class="bi x0 y0 w0 h0" alt="" style="background: url('assets/480/bg1e0.webp'); background-size: contain;"></div><div class="t m0 x1 h1 y1 ff1 fs0 fc0 sc0 ls0 ws0">479</div><h3 class="t m0 x2 h1 y2 ff1 fs0 fc0 sc0 ls1 ws1">Controls in detail</h3><h4 class="t m0 x3 h2 y3 ff1 fs1 fc1 sc0 ls2 ws2">Driving systems</h4><h6 class="t m0 x4 h3 y4 ff2 fs2 fc1 sc0 ls3 ws3">Special attention must be paid to objects </h6><h6 class="t m0 x4 h3 y5 ff2 fs2 fc1 sc0 ls4 ws4">outside of the camera’s field of view such as </h6><h6 class="t m0 x4 h3 y6 ff2 fs2 fc1 sc0 ls5 ws5">those located very close to or below the rear </h6><h6 class="t m0 x4 h3 y7 ff2 fs2 fc1 sc0 ls3 ws6">bumper, or above the recessed grip of the </h6><h6 class="t m0 x4 h3 y8 ff2 fs2 fc1 sc0 ls6 ws7">luggage compartment lid. Such objects may </h6><h6 class="t m0 x4 h3 y9 ff2 fs2 fc1 sc0 ls7 ws8">not be detected by the system and can dam-</h6><h6 class="t m0 x4 h3 ya ff2 fs2 fc1 sc0 ls8 ws9">age the vehicle.</h6><h6 class="t m0 x4 h3 yb ff2 fs2 fc1 sc0 ls9 wsa">The Rear View Camera does not warn you </h6><h6 class="t m0 x4 h3 yc ff2 fs2 fc1 sc0 lsa wsb">about impending collisions with objects. The </h6><h6 class="t m0 x4 h3 yd ff2 fs2 fc1 sc0 lsb wsc">driver is always responsible for safety and </h6><h6 class="t m0 x4 h3 ye ff2 fs2 fc1 sc0 lsc wsd">must continue to pay attention to the imme-</h6><h6 class="t m0 x4 h3 yf ff2 fs2 fc1 sc0 lsd wse">diate surroundings while parking or maneu-</h6><h6 class="t m0 x4 h3 y10 ff2 fs2 fc1 sc0 ls6 wsf">vering the vehicle. This applies not only to </h6><h6 class="t m0 x4 h3 y11 ff2 fs2 fc1 sc0 lse ws10">the area behind the vehicle, but also to the </h6><h6 class="t m0 x4 h3 y12 ff2 fs2 fc1 sc0 lsf ws11">area in front of and to the sides of the vehi-</h6><h6 class="t m0 x4 h3 y13 ff2 fs2 fc1 sc0 lse ws12">cle. Failure to do so could result in injury to </h6><h6 class="t m0 x4 h3 y14 ff2 fs2 fc1 sc0 ls10 ws13">persons and/or damage to the vehicle or </h6><h6 class="t m0 x4 h3 y15 ff2 fs2 fc1 sc0 lsd ws14">other property. We also recommend that the </h6><h6 class="t m0 x4 h3 y16 ff2 fs2 fc1 sc0 ls11 ws15">driver uses the Parktronic system* or Park </h6><h6 class="t m0 x4 h3 y17 ff2 fs2 fc1 sc0 ls12 ws16">Assist* when parking or maneuvering the </h6><h6 class="t m0 x4 h3 y18 ff2 fs2 fc1 sc0 ls13 ws0">vehicle.</h6><h5 class="t m0 x5 h4 y19 ff3 fs3 fc2 sc0 ls14 ws0">Warning! <span class="ff4 fs4 ls15">G</span></h5><h6 class="t m0 x5 h3 y1a ff2 fs2 fc1 sc0 ls16 ws17">Make sure no persons or animals are in the </h6><h6 class="t m0 x5 h3 y1b ff2 fs2 fc1 sc0 ls11 ws15">area in which you are maneuvering. You </h6><h6 class="t m0 x5 h3 y1c ff2 fs2 fc1 sc0 ls17 ws18">could otherwise injure them.</h6><h5 class="t m0 x5 h4 y1d ff3 fs3 fc2 sc0 ls14 ws0">Warning! <span class="ff4 fs4 ls15">G</span></h5><h6 class="t m0 x5 h3 y1e ff2 fs2 fc1 sc0 ls18 ws19">The Rear View Camera may not function if:</h6><h7 class="t m0 x5 h3 y1f ff5 fs5 fc1 sc0 ls15 ws0">앫 <span class="ff2 fs2 ls19 ws1a">the trunk lid is not completely closed</span></h7><h7 class="t m0 x5 h3 y20 ff5 fs5 fc1 sc0 ls15 ws0">앫 <span class="ff2 fs2 ls1a ws1b">it is raining or snowing heavily, or if </span></h7><h6 class="t m0 x6 h3 y21 ff2 fs2 fc1 sc0 ls1b ws1c">there is thick fog</h6><h7 class="t m0 x5 h3 y22 ff5 fs5 fc1 sc0 ls15 ws0">앫 <span class="ff2 fs2 lse ws12">in a very dark area</span></h7><h7 class="t m0 x5 h3 y23 ff5 fs5 fc1 sc0 ls15 ws0">앫 <span class="ff2 fs2 lsb wsc">the camera is exposed to very strong </span></h7><h6 class="t m0 x6 h3 y24 ff2 fs2 fc1 sc0 ls1c ws1d">white light (white stripes may appear on </h6><h6 class="t m0 x6 h3 y25 ff2 fs2 fc1 sc0 ls1d ws1e">the COMAND display)</h6><h7 class="t m0 x5 h3 y26 ff5 fs5 fc1 sc0 ls15 ws0">앫 <span class="ff2 fs2 ls1e ws1f">the surrounding area is lit with fluores-</span></h7><h6 class="t m0 x6 h3 y27 ff2 fs2 fc1 sc0 ls1f ws20">cent light (the COMAND display can </h6><h6 class="t m0 x6 h3 y28 ff2 fs2 fc1 sc0 ls20 ws0">flicker)</h6><h7 class="t m0 x5 h3 y29 ff5 fs5 fc1 sc0 ls15 ws0">앫 <span class="ff2 fs2 ls18 ws21">outside temperatures are very high (lens </span></h7><h6 class="t m0 x6 h3 y2a ff2 fs2 fc1 sc0 ls21 ws0">condensation)</h6><h7 class="t m0 x7 h3 y4 ff5 fs5 fc1 sc0 ls15 ws0">앫 <span class="ff2 fs2 ls22 ws22">there is a sudden change in tempera-</span></h7><h6 class="t m0 x8 h3 y2b ff2 fs2 fc1 sc0 ls23 ws23">ture, for example when you drive out of </h6><h6 class="t m0 x8 h3 y2c ff2 fs2 fc1 sc0 ls24 ws24">the cold into a heated garage in winter </h6><h6 class="t m0 x8 h3 y2d ff2 fs2 fc1 sc0 ls25 ws25">(lens condensation)</h6><h7 class="t m0 x7 h3 y2e ff5 fs5 fc1 sc0 ls15 ws0">앫 <span class="ff2 fs2 ls26 ws26">the camera lens is dirty or covered, see </span></h7><h6 class="t m0 x8 h3 y2f ff2 fs2 fc1 sc0 ls27 ws27">“Cleaning the Rear View Camera* lens” </h6><h6 class="t m0 x8 h3 y30 ff2 fs2 fc1 sc0 ls15 ws0">(<span class="ff5 fs5">컄 </span><span class="ls10">page<span class="_"> </span>602)</span></h6><h7 class="t m0 x7 h3 y31 ff5 fs5 fc1 sc0 ls15 ws0">앫 <span class="ff2 fs2 ls28 ws28">the rear of your vehicle is damaged. In </span></h7><h6 class="t m0 x8 h3 y32 ff2 fs2 fc1 sc0 ls29 ws29">this case, have the position and setting </h6><h6 class="t m0 x8 h3 y33 ff2 fs2 fc1 sc0 ls27 ws2a">of the camera checked by a qualified </h6><h6 class="t m0 x8 h3 y34 ff2 fs2 fc1 sc0 ls2a ws2b">technician. Contact an authorized </h6><h6 class="t m0 x8 h3 y35 ff2 fs2 fc1 sc0 ls2b ws2c">Mercedes-Benz Center.</h6><h6 class="t m0 x7 h3 y36 ff2 fs2 fc1 sc0 ls2c ws26">Do not use the Rear View Camera if the </h6><h6 class="t m0 x7 h3 y37 ff2 fs2 fc1 sc0 ls2d ws2d">roads are icy, slippery or covered with snow. </h6><h6 class="t m0 x7 h3 y38 ff2 fs2 fc1 sc0 lsa ws2e">The vehicle could slip causing the actual ve-</h6><h6 class="t m0 x7 h3 y39 ff2 fs2 fc1 sc0 ls2e ws2f">hicle position to deviate from the one shown </h6><h6 class="t m0 x7 h3 y3a ff2 fs2 fc1 sc0 ls1d ws30">on the COMAND display. </h6><h6 class="t m0 x7 h3 y3b ff2 fs2 fc1 sc0 ls2a ws31">This may cause injury to you or others, or </h6><h6 class="t m0 x7 h3 y3c ff2 fs2 fc1 sc0 ls2f ws32">damage the vehicle or objects.</h6><h6 class="t m0 x7 h3 y3d ff2 fs2 fc1 sc0 ls30 ws33">Mounting tires/rims of other specification </h6><h6 class="t m0 x7 h3 y3e ff2 fs2 fc1 sc0 ls24 ws34">than the original equipment tires/rims may </h6><h6 class="t m0 x7 h3 y3f ff2 fs2 fc1 sc0 ls31 ws35">impair the function of the Rear View Cam-</h6><h6 class="t m0 x7 h3 y40 ff2 fs2 fc1 sc0 ls32 ws36">era. Contact an authorized Mercedes-Benz </h6><h6 class="t m0 x7 h3 y41 ff2 fs2 fc1 sc0 ls33 ws0">Center.</h6></div><div class="pi" data-data='{"ctm":[0.000000,-1.000000,1.000000,0.000000,0.000000,595.000000]}'></div></div>
+</div></div>
+    </div>
+  </div>
+  <script>
+(function () {
+  var stage = document.querySelector(".stage");
+  var frame = document.querySelector(".frame");
+  var wrap = document.querySelector(".wrap");
+  var page = document.querySelector(".stage .pf.w0, .stage .pf[data-page-no], .stage > .pf");
+  if (!stage || !frame || !page) return;
+
+  function notifyParent(height) {
+    try {
+      if (window.parent && window.parent !== window) {
+        window.parent.postMessage({
+          type: "cl-orig-size",
+          page: 480,
+          height: height
+        }, "*");
+      }
+    } catch (e) {}
+  }
+
+  function fit() {
+    page.style.transform = "none";
+    var pad = 8;
+    var avail = Math.max(120, document.documentElement.clientWidth - pad);
+    var w = page.offsetWidth || 842;
+    var h = page.offsetHeight || 595;
+    if (!w || !h) return;
+    var scale = Math.min(1, avail / w);
+    var fw = Math.round(w * scale);
+    var fh = Math.round(h * scale);
+    stage.style.transform = "scale(" + scale + ")";
+    frame.style.width = fw + "px";
+    frame.style.height = fh + "px";
+    var total = fh + 12;
+    if (wrap) wrap.style.height = total + "px";
+    document.body.style.height = total + "px";
+    notifyParent(total);
+  }
+
+  window.addEventListener("resize", fit);
+  window.addEventListener("load", fit);
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(fit).catch(function () {});
+  }
+  var bi = page.querySelector(".bi");
+  if (bi) {
+    var bg = getComputedStyle(bi).backgroundImage;
+    var m = bg && bg.match(/url\(["']?([^"')]+)/);
+    if (m && m[1]) {
+      var img = new Image();
+      img.onload = fit;
+      img.src = m[1];
+    }
+  }
+  fit();
+  setTimeout(fit, 50);
+  setTimeout(fit, 300);
+})();
+  </script>
+</body>
+</html>

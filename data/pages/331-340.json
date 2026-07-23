@@ -1,0 +1,96 @@
+{
+  "from": 331,
+  "to": 340,
+  "pages": [
+    {
+      "page": 331,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjausradio – Sat Radio, asema ja taajuus",
+      "fi": "Ohjausjärjestelmät\nÄäniohjausradio\n”Sat Radio”\n\nTällä komennolla kytkette satelliittiradion päälle.\n\n”Next station” tai ”Previous station”\nSeuraavilla komennoilla käynnistätte aseman haun ja viritätte seuraavan aseman:\n• ”Next station”\n• ”Previous station”\n\nTaajuuden valinta (vain FM, AM)\nVoitte esimerkiksi valita taajuuden FM-kaistalta (87,9–107,9 megahertsiä) suoraan äänikomennolla, kuten ”Ninety-five five”. Ääniohjausjärjestelmä tunnistaa myös sanat ”frequency”, ”point” ja ”megahertz”. Voitte esimerkiksi käyttää komentoa ”Frequency ninety-five point five”.\nEsimerkkikeskustelu:\ns Ninety-five point five\nÄäniohjausjärjestelmä virittää radion taajuudelle FM 95.5.\n\n”Save station” (Tallennettujen asemien luettelo)\nTällä komennolla tallennatte asetetun aseman (vain AM ja FM) nimellä henkilökohtaiseen asemaluetteloonne. Komennon jälkeen ääniohjausjärjestelmä pyytää teitä toistamaan nimen kahdesta neljään kertaan ennen kuin se tallennetaan asemaluetteloon. Kun toistatte aseman nimen, lausukaa se samalla tavalla kuin ensimmäisellä kerralla. Muuten nimeä ei voida tallentaa, ja ääniohjausjärjestelmä peruuttaa tallennuksen.\nEsimerkkikeskustelu:\ns Save station\nt Please say the station name\ns Smooth Jazz\nt Please say the station name again\ns Smooth Jazz\nt The station Smooth Jazz has been saved\n\n”Select station” (Tallennettujen asemien luettelo)\nKomennolla ”Select station” (vain AM ja FM) valitsette tallennetun aseman nimen asemaluettelostanne.\nEsimerkkikeskustelu:\ns Select station\nt Please say the station name\ns Smooth Jazz\nÄäniohjausjärjestelmä virittää vastaavalle taajuudelle.\n\ni\nÄäniohjausjärjestelmä voi tunnistaa nimiä, vaikka niitä ei olisi tallennettu omalla äänellänne. Parhaan tuloksen saatte kuitenkin kutsumalla vain itse tallentamianne nimiä.\n\ni\nVoitte valita aseman nimen vapaasti, esimerkiksi ”Favorite station”.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=331",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/331/bg14b.webp",
+      "originalPath": "original/331.html"
+    },
+    {
+      "page": 332,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjausradio – aseman valinta, luettelo ja poisto",
+      "fi": "Ohjausjärjestelmät\nÄäniohjausradio\n”Station Smooth Jazz” (Tallennettujen asemien luettelo)\n\nTällä komennolla (vain AM ja FM) valitsette suoraan tallennetun aseman nimen asemaluettelostanne.\nEsimerkkikeskustelu:\ns Station Smooth Jazz\nÄäniohjausjärjestelmä virittää vastaavan aseman.\n\n”List station list” ja aseman valinta luettelosta\nTällä komennolla luettelette koko asemaluettelon tai valitsette merkinnän asemaluettelosta.\nEsimerkkikeskustelu:\ns List station list\nÄäniohjausjärjestelmä lukee koko luettelon.\nAseman valinta:\nKun järjestelmä lukee halutun aseman:\n→ Painakaa ! .\n→ Keskustelun peruutus: Painakaa L .\nKeskustelu päättyy. Järjestelmä vahvistaa ”Cancel”.\n\n”Delete station” (Tallennettujen asemien luettelo)\nKomennolla ”Delete station” (vain AM ja FM) poistatte aseman henkilökohtaisesta asemaluettelostanne.\nEsimerkkikeskustelu:\ns Delete station\nt Which station do you want to delete?\ns Smooth Jazz\nt Do you want to delete Smooth Jazz?\ns Yes\nt Station deleted\n\ni\nJos ääniohjausjärjestelmä ei tunnista pyytämäänne aseman nimeä, katsokaa kohtaa ”List station list” (sivu 331).\nSeuraamalla keskustelua voitte tarkistaa ja selvittää, onko nimi tallennettu asemaluetteloon.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=332",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/332/bg14c.webp",
+      "originalPath": "original/332.html"
+    },
+    {
+      "page": 333,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjausradio – asemaluettelon poisto",
+      "fi": "Ohjausjärjestelmät\nÄäniohjausradio\n”Delete station list”\n\nTällä komennolla poistatte koko asemaluettelon tai yhden tai useamman aseman asemaluettelosta.\nEsimerkkikeskustelu:\ns Delete station list\nt Do you want to delete all voice names from the station list?\ns Yes\nt Are you sure?\ns Yes\nt All voice names have been deleted from the station list\nJärjestelmä poistaa koko asemaluettelon. Asemaluettelon poistoa ei voi perua.\ntai\nt No\nJärjestelmä alkaa lukea asemaluetteloa.\nKun järjestelmä lukee poistettavan aseman:\n→ Painakaa ! .\nPoistettava asema valitaan.\nValitun aseman nimi luetaan vielä kerran.\nt Do you want to delete Smooth Jazz?\ns Yes\nt Station deleted\nAsema poistetaan, ja jäljellä olevat asemamerkinnät luetaan.\ntai\nt No\nJärjestelmä jatkaa asemaluettelon lukemista merkintä kerrallaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=333",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/333/bg14d.webp",
+      "originalPath": "original/333.html"
+    },
+    {
+      "page": 334,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus CD-/DVD-vaihtaja/MP3 – käyttö",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus CD-/DVD-vaihtaja/MP3\nÄäniohjaus CD-/DVD-vaihtaja/MP3\nKäyttö\n\nÄäniohjausjärjestelmällä voitte:\n• valita CD:n/DVD:n/median\n• valita kappaleen\n• valita kansion MP3-tilassa\n• valita ryhmän audio-DVD-tilassa\nJotta voitte käyttää DVD-vaihtajaa ääniohjausjärjestelmällä, ääniohjausjärjestelmän on oltava aktivoituna (sivu 306).\n\nCD-tilan valinta\n→ Painakaa ! .\n→ Sanokaa jokin seuraavista komennoista:\n• ”CD”\n• ”DVD”\n• ”MP3”\n→ Painakaa ! .\n→ Sanokaa jokin seuraavista komennoista.\n\nVaroitus!\nKeskittykää ensisijaisesti liikenneolosuhteisiin, joissa olette.\nTutustukaa audiotoimintoihin ennen matkaa.\nKäyttäkää ääniohjausjärjestelmää vain, kun tie- ja liikenneolosuhteet sen sallivat. Muuten voitte joutua onnettomuuteen, jossa te tai muut voivat loukkaantua.\n\ni\nSeuraavat komennot ”Next/Previous CD/DVD” ja ”CD/DVD 1”–”CD/DVD 6” saavat DVD-vaihtajan vaihtamaan lokerosta toiseen riippumatta valitussa lokerossa olevan median tyypistä. Komennossanne voitte siksi korvata termin ”CD/DVD” termillä ”Medium”.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=334",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/334/bg14e.webp",
+      "originalPath": "original/334.html"
+    },
+    {
+      "page": 335,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus CD-/DVD-vaihtaja/MP3 – komennot",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus CD-/DVD-vaihtaja/MP3\nKomennot\n\nKomentojen täydellinen luettelo (sivu 335).\n\n”Help CD”, ”Help DVD” tai ”Help MP3”\nKäyttäkää komentoja\n• ”Help CD”\n• ”Help DVD”\n• ”Help MP3”\nja ääniohjausjärjestelmä lukee täydellisen luettelon CD:n, DVD:n tai MP3:n käytettävissä olevista komennoista.\n\n”CD/DVD/Medium 1”–”CD/DVD/Medium 6”\nKomennoilla ”CD/DVD/Medium 1”–”CD/DVD/Medium 6” valitsette yhden enintään 6 mediasta DVD-vaihtajassanne.\n\n”Next CD/DVD/Medium”\nKomennolla ”Next CD/DVD/Medium” valitsette seuraavan käytettävissä olevan median DVD-vaihtajassa.\n\n”Track 1”–”Track 39”\nKomennoilla ”Track 1”–”Track 39” valitsette yhden enintään 39 kappaleenumerosta ladatulla medialla.\n\n”Next track”\nKomennolla ”Next track” valitsette seuraavan kappaleen.\n\n”Previous track” tai ”Repeat track”\nKomennolla ”Previous track” tai ”Repeat track” toistatte uudelleen kappaleen, jota kuuntelette.\n\n”Group 1”–”Group 9”\nKomennoilla ”Group 1”–”Group 9” valitsette ryhmän asetetulta audio-DVD:ltä.\n\n”Next group”/”Previous group”\nKomennoilla ”Next group”/”Previous group” valitsette ryhmän asetetulta audio-DVD:ltä.\n\n”Memory card”\nKomennolla ”Memory card” vaihdatte DVD-asemasta PCMCIA-kortille.\n\n”Drive”\nKomennolla ”Drive” vaihdatte PCMCIA-kortilta DVD-asemaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=335",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/335/bg14f.webp",
+      "originalPath": "original/335.html"
+    },
+    {
+      "page": 336,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjauksen komentoluettelo – yleiset komennot",
+      "fi": "Ohjausjärjestelmät\nÄäniohjauksen komentoluettelo\nÄäniohjauksen komentoluettelo\nKomentoluettelo\n\nLuku ”Command list” antaa teille yleiskuvan kaikista komennoista, joilla voitte ohjata ääniohjausjärjestelmää.\nMitkä komennot ovat käytettävissä, riippuu ajoneuvonne varustetasosta.\n\nYleiset komennot\n\ni\nJoitakin toimintoja voi käyttää useilla eri komennoilla. Seuraavassa luettelossa nämä komennot on ryhmitelty samaan soluun.\nValitkaa käytettävissä olevista komennoista itsellenne sopivin.\n\n• yes\n• right\n• ok\n• cancel\n• stop\n• quit\n• abort\n• terminate\n• no\n• no thank you\n• address book\n• MP3\n• CD\n• navigation\n• route guidance\n• audio DVD\n• radio\n• sat radio\n• satellite radio\n• telephone\n• messages\n• SMS\n• vehicle\n• correction\n• wrong\n• incorrect\n• help\n• help please\n• please help\n• help functions\n• help devices\n• help voice control\n• linguatronic help\n• general help",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=336",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/336/bg150.webp",
+      "originalPath": "original/336.html"
+    },
+    {
+      "page": 337,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjauksen komentoluettelo – puhelinkomennot*",
+      "fi": "Ohjausjärjestelmät\nÄäniohjauksen komentoluettelo\nPuhelinkomennot*\n\n• help permanent commands\n• help global commands\n• letters of the English alphabet\n• digits 0 - 9\n• continue\n• go forward\n• next page\n• back\n• go back\n• previous page\n• help radio\n• help tuner\n• radio help\n• tuner help\n• help telephone\n• help phone\n• help address book\n• help CD\n• help disc\n• help CD player\n• help CD changer\n• help audio DVD\n• help DVDA\n• help DVD audio\n• help DVD audio player\n• help DVD audio changer\n• help navigation\n• help nav\n• help navi\n• help route guidance\n• help routing\n• help destination guidance\n• telephone (on)\n• phone (on)\n• telephone off\n• save\n• save PIN\n• save PIN code\n• save number\n• save PIN number\n• save telephone number\n• save name\n• save password\n• store PIN\n• store PIN code\n• store number\n• store PIN number",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=337",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/337/bg151.webp",
+      "originalPath": "original/337.html"
+    },
+    {
+      "page": 338,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjauksen komentoluettelo – puhelin (jatkuu)",
+      "fi": "Ohjausjärjestelmät\nÄäniohjauksen komentoluettelo\n\n• store telephone number\n• store name\n• store password\n• dial\n• dial PIN\n• dial number\n• dial PIN number\n• dial PIN code\n• dial phone number\n• dial telephone number\n• dial password\n• dial unlock code\n• confirm\n• confirm PIN\n• confirm number\n• confirm PIN number\n• confirm PIN code\n• confirm phone number\n• confirm telephone number\n• confirm password\n• confirm unlock code\n• repeat PIN\n• repeat number\n• repeat PIN number\n• repeat PIN code\n• repeat phone number\n• repeat telephone number\n• repeat password\n• repeat unlock code\n• enter PIN\n• enter PIN code\n• enter PIN number\n• enter code\n• enter unlock code\n• list phone book\n• read out phone book\n• play phone book\n• get phone book\n• recall phone book\n• redial\n• redial last number\n• redial last phone number\n• correction\n• wrong PIN\n• wrong number\n• wrong PIN number\n• wrong PIN code\n• wrong phone number\n• wrong telephone number\n• wrong unlock code\n• incorrect PIN\n• incorrect number\n• incorrect PIN number\n• incorrect PIN code",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=338",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/338/bg152.webp",
+      "originalPath": "original/338.html"
+    },
+    {
+      "page": 339,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjauksen komentoluettelo – navigointi",
+      "fi": "Ohjausjärjestelmät\nÄäniohjauksen komentoluettelo\nNavigointikomennot\n\n• incorrect phone number\n• incorrect telephone number\n• incorrect unlock code\n• delete\n• delete PIN\n• delete number\n• delete PIN number\n• delete PIN code\n• delete phone number\n• delete telephone number\n• delete unlock code\n• navigation\n• nav\n• navi\n• route guidance\n• routing\n• destination guidance\n• guidance instructions on\n• switch guidance instruction on\n• switch guidance instructions on\n• switch route guidance instruction on\n• switch route guidance instructions on\n• switch on guidance instruction\n• switch on guidance instructions\n• switch on route guidance instruction\n• switch on route guidance instructions\n• guidance instructions off\n• switch guidance instructions off\n• switch route guidance instructions off\n• switch off guidance instructions\n• switch off route guidance instructions\n• mute guidance instructions\n• mute route guidance instructions\n• house number\n• enter house number\n• map (on)\n• show map\n• switch on map\n• zoom in\n• zoom in on map\n• zoom out\n• zoom out on map\n• zoom in completely\n• zoom out completely\n• enter country\n• enter another country\n• spell country\n• spell another country\n• change country\n• change another country\n• intersection\n• spell intersection",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=339",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/339/bg153.webp",
+      "originalPath": "original/339.html"
+    },
+    {
+      "page": 340,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjauksen komentoluettelo – navigointi (jatkuu)",
+      "fi": "Ohjausjärjestelmät\nÄäniohjauksen komentoluettelo\n\n• spell cross street\n• enter intersection\n• enter cross street\n• last destinations\n• last states\n• last provinces\n• spell town\n• spell city\n• spell name of town\n• spell name of city\n• enter town\n• enter city\n• enter name of town\n• enter name of city\n• district\n• center\n• spell district\n• spell center\n• enter district\n• enter center\n• points of interest\n• enter points of interest\n• enter point of interest\n• enter POI\n• enter POIs\n• street\n• spell street\n• spell name of street\n• enter street\n• enter name of street\n• enter destination\n• destination entry\n• destination input\n• address entry\n• address input\n• save destination\n• save address\n• store destination\n• store address\n• start route guidance\n• start navigation\n• start nav\n• start routing\n• begin route guidance\n• begin navigation\n• begin route guidance\n• begin routing\n• continue route guidance\n• continue navigation\n• continue nav\n• continue routing\n• destination guidance on\n• cancel route guidance\n• cancel navigation",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=340",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/340/bg154.webp",
+      "originalPath": "original/340.html"
+    }
+  ]
+}

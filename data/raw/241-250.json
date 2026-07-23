@@ -1,0 +1,97 @@
+{
+  "from": 241,
+  "to": 250,
+  "fetchedAt": "2026-07-23T13:13:03.884Z",
+  "pages": [
+    {
+      "page": 241,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=241",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/241/bgf1.webp",
+      "originalPath": "original/241.html",
+      "title": "240",
+      "en": "240\n Control systems\n COMAND navigation system (during route guidance)\n Cancel route guidance\n 왘 Select “ Destination ”  “ Cancel Route\n Guidance ” in map view with the menu\n system displayed (\n 컄 page 191).\n Continuing cancelled route guidance\n 왘 Select “ Destination ”  “ Continue\n Route Guidance ” in map view with the\n menu system displayed (\n 컄 page 191).\n COMAND calculates the route.\n Route browser\n 왘 Selec t “ Route ”  “ Route B rows er ” in\n map view with the menu system displayed (\n 컄 page 191).\n The route browser appears.\n 1 Highlighted route section\n 2 Current vehicle position; the triangle indicates the vehicle’s direction of travel\n 3 Information about the highlighted route\n section\n 왘 Displaying next or previous route\n secti on: Selec t “ Next ” or “ Previous ”.\n 왘 Increasing or reducing size of the\n map: Sele ct ; or : .\n 왘 Closing route browser:\n Select “ Back ”.\n i\n The route browser shows an overview of the\n route. You can use the route browser to move\n along the route section by section and view information about and details of each section of the\n route.\n i\n The information 3 about the marked route\n section shows the street name and the length of\n the route section. Marked route section 1 is always highlighted in white and outlined in red."
+    },
+    {
+      "page": 242,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=242",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/242/bgf2.webp",
+      "originalPath": "original/242.html",
+      "title": "241",
+      "en": "241\n Control systems\n COMAND navigation system (during route guidance)\n Displaying info\n 왘 Select “ Info ” in map view with the\n menu system displayed (\n 컄 page 191).\n The route information appears.\n Example display with main destination and\n stopover\n 1 Symbol = for stopover\n 2 Distance to the destination\n 3 Sequence of destinations (appears\n with at least one stopover)\n 4 Street\n 5 City and abbreviation for province\n (CDN) or state (USA)\n 6 Country\n 7 Symb ol < for ma in de stina tion\n 8 Estimated driving time to the destination\n 9 Estimated arrival time\n i\n COMAND uses the time set in COMAND as\n the basis for calculating the estimated arrival\n time. The clock must be set correctly in\n COMAND (\n 컄 page 255). The calculation of the\n estimated arrival time does not additionally take\n into account whether Daylight Saving Time or\n standard time is applicable at the destination. If\n the destination is in a different time zone, arrival\n time display\n 8 is in local time. This is indicated\n by “LT” in the display.\n The following data cannot be seen until the route\n calculation has been completed:\n • Distance to destination 1\n • Estimated arrival time 8\n • Estimated remaining travel time 7\n If the destination is located within a partially digitized area, the following data may differ from the\n facts:\n • Distance to destination 1\n • Estimated arrival time 8\n • Estimated remaining travel time 7"
+    },
+    {
+      "page": 243,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=243",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/243/bgf3.webp",
+      "originalPath": "original/243.html",
+      "title": "242",
+      "en": "242\n Control systems\n COMAND navigation system (during route guidance)\n Displaying route information\n 왘 Select “ Route ”  “ Route I nfo ” in map\n view with the menu system displayed\n (\n 컄 page 191).\n The route information appears.\n Example display route information\n 1 Highlighted portion of route\n 2 Info for highlighted portion of route\n 3 Next portion of route\n 왘 Clos ing rout e info : Sl ide o m p or\n press back button L in the center\n console (\n 컄 page 84).\n 왘 Displaying next or previous route\n secti on: Select “ Next ” or “ Previous ”.\n 왘 Increasing or reducing size of the\n map: Select ; or : .\n 왘 Closing route browser:\n Select “ Back ”.\n Detour function\n 왘 Sele ct “ Route ”  “ Detou r ” in map view\n with the menu system displayed\n (\n 컄 page 191).\n The detour function display appears.\n 왘 Setting length of the blockage:\n Sele ct “ More ” or “ Less ” unt il the desired length is set.\n i\n The detour function blocks a section of the\n route ahead of you. You can set the length of the\n blockage. If possible, COMAND calculates a detour route.\n i\n The detour function may direct you to\n off-road routes. See Off-road and Off-map for additional routes and cautions (\n 컄 page 237)."
+    },
+    {
+      "page": 244,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=244",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/244/bgf4.webp",
+      "originalPath": "original/244.html",
+      "title": "243",
+      "en": "243\n Control systems\n COMAND navigation system (during route guidance)\n 1 Blocked route section\n 2 Current vehicle position; the triangle indicates the vehicle’s direction of travel\n 3 Information about the blocked route\n section\n 왘 Starting route calculation:\n Select “ Start ”, see also (\n 컄 page 218).\n 왘 Deleting b lockage : Select “ Navi ” \n “ Route ”  “ Detour ”  “ Dele te ”.\n 왘 Select “ Back ”.\n i\n Blocked route section 1 is always highlighted in red/white. The information about blocked\n route section 3 shows which section of the\n route is blocked and the length of the blocked\n section."
+    },
+    {
+      "page": 245,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=245",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/245/bgf5.webp",
+      "originalPath": "original/245.html",
+      "title": "244",
+      "en": "244\n Control systems\n COMAND navigation system (real-time traffic)\n A RDS-TMC (Radio Data System-Traffic\n Message Channel) radio transmitter\n broadcasts traffic reports COMAND can\n receive and incorporate into the navigation\n system. Traffic report messages and map\n symbols can then be viewed in the\n COMAND display. Events displayed are\n those within receivable range of the vehicle&apos;s location.\n Real-time traffic notifications in the\n map\n COMAND can display certain traffic events\n in the map. The notifications are shown at\n the map scales from 0.05 mi (50 m) to\n 500 mi (500 km).\n 왘 Set the ma p scale: Tu rn y m z until the\n desired map scale is set.\n Turning clockwise enlarges the map,\n turning counterclockwise reduces it.\n Display example for a traffic jam on the\n route\n 1 Symbol for event on the route\n 2 Marker symbols for the affected route\n section\n 3 Current vehicle position and direction\n of travel\n 4 Map scale\n i\n Actual road and traffic conditions may be\n different from the received messages.\n i\n COMAND marks the entire route section affected with the appropriate sy mbols 2 , independently of its actual length on the route\n section. The symbols 2 are shown in the direction of travel on the left or right of the route.Thus,\n they also indicate which side of the roadway is\n affected by the event."
+    },
+    {
+      "page": 246,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=246",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/246/bgf6.webp",
+      "originalPath": "original/246.html",
+      "title": "245",
+      "en": "245\n Control systems\n COMAND navigation system (real-time traffic)\n The following shows the possible symbol\n displays.\n 1 Traffic jam on the route (symbol with\n red border)\n 2 Traffic jam away from the route (symbol with gray border)\n 3 Stop and go traffic on the route (symbol with red border)\n 4 Stop and go traffic away from the route\n (symbol with gray border)\n 5 Blocked section on the route\n 6 Traffic jam\n 7 Stop and go traffic\n Displaying real-time traffic reports\n Displaying the message list\n 왘 Select “ Navi ”  “ Traffic ”.\n COMAND searches for real-time traffic\n transmitters. When no traffic reports\n are present, you will see a display to\n this effect.\n List for inactive route guidance\n When route guidance is inactive, the list\n displays all streets for which messages are\n present.\n 1 Affected street list\n 왘 Read a message: Select a street.\n You can find an example message on\n (\n 컄 page 246).\n 왘 Close the list: Slid e o m p .\n i\n Instead of a street, an area or a region can\n also be affected by a message, for example,\n when visibility is limited due to fog."
+    },
+    {
+      "page": 247,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=247",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/247/bgf7.webp",
+      "originalPath": "original/247.html",
+      "title": "246",
+      "en": "246\n Control systems\n COMAND navigation system (real-time traffic)\n List for active route guidance\n When route guidance is active, the list displays only the streets which are part of the\n route and for which messages are present.\n 1 Show all messages (including those\n which do not affect the route)\n 2 Affected streets (only shown when\n messages which affect the route are\n present)\n 왘 Disp lay a ll m essage s: Se lect “ Display\n All Messages ”.\n All streets are shown for which messages are present, as well as for those\n which are not on the route.\n 왘 Read a message: Select a street.\n You can find an example message on\n (\n 컄 page 246).\n 왘 Close the list: Slide o m p once or repeatedly.\n Example message\n 1 Selection display (“ Messages On\n Route ” or “ All messages ”)\n 2 Symbol for message event (e.g. traffic\n jam)\n 3 Street affected by the message\n 4 Message 1 of 1 for the affected street\n 5 Message text\n The symbols for the possible message\n events are shown in the following.\n 1 Traffic jam symbol\n 2 Stop and go traffic symbol\n 3 Warning message symbol\n 4 Blocked section symbol\n 왘 Scroll through the contents or to the\n next messa ge: Turn y m z or slide\n q m r ."
+    },
+    {
+      "page": 248,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=248",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/248/bgf8.webp",
+      "originalPath": "original/248.html",
+      "title": "247",
+      "en": "247\n Control systems\n COMAND navigation system (destination memory)\n 왔 COMAND navigati on system (destinati on memory)\n Saving a destination in the destination\n memory\n Saving after the address has been\n entered\n 왘 Select “ Save ” after entering the address (\n 컄 page 198).\n You can now select save options.\n Saving during route guidance\n 왘 Select “ Destination ”  “ Save D es tina -\n tion ” during route guidance.\n You can now select save options.\n Saving a destination from the list of last\n destinations\n 왘 Select “ Na vi ”  “ Destination ” \n “ From Last Destinations ”.\n The list of last destinations appears.\n 왘 Select desired destination.\n The address of the destination is displayed.\n 왘 Select “ Save ”.\n You can now select save options.\n Selecting save options\n Saving a destination without a name\n 왘 Select “ Save Withou t Name ”.\n COMAND saves the destination in the\n destination memory and uses the address as the destination name.\n or\n 왘 Select “ Save as ‘My Address’ ”.\n 왘 Select de sired categor y, e.g. “ Home ”.\n COMAND saves the destination in the\n destination memory as your own address.\n Saving a destination with a name\n 왘 Select “ Sav e new entr y ”.\n 왘 Select de sired categor y, e.g. “ Home ”.\n The input menu appears with the data\n fields and the input characters.\n i\n This function also saves the destination in\n the address book. There COMAND creates an\n address book entry containing complete, navigable address data. You can then select this entry\n in the address book and start navigation to the\n address.\n 컄컄"
+    },
+    {
+      "page": 249,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=249",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/249/bgf9.webp",
+      "originalPath": "original/249.html",
+      "title": "248",
+      "en": "248\n Control systems\n COMAND navigation system (destination memory)\n 1 Selected data field with input mark\n (cursor)\n 2 Input characters\n 왘 Entering data: Proceed as described\n in the “Changing the data field” operating step in the “Creating a new address\n book entry” section (\n 컄 page 164).\n Assigning a destination to an address\n book entry\n 왘 Selec t “ Assign Address B ook Entry ”.\n 왘 Selec t desired c ategor y, e.g. “ Home ”.\n The menu appears for searching for an\n address book entry.\n 왘 Select desired address book entry. Proceed as described in the “Searching for\n an address book entry” section\n (\n 컄 page 166).\n If the selected address book entry does\n not yet contain any navigable address\n data, COMAND saves the data.\n If the selected address book entry already contains navigable address data,\n you will see a question asking you if the\n previous data should be overwritten.\n 왘 Sele ct “ Yes ” o r “ No ”.\n If you select “ Yes ”, COMAND saves the\n data.\n i\n This function assigns the complete, navigable address data to an already existing address\n book entry. You can then select this entry in the\n address book and start navigation to the address\n from there.\n 컄컄"
+    },
+    {
+      "page": 250,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=250",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/250/bgfa.webp",
+      "originalPath": "original/250.html",
+      "title": "249",
+      "en": "249\n Control systems\n COMAND navigation system (destination memory)\n Deleting a destination from the destination memory\n 왘 Select “ Navi ”  “ Destination ” \n “ From Memory ”.\n Depending on the number of entries in\n the destination memory, you will see\n the destination memory list with or\n without input characters.\n Example illustration: destination memory\n list without input characters\n Example illustration: destination memory\n list with input characters\n 1 Input characters\n 왘 Select desired destination. Proceed as\n described for destination entry in the\n “Entering a destination from the destination memory” section (\n 컄 page 219).\n 왘 Select “ Dele te ” af ter sele cting th e destination to be deleted.\n A prompt appears asking whether you\n want to delete the destination.\n 왘 Select “ Yes ” or “ No ”.\n If you select “ Yes ”, COMAND deletes\n the destination.\n i\n If the navigable address data of the destination to be deleted has also been assigned to an\n address book entry, COMAND deletes the data\n there as well. If the corresponding address book\n entry does not contain any further data, such as\n telephone numbers, COMAND deletes the entire\n address book entry."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "from": 431,
+  "to": 440,
+  "pages": [
+    {
+      "page": 431,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Vaihdealueen laajentaminen ja manuaalinen vaihtohjelma",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nVaihdealueen laajentaminen\n\n→ Painakaa lyhyesti oikeaa vaihtopainiketta 2 tai vetäkää oikeaa vaihtoläppää 2.\nVaihteisto vaihtaa seuraavalle korkeammalle vaihteelle vaihtohjelman sallimissa rajoissa. Samalla vaihteiston vaihdealue laajenee.\n\nVaihdealuerajoituksen peruutus\n→ Painakaa ja pitäkää painettuna oikeaa vaihtopainiketta 2 tai vetäkää ja pitäkää kiinni oikeaa vaihtoläppää 2, kunnes nykyisen vaihdealueen ilmaisin katoaa monitoiminäytöstä (sivu 426).\nVaihteisto vaihtaa nykyiseltä vaihdealueelta suoraan vaihdealueeseen D.\n\nVaihtaminen optimaaliseen vaihdealueeseen\n→ Painakaa ja pitäkää painettuna vasenta vaihtopainiketta 1 tai vetäkää ja pitäkää kiinni vasenta vaihtoläppää 1.\nVaihteisto valitsee automaattisesti vaihdealueen, joka sopii optimaaliseen kiihdytykseen ja hidastukseen. Tämä merkitsee vaihtamista yksi tai useampi vaihde alaspäin.\n\nManuaalinen vaihtohjelma (vain CL 63 AMG ja CL 65 AMG)\nAutomaattisen vaihtohjelman C tai S lisäksi ajoneuvonne on varustettu manuaalisella vaihtohjelmalla M.\nManuaalinen vaihtohjelma M poikkeaa automaattisesta vaihtohjelmasta S spontaanisuuden, vasteajan ja vaihtopehmeyden suhteen.\n\nManuaalisessa ohjelmatilassa M järjestelmän ohjaama automaattinen vaihteenvaihto on pois päältä, ja vaihteita on vaihdettava manuaalisesti ylös- tai alaspäin ohjauspyörän vasemmalla ja oikealla puolella olevilla vaihtoläpillä (sivu 429).\n\ni\nJos painatte kaasupoljinta, kun moottori on saavuttanut kierrosrajan, vaihteisto vaihtaa ylöspäin valitun vaihdealuerajoituksen ohi.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=431",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/431/bg1af.webp",
+      "originalPath": "original/431.html"
+    },
+    {
+      "page": 432,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Ohjelmatilan valintakytkin ja manuaalisen vaihtohjelman aktivointi",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nOhjelmatilan valintakytkin\n\nM Manual Manuaaliseen vaihteenvaihtoon\nC Comfort Normaaliajoon\nS Sport Urheilulliseen ajoon\n\nValittu ohjelmatila näkyy monitoiminäytössä (sivu 427).\n\nManuaalisen vaihtohjelman aktivointi\n→ Painakaa ohjelmatilan valintakytkintä toistuvasti, kunnes monitoiminäytössä näkyy ”M” manuaalista ohjelmatilaa M varten.\nVaihteisto siirtyy manuaaliseen ohjelmatilaan M. Automaattinen vaihto on pois päältä. Vaihdealueita ei rajoiteta.\n\nVoitte vaihtaa vaihteita manuaalisesti, kun ajoasento D on valittuna. Voitte vaihtaa vaihteita ylös- tai alaspäin peräkkäin.\n\nYlösvaihto\n→ Vetäkää lyhyesti oikeaa vaihtoläppää 2 (sivu 429).\nVaihteisto vaihtaa seuraavalle korkeammalle vaihteelle.\n\n!\nAntakaa moottorin lämmetä pienellä kuormituksella. Älkää kuormittako moottoria täydellä kuormalla ennen kuin käyttölämpötila on saavutettu.\nKytkekää peruutusvaihde R tai pysäköintiasento P vain ajoneuvon ollessa pysähdyksissä.\nVälttäkää vetävän pyörän pitkäaikaista luistoa liukkaalla tiellä liikkeelle lähdettäessä. Se voi aiheuttaa vakavia voimansiirron vaurioita, joita Mercedes-Benz Limited Warranty ei kata.\n\ni\nTietoja automaattisista ohjelmatiloista C tai S: ks. ”Automaattinen vaihtohjelma” (sivu 427) ja ”Ohjauspyörän vaihtokytkimet” (sivu 428).\n\ni\nManuaalista ohjelmatilaa M ei tallenneta. Kun moottori sammutetaan manuaalisen ohjelmatilan M ollessa valittuna, vaihteisto siirtyy automaattiseen ohjelmatilaan (C tai S), kun moottori käynnistetään uudelleen.\n\n!\nManuaalisessa ohjelmatilassa M vaihteisto ei vaihda ylöspäin, vaikka moottori olisi saavuttanut ylikierrosalueen. Vaihtakaa seuraavalle korkeammalle vaihteelle ennen kuin moottori saavuttaa ylikierrosalueen. Varmistakaa ehdottomasti, ettei moottorin käyntinopeus yllä kierroslukumittarin punaiselle merkinnälle (sivu 30). Muuten moottori voi vahingoittua, eikä Mercedes-Benz Limited Warranty kata tällaista vahinkoa.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=432",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/432/bg1b0.webp",
+      "originalPath": "original/432.html"
+    },
+    {
+      "page": 433,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Ylös-/alasvaihto, kickdown ja manuaalisen vaihtohjelman deaktivointi",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\n\nJos ajatte manuaalisessa ohjelmatilassa M, monitoiminäytön ylösvaihtoilmaisin 2 kehottaa vaihtamaan ylöspäin ennen kuin moottori saavuttaa ylikierrosalueen. Näin voitte ajaa kullakin vaihteella maksimikäyntinopeudella ilman moottorin ylikierrättämistä.\n\n1 Vaihteen ilmaisin\n2 Ylösvaihtoilmaisin ”up”\n3 Moottoriöljyn lämpötila\n4 Ajoneuvon syöttöjännite\n\n→ Vaihtakaa seuraavalle korkeammalle vaihteelle.\nMuuten polttoaineensyöttö keskeytetään moottorin ylikierrättämisen estämiseksi.\n\nAlasvaihto\n→ Vetäkää lyhyesti vasenta vaihtoläppää 1 (sivu 429).\nVaihteisto vaihtaa seuraavalle pienemmälle vaihteelle.\n\nKickdown\nKickdownin käyttö manuaalisessa ohjelmatilassa M ei ole mahdollista.\n\nManuaalisen vaihtohjelman deaktivointi\n→ Painakaa ohjelmatilan valintakytkintä (sivu 430) toistuvasti, kunnes monitoiminäytössä näkyy ”C” tai ”S”.\ntai\n→ Käynnistäkää moottori uudelleen.\nVaihteisto siirtyy automaattiseen ohjelmatilaan (C tai S).\nManuaalista ohjelmatilaa M ei tallenneta.\n\nVaroitus!\nÄlkää koskaan vaihtako pienemmälle vaihteelle jarrutuksen aikaansaamiseksi liukkaalla tiellä. Se voi aiheuttaa vetävien pyörien luiston ja heikentää ajoneuvon hallintaa. Ajoneuvonne ABS ei estä tämänkaltaista hallinnan menetystä.\n\ni\nKun jarrutatte tai pysähdytte, vaihteisto vaihtaa alaspäin vaihteelle, jolta voitte helposti kiihdyttää tai lähteä liikkeelle.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=433",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/433/bg1b1.webp",
+      "originalPath": "original/433.html"
+    },
+    {
+      "page": 434,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Hätäkäyttö (Limp-Home Mode)",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAutomaattivaihteisto\nHätäkäyttö (Limp-Home Mode)\n\nJos ajoneuvon kiihtyvyys heikkenee tai hidastuu tai vaihteisto ei enää vaihda, vaihteisto toimii todennäköisesti hätäkäyttötilassa (Limp-Home Mode). Tässä tilassa voidaan valita vain toinen vaihde ja peruutusvaihde.\n\n→ Pysäyttäkää ajoneuvo turvalliseen paikkaan.\n→ Siirtäkää pysäköintiasentoon P.\n→ Sammuttakaa moottori.\n→ Odottakaa vähintään 10 sekuntia ennen uudelleenkäynnistystä.\n→ Käynnistäkää moottori uudelleen.\n→ Siirtäkää ajoasentoon D (toista vaihdetta varten) tai peruutusvaihteelle R.\n→ Tarkastuttakaa vaihteisto valtuutetussa Mercedes-Benz-keskuksessa mahdollisimman pian.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=434",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/434/bg1b2.webp",
+      "originalPath": "original/434.html"
+    },
+    {
+      "page": 435,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Mittaristo – aktivointi ja valaistuksen säätö",
+      "fi": "Ohjaimet yksityiskohtaisesti\nMittaristo\n\nMittariston kokonaiskuva on tämän käyttöohjeen osiossa ”Yhdellä silmäyksellä” (sivu 30).\n\nMittaristo aktivoituu, kun:\n• avaatte oven\n• kytkette sytytysvirran (sivu 365)\n• kytkette ulkovalot päälle\n\nMonitoiminäytön kieliasetuksen voi muuttaa COMANDilla (sivu 83).\n\nMittariston näytön valaistuksen säätö\n1 Säädin\n\n→ Valaistuksen kirkastaminen: Kääntäkää säädintä 1 myötäpäivään.\n→ Valaistuksen himmentäminen: Kääntäkää säädintä 1 vastapäivään.\n\nVaroitus!\nJos mittaristo tai monitoiminäyttö on epäkunnossa, viestejä ei näytetä.\nSen seurauksena ette näe tietoja ajo-olosuhteistanne, kuten nopeutta tai ulkolämpötilaa, varoitus-/merkkivaloja, toimintahäiriö-/varoitusviestejä tai järjestelmien vikaantumista. Ajo-ominaisuudet voivat heikentyä.\nJos joudutte jatkamaan ajoa, tehkää se erityisen varovaisesti. Ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen mahdollisimman pian.\n\ni\nMittariston valaistus himmenee tai kirkastuu automaattisesti ympäristön valaistusolosuhteiden mukaan.\nMittariston valaistus säätyy myös automaattisesti, kun kytkette ajoneuvon ulkovalot päälle.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=435",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/435/bg1b3.webp",
+      "originalPath": "original/435.html"
+    },
+    {
+      "page": 436,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Jäähdytysnesteen lämpömittari ja kierroslukumittari",
+      "fi": "Ohjaimet yksityiskohtaisesti\nMittaristo\nJäähdytysnesteen lämpömittari\n\nJäähdytysnesteen lämpömittari on mittariston vasemmalla puolella (sivu 30).\n\nKierroslukumittari\nKierroslukumittarin punainen merkintä ilmaisee liian korkeaa moottorin käyntinopeutta.\nMoottorin suojaamiseksi polttoaineensyöttö keskeytetään, jos moottoria käytetään punaisen merkinnän alueella.\n\nVaroitus!\n• Ajaminen moottorin ylikuumentuessa voi sytyttää moottoritilaan mahdollisesti vuotaneet nesteet tuleen. Voitte palaa vakavasti.\n• Ylikuumentuneen moottorin höyry voi aiheuttaa vakavia palovammoja, ja sitä voi tulla jo konepeltiä avattaessa. Pysykää loitolla moottorista, jos näette tai kuulette höyryä siitä.\n\nPysäyttäkää ajoneuvo turvalliseen paikkaan pois muun liikenteen tieltä. Sammuttakaa moottori, poistukaa ajoneuvosta älkääkä seiskö ajoneuvon lähellä, ennen kuin moottori on jäähtynyt.\n\n!\nLiian korkea jäähdytysnesteen lämpötila laukaisee varoituksen monitoiminäytössä (sivu 657).\nMoottoria ei saa käyttää jäähdytysnesteen lämpötilan ollessa yli 248 °F (120 °C), eli jäähdytysnesteen lämpömittarin punaisella alueella. Se voi aiheuttaa vakavia moottorivaurioita, joita Mercedes-Benz Limited Warranty ei kata.\n\ni\nRaskaissa käyttöolosuhteissa, esim. stop-and-go-liikenteessä, jäähdytysnesteen lämpötila voi nousta lähelle 248 °F (120 °C), eli lähelle lämpömittarin punaista aluetta.\n\n!\nVälttäkää ajamista liian korkeilla moottorin käyntinopeuksilla, sillä se voi aiheuttaa vakavia moottorivaurioita, joita Mercedes-Benz Limited Warranty ei kata.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=436",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/436/bg1b4.webp",
+      "originalPath": "original/436.html"
+    },
+    {
+      "page": 437,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Ulkolämpötilan ilmaisin ja polttoainemittari",
+      "fi": "Ohjaimet yksityiskohtaisesti\nMittaristo\nUlkolämpötilan ilmaisin\n\nUlkolämpötilan ilmaisin on mittariston vasemmassa alakulmassa (sivu 30).\n\nLämpötila-anturi sijaitsee etupuskurin alueella. Sijaintinsa vuoksi anturiin voivat vaikuttaa tien tai moottorin lämpö joutokäynnillä tai hitaassa ajossa. Siksi näytetyn lämpötilan tarkkuuden voi varmistaa vain vertaamalla sitä anturin viereen asetettuun lämpömittariin, ei ulkoisiin näyttöihin (esim. pankkien kyltteihin tms.).\n\nKun siirrätte ajoneuvon kylmempään ympäristön lämpötilaan (esim. lähtiessänne autotallista), huomaatte viiveen ennen kuin alempi lämpötila näkyy näytössä.\nViive esiintyy myös ympäristön lämpötilan noustessa. Näin estetään epätarkat lämpötilaosoitukset, jotka johtuvat moottorin säteilemästä lämmöstä joutokäynnillä tai hitaassa ajossa.\n\nPolttoainemittari\nPolttoainemittari on mittariston vasemmalla puolella (sivu 30). Kun polttoainetaso on laskenut varamerkinnän alle, polttoainevaran keltainen segmentti-ilmaisin syttyy.\n\nVaroitus!\nUlkolämpötilan ilmaisin ei ole tarkoitettu jäätymisvaroittimeksi, eikä se siksi sovellu siihen tarkoitukseen.\nJuuri jäätymispisteen yläpuolella olevat näytetyt lämpötilat eivät takaa, että tienpinta on jäästä vapaa. Tie voi silti olla jäinen, erityisesti metsäisillä alueilla tai silloilla.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=437",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/437/bg1b5.webp",
+      "originalPath": "original/437.html"
+    },
+    {
+      "page": 438,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Ajojärjestelmät – johdanto ja vakionopeudensäädin",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\nAjojärjestelmät\n\nAjoneuvonne ajojärjestelmät kuvataan seuraavilla sivuilla:\n• Vakionopeudensäädin (sivu 437) ja DISTRONIC Plus* (sivu 443), joilla ajoneuvo voi ylläpitää asetettua nopeutta.\n• ABC (sivu 461) säätää ajoneuvon jousitusominaisuuksia automaattisesti ja ohjaa ajoneuvon korkeutta.\n• Parktronic* (sivu 463), Park Assist* (sivu 467) ja Advanced Parking Guidance* (sivu 471), jotka toimivat pysäköintiavustimina.\n• Takakamera* (Rear View Camera*) (sivu 477) on elektroninen ja visuaalinen pysäköintiavustin.\n• Night View Assist* (sivu 481) valaisee tietä infrapunavalolla normaalien ajovalojen lisäksi.\n• Blind Spot Assist* (sivu 485) tunnistaa ja varoittaa kuolleessa kulmassa olevista ajoneuvoista.\n\nTietoja ABS:stä, Adaptive Brakesta, BAS:ista, BAS Plus*:sta, EBP:stä, ESP®:stä ja PRE-SAFE® Brake*:sta: ks. ”Ajoturvallisuusjärjestelmät” (sivu 65).\n\nVakionopeudensäädin\nVakionopeudensäädin ylläpitää automaattisesti ajoneuvolle asettamanne nopeuden.\nVakionopeudensäätimen käyttöä suositellaan ajettaessa vakionopeudella pidempiä aikoja.\nVoitte asettaa tai palauttaa vakionopeudensäätimen millä tahansa nopeudella yli 20 mph (30 km/h).\nVakionopeudensäätimen toimintoa käytetään vakionopeudensäätimen vivulla.\n\nVaroitus!\nVakionopeudensäädin on mukavuusjärjestelmä, joka on suunniteltu avustamaan kuljettajaa ajoneuvon käytössä. Kuljettaja on ja hänen on aina oltava vastuussa ajoneuvon nopeudesta ja turvallisesta jarruttamisesta.\nKäyttäkää vakionopeudensäädintä vain, jos tie-, liikenne- ja sääolosuhteet tekevät vakionopeudella ajamisesta suositeltavaa.\n• Vakionopeudensäätimen käyttö voi olla vaarallista mutkaisilla teillä tai vilkkaassa liikenteessä, koska olosuhteet eivät salli turvallista ajoa vakionopeudella.\n• Vakionopeudensäätimen käyttö voi olla vaarallista liukkailla teillä. Nopeat muutokset renkaiden pidossa voivat johtaa pyörän luistoon ja hallinnan menetykseen.\n• Kytkekää vakionopeudensäädin pois päältä sumussa ajaessanne.\n”Resume”-toimintoa saa käyttää vain, jos kuljettaja on täysin tietoinen aiemmin asetetusta nopeudesta ja haluaa palauttaa juuri tämän asetetun nopeuden.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=438",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/438/bg1b6.webp",
+      "originalPath": "original/438.html"
+    },
+    {
+      "page": 439,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Vakionopeudensäätimen vipu ja aktivointi",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\n1 Nykyisen tai korkeamman nopeuden asetus\nSäätö 1 mph:n askelin (vastuspisteeseen) tai 5 mph:n askelin (vastuspisteen ohi)\n(Kanada: 1 km/h tai 10 km/h)\n2 Nykyisen tai alemman nopeuden asetus\nSäätö 1 mph:n askelin (vastuspisteeseen) tai 5 mph:n askelin (vastuspisteen ohi)\n(Kanada: 1 km/h tai 10 km/h)\n3 Vakionopeudensäätimen peruutus\n4 Vakionopeudensäätimen aktivointi tai viimeksi asetetun nopeuden palautus\n\nVakionopeudensäätimen aktivointi\nVoitte aktivoida vakionopeudensäätimen, jos ajoneuvon nopeus on yli 20 mph (30 km/h).\nSeuraavissa tapauksissa ette voi aktivoida vakionopeudensäädintä:\n• kun jarrutatte\n• kun ajoneuvo on lukittu elektronisella pysäköintijarrulla\n• kun automaattivaihteisto on pysäköintiasennossa P, peruutusvaihteella R tai vapaa-asennossa N\n• kun ESP® on kytketty pois päältä\n\nVaroitus!\nVakionopeudensäädin jarruttaa automaattisesti, jotta asetettua nopeutta ei ylitetä. Jarrupoljin painuu alas, kun vakionopeudensäädin käyttää jarruja.\nPitäkää kuljettajan jalkatila aina vapaana, myös jarrupolkimen alla oleva alue. Tähän alueeseen sijoitetut esineet voivat estää polkimen liikettä, mikä voi heikentää vakionopeudensäätimen jarrutuskykyä.\nÄlkää laittako jalkaanne jarrupolkimen alle – jalkanne voi juuttua kiinni.\nMuistakaa, että vakionopeudensäädin on mukavuusjärjestelmä, joka on suunniteltu avustamaan kuljettajaa ajoneuvon käytössä. Kuljettaja on ja hänen on aina oltava vastuussa ajoneuvon nopeudesta ja turvallisesta jarruttamisesta.\n\ni\nNopeusmittarissa näytetty ajoneuvon nopeus voi lyhyesti poiketa vakionopeudensäätimen asetetusta nopeudesta.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=439",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/439/bg1b7.webp",
+      "originalPath": "original/439.html"
+    },
+    {
+      "page": 440,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Nopeuden asetus ja vakionopeudensäätimen peruutus",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\nNykyisen nopeuden asetus\n\n→ Kiihdyttäkää tai hidastakaa haluttuun nopeuteen.\n→ Nostakaa lyhyesti vakionopeudensäätimen vipua nuolen 1 suuntaan tai painakaa sitä nuolen 2 suuntaan.\nNykyinen nopeus asetetaan.\n→ Ottakaa jalka pois kaasupolkimelta.\nVakionopeudensäädin aktivoituu.\n• Nykyinen asetettu nopeus näkyy monitoiminäytössä noin 5 sekunnin ajan.\n• Vastaavat nopeusmittarin segmentit valitusta nopeudesta ajoneuvon enimmäisnopeuteen syttyvät monitoiminäytössä.\n• Asetettu nopeus näytetään kolmiolla nopeusmittarissa.\n\nVakionopeudensäätimen peruutus\nVakionopeudensäätimen voi peruuttaa usealla tavalla:\n→ Painakaa jarrupoljinta.\nVakionopeudensäädin peruuntuu. Viimeksi asetettu nopeus tallennetaan myöhempää käyttöä varten.\ntai\n→ Työntäkää lyhyesti vakionopeudensäätimen vipua nuolen 3 suuntaan.\nVakionopeudensäädin peruuntuu. Viimeksi asetettu nopeus tallennetaan myöhempää käyttöä varten.\n\ni\nYlämäessä vakionopeudensäädin ei ehkä pysty ylläpitämään asetettua nopeutta. Kun mäki loivenee, asetettu nopeus palautuu.\nAlamäessä vakionopeudensäädin ylläpitää asetettua nopeutta jarruttamalla ajoneuvon jarrujärjestelmällä. Lisäksi pidemmissä alamäissä automaattivaihteisto vaihtaa automaattisesti alaspäin.\n\ni\nViimeksi tallennettu asetettu nopeus poistetaan, kun moottori sammutetaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=440",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/440/bg1b8.webp",
+      "originalPath": "original/440.html"
+    }
+  ]
+}

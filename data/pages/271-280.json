@@ -1,0 +1,96 @@
+{
+  "from": 271,
+  "to": 280,
+  "pages": [
+    {
+      "page": 271,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "COMAND-automaatti-ilmastointi – lämpötilan asetus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-automaatti-ilmastointi\nAutomaatti-ilmastoinnin valikko avataan ilmastointiasetusten kautta.\nIlmastointiasetukset toimintoineen (alivalikot)\n\n1 Lämpötila, vasen\n2 Ilmanjako, vasen\n3 Ilmamäärä, vasen\n4 Ilmastoinnin päävalikko\n5 Ilmamäärä, oikea\n6 Ilmanjako, oikea\n7 Lämpötila, oikea\n\nLämpötilan asetus\nKäyttäkää keskikonsolin lämpötilansäätimiä %$ (sivu 491) tai COMANDin ilmastointiasetuksia säätääksenne matkustamon ilman lämpötilaa erikseen kummallekin puolelle.\n→ Valitkaa ilmastointiasetukset → ”Temperature, left” tai ”Temperature, right” ja painakaa sitten n .\n→ Lämpötilan muutos: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valikosta poistuminen: Painakaa n , keskikonsolin takaisin-painiketta L (sivu 84) tai siirtäkää o m p .\nAsetus tallennetaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=271",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/271/bg10f.webp",
+      "originalPath": "original/271.html"
+    },
+    {
+      "page": 272,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ilmanjaon ja ilmamäärän säätö",
+      "fi": "Ohjausjärjestelmät\nCOMAND-automaatti-ilmastointi\nIlmanjaon säätö\n\nVoitte säätää ilmanjakoa erikseen kuljettajan ja etumatkustajan puolelle.\n→ Valitkaa ilmastointiasetukset → ”Air distribution, left” tai ”Air distribution, right”.\n→ Ilmanjaon muutos: Pyörittäkää y m z .\nIlmanjaon symboli vaihtuu. Nuolien suunta ja koko kuvaavat ilmanjakoa.\ntai\n→ Paluu automaattitilaan: Pyörittäkää y m z ja valitkaa ”AUTO”.\n→ Valikosta poistuminen: Painakaa n , keskikonsolin takaisin-painiketta L (sivu 84) tai siirtäkää o m p .\nAsetus tallennetaan.\n\nIlmamäärän säätö\nKäyttäkää keskikonsolin painikkeita Q (sivu 491) tai COMANDin ilmastointiasetuksia säätääksenne matkustamon ilmamäärää erikseen kummallekin puolelle.\n→ Valitkaa ilmastointiasetukset → ”Air volume, left” tai ”Air volume, right”.\n\ni\nKun muutatte ilmanjakoa, ilmastointijärjestelmän automaattitoiminto kytkeytyy pois.\n\ni\nKun muutatte ilmamäärää, ilmastointijärjestelmän automaattitoiminto kytkeytyy pois.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=272",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/272/bg110.webp",
+      "originalPath": "original/272.html"
+    },
+    {
+      "page": 273,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ilmamäärä ja ilmastoinnin päävalikko",
+      "fi": "Ohjausjärjestelmät\nCOMAND-automaatti-ilmastointi\n\n→ Ilmamäärän muutos: Siirtäkää q m r tai pyörittäkää y m z .\ntai\n→ Paluu automaattitilaan: Pyörittäkää y m z ja valitkaa ”AUTO”.\n→ Valikosta poistuminen: Painakaa n , keskikonsolin takaisin-painiketta L (sivu 84) tai siirtäkää o m p .\nAsetus tallennetaan.\n\nIlmastoinnin päävalikko COMANDin kautta\nIlmastoinnin päävalikko on ilmastointiasetusten keskellä.\nKun automaatti-ilmastointi on päällä, päävalikossa näkyy ”on”. Seuraavia toimintoja voi käyttää vain COMANDin ilmastoinnin päävalikossa:\n→ Valitkaa ilmastointiasetukset → Päävalikko.\n\nJäähdytyksen kytkeminen päälle tai pois\nJäähdytystoiminto, joka toimii vain moottorin käydessä, jäähdyttää ajoneuvon sisätilan valittuun lämpötilaan. Jäähdytystoiminto myös kuivattaa matkustamon ilman ja ehkäisee näin ikkunoiden huurtumista.\n\nToiminto · sivu\nJäähdytyksen poiskytkentä (”AC OFF”) · 272\nIlmastoinnin keskitys (”Mono”) · 273\nJalkatilan lämpötila · 274\nIlmavirta suuttimista · 275",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=273",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/273/bg111.webp",
+      "originalPath": "original/273.html"
+    },
+    {
+      "page": 274,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "AC OFF ja Mono-tila",
+      "fi": "Ohjausjärjestelmät\nCOMAND-automaatti-ilmastointi\n\nToiminnolla ”AC OFF” automaatti-ilmastoinnin jäähdytys kytketään pysyvästi pois.\n→ Valitkaa ilmastointiasetukset → Ilmastoinnin päävalikko.\n→ ”AC OFF” -valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nKun jäähdytys on pois päältä, näkyviin tulee valintamerkki.\nIlmastointiasetusten päävalikossa näkyy ”AC OFF”.\n\n”Mono”-tilan valinta\n”Mono” säätää kaikkien ilmastointivyöhykkeiden asetukset samalla kertaa koko ajoneuvoon.\nKun ”Mono” on päällä ja muutatte ilmastointia kuljettajan puolella, samat muutokset tehdään kaikille ilmastointivyöhykkeille.\n→ Valitkaa ilmastointiasetukset → Ilmastoinnin päävalikko.\n→ ”Mono” -valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nKun toiminto on valittu, näkyviin tulee valintamerkki.\n→ Valikosta poistuminen: Painakaa keskikonsolin takaisin-painiketta L (sivu 84) tai siirtäkää o m p .\n\ni\nAjoneuvon alta voi tippua kondenssivettä. Tämä on normaalia eikä merkitse vikaa.\n\nVaroitus!\nJos kytkette jäähdytyksen pois, ajoneuvoa ei jäähdytetä lämpimällä säällä. Ikkunat voivat huurtua nopeammin. Ikkunoiden huurtuminen voi heikentää näkyvyyttä ja vaarantaa teidät ja muut.\n\n!\nJos ilmastointia ei saa enää kytkettyä päälle, se voi merkitä, että ilmastointi menettää kylmäainetta. Kompressori on kytkeytynyt pois itsestään.\nTarkistuttakaa ilmastointi lähimmässä valtuutetussa Mercedes-Benz-keskuksessa.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=274",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/274/bg112.webp",
+      "originalPath": "original/274.html"
+    },
+    {
+      "page": 275,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Mono pois ja jalkatilan lämpötila",
+      "fi": "Ohjausjärjestelmät\nCOMAND-automaatti-ilmastointi\n\n”Mono”-toiminto kytkeytyy automaattisesti pois, kun:\n• muutatte etumatkustajan puolen automaatti-ilmastoinnin asetusta COMANDilla\n• käytätte etumatkustajan puolen automaatti-ilmastoinnin painiketta\n• käytätte jotakin takaosan ilmastoinnin painikkeista\n\nJalkatilan lämpötilan säätö\nToiminnolla ”Footwell Temperature” säädetään lämpötilaeroa jalkatilan ja muun matkustamon välillä.\nMitä suurempi valittu arvo on, sitä korkeampi on jalkatilan lämpötila.\n→ Valitkaa ilmastointiasetukset → Ilmastoinnin päävalikko.\n→ ”Footwell Temperature” -valinta: Siirtäkää q m r tai pyörittäkää y m z ja painakaa sitten n .\n→ Lämpötilaeron muutos: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valikosta poistuminen: Painakaa n , keskikonsolin takaisin-painiketta L (sivu 84) tai siirtäkää o m p .\nAsetus tallennetaan.\n\ni\nAutomaattitilassa tämä asetus optimoi jalkatilan lämpötilan ulkolämpötilan ollessa matala.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=275",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/275/bg113.webp",
+      "originalPath": "original/275.html"
+    },
+    {
+      "page": 276,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ilmavirta suuttimista (Airflow)",
+      "fi": "Ohjausjärjestelmät\nCOMAND-automaatti-ilmastointi\nIlmavirran säätö suuttimista\n\nAsetus ”Airflow” määrittää ilmanjaon ja ilmamäärän automaattitilassa:\n• ”Focused” (oletusasetus, voimakkaampi ilmavirta)\n• ”Medium” (heikompi ilmavirta)\n• ”Diffuse” (mahdollisimman vähäinen ilmavirta)\n→ Valitkaa ilmastointiasetukset → Ilmastoinnin päävalikko → ”Airflow”.\nValintaluettelo tulee näkyviin.\nNykyinen asetus ilmaistaan pisteellä R .\n→ Ilmavirran muutos: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n\ni\nAutomaattitilassa tämä asetus optimoi ilmavirran ulkolämpötilan ollessa korkea.\n\ni\nKun ajoneuvon sisäilma on hyvin kuuma ja automaatti-ilmastointi jäähdyttää sisätilaa, ilmavirta-asetus ohitetaan tilapäisesti.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=276",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/276/bg114.webp",
+      "originalPath": "original/276.html"
+    },
+    {
+      "page": 277,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "COMAND-istuimet – istuimen valinta",
+      "fi": "Ohjausjärjestelmät\nCOMAND-istuimet\nIstuimia säätäessänne noudattakaa turvallisuusohjeita osiossa ”Istuimet” (sivu 368).\n\nIstuinten ohjaus COMANDilla\nSeuraavia istuinasetuksia voi tehdä COMANDilla:\n\nIstuimen valinta\nValitkaa ensin istuin, jota haluatte säätää.\n1 Istuinvalikon painike\n→ Painakaa O .\nPääalue aktivoituu.\n→ Siirtyminen alavalikkoriville: Siirtäkää q m r .\n\nEsimerkkikuva (ajoneuvot, joissa ajodynaaminen monikontuuri-istuin*)\n→ Istuimen valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\nAsetukset · sivu\nRistiseläntuki (CL 550) · 277\nAjodynaamiset monikontuuri-istuimet* · 278",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=277",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/277/bg115.webp",
+      "originalPath": "original/277.html"
+    },
+    {
+      "page": 278,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Istuinvalikosta poistuminen ja ristiseläntuki",
+      "fi": "Ohjausjärjestelmät\nCOMAND-istuimet\nValikosta poistuminen\n\nIstuinvalikosta voi poistua usealla tavalla.\n→ Painakaa uudelleen O .\ntai\n→ Painakaa mitä tahansa pikanäppäintä.\ntai\n→ Valitkaa toinen päätoiminto päävalikkoriviltä.\n\nRistiseläntuki (CL 550)\nSelkärangan tueksi voitte säätää etuistuinten selkänojien kaarevuutta.\n→ Painakaa O .\nCOMAND-näytön pääalue aktivoituu. Näkyviin tulee asteikko.\n1 Asteikko\n2 Kohdistin\n3 Nykyinen istuin\n4 Nykyinen asetus\n→ Valitkaa istuin (sivu 276).\n→ Ristiseläntuen säätö: Siirtäkää o m p tai pyörittäkää y m z , kunnes haluttu asetus on saavutettu.\n→ Valinnan vahvistus: Painakaa n .\n→ Siirtyminen alavalikkoriville: Siirtäkää o m p .\n→ Valinnan vahvistus: Painakaa n .\n\ni\nKun olette painaneet O , viimeksi säädetty istuin on aktiivinen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=278",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/278/bg116.webp",
+      "originalPath": "original/278.html"
+    },
+    {
+      "page": 279,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ajodynaamiset monikontuuri-istuimet*",
+      "fi": "Ohjausjärjestelmät\nCOMAND-istuimet\nAjodynaamiset monikontuuri-istuimet*\n\nAjodynaamisilla monikontuuri-istuimilla voitte tehdä useita yksilöllisiä tukisäätöjä, ja ne voivat säätää sivuttaistukea automaattisesti ajotapanne mukaan (sivu 281).\n\nMonikontuurisäädöt\nSelkärangan tueksi voitte säätää etuistuinten selkänojan muotoa yksilöllisesti säätämällä ilmakammioiden ilmanpainetta.\nSäädöt tehdään COMAND-näytöllä.\nVoitte säätää seuraavia ilmakammioita:\n• istuinpehmusteen sivut\n• selkänojan sivut\n• selkänojan kaarevuus ristiselän alueella\n• selkänojan kaarevuus hartia-alueella\n\nIstuinpehmusteen sivujen säätö\nTällä toiminnolla säädetään istuinpehmusteen sivujen ilmakammioita.\n→ Valitkaa istuin (sivu 276).\n→ ”Seat sides” -valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nNäkyviin tulee asteikko.\n\ni\nKun PRE-SAFE® on aktivoitunut, ajodynaamisten monikontuuri-istuinten ilmakammioiden (istuinpehmusteen ja selkänojan sivut) ilmanpaine nousee.\n\ni\nSäätöjen aikana, manuaalisesti tai automaattisesti, ilmakammioihin pumpattavasta tai niistä vapautuvasta ilmasta voi kuulua ääntä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=279",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/279/bg117.webp",
+      "originalPath": "original/279.html"
+    },
+    {
+      "page": 280,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Istuin- ja selkänojansivut sekä ristiselkä",
+      "fi": "Ohjausjärjestelmät\nCOMAND-istuimet\n\n1 Asteikko\n2 Kohdistin\n3 Nykyinen asetus\n→ Siirtäkää q m r tai pyörittäkää y m z , kunnes haluttu asetus on saavutettu.\n→ Asetuksen tallennus: Painakaa n .\n\nSelkänojan sivujen säätö\nTällä toiminnolla säädetään selkänojan sivujen ilmakammioita.\n→ Valitkaa istuin (sivu 276).\n→ ”Seatback Sides” -valinta: Siirtäkää q m r tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nNäkyviin tulee asteikko.\n→ Siirtäkää q m r tai pyörittäkää y m z , kunnes haluttu asetus on saavutettu.\n→ Asetuksen tallennus: Painakaa n .\n\nSelkänojan kaarevuuden säätö ristiselän alueella\nTällä toiminnolla säädetään selkänojan ristiselän alueen ilmakammioita.\n→ Valitkaa istuin (sivu 276).\n→ ”Lumbar” -valinta: Siirtäkää o m p tai pyörittäkää y m z .\n→ Valinnan vahvistus: Painakaa n .\nNäkyviin tulee ristikko. Sillä voitte tehdä kaksi asetusta:\n• pystysuoraan: siirtäkää suurimman kaarevuuden kohtaa ylös- tai alaspäin\n• vaakasuoraan: säätäkää kaarevuuden voimakkuutta",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=280",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/280/bg118.webp",
+      "originalPath": "original/280.html"
+    }
+  ]
+}

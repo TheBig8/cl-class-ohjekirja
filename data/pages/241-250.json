@@ -1,0 +1,96 @@
+{
+  "from": 241,
+  "to": 250,
+  "pages": [
+    {
+      "page": 241,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Reittiopastuksen peruutus ja reittiselain",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (reittiopastuksen aikana)\nReittiopastuksen peruutus\n\n→ Valitkaa karttanäkymässä valikkojärjestelmän ollessa näkyvissä ”Destination” → ”Cancel Route Guidance” (sivu 191).\n\nPeruutettuun reittiopastukseen palaaminen\n→ Valitkaa karttanäkymässä valikkojärjestelmän ollessa näkyvissä ”Destination” → ”Continue Route Guidance” (sivu 191).\nCOMAND laskee reitin.\n\nReittiselain\n→ Valitkaa karttanäkymässä valikkojärjestelmän ollessa näkyvissä ”Route” → ”Route Browser” (sivu 191).\nReittiselain tulee näkyviin.\n\n1 Korostettu reittiosuus\n2 Nykyinen ajoneuvon sijainti; kolmio osoittaa ajosuunnan\n3 Tiedot korostetusta reittiosuudesta\n\n→ Seuraavan tai edellisen reittiosuuden näyttö: Valitkaa ”Next” tai ”Previous”.\n→ Kartan suurentaminen tai pienentäminen: Valitkaa ; tai : .\n→ Reittiselaimen sulkeminen: Valitkaa ”Back”.\n\ni\nReittiselain näyttää reitin yleiskuvan. Voitte siirtyä reittiselaimella reittiä osuus kerrallaan ja tarkastella kunkin reittiosuuden tietoja ja yksityiskohtia.\n\ni\nTiedot 3 merkitystä reittiosuudesta näyttävät kadunnimen ja reittiosuuden pituuden. Merkitty reittiosuus 1 on aina korostettu valkoisella ja reunustettu punaisella.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=241",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/241/bgf1.webp",
+      "originalPath": "original/241.html"
+    },
+    {
+      "page": 242,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Tietojen näyttö – pääkohde ja välipysähdys",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (reittiopastuksen aikana)\nTietojen näyttö\n\n→ Valitkaa karttanäkymässä valikkojärjestelmän ollessa näkyvissä ”Info” (sivu 191).\nReittitiedot tulevat näkyviin.\n\nEsimerkkinäyttö pääkohteella ja välipysähdyksellä\n1 Symboli = välipysähdykselle\n2 Etäisyys kohteeseen\n3 Kohteiden järjestys (näkyy, kun on vähintään yksi välipysähdys)\n4 Katu\n5 Kaupunki sekä provinssin (CDN) tai osavaltion (USA) lyhenne\n6 Maa\n7 Symboli < pääkohteelle\n8 Arvioitu ajoaika kohteeseen\n9 Arvioitu saapumisaika\n\ni\nCOMAND käyttää COMANDiin asetettua aikaa arvioidun saapumisajan laskennan perustana. Kello on asetettava oikein COMANDissa (sivu 255). Arvioidun saapumisajan laskenta ei lisäksi ota huomioon, onko kohteessa kesä- vai talviaika voimassa. Jos kohde on eri aikavyöhykkeellä, saapumisajan näyttö 9 on paikallisessa ajassa. Tämä ilmaistaan näytössä merkinnällä ”LT”.\nSeuraavia tietoja ei näy, ennen kuin reitinlaskenta on valmis:\n• Etäisyys kohteeseen 2\n• Arvioitu saapumisaika 9\n• Arvioitu jäljellä oleva ajoaika 8\nJos kohde sijaitsee vain osittain digitoidulla alueella, seuraavat tiedot voivat poiketa todellisuudesta:\n• Etäisyys kohteeseen 2\n• Arvioitu saapumisaika 9\n• Arvioitu jäljellä oleva ajoaika 8",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=242",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/242/bgf2.webp",
+      "originalPath": "original/242.html"
+    },
+    {
+      "page": 243,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Reittitietojen näyttö ja kiertotie-toiminto",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (reittiopastuksen aikana)\nReittitietojen näyttö\n\n→ Valitkaa karttanäkymässä valikkojärjestelmän ollessa näkyvissä ”Route” → ”Route Info” (sivu 191).\nReittitiedot tulevat näkyviin.\n\nEsimerkkinäyttö: reittitiedot\n1 Korostettu reittiosuus\n2 Tiedot korostetusta reittiosuudesta\n3 Seuraava reittiosuus\n\n→ Reittitietojen sulkeminen: Siirtäkää o m p tai painakaa keskikonsolin takaisin-painiketta L (sivu 84).\n→ Seuraavan tai edellisen reittiosuuden näyttö: Valitkaa ”Next” tai ”Previous”.\n→ Kartan suurentaminen tai pienentäminen: Valitkaa ; tai : .\n→ Sulkeminen: Valitkaa ”Back”.\n\nKiertotie-toiminto\n→ Valitkaa karttanäkymässä valikkojärjestelmän ollessa näkyvissä ”Route” → ”Detour” (sivu 191).\nKiertotie-toiminnon näyttö tulee näkyviin.\n→ Suljetun osuuden pituuden asetus: Valitkaa ”More” tai ”Less”, kunnes haluttu pituus on asetettu.\n\ni\nKiertotie-toiminto sulkee edessänne olevan reittiosuuden. Voitte asettaa suljetun osuuden pituuden. Jos mahdollista, COMAND laskee kiertotien.\n\ni\nKiertotie-toiminto voi ohjata teidät maastoreiteille. Lisäreittejä ja varoituksia varten ks. Maasto ja kartan ulkopuolella (sivu 237).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=243",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/243/bgf3.webp",
+      "originalPath": "original/243.html"
+    },
+    {
+      "page": 244,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Kiertotie – suljettu osuus ja poisto",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (reittiopastuksen aikana)\n\n1 Suljettu reittiosuus\n2 Nykyinen ajoneuvon sijainti; kolmio osoittaa ajosuunnan\n3 Tiedot suljetusta reittiosuudesta\n\n→ Reitinlaskennan aloitus: Valitkaa ”Start”, ks. myös (sivu 218).\n→ Suljetun osuuden poisto: Valitkaa ”Navi” → ”Route” → ”Detour” → ”Delete”.\n→ Valitkaa ”Back”.\n\ni\nSuljettu reittiosuus 1 on aina korostettu punavalkoisena. Tiedot suljetusta reittiosuudesta 3 näyttävät, mikä reittiosuus on suljettu, sekä suljetun osuuden pituuden.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=244",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/244/bgf4.webp",
+      "originalPath": "original/244.html"
+    },
+    {
+      "page": 245,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Reaaliaikaiset liikennetiedotteet kartalla",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (reaaliaikainen liikenne)\n\nRDS-TMC-lähetin (Radio Data System – Traffic Message Channel) lähettää liikennetiedotteita, jotka COMAND voi vastaanottaa ja ottaa huomioon navigointijärjestelmässä. Liikennetiedotteet ja karttasymbolit voidaan sitten tarkastella COMAND-näytössä. Näytettävät tapahtumat ovat niitä, jotka ovat ajoneuvon sijainnin vastaanottoalueella.\n\nReaaliaikaiset liikennetiedotteet kartalla\nCOMAND voi näyttää tiettyjä liikennetapahtumia kartalla. Tiedotteet näytetään mittakaavoilla 0,05 mi (50 m) – 500 mi (500 km).\n\n→ Kartan mittakaavan asetus: Pyörittäkää y m z , kunnes haluttu mittakaava on asetettu.\nMyötäpäivään kiertäminen lähentää karttaa, vastapäivään kiertäminen loitontaa.\n\nEsimerkkinäyttö: liikenneruuhka reitillä\n1 Symboli tapahtumalle reitillä\n2 Merkkisymbolit kyseiselle reittiosuudelle\n3 Nykyinen ajoneuvon sijainti ja ajosuunta\n4 Kartan mittakaava\n\ni\nTodelliset tie- ja liikenneolosuhteet voivat poiketa vastaanotetuista tiedotteista.\n\ni\nCOMAND merkitsee koko kyseisen reittiosuuden sopivilla symboleilla 2 riippumatta sen todellisesta pituudesta reittiosuudella. Symbolit 2 näytetään ajosuunnassa reitin vasemmalla tai oikealla puolella. Näin ne ilmaisevat myös, kumpaa tienpuolta tapahtuma koskee.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=245",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/245/bgf5.webp",
+      "originalPath": "original/245.html"
+    },
+    {
+      "page": 246,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Liikennesymbolit ja tiedoteluettelo",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (reaaliaikainen liikenne)\n\nSeuraavassa näkyvät mahdolliset symbolinäytöt.\n1 Liikenneruuhka reitillä (symboli punaisella reunuksella)\n2 Liikenneruuhka reitin ulkopuolella (symboli harmaalla reunuksella)\n3 Pysähtelevä liikenne reitillä (symboli punaisella reunuksella)\n4 Pysähtelevä liikenne reitin ulkopuolella (symboli harmaalla reunuksella)\n5 Suljettu osuus reitillä\n6 Liikenneruuhka\n7 Pysähtelevä liikenne\n\nReaaliaikaisten liikenneilmoitusten näyttö\nViestiluettelon näyttö\n→ Valitkaa ”Navi” → ”Traffic”.\nCOMAND etsii reaaliaikaisia liikennetiedotelähettimiä. Kun liikennetiedotteita ei ole, näette tätä koskevan ilmoituksen.\n\nLuettelo, kun reittiopastus ei ole aktiivinen\nKun reittiopastus ei ole aktiivinen, luettelo näyttää kaikki kadut, joille on tiedotteita.\n1 Kyseisten katujen luettelo\n→ Viestin lukeminen: Valitkaa katu.\nEsimerkkiviesti on sivulla 246.\n→ Luettelon sulkeminen: Siirtäkää o m p .\n\ni\nKadun sijaan tiedote voi koskea myös aluetta tai seutua, esimerkiksi kun näkyvyys on rajoittunut sumun vuoksi.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=246",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/246/bgf6.webp",
+      "originalPath": "original/246.html"
+    },
+    {
+      "page": 247,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Aktiivisen reitin tiedotteet ja esimerkkiviesti",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (reaaliaikainen liikenne)\nLuettelo aktiivisen reittiopastuksen aikana\n\nKun reittiopastus on aktiivinen, luettelo näyttää vain ne kadut, jotka kuuluvat reittiin ja joille on tiedotteita.\n1 Näytä kaikki viestit (myös ne, jotka eivät koske reittiä)\n2 Kyseiset kadut (näkyvät vain, kun reittiä koskevia viestejä on)\n\n→ Kaikkien viestien näyttö: Valitkaa ”Display All Messages”.\nNäytetään kaikki kadut, joille on viestejä, myös ne, jotka eivät ole reitillä.\n→ Viestin lukeminen: Valitkaa katu.\nEsimerkkiviesti on sivulla 246.\n→ Luettelon sulkeminen: Siirtäkää o m p kerran tai toistuvasti.\n\nEsimerkkiviesti\n1 Valintanäyttö (”Messages On Route” tai ”All messages”)\n2 Symboli viestin tapahtumalle (esim. liikenneruuhka)\n3 Katu, jota viesti koskee\n4 Viesti 1 / 1 kyseiselle kadulle\n5 Viestin teksti\n\nMahdollisten viestitapahtumien symbolit näkyvät seuraavassa.\n1 Liikenneruuhkan symboli\n2 Pysähtelevän liikenteen symboli\n3 Varoitusviestin symboli\n4 Suljetun osuuden symboli\n\n→ Sisällön tai seuraavan viestin selaaminen: Pyörittäkää y m z tai siirtäkää q m r .",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=247",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/247/bgf7.webp",
+      "originalPath": "original/247.html"
+    },
+    {
+      "page": 248,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Kohteen tallennus kohdemuistiin",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohdemuisti)\nKohteen tallennus kohdemuistiin\n\nTallennus osoitteen syötön jälkeen\n→ Valitkaa ”Save” osoitteen syötön jälkeen (sivu 198).\nVoitte nyt valita tallennusvaihtoehdot.\n\nTallennus reittiopastuksen aikana\n→ Valitkaa reittiopastuksen aikana ”Destination” → ”Save Destination”.\nVoitte nyt valita tallennusvaihtoehdot.\n\nKohteen tallennus viimeisimpien kohteiden luettelosta\n→ Valitkaa ”Navi” → ”Destination” → ”From Last Destinations”.\nViimeisimpien kohteiden luettelo tulee näkyviin.\n→ Valitkaa haluttu kohde.\nKohteen osoite näytetään.\n→ Valitkaa ”Save”.\nVoitte nyt valita tallennusvaihtoehdot.\n\nTallennusvaihtoehtojen valinta\nKohteen tallennus ilman nimeä\n→ Valitkaa ”Save Without Name”.\nCOMAND tallentaa kohteen kohdemuistiin ja käyttää osoitetta kohteen nimenä.\ntai\n→ Valitkaa ”Save as ‘My Address’”.\n→ Valitkaa haluttu luokka, esim. ”Home”.\nCOMAND tallentaa kohteen kohdemuistiin omana osoitteenanne.\n\nKohteen tallennus nimellä\n→ Valitkaa ”Save new entry”.\n→ Valitkaa haluttu luokka, esim. ”Home”.\nSyöttövalikko tulee näkyviin tietokenttineen ja syöttömerkkeineen.\n\ni\nTämä toiminto tallentaa kohteen myös osoitekirjaan. Sinne COMAND luo osoitekirjamerkinnän, joka sisältää täydelliset, navigoitavat osoitetiedot. Voitte sitten valita tämän merkinnän osoitekirjasta ja aloittaa navigoinnin osoitteeseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=248",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/248/bgf8.webp",
+      "originalPath": "original/248.html"
+    },
+    {
+      "page": 249,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Nimen syöttö ja kohteen liittäminen osoitekirjaan",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohdemuisti)\n\n1 Valittu tietokenttä syöttömerkillä (kursori)\n2 Syöttömerkit\n\n→ Tietojen syöttö: Toimikaa kuten kohdassa ”Tietokentän muuttaminen” osiossa ”Uuden osoitekirjamerkinnän luonti” (sivu 164).\n\nKohteen liittäminen osoitekirjamerkintään\n→ Valitkaa ”Assign Address Book Entry”.\n→ Valitkaa haluttu luokka, esim. ”Home”.\nValikko osoitekirjamerkinnän etsimiseen tulee näkyviin.\n→ Valitkaa haluttu osoitekirjamerkintä. Toimikaa kuten osiossa ”Osoitekirjamerkinnän etsiminen” (sivu 166).\nJos valitussa osoitekirjamerkinnässä ei vielä ole navigoitavia osoitetietoja, COMAND tallentaa tiedot.\nJos valitussa osoitekirjamerkinnässä on jo navigoitavia osoitetietoja, näette kysymyksen, haluatteko korvata aiemmat tiedot.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”Yes”, COMAND tallentaa tiedot.\n\ni\nTämä toiminto liittää täydelliset, navigoitavat osoitetiedot jo olemassa olevaan osoitekirjamerkintään. Voitte sitten valita tämän merkinnän osoitekirjasta ja aloittaa navigoinnin osoitteeseen sieltä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=249",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/249/bgf9.webp",
+      "originalPath": "original/249.html"
+    },
+    {
+      "page": 250,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Kohteen poisto kohdemuistista",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohdemuisti)\nKohteen poisto kohdemuistista\n\n→ Valitkaa ”Navi” → ”Destination” → ”From Memory”.\nKohdemuistin merkintöjen määrästä riippuen näette kohdemuistin luettelon joko syöttömerkkien kanssa tai ilman niitä.\n\nEsimerkkikuva: kohdemuistin luettelo ilman syöttömerkkejä\nEsimerkkikuva: kohdemuistin luettelo syöttömerkeillä\n1 Syöttömerkit\n\n→ Valitkaa haluttu kohde. Toimikaa kuten kohteen syötössä osiossa ”Kohteen syöttö kohdemuistista” (sivu 219).\n→ Valitkaa ”Delete” sen jälkeen, kun poistettava kohde on valittu.\nNäyttöön tulee kehotus, jossa kysytään, haluatteko poistaa kohteen.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”Yes”, COMAND poistaa kohteen.\n\ni\nJos poistettavan kohteen navigoitavat osoitetiedot on myös liitetty osoitekirjamerkintään, COMAND poistaa tiedot myös sieltä. Jos vastaava osoitekirjamerkintä ei sisällä muita tietoja, kuten puhelinnumeroita, COMAND poistaa koko osoitekirjamerkinnän.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=250",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/250/bgfa.webp",
+      "originalPath": "original/250.html"
+    }
+  ]
+}

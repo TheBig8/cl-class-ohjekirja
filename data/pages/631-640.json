@@ -1,0 +1,96 @@
+{
+  "from": 631,
+  "to": 640,
+  "pages": [
+    {
+      "page": 631,
+      "section": "Käytännön vinkit",
+      "titleFi": "Front Passenger Airbag Enabled – OCS-tarkistus (jatkuu)",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nFront Passenger\nAirbag Enabled\nSee Oper. Manual\n\nEtumatkustajan etuturvatyyny on aktivoituna ajon aikana, vaikka etumatkustajan istuimella on lapsi, pienikokoinen henkilö tai esine alle järjestelmän painokynnyksen, tai istuin on tyhjä. Istuimella olevat esineet tai istuimeen kohdistuvat voimat voivat saada järjestelmän tunnistamaan lisäpainoa.\n\nPysäyttäkää ajoneuvo turvalliseen paikkaan mahdollisimman pian ja tarkistakaa etumatkustajan istuin seuraavasti:\n→ Kytkekää elektroninen pysäköintijarru (sivu 412).\n→ Kytkekää sytytysvirta pois (sivu 365).\n→ Poistakaa lapsi ja lastenistuin etumatkustajan istuimelta ja kiinnittäkää lapsi asianmukaisesti takaistuimelle lastenistuimella tarvittaessa.\n→ Poistakaa muut esineet etumatkustajan istuimelta ja sen ympäriltä ja varmistakaa, että etumatkustajan istuimen selkänojan takana oleva säilytyspussi on tyhjä.\n→ Varmistakaa, ettei istuimeen kohdistu voimia aiheuttavia esineitä (esim. kirjoja, salkkuja tms. istuimen takana tai ympärillä, kattopäällykseen painautuvia niskatukia jne.). Järjestelmä voi tulkita tällaiset voimat lisäpainoksi ja arvioida etumatkustajan painavammaksi kuin hän todellisuudessa on.\n→ Pitäkää istuin tyhjänä, sulkekaa matkustajan ovi ja kytkekää sytytysvirta (sivu 365).\n\nSeuratkaa mittariston oikealla puolella olevaa 59-merkkivaloa (sivu 51) ja mittariston monitoiminäyttöä (sivu 282) seuraavasti:\n(Jatkuu seuraavalla sivulla)",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=631",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/631/bg277.webp",
+      "originalPath": "original/631.html"
+    },
+    {
+      "page": 632,
+      "section": "Käytännön vinkit",
+      "titleFi": "Front Passenger Airbag Enabled – OCS-tarkistus (loppu)",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nFront Passenger\nAirbag Enabled\nSee Oper. Manual\n\nKun istuin on tyhjä ja sytytysvirta on kytketty (sivu 365),\n• mittariston oikealla puolella olevan 59-merkkivalon tulee syttyä ja jäädä palamaan, mikä osoittaa, että OCS (sivu 48) on kytkenyt turvatyynyn pois\n• viestin ”Front Passenger Airbag Enabled See Oper. Manual” tai ”Front Passenger Airbag Disabled See Oper. Manual” ei tule näkyä monitoiminäytössä missään vaiheessa, kun istuin on tyhjä.\n\nOdottakaa vähintään 60 sekuntia, jotta järjestelmä ehtii suorittaa tarvittavat tarkistusjaksot ja jotta kumpikaan viesti ei näy monitoiminäytössä.\n\nJos yllä olevat ehdot täyttyvät, voitte istua uudelleen etumatkustajan istuimelle.\nOCS:n (sivu 48) tunnistaman etumatkustajan luokituksen mukaan 59-merkkivalo joko jää palamaan tai sammuu.\n\nJos yllä olevat ehdot eivät täyty, järjestelmä ei toimi oikein. Tarkastuttakaa järjestelmä mahdollisimman pian valtuutetussa Mercedes-Benz-keskuksessa.\n\nVaroitus!\nJos 59-merkkivalo jää palamaan aikuisen istuessa etumatkustajan istuimella myös edellä kuvattujen korjaustoimien jälkeen, älkää antako kenenkään käyttää etumatkustajan istuinta ennen kuin järjestelmä on korjattu.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=632",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/632/bg278.webp",
+      "originalPath": "original/632.html"
+    },
+    {
+      "page": 633,
+      "section": "Käytännön vinkit",
+      "titleFi": "Huoltomuistutus, P-asento ja Park Assist -viestit",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nNext Service X\nDue in ... days\nDue in ... mls (km)\n\nHuolto X on tehtävä ... päivän kuluessa tai ... mailin (kilometrin) jälkeen (sivu 592).\n→ Teettäkää huolto valtuutetussa Mercedes-Benz-keskuksessa.\n\nOnly Shift to\nPosition 'P' When\nVehicle Is Stationary\n\nOlette yrittäneet siirtää automaattivaihteiston pysäköintiasentoon P vaihteenvalitsimella, vaikka ajoneuvo on vielä liikkeessä.\n→ Pysäyttäkää ajoneuvo heti, kun se on turvallista.\n→ Siirtäkää automaattivaihteisto pysäköintiasentoon P.\n→ Kytkekää elektroninen pysäköintijarru (sivu 412).\n\nPark Assist\nCurrently Unavailable\nSee Oper. Manual\n\nPark Assist* on deaktivoitu, koska etu- tai takapuskurin antureiden* alue (sivu 601) on likainen.\n→ Puhdistakaa etu- ja takapuskuri (sivu 601).\n\nPark Assist* on deaktivoitu, koska akun jännite on riittämätön.\n→ Tarkastuttakaa akku valtuutetussa Mercedes-Benz-keskuksessa.\n\nPark Assist* on kytketty pois, koska tutka-anturijärjestelmä* on tilapäisesti poissa käytöstä sähkömagneettisen häiriön vuoksi (esim. TV- ja radiolähetinasemien, tiemaksuasemien, nopeudenmittausjärjestelmien tms. lähellä).\n→ Odottakaa, kunnes viesti katoaa monitoiminäytöstä.\n\nPark Assist\nInoperative\n\nPark Assist* ei ole käytettävissä häiriön vuoksi.\n→ Ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen mahdollisimman pian.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=633",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/633/bg279.webp",
+      "originalPath": "original/633.html"
+    },
+    {
+      "page": 634,
+      "section": "Käytännön vinkit",
+      "titleFi": "Blind Spot Assist – tilapäisesti pois / häiriö",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nBlind Spot Assist\nCurrently Unavailable\nSee Oper. Manual\n\nBlind Spot Assist* on deaktivoitu, koska etu- tai takapuskurin antureiden* alue (sivu 601) on likainen.\n→ Puhdistakaa etu- ja takapuskuri (sivu 601).\n\nBlind Spot Assist* on deaktivoitu, koska akun jännite on riittämätön.\n→ Tarkastuttakaa akku valtuutetussa Mercedes-Benz-keskuksessa.\n\nBlind Spot Assist* on kytketty pois, koska tutka-anturijärjestelmä* on tilapäisesti poissa käytöstä sähkömagneettisen häiriön vuoksi (esim. TV- ja radiolähetinasemien, tiemaksuasemien, nopeudenmittausjärjestelmien tms. lähellä).\n→ Odottakaa, kunnes viesti katoaa monitoiminäytöstä.\n\nBlind Spot Assist\nInoperative\n\nBlind Spot Assist* ei ole käytettävissä häiriön vuoksi.\n→ Ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen mahdollisimman pian.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=634",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/634/bg27a.webp",
+      "originalPath": "original/634.html"
+    },
+    {
+      "page": 635,
+      "section": "Käytännön vinkit",
+      "titleFi": "Parking Guidance – tilapäisesti pois / peruutettu",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nParking Guidance\nCurrently Unavailable\nSee Oper. Manual\n\nAdvanced Parking Guidance* on deaktivoitu, koska etu- tai takapuskurin antureiden* alue (sivu 601) on likainen.\n→ Puhdistakaa etu- ja takapuskuri (sivu 601).\n\nAdvanced Parking Guidance* on deaktivoitu, koska akun jännite on riittämätön.\n→ Tarkastuttakaa akku valtuutetussa Mercedes-Benz-keskuksessa.\n\nAdvanced Parking Guidance* on kytketty pois, koska tutka-anturijärjestelmä* on tilapäisesti poissa käytöstä sähkömagneettisen häiriön vuoksi (esim. TV- ja radiolähetinasemien, tiemaksuasemien, nopeudenmittausjärjestelmien tms. lähellä).\n→ Odottakaa, onko häiriö tilapäinen, tai älkää käyttäkö Advanced Parking Guidancea*. Kokeilkaa paikassa, jossa häiritsevä lähetys ei ehkä ole läsnä.\n\nParking Guidance\nCanceled\n\nAdvanced Parking Guidance* on peruutettu, koska:\n• ajoneuvo liukuu\n• puskuri on likaantunut antureiden alueelta (sivu 601)\n• on esiintynyt häiriö\n→ Käyttäkää Advanced Parking Guidancea* myöhemmin uudelleen.\n\nJos pysäköintipaikkasymboli ei näy monitoiminäytössä alle 10 mph (16 km/h) nopeudella:\n→ Puhdistakaa puskurit (sivu 601).\ntai\n→ Käynnistäkää moottori uudelleen.\ntai\n→ Ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=635",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/635/bg27b.webp",
+      "originalPath": "original/635.html"
+    },
+    {
+      "page": 636,
+      "section": "Käytännön vinkit",
+      "titleFi": "Parking Guidance Finished, PRE-SAFE, tutka ja huolto",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nParking Guidance\nFinished\n\nAdvanced Parking Guidance*: Ajoneuvo on loppuasennossa.\nNäyttöviesti katoaa automaattisesti.\n\nPRE-SAFE\nInoperative\nSee Oper. Manual\n\nPRE-SAFE® itse on vikaantunut. Kaikki muut matkustajaturvallisuusjärjestelmät, kuten turvatyynyt, ovat edelleen käytettävissä.\n→ Ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen mahdollisimman pian.\n\nRadar Sensors\nDeactivated\nSee Oper. Manual\n\nYritätte aktivoida DISTRONIC Plusia*, Park Assistia* tai PRE-SAFE® Brakea*, vaikka olette kytkeneet ajoneuvon tutka-anturit* pois.\n→ Tarkistakaa, voiko tutka-anturit* kytkeä päälle (sivu 302).\n→ Kytkekää tutka-anturit* päälle mittariston ohjausjärjestelmällä.\n\nService X\nDue\n\nAjoneuvonne on huollettava (sivu 592).\n→ Teettäkää huolto valtuutetussa Mercedes-Benz-keskuksessa.\n\nService X Exceeded\nby X days\nby XXX mls (km)\n\nHuolto X on tehtävä seuraavien ... aikana tai ennen kuin olette ajaneet ... mailia (kilometriä).\n→ Teettäkää huolto valtuutetussa Mercedes-Benz-keskuksessa mahdollisimman pian.\n\n!\nJos ajoneuvoa ei huolleta Maintenance Bookletin ja huoltomuistuttimen mukaisina aikoina/kilometrimäärillä, seurauksena voi olla ajoneuvovaurio, jota Mercedes-Benz Limited Warranty ei kata. Lisätietoja: ks. ”Huolto” (sivu 592).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=636",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/636/bg27c.webp",
+      "originalPath": "original/636.html"
+    },
+    {
+      "page": 637,
+      "section": "Käytännön vinkit",
+      "titleFi": "Käynnistys P/N-asennossa ja Tire Pressure Monitor",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nShift to P or N\nto Start Engine\n\nOlette yrittäneet käynnistää moottorin, kun automaattivaihteisto oli peruutusvaihteella R tai ajoasennossa D.\n→ Siirtäkää automaattivaihteisto pysäköintiasentoon P tai vapaa-asentoon N (sivu 417).\n\nTire Pressure Monitor\nInoperative\n\nAdvanced TPMS tai pyöräanturi on toimintahäiriöinen.\n→ Tarkastuttakaa Advanced TPMS valtuutetussa Mercedes-Benz-keskuksessa.\n\nTire Pressure Monitor\nInoperative\nNo Wheel Sensors\n\nAdvanced TPMS on deaktivoitu, koska pyöriin on asennettu anturit, jotka eivät ole asianmukaisia.\n→ Asennuttakaa pyöräanturit valtuutetussa Mercedes-Benz-keskuksessa.\nKun kaikki antureilla varustetut pyörät on asennettu, Advanced TPMS kytkeytyy uudelleen päälle muutaman minuutin ajon jälkeen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=637",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/637/bg27d.webp",
+      "originalPath": "original/637.html"
+    },
+    {
+      "page": 638,
+      "section": "Käytännön vinkit",
+      "titleFi": "Tire Pressure Monitor Currently Unavailable – varoitus",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nTire Pressure Monitor\nCurrently Unavailable\n\nAdvanced TPMS ei pysty valvomaan rengaspainetta seuraavista syistä:\n• lähellä oleva radiohäiriölähde\n• ajoneuvon jännite on liian matala\n• pyöräantureiden lämpötila on liian korkea\n\nHeti kun häiriön syyt poistuvat, Advanced TPMS aktivoituu automaattisesti uudelleen muutaman minuutin ajon jälkeen.\n\nVaroitus!\nÄlkää ajako tyhjällä renkaalla. Tyhjä rengas heikentää ohjaus- ja jarrutuskykyä. Voitte menettää ajoneuvon hallinnan. Tyhjällä renkaalla jatkaminen aiheuttaa liiallista kuumenemista ja mahdollisesti tulipalon.\n\nNoudattakaa suositeltuja rengaspaineita.\n\nÄlkää käyttäkö vajaapaineisia renkaita. Vajaapaineiset renkaat kuluvat liikaa ja/tai epätasaisesti, heikentävät ajettavuutta ja polttoainetaloutta sekä ylikuumenevat todennäköisemmin niin, että ne rikkoutuvat.\nÄlkää käyttäkö ylitäytettyjä renkaita. Ylitäytetyt renkaat voivat heikentää ajettavuutta ja ajomukavuutta, kulua epätasaisesti, pidentää jarrutusmatkaa ja johtaa äkilliseen paineen menetykseen (räjähdys), koska ne ovat alttiimpia tien roskien, kuoppien yms. aiheuttamille puhkeamisille tai vaurioille.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=638",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/638/bg27e.webp",
+      "originalPath": "original/638.html"
+    },
+    {
+      "page": 639,
+      "section": "Käytännön vinkit",
+      "titleFi": "Rengaspaineiden näyttö ja vaihteiston lukitus",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nTire Pressures\nDisplayed After Driving\na Few Minutes\n\nRengaspainetta tarkistetaan.\n→ Ajakaa muutama minuutti.\n\nService Required\nDo Not Shift Gears\n\nAutomaattivaihteistoa ei voida siirtää pois nykyisestä asennosta häiriön vuoksi.\n\nJos automaattivaihteisto on ajoasennossa D (sivu 417):\n→ Ajakaa valtuutettuun Mercedes-Benz-keskukseen vaihtamatta pois ajoasennosta D.\n\nJos automaattivaihteisto on vapaa-asennossa N, peruutusvaihteella R tai pysäköintiasennossa P:\n→ Älkää ajako.\n→ Ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=639",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/639/bg27f.webp",
+      "originalPath": "original/639.html"
+    },
+    {
+      "page": 640,
+      "section": "Käytännön vinkit",
+      "titleFi": "Symboliviestit – ABC Malfunction Stop Vehicle!",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nSymboliviestit\n\nNäyttö | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nMalfunction\nStop Vehicle!\n\nOlette lähteneet liikkeelle, vaikka ajoneuvon korkeus on vielä liian matala.\nAjoneuvoa nostetaan. ABC-viesti katoaa muutaman sekunnin kuluttua.\n→ Pysäyttäkää ajoneuvo heti, kun se on turvallista.\n→ Kytkekää elektroninen pysäköintijarru (sivu 412).\n→ Odottakaa, kunnes viesti katoaa monitoiminäytöstä.\nSen jälkeen voitte lähteä liikkeelle.\n\nAjoneuvosta vuotaa öljyä.\nABC-viesti näkyy jatkuvasti.\n→ Pysäyttäkää ajoneuvo heti, kun se on turvallista.\n→ Kytkekää elektroninen pysäköintijarru (sivu 412).\n→ Soittakaa Roadside Assistanceen.\n→ Ilmoittakaa asiasta valtuutetulle Mercedes-Benz-keskukselle.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=640",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/640/bg280.webp",
+      "originalPath": "original/640.html"
+    }
+  ]
+}

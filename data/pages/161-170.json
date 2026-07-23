@@ -1,0 +1,96 @@
+{
+  "from": 161,
+  "to": 170,
+  "pages": [
+    {
+      "page": 161,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Merkinnän poisto ja tallennus osoitekirjaan",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\nMerkinnän poisto\n\nPoistosäännöt voivat vaihdella valitun merkinnän mukaan:\n• Osoitekirjan ylätason merkintä valittuna:\nmerkintä poistetaan COMAND-puhelinluettelosta ja myös osoitekirjasta, jos osoitekirjamerkintä sisältää vain puhelinnumeroita.\n• Osoitekirjamerkinnän alimerkintä valittuna:\nalimerkintä poistetaan COMAND-puhelinluettelosta ja osoitekirjasta.\n\n→ Poisto: Valitkaa merkintä (sivu 157).\n→ Valitkaa ”Options” → ”Delete”.\nNäyttöön tulee kysymys, poistetaanko merkintä.\n→ Valitkaa ”Yes” tai ”No”.\nKun olette valinneet ”Yes”, merkintä poistetaan edellä mainittujen sääntöjen mukaisesti.\n\nMatkapuhelimen puhelinluettelomerkinnän tallennus osoitekirjaan\nTallennus uutena osoitekirjamerkintänä\n→ Valitkaa matkapuhelimen puhelinluettelomerkintä (sivu 157).\n→ Valitkaa ”Options” → ”Save” → ”New Entry”.\n→ Numeron kategorian valinta:\nValitkaa kategoria, esim. ”Home”.\n→ Puhelinkategorian valinta:\nValitkaa kategoria, esim. ”Land Line”.\n→ Valinnan vahvistus: Valitkaa ”Save”.\nSyöttövalikko tulee näkyviin tietokenttineen. Puhelinnumeron tietokenttä täytetään automaattisesti. Sukunimen tietokenttä täytetään myös, kun tallennettava merkintä sisältää nimen.\n\ni\nMatkapuhelimen puhelinluettelomerkintää ei voi poistaa COMAND-puhelinluettelon kautta.\n\ni\nTällä toiminnolla tallennetaan olemassa oleva matkapuhelimen puhelinluettelomerkintä osoitekirjaan. Käytettävissä ovat seuraavat vaihtoehdot:\n• Tallennus uutena osoitekirjamerkintänä\n• Puhelinnumeron lisäys olemassa olevaan osoitekirjamerkintään\n\ni\nKaikki merkinnät, joissa on seuraavat kategoriasymbolit, ovat matkapuhelimen puhelinluettelomerkintöjä.\n• = symboli kategorialle ”Mobile”\n• = symboli kategorialle ”Home”\n• = symboli kategorialle ”Work”\n• = symboli kategorialle ”Fax”\n• = symboli kategorialle ”Pager”\n• = symboli kategorialle ”Main”",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=161",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/161/bga1.webp",
+      "originalPath": "original/161.html"
+    },
+    {
+      "page": 162,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Numeron lisäys olemassa olevaan osoitekirjamerkintään",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\n\n1 Tietokenttä\n2 Syöttömerkki (kursori)\n3 Syöttömerkit\n\n→ Toimikaa kuten kohdassa ”Tietokentän muutos” osiossa ”Uuden merkinnän luonti osoitekirjaan” (sivu 158).\n\nPuhelinnumeron lisäys olemassa olevaan osoitekirjamerkintään\n→ Valitkaa matkapuhelimen puhelinluettelomerkintä (sivu 157).\n→ Valitkaa ”Options” → ”Save” → ”Add”.\n→ Numeron kategorian valinta:\nValitkaa kategoria, esim. ”Home”.\n→ Puhelinkategorian valinta:\nValitkaa kategoria, esim. ”Land Line”.\n→ Valinnan vahvistus: Valitkaa ”Save”.\nOsoitekirjamerkintöjen hakavalikko tulee näkyviin.\n→ Etsikää haluttu merkintä Smart Speller -toiminnolla.\n→ Merkinnän valinnan jälkeen painakaa n .\nJos valittuun merkintään on valitussa numerokategoriassa liitetty alle neljä numeroa, COMAND tallentaa tiedot.\nJos valittuun merkintään on tallennettu neljä numeroa, näyttöön tulee kysymys, haluatteko korvata jonkin olemassa olevista numeroista.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”Yes”, näyttöön tulee valintaluettelo, jossa on neljä olemassa olevaa numeroa.\n\ni\nKaikki merkinnät, joissa on seuraavat kategoriasymbolit, ovat matkapuhelimen puhelinluettelomerkintöjä.\n• = symboli kategorialle ”Mobile”\n• = symboli kategorialle ”Home”\n• = symboli kategorialle ”Work”\n• = symboli kategorialle ”Fax”\n• = symboli kategorialle ”Pager”\n• = symboli kategorialle ”Main”\n\ni\nOsoitekirjamerkinnän hakeminen on kuvattu yksityiskohtaisesti kohdassa ”Osoitekirjamerkinnän haku” (sivu 166).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=162",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/162/bga2.webp",
+      "originalPath": "original/162.html"
+    },
+    {
+      "page": 163,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Puhelinnumeron lisäys osoitekirjamerkintään",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\n\n→ Valitkaa korvattava numero.\nCOMAND korvaa valitun numeron uudella tiedolla.\n\nPuhelinnumeron lisäys osoitekirjamerkintään\n→ Valitkaa osoitekirjamerkintä (sivu 157).\n→ Valitkaa ”Options” → ”Add Number”.\n→ Numeron kategorian valinta:\nValitkaa kategoria, esim. ”Home”.\n→ Puhelinkategorian valinta:\nValitkaa kategoria, esim. ”Land Line”.\n→ Valinnan vahvistus: Valitkaa ”Save”.\nJos merkintään on valitussa numerokategoriassa tallennettu neljä numeroa, näyttöön tulee kysymys, korvataanko jokin olemassa olevista numeroista.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”Yes”, näyttöön tulee valintaluettelo, jossa on neljä olemassa olevaa numeroa.\n→ Valitkaa korvattava numero.\nSyöttövalikko tulee näkyviin uuden puhelinnumeron tietokentän kanssa.\n→ Numeroiden syöttö: Valitkaa kaikki numerot yksi kerrallaan syöttömerkeistä.\n→ Kursorin siirto tietokentässä:\nValitkaa Y tai Z .\n→ Yksittäisten numeroiden poisto: Valitkaa ) ja painakaa n lyhyesti.\nKursorin vasemmalla puolella oleva numero poistetaan.\n→ Koko numeron poisto:\nValitkaa ) ja pitäkää n painettuna, kunnes numero on poistettu.\n→ Merkinnän tallennus: Valitkaa ? .\n→ Merkinnän peruutus: Valitkaa ”Back”.\nJos olette jo syöttäneet tietoja, näyttöön tulee kysymys, tallennetaanko merkintä.\n→ Valitkaa ”Yes” tai ”No”.\nMerkintä joko tallennetaan tai ei, valinnastanne riippuen.\n\ni\nTällä toiminnolla lisätään puhelinnumero olemassa olevaan osoitekirjamerkintään. Puhelinnumero voidaan syöttää manuaalisesti.\n\ni\nKaikki merkinnät, joissa on symboli tai joissa ei ole symbolia, ovat osoitekirjamerkintöjä.\n\ni\n”Add Number” ei toimi, jos olette valinneet alimerkintöjä sisältävän osoitekirjamerkinnän päämerkinnän.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=163",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/163/bga3.webp",
+      "originalPath": "original/163.html"
+    },
+    {
+      "page": 164,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "COMAND-osoitekirja – yleisiä huomioita",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\nCOMAND-osoitekirja\nYleisiä huomioita\n\nOsoitekirja sisältää COMAND-osoitekirjan muistiin tallennetut merkinnät. Merkinnät ovat pysyvästi käytettävissä, vaikka puhelinta ei olisi asetettu telineeseen*. Kun asetatte matkapuhelimen telineeseen*, COMAND lukee matkapuhelimen puhelinluetteloon tallennetut merkinnät ja tallentaa ne erilliseksi listaksi COMAND-osoitekirjasta. Tämä lista on kopio puhelimen puhelinluettelosta.\nTämä voi kestää useita minuutteja riippuen siitä, kuinka monta merkintää puhelinluettelossa ja osoitekirjassa on. Lukemisen jälkeen COMAND vertaa puhelinluettelomerkintöjä osoitekirjamerkintöihin. Jos kaikki matkapuhelimen puhelinluettelomerkinnän puhelinnumerot ovat jo osoitekirjamerkinnässä, osoitekirja näyttää vain osoitekirjamerkinnän. Muuten osoitekirja näyttää myös matkapuhelimen puhelinluettelomerkinnän.\n\nOsoitekirjavalikon yleiskuva\n\nVaroitus!\nKeskittykää ensisijaisesti liikenneolosuhteisiin, joissa olette.\nTutustukaa osoitekirjan toimintoihin ennen matkaa.\nKäyttäkää COMANDia vain, kun tie- ja liikenneolosuhteet sen sallivat. Muuten voitte joutua onnettomuuteen, jossa te tai muut voivat loukkaantua.\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\nSearch\n• Search for an address book entry\n\nNew Entry\n• Create new address book entry",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=164",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/164/bga4.webp",
+      "originalPath": "original/164.html"
+    },
+    {
+      "page": 165,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Osoitekirjan avaus ja uuden merkinnän luonti",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\nOsoitekirjan avaus\n\n→ Valitkaa ”Telephone” → ”Data/Connections” → ”Address Book”.\nOsoitekirjan päävalikko tulee näkyviin.\n\nKuva: osoitekirjamerkinnät\n\nMerkinnän valinta osoitekirjan päävalikosta\n→ Siirtäkää q m valitaksenne pääalueen.\n→ Siirtäkää q m r tai pyörittäkää y m z valitaksenne merkinnän.\ntai\n→ Etsikää merkintä Smart Spellerillä (sivu 166).\n\nUuden osoitekirjamerkinnän luonti\n→ Valitkaa ”Telephone” → ”Data/Connections” → ”Address Book” → ”Options” → ”New Entry”.\nSyöttövalikko tulee näkyviin tietokenttineen ja syöttömerkkeineen.\n\ni\nMatkapuhelimen puhelinluettelomerkinnöissä, jotka sisältävät nimen ja puhelinnumeron, näette nimen ja numeron. Jos matkapuhelimen puhelinluettelomerkintä sisältää useita puhelinnumeroita, näette puhelinnumeron sijaan viestin ”Multiple Numbers”.\n\ni\nOttakaa huomioon seuraavaa uutta osoitekirjamerkintää luodessanne:\nVoitte määrittää oman osoitteenne navigointitilan kohdemuistissa. Osoitteen määrittäessä voitte siirtää jo osoitekirjamerkintänä syötettyjä tietoja.\nOsoitekirjamerkinnässä kaupungin ja kadun on oltava kirjoitettu samalla tavalla kuin kohteen syötössä, jotta tiedot vastaavat digitaalisen kartan tietoja.\nJotta osavaltio (provinssi) vastaa karttatietoja, sen täydellinen nimi tai lyhenne voidaan syöttää.\nEsimerkkejä:\n• Florida tai FL\n• Colorado tai CO\n• Alberta tai AB\n• Ontario tai ON",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=165",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/165/bga5.webp",
+      "originalPath": "original/165.html"
+    },
+    {
+      "page": 166,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Osoitekirjan syöttövalikko ja tietokentät",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\n\nKuva: yksityistietojen syöttövalikko\n1 Vaihto työ- ja kotitietojen välillä ( tai -symboli)\n2 Valittu tietokenttä syöttömerkillä (kursori)\n3 Asetetun tietotyypin näyttö – esimerkkikuvassa kotitiedot on asetettu ( -symboli ja näyttö ”Home”)\n4 Syöttömerkit\n\n→ Vaihto yksityis- ja yritystietojen välillä: Valitkaa symboli 1 .\nNäyttö vaihtuu yksityis- tai yritystietoihin aiemmasta tilasta riippuen.\n→ Tietokentän muutos: Siirtäkää r m q toistuvasti, kunnes haluttu kohta on korostettuna.\ntai\n→ Valitkaa [ tai ] toistuvasti, kunnes haluttu kohta on korostettuna.\n→ Tietojen syöttö kenttään:\nValitkaa halutut merkit yksi kerrallaan syöttömerkeistä.\n→ Isojen ja pienten kirjainten vaihto syöttömerkeissä: Valitkaa & tai ( .\n→ Syöttömerkkien kielen vaihto: Valitkaa ! .\n→ Valitkaa haluttu kieli.\n→ Syöttömerkkien merkistön vaihto: Valitkaa # .\nAiemmasta asetuksesta riippuen siirrytte erikoismerkeillä varustettuihin kirjaimiin tai erikoismerkeillä varustettuihin numeroihin.\n→ Kursorin siirto tietokentässä:\nValitkaa Y tai Z .\n→ Yksittäisten merkkien poisto:\nValitkaa ) ja painakaa n lyhyesti.\nKursorin vasemmalla puolella oleva merkki poistetaan.\n→ Koko merkinnän poisto: Valitkaa ) ja pitäkää n painettuna, kunnes merkintä on poistettu.\n→ Merkinnän tallennus: Valitkaa ? .",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=166",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/166/bga6.webp",
+      "originalPath": "original/166.html"
+    },
+    {
+      "page": 167,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Osoitekirjamerkinnän haku",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\n\n→ Merkinnän peruutus: Valitkaa ”Back”.\nJos jokin tietokentistä sisältää uusia tietoja, näyttöön tulee kysymys, haluatteko tallentaa merkinnän.\n→ Valitkaa ”Yes” tai ”No”.\nMerkintä joko tallennetaan tai ei, valinnastanne riippuen.\n\nOsoitekirjamerkinnän haku\n→ Valitkaa ”Telephone” → ”Data/Connections” → ”Address Book”.\nHakavalikko tulee näkyviin Smart Spellerin kanssa.\n\n1 Symboli navigointijärjestelmän täydellisille osoitetiedoille\n2 Symboli matkapuhelimen samannimisille, eri puhelinnumeroita sisältäville koosteisille merkinnöille\n3 Kategoriasymboli\n4 Smart Speller\n5 Symboli äänimerkinnälle\n6 Paluu osoitekirjan päävalikkoon\n\nMerkinnät, joissa on kategoriasymboli 3 , ovat peräisin matkapuhelimesta. Seuraavat kategoriasymbolit ovat mahdollisia:\n• = symboli kategorialle ”Mobile”\n• = symboli kategorialle ”Home”\n• = symboli kategorialle ”Work”\n• = symboli kategorialle ”Fax”\n• = symboli kategorialle ”Pager”\n• = symboli kategorialle ”Main” tai tuntemattomalle kategorialle tai GSM-matkapuhelimen SIM-kortille tallennetuille puhelinmerkinnöille\n\nMerkinnät ilman kategoriasymbolia tai joissa on tai -symboli ovat peräisin COMAND-osoitekirjasta. Kaikki muut merkinnät ovat peräisin matkapuhelimesta ja näkyvät vain, kun matkapuhelin on telineessä*.\n\nÄänimerkintöjä on mahdollista lisätä. Merkinnät, joissa on -symboli, sisältävät äänimerkinnän (sivu 173).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=167",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/167/bga7.webp",
+      "originalPath": "original/167.html"
+    },
+    {
+      "page": 168,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Haku Smart Spellerillä ja luettelosta",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\n\nMerkinnät, joissa on -symboli, sisältävät navigointijärjestelmän täydelliset, navigoitavat osoitetiedot, jotka vastaavat digitaalisen kartan tietoja. Näihin merkintöihin on mahdollista käynnistää reittiopastus nopeasti (sivu 172).\n\nVaihto Smart Spelleristä luetteloon\n→ Siirtäkää m q toistuvasti tai painakaa n , kunnes Smart Speller piilotetaan.\ntai\n→ Valitkaa ? .\n\nVaihto luettelosta Smart Spelleriin\n→ Valitkaa ”Back” luettelosta.\n\nHaku Smart Spellerillä\n→ Siirtykää tarvittaessa luettelosta Smart Spelleriin.\n→ Smart Spellerin kielen vaihto:\nValitkaa ! .\n→ Valitkaa haluttu kieli.\n→ Smart Spellerin merkistön vaihto: Valitkaa # .\nAiemmasta asetuksesta riippuen siirrytte erikoismerkeillä varustettuihin kirjaimiin tai erikoismerkeillä varustettuihin numeroihin.\n→ Merkkien syöttö: Valitkaa etsittävän merkinnän merkit yksi kerrallaan.\n→ Yksittäisten merkkien poisto:\nValitkaa ) ja painakaa n lyhyesti.\nJoka kerta kun syötätte tai poistatte merkin, lähin osuma näytetään luettelon yläosassa.\n→ Koko merkinnän poisto: Valitkaa ) ja pitäkää n painettuna, kunnes merkintä on poistettu.\n→ Haun peruutus: Siirtykää Smart Spelleristä luetteloon (sivu 167).\nLuettelon ylimmäinen merkintä korostetaan automaattisesti.\n→ Palaaminen osoitekirjan päävalikkoon: Siirtykää tarvittaessa luettelosta Smart Spelleriin (sivu 167) ja valitkaa ”Back” Smart Spellerissä.\n\nHaku luettelosta\n→ Siirtykää tarvittaessa Smart Spelleristä luetteloon (sivu 167).\n→ Pyörittäkää y m z tai siirtäkää q m r , kunnes haluttu merkintä on korostettuna luettelossa.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=168",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/168/bga8.webp",
+      "originalPath": "original/168.html"
+    },
+    {
+      "page": 169,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Osoitekirjamerkinnän yksityiskohtainen näkymä",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\nKoko osoitekirjamerkinnän näyttö\n\nHalutun merkinnän haku\n→ Etsikää osoitekirjamerkintä (sivu 166).\ntai\n→ Valitkaa osoitekirjamerkintä osoitekirjan päävalikosta (sivu 164).\n→ Painakaa n .\nYksityiskohtainen näkymä tulee näkyviin.\n\nKuva: yksityistietojen yksityiskohtainen näkymä\n1 Paluu edelliseen valikkoon\n2 Vaihto työ- ja kotitietojen välillä ( -symboli tai )\n3 Valittu tietokenttä\n4 Asetetun tietotyypin näyttö – esimerkkikuvassa kotitiedot on asetettu ( -symboli ja näyttö ”Home”)\n5 Asetusten/vaihtoehtojen avaus\n\ni\nValikkokohdan ”Options” 5 alla käytettävissä olevat vaihtoehdot riippuvat siitä, mikä tietokenttä 3 on valittuna. Seuraavat vaihtoehdot voivat olla käytettävissä:\n• Lyhennetyn sisällön näyttö kokonaan (sivu 169)\n• Osoitekirjamerkinnän muutos (sivu 170)\n• Puhelinnumerokentän kuvauksen muutos (sivu 170)\n• Puhelinnumerokentän lisäys (sivu 171)\n• Merkintään tallennetun numeron soittaminen (sivu 172)\n• Reittiopastuksen käynnistys merkintään (sivu 172)\n• Äänimerkintöjen vaihtoehdot (sivu 173)",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=169",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/169/bga9.webp",
+      "originalPath": "original/169.html"
+    },
+    {
+      "page": 170,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Yksityiskohtainen näkymä ja matkapuhelimen merkintä",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\nVaihto yksityis- tai yritystietojen välillä\n\n→ Valitkaa symboli 2 .\nNäyttö vaihtuu yksityis- tai yritystietoihin aiemmasta tilasta riippuen.\n\nToisen tietokentän valinta\n→ Pyörittäkää y m z tai siirtäkää q m r .\n\nLyhennetyn sisällön näyttö kokonaan\n→ Valitkaa ”Options” → ”Details”.\nNäyttö esitetään kokonaan.\n→ Koko näytön sulkeminen: Siirtäkää o m p tai painakaa n .\n\nYksityiskohtaisen näkymän sulkeminen\n→ Valitkaa ”Back”.\n\nMatkapuhelimen koko puhelinluettelomerkinnän näyttö\nHalutun merkinnän haku\n→ Etsikää matkapuhelimen puhelinluettelomerkintä (sivu 166).\n→ Painakaa n .\nYksityiskohtainen näkymä tulee näkyviin.\n\n1 Paluu edelliseen valikkoon\n2 Kategoriasymboli\n3 Näyttö matkapuhelimen puhelinluettelomerkinnälle\n4 Asetusten/vaihtoehtojen avaus\n\ni\nMatkapuhelimen on oltava asetettuna telineeseen*.\n\ni\nJos matkapuhelimen puhelinluettelomerkinnällä on useampi kuin yksi puhelinnumero, näette yksityiskohtaisessa näkymässä kaikki puhelinnumerot kyseisine kategoriasymboleineen 2 .",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=170",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/170/bgaa.webp",
+      "originalPath": "original/170.html"
+    }
+  ]
+}

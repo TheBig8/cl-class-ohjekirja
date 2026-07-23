@@ -1,0 +1,96 @@
+{
+  "from": 351,
+  "to": 360,
+  "pages": [
+    {
+      "page": 351,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjauksen yksilöinti",
+      "fi": "Ohjausjärjestelmät\nÄäniohjauksen yksilöinti\n\nYksilöinnillä sovitetaan Ääniohjausjärjestelmä omaan ääneenne ja näin parannetaan puheentunnistusta. Tämä ei vaikuta muiden käyttäjien puheentunnistukseen.\nYksilöinti koostuu kahdesta vaiheesta:\n• Numerot\n• Komennot\nVoitte aktivoida yksilöinnin COMANDin järjestelmäasetuksissa (sivu 257).\nKeskustelu ja näytön ohjeet opastavat teitä yksilöintiprosessin läpi.\nJärjestelmä voidaan milloin tahansa palauttaa tehdasasetuksiin.\n\ni\nYksilöinnin voi suorittaa vain ajoneuvon ollessa paikallaan.\nJos lähdette liikkeelle, yksilöinti peruutetaan.\nIstunnon aloittamisen jälkeen järjestelmä opastaa teitä yksilöinnissä akustisilla ohjeilla.\n\ni\nVoitte halutessanne suorittaa vain osan yksilöinnistä.\nPelkän numero-osan suorittaminen voi jo parantaa tunnistustarkkuutta.\nYksilöinnistä voi poistua milloin tahansa. Harjoitettu data säilyy kuitenkin vain, jos kyseinen yksilöinnin osa on saatettu loppuun ja data tallennetaan, kun järjestelmä sitä pyytää.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=351",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/351/bg15f.webp",
+      "originalPath": "original/351.html"
+    },
+    {
+      "page": 352,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "Ohjaimet yksityiskohtaisesti – sisällys",
+      "fi": "Ohjaimet yksityiskohtaisesti\n\nLukitus ja avaus\nKäynnistyskytkimen asennot\nIstuimet\nOhjauspyörä\nPeilit\nMuistitoiminto\nTurvavöiden kiinnitys\nValaistus\nTuulilasinpyyhkimet\nSähköikkunat\nAjo ja pysäköinti\nAutomaattivaihteisto\nMittaristo\nAjojärjestelmät\nIlmanvaihtoaukot\nAutomaatti-ilmastointi\nTavaratila\nSähköinen kallistuva/liukuva kattoluukku\nLastaus ja säilytys\nHyödyllisiä ominaisuuksia",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=352",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/352/bg160.webp",
+      "originalPath": "original/352.html"
+    },
+    {
+      "page": 353,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "SmartKey – lukitus ja avaus",
+      "fi": "Ohjaimet yksityiskohtaisesti\nLukitus ja avaus\nSmartKey\n\nAjoneuvonne toimitetaan kahdella SmartKeyllä, joissa kussakin on kauko-ohjaus ja irrotettava mekaaninen avain.\nSmartKeyllä on laajennettu toimintasäde. Varkauden ehkäisemiseksi on kuitenkin suositeltavaa avata ajoneuvo lukituksesta vasta, kun olette sen välittömässä läheisyydessä.\nTehdasasetuksilla (sivu 354) SmartKey lukitsee ja avaa keskitetysti:\n• ovet\n• tavaratilan\n• polttoaineluukun\n\nSmartKey kauko-ohjauksella\n1 ‹ Lukituspainike\n2 Š Tavaratilan avauspainike (sivu 500)\n3 Mekaanisen avaimen lukituskieleke\n4 Œ Avauspainike\n5 Akun tarkistusvalo\n6 Â Paniikkipainike (sivu 64)\n\n!\nMahdollisten toimintahäiriöiden välttämiseksi älkää altistako SmartKeytä voimakkaalle sähkömagneettiselle säteilylle.\n\nVaroitus!\nKun poistutte ajoneuvosta, poistakaa aina SmartKey käynnistyskytkimestä, ottakaa se mukaanne ja lukitkaa ajoneuvo. Älkää jättäkö lapsia ilman valvontaa ajoneuvoon tai lukitsemattomaan ajoneuvoon. Lapsen valvomaton pääsy ajoneuvoon voi johtaa onnettomuuteen ja/tai vakavaan henkilövahinkoon.\n\nVaroitus!\nMahdollisten henkilövahinkojen välttämiseksi pitäkää kädet ja sormet poissa oven tai tavaratilan kannen aukon tieltä ovea tai tavaratilaa sulkiessanne. Olkaa erityisen varovaisia, kun lähellä on pieniä lapsia.\nEnnen ovien sulkemista varmistakaa, ettei kukaan voi jäädä oven väliin sulkemisen aikana.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=353",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/353/bg161.webp",
+      "originalPath": "original/353.html"
+    },
+    {
+      "page": 354,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "SmartKey – sivulasit, FCC/IC ja vikatilanteet",
+      "fi": "Ohjaimet yksityiskohtaisesti\nLukitus ja avaus\n\ni\nKun avaatte oven, kyseisen puolen sivulasit laskeutuvat hieman. Kun suljette oven, lasit nousevat jälleen ylös.\n\n!\nSivulasit eivät aukea eivätkä sulkeudu, jos akku on tyhjä tai lasit ovat jään peitossa. Tällöin ette ehkä enää pysty sulkemaan ovea kunnolla. Älkää yrittäkö pakottaa ovea kiinni. Se voi vahingoittaa ovea tai sivuikkunaa. Korjatkaa ensin tilanne, joka estää ikkunoiden toiminnan, ennen kuin yritätte sulkea oven.\n\ni\nVain USA:\nTämä laite täyttää FCC Rules Part 15 -vaatimukset. Käyttö edellyttää seuraavia kahta ehtoa:\n(1) Tämä laite ei saa aiheuttaa haitallista häiriötä, ja\n(2) tämän laitteen on hyväksyttävä kaikki vastaanotettu häiriö, myös häiriö, joka voi aiheuttaa ei-toivottua toimintaa.\nLuvaton muutos tähän laitteeseen voi mitätöidä käyttäjän oikeuden käyttää laitetta.\n\ni\nVain Kanada:\nTämä laite täyttää Industry Canadan RSS-210 -vaatimukset. Käyttö edellyttää seuraavia kahta ehtoa:\n(1) Tämä laite ei saa aiheuttaa häiriötä, ja\n(2) tämän laitteen on hyväksyttävä kaikki vastaanotettu häiriö, myös häiriö, joka voi aiheuttaa laitteen ei-toivottua toimintaa.\nLuvaton muutos tähän laitteeseen voi mitätöidä käyttäjän oikeuden käyttää laitetta.\n\ni\nVoitte myös avata ja sulkea sivulasit sekä kallistuvan/liukuvan kattoluukun SmartKeyllä; ks. ”Summer opening feature” (sivu 404) ja ”Convenience closing feature” (sivu 404).\n\n!\nJos ette voi lukita tai avata ajoneuvoa SmartKeyllä, joko SmartKeyn akut ovat tyhjät, SmartKey on viallinen tai ajoneuvon akut ovat tyhjät.\n• Tarkistakaa SmartKeyn akut ja vaihtakaa ne tarvittaessa (sivu 686).\n• Käyttäkää mekaanista avainta kuljettajan oven (sivu 684) ja tavaratilan (sivu 685) lukituksen avaamiseen.\n• Käyttäkää mekaanista avainta kuljettajan oven (sivu 685) ja tavaratilan (sivu 505) lukitsemiseen.\n• Tarkistuttakaa ajoneuvon akut ja niiden liitännät (sivu 702).\nJos SmartKey on viallinen, ottakaa yhteyttä Roadside Assistanceen tai valtuutettuun Mercedes-Benz-keskukseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=354",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/354/bg162.webp",
+      "originalPath": "original/354.html"
+    },
+    {
+      "page": 355,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "SmartKey – tehdasasetus",
+      "fi": "Ohjaimet yksityiskohtaisesti\nLukitus ja avaus\nTehdasasetus\n\n→ Keskusavaus: Painakaa painiketta Œ .\n• Kaikki suuntavalot vilkkuvat kerran.\n• Äänimerkki kuuluu kerran.\n• Ovien lukitusnupit nousevat ylös.\n• Varkaudenestohälytysjärjestelmä kytkeytyy pois.\n\nAjoneuvo lukittuu automaattisesti uudelleen ja varkaudenestohälytysjärjestelmä aktivoituu uudelleen noin 40 sekunnin kuluessa lukituksen avauksesta, jos:\n• mitään ovea eikä tavaratilaa avata\n• SmartKeytä ei aseteta käynnistyskytkimeen\n• keskuslukituksen/avauksen kytkintä ei käytetä\n\n→ Keskuslukitus: Painakaa painiketta ‹ .\nKun tavaratila ja molemmat ovet ovat kiinni:\n• Kaikki suuntavalot vilkkuvat kolme kertaa.\n• Äänimerkki kuuluu kolme kertaa.\n• Ovien lukitusnupit laskeutuvat alas.\n• Varkaudenestohälytysjärjestelmä aktivoituu.\n\ni\nKun avaatte tai lukitsette ajoneuvon SmartKeyllä, kuuluu äänimerkki. Äänimerkki on aktivoitu tehtaalla. Jos haluatte poistaa ominaisuuden käytöstä tai säätää sen äänenvoimakkuutta, ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=355",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/355/bg163.webp",
+      "originalPath": "original/355.html"
+    },
+    {
+      "page": 356,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "SmartKey – valikoiva asetus",
+      "fi": "Ohjaimet yksityiskohtaisesti\nLukitus ja avaus\nValikoiva asetus\n\nJos matkustatte usein yksin, voitte ohjelmoida SmartKeyn uudelleen niin, että painikkeen Œ painaminen avaa lukituksesta vain kuljettajan oven ja polttoaineluukun.\n→ Painakaa ja pitäkää painikkeita Œ ja ‹ samanaikaisesti noin 5 sekunnin ajan, kunnes akun tarkistusvalo 5 (sivu 352) vilkkuu kahdesti.\nSmartKey toimii sen jälkeen seuraavasti:\n→ Kuljettajan oven ja polttoaineluukun lukituksen avaus: Painakaa painiketta Œ kerran.\n• Kaikki suuntavalot vilkkuvat kerran.\n• Äänimerkki kuuluu kerran.\n• Kuljettajan oven lukitusnuppi nousee ylös.\n• Varkaudenestohälytysjärjestelmä kytkeytyy pois.\n→ Keskusavaus: Painakaa painiketta Œ kahdesti.\n• Kaikki suuntavalot vilkkuvat kerran.\n• Äänimerkki kuuluu kerran.\n• Ovien lukitusnupit nousevat ylös.\n• Varkaudenestohälytysjärjestelmä kytkeytyy pois.\n→ Keskuslukitus: Painakaa painiketta ‹ .\nKun tavaratila ja molemmat ovet ovat kiinni:\n• Kaikki suuntavalot vilkkuvat kolme kertaa.\n• Äänimerkki kuuluu kolme kertaa.\n• Ovien lukitusnupit laskeutuvat alas.\n• Varkaudenestohälytysjärjestelmä aktivoituu.\n→ Tehdasasetuksen palautus: Painakaa ja pitäkää painikkeita Œ ja ‹ samanaikaisesti noin 5 sekunnin ajan, kunnes akun tarkistusvalo 5 (sivu 352) vilkkuu kahdesti.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=356",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/356/bg164.webp",
+      "originalPath": "original/356.html"
+    },
+    {
+      "page": 357,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "SmartKey KEYLESS-GO*:lla",
+      "fi": "Ohjaimet yksityiskohtaisesti\nLukitus ja avaus\nSmartKey KEYLESS-GO*:lla\n\nKEYLESS-GO-varustelluissa ajoneuvoissa toimitetaan kaksi SmartKeytä KEYLESS-GO:lla, joissa kussakin on kauko-ohjaus ja irrotettava mekaaninen avain.\nKEYLESS-GO-toiminto on integroitu SmartKeyyn. Näissä ajoneuvoissa SmartKeyn KEYLESS-GO:lla voimassaolo tarkistetaan joka kerta, kun tartutte ulkopuoliseen ovenkahvaan.\nKEYLESS-GO-toiminnolla voitte lukita ja avata ajoneuvon ilman SmartKeyn kauko-ohjauspainikkeita sekä käynnistää moottorin asettamatta SmartKeytä käynnistyskytkimeen.\nJos SmartKey KEYLESS-GO:lla on voimassa, ajoneuvonne avaa lukituksesta:\n• ovet\n• tavaratilan\n• polttoaineluukun\n\nSmartKey KEYLESS-GO:lla\n1 ‹ Lukituspainike\n2 Š Tavaratilan avauspainike (sivu 500)\n3 Mekaanisen avaimen lukituskieleke\n4 Œ Avauspainike\n5 Akun tarkistusvalo\n6 Â Paniikkipainike (sivu 64)\n\n!\nMahdollisten toimintahäiriöiden välttämiseksi älkää altistako SmartKeytä KEYLESS-GO:lla voimakkaalle sähkömagneettiselle säteilylle.\n\nVaroitus!\nKun poistutte ajoneuvosta, ottakaa aina SmartKey KEYLESS-GO*:lla mukaanne ja lukitkaa ajoneuvo. Älkää jättäkö lapsia ilman valvontaa ajoneuvoon tai lukitsemattomaan ajoneuvoon. Lapsen valvomaton pääsy ajoneuvoon voi johtaa onnettomuuteen ja/tai vakavaan henkilövahinkoon.\nLapset voisivat käynnistää ajoneuvon voimassa olevalla SmartKeyllä KEYLESS-GO:lla, joka on jätetty ajoneuvoon, tai käynnistyskytkimen KEYLESS-GO-painikkeella, tai vapauttaa sähköisen seisontajarrun ja siten vaarantaa itsensä ja muut. Sammuttakaa moottori ja ottakaa SmartKey KEYLESS-GO:lla mukaanne, vaikka poistuisitte ajoneuvosta vain hetkeksi.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=357",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/357/bg165.webp",
+      "originalPath": "original/357.html"
+    },
+    {
+      "page": 358,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "KEYLESS-GO* – sivulasit, FCC/IC ja vikatilanteet",
+      "fi": "Ohjaimet yksityiskohtaisesti\nLukitus ja avaus\n\nVaroitus!\nMahdollisten henkilövahinkojen välttämiseksi pitäkää kädet ja sormet poissa oven tai tavaratilan kannen aukon tieltä ovea tai tavaratilaa sulkiessanne. Olkaa erityisen varovaisia, kun lähellä on pieniä lapsia.\nEnnen ovien sulkemista varmistakaa, ettei kukaan voi jäädä oven väliin sulkemisen aikana.\n\ni\nKun avaatte oven, kyseisen puolen sivuikkuna laskeutuu hieman. Kun suljette oven, ikkuna nousee jälleen ylös.\n\n!\nSivulasit eivät aukea eivätkä sulkeudu, jos akku on tyhjä tai lasit ovat jään peitossa. Tällöin ette ehkä enää pysty sulkemaan ovea kunnolla. Älkää yrittäkö pakottaa ovea kiinni. Se voi vahingoittaa ovea tai sivuikkunaa. Korjatkaa ensin tilanne, joka estää ikkunoiden toiminnan, ennen kuin yritätte sulkea oven.\n\ni\nVain USA:\nTämä laite täyttää FCC Rules Part 15 -vaatimukset. Käyttö edellyttää seuraavia kahta ehtoa:\n(1) Tämä laite ei saa aiheuttaa haitallista häiriötä, ja\n(2) tämän laitteen on hyväksyttävä kaikki vastaanotettu häiriö, myös häiriö, joka voi aiheuttaa ei-toivottua toimintaa.\nLuvaton muutos tähän laitteeseen voi mitätöidä käyttäjän oikeuden käyttää laitetta.\n\ni\nVain Kanada:\nTämä laite täyttää Industry Canadan RSS-210 -vaatimukset. Käyttö edellyttää seuraavia kahta ehtoa:\n(1) Tämä laite ei saa aiheuttaa häiriötä, ja\n(2) tämän laitteen on hyväksyttävä kaikki vastaanotettu häiriö, myös häiriö, joka voi aiheuttaa laitteen ei-toivottua toimintaa.\nLuvaton muutos tähän laitteeseen voi mitätöidä käyttäjän oikeuden käyttää laitetta.\n\ni\nVoitte myös avata ja sulkea sivulasit sekä kallistuvan/liukuvan kattoluukun SmartKeyllä KEYLESS-GO:lla; ks. ”Summer opening feature” (sivu 404) ja ”Convenience closing feature” (sivu 404).\n\n!\nJos ette voi lukita tai avata ajoneuvoa SmartKeyllä KEYLESS-GO:lla, joko SmartKeyn KEYLESS-GO:lla akut ovat tyhjät, SmartKey KEYLESS-GO:lla on viallinen tai ajoneuvon akut ovat tyhjät.\n• Tarkistakaa SmartKeyn KEYLESS-GO:lla akut ja vaihtakaa ne tarvittaessa (sivu 686).\n• Käyttäkää mekaanista avainta kuljettajan oven (sivu 684) ja tavaratilan (sivu 685) lukituksen avaamiseen.\n• Käyttäkää mekaanista avainta kuljettajan oven (sivu 685) ja tavaratilan (sivu 505) lukitsemiseen.\n• Tarkistuttakaa ajoneuvon akut ja niiden liitännät (sivu 702).\nJos SmartKey KEYLESS-GO:lla on viallinen, ottakaa yhteyttä Roadside Assistanceen tai valtuutettuun Mercedes-Benz-keskukseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=358",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/358/bg166.webp",
+      "originalPath": "original/358.html"
+    },
+    {
+      "page": 359,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "KEYLESS-GO* – tärkeät huomiot",
+      "fi": "Ohjaimet yksityiskohtaisesti\nLukitus ja avaus\nTärkeitä huomioita KEYLESS-GO:n käytöstä\n\n• Voitte käyttää SmartKeytä KEYLESS-GO:lla myös tavallisen SmartKeyn tavoin (sivu 352).\nKäynnistyskytkin on KEYLESS-GO-painikkeen alla. Vetäkää KEYLESS-GO-painike ulos päästäksenne käsiksi käynnistyskytkimeen.\n• Voitte yhdistää KEYLESS-GO-toimintoja tavallisiin SmartKey-toimintoihin (esim. lukituksen avaus KEYLESS-GO:lla ja lukitus painikkeella ‹ ).\n• Pitäkää SmartKey KEYLESS-GO:lla aina mukananne.\n• Älkää koskaan säilyttäkö SmartKeytä KEYLESS-GO:lla yhdessä:\n• elektronisten laitteiden, kuten matkapuhelimen tai toisen SmartKeyn KEYLESS-GO:lla kanssa\n• metalliesineiden, kuten kolikoiden tai metallifolion kanssa\nTämä voi heikentää KEYLESS-GO-järjestelmän toimintaa.\n• Ajoneuvon lukitsemiseksi tai lukituksen avaamiseksi SmartKeyn KEYLESS-GO:lla on oltava ajoneuvon ulkopuolella noin 3 ft (1 m) säteellä ovesta tai tavaratilan kannesta.\n• Jos ajoneuvo on seissyt yli 72 tuntia, teidän on vedettävä ulkopuolista ovenkahvaa aktivoidaksenne KEYLESS-GO-toiminnon.\n• Jotta voitte käynnistää moottorin SmartKeyllä KEYLESS-GO:lla:\n• SmartKeyn KEYLESS-GO:lla on oltava ajoneuvossa.\n• KEYLESS-GO-käynnistys-/pysäytyspainikkeen on oltava asetettuna käynnistyskytkimeen (sivu 366).\n• Jarrupolkimen on oltava painettuna lujasti. Älkää painako kaasupoljinta.\n• Jos SmartKey KEYLESS-GO:lla on kauempana ajoneuvosta, järjestelmä ei ehkä enää tunnista sitä. Tällöin ajoneuvoa ei voida lukita eikä moottoria käynnistää KEYLESS-GO-järjestelmän kautta.\n• Jos SmartKey KEYLESS-GO:lla poistetaan ajoneuvosta (esim. jos matkustaja poistuu SmartKey KEYLESS-GO:lla mukanaan)\n• kun painatte KEYLESS-GO-käynnistys-/pysäytyspainiketta tai yritätte lukita ajoneuvon ulkopuolisella ovenkahvalla, monitoiminäytössä näkyy viesti ”Key Not Detected”\n• moottorin käydessä viesti ”Key Not Detected” näkyy monitoiminäytössä liikkeelle lähdettäessä",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=359",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/359/bg167.webp",
+      "originalPath": "original/359.html"
+    },
+    {
+      "page": 360,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "KEYLESS-GO* – avaimen sijainti ja tehdasasetus",
+      "fi": "Ohjaimet yksityiskohtaisesti\nLukitus ja avaus\n\nEtsikää SmartKey KEYLESS-GO:lla tai vaihtakaa sen sijaintia heti (esim. asettakaa se etumatkustajan istuimelle tai taskuun).\n• Jos olette käynnistäneet moottorin KEYLESS-GO-käynnistys-/pysäytyspainikkeella, voitte sammuttaa sen uudelleen:\n• KEYLESS-GO-käynnistys-/pysäytyspainikkeella\n• SmartKeyllä KEYLESS-GO:lla, joka on asetettu käynnistyskytkimeen, kun automaattivaihteisto on pysäköintiasennossa P\n• Muistakaa, että kuka tahansa, jolla on ajoneuvoon jätetty SmartKey KEYLESS-GO:lla, voi käynnistää moottorin.\nMahdollisuus 1: (yksi SmartKey KEYLESS-GO:lla ajoneuvossa, yksi SmartKey KEYLESS-GO:lla ajoneuvon ulkopuolella):\nJos jätätte SmartKeyn KEYLESS-GO:lla taaksenne poistuessanne ja lukitessanne ajoneuvoa, monitoiminäytössä ei näy viestiä.\nMahdollisuus 2: (yksi SmartKey KEYLESS-GO:lla ajoneuvossa, ei SmartKeytä KEYLESS-GO:lla ajoneuvon ulkopuolella):\nKun poistutte ja yritätte lukita ajoneuvon, monitoiminäytössä näkyy viesti ”Key Detected In Vehicle”. Ajoneuvoa ei lukita.\n\nTehdasasetus\n1 Ulkopuolinen ovenkahva\n\ni\nKun avaatte tai lukitsette ajoneuvon SmartKeyllä KEYLESS-GO:lla, kuuluu äänimerkki. Äänimerkki on aktivoitu tehtaalla. Jos haluatte poistaa ominaisuuden käytöstä tai säätää sen äänenvoimakkuutta, ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=360",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/360/bg168.webp",
+      "originalPath": "original/360.html"
+    }
+  ]
+}

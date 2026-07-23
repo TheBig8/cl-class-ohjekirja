@@ -1,0 +1,96 @@
+{
+  "from": 251,
+  "to": 260,
+  "pages": [
+    {
+      "page": 251,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Oma osoite – määritys tai muutos",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohdemuisti)\nOma osoite\nOman osoitteen määritys ensimmäistä kertaa tai oman osoitteen muuttaminen\nOman osoitteen määritys ja/tai muuttaminen\n\n→ Valitkaa ”Navi” → ”Destination” → ”From Memory”.\nKohdemuistin merkintöjen määrästä riippuen näette kohdemuistin luettelon joko syöttömerkkien kanssa tai ilman niitä.\n\nEsimerkkikuva: kohdemuistin luettelo ilman syöttömerkkejä\nKohdemuistin luettelossa ilman syöttömerkkejä merkintä ”My Address” on automaattisesti korostettuna.\n\nEsimerkkikuva: kohdemuistin luettelo syöttömerkeillä\n1 Syöttömerkit\nKohdemuistin luettelossa syöttömerkeillä 1 syöttömerkit aktivoidaan automaattisesti.\n\ni\nKohdemuistissa on aina merkintä nimeltä ”My Address”. Voitte tallentaa tähän merkintään esimerkiksi kotiosoitteenne.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=251",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/251/bgfb.webp",
+      "originalPath": "original/251.html"
+    },
+    {
+      "page": 252,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Oma osoite – manuaalinen tai osoitekirja",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohdemuisti)\n\n→ Kohdemuistin luettelo ilman syöttömerkkejä: Painakaa n heti.\ntai\n→ Kohdemuistin luettelo syöttömerkeillä: Siirtäkää q m toistuvasti, kunnes syöttömerkit katoavat.\nLuettelomerkintä ”My Address” korostuu automaattisesti, kunhan ette ole syöttäneet merkkejä syöttömerkeillä.\n→ Jos olette syöttäneet merkkejä syöttömerkkiluettelosta:\nPyörittäkää y m z tai siirtäkää q m toistuvasti, kunnes luettelomerkintä ”My Address” on korostettuna.\n→ Painakaa n .\nJatko riippuu siitä, haluatteko syöttää osoitteen manuaalisesti vai käyttää osoitekirjamerkintää omana osoitteena.\n\nOsoitteen manuaalinen syöttö\n→ Jos haluatte määrittää oman osoitteenne ensimmäistä kertaa: Valitkaa ”Save new entry”.\ntai\n→ Jos haluatte muuttaa omaa osoitettanne: Valitkaa ”Change” → ”Save new entry”.\nMolemmissa tapauksissa osoitteen syöttövalikko tulee näkyviin.\n→ Syöttäkää osoite. Toimikaa kuten kohteen syötössä osiossa ”Kohteen syöttö osoitteella” (sivu 198).\n→ Valitkaa ”Save” osoitteen syötön jälkeen.\nOsoitteenne tallennetaan.\n\nOsoitekirjamerkinnän käyttö omana osoitteena\n→ Jos haluatte määrittää oman osoitteenne ensimmäistä kertaa:\nValitkaa ”Assign Address Book Entry”.\ntai\n→ Jos haluatte muuttaa omaa osoitettanne: Valitkaa ”Change” → ”Assign Address Book Entry”.\nMolemmissa tapauksissa tulee näkyviin valikko osoitekirjamerkinnän hakuun.\n→ Valitkaa haluttu osoitekirjamerkintä. Toimikaa kuten osiossa ”Osoitekirjamerkinnän haku” (sivu 166).\nKun osoitetiedot ovat täydelliset ja ne vastaavat digitaalisen kartan tietoja, COMAND tallentaa merkinnän omaksi osoitteeksi kohdemuistiin.\nJos osoitetietoja puuttuu vielä tai niitä ei löydy digitaaliselta kartalta, näkyviin tulee viesti, että osoite on puutteellinen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=252",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/252/bgfc.webp",
+      "originalPath": "original/252.html"
+    },
+    {
+      "page": 253,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Puutteellinen osoite ja oman osoitteen näyttö",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohdemuisti)\n\n→ Viestin sulkeminen: Valitkaa ”OK”.\nSen mukaan, mitkä tiedot puuttuvat tai joita ei löydy digitaaliselta kartalta, teidän on nyt joko:\n• valittava osavaltio (USA) tai provinssi (CDN)\n• tai syötettävä kaupunki\n• tai syötettävä katu\n• tai syötettävä talonumero\n→ Osavaltion (USA) tai provinssin (CDN) valinta: Valitkaa haluttu osavaltio (USA) tai provinssi (CDN) luettelosta.\n→ Kaupungin syöttö: Toimikaa kuten kohteen syötössä osiossa ”Kaupungin syöttö” (sivu 204).\n→ Kadun syöttö: Toimikaa kuten kohteen syötössä osiossa ”Kadun syöttö” (sivu 207).\n→ Talonumeron syöttö: Toimikaa kuten kohteen syötössä osiossa ”Talonumeron syöttö” (sivu 212).\nJos kaikki tiedot ovat saatavilla ja vastaavat digitaalisen kartan tietoja, voitte tallentaa osoitteen.\n→ Tallennus: Valitkaa ”Save”.\n\nOman osoitteen näyttö\n→ Valitkaa ”Navi” → ”Destination” → ”From Memory”.\nKohdemuistin luettelo tulee näkyviin joko syöttömerkkien kanssa tai ilman niitä. Näkyvätkö syöttömerkit, riippuu kohdemuistin merkintöjen määrästä.\n→ Painakaa n .\n\ni\nOsoitekirjamerkinnässä kaupunki ja katu on kirjoitettava samalla tavalla kuin kohteen syötössä, jotta tiedot vastaavat digitaalisen kartan tietoja.\nJotta osavaltio (USA) tai provinssi (CDN) vastaisi karttatietoja, voitte syöttää osoitekirjaan joko koko nimen tai lyhenteen.\nEsimerkkejä:\n• Florida tai FL\n• Colorado tai CO\n• Alberta tai AB\n• Ontario tai ON",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=253",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/253/bgfd.webp",
+      "originalPath": "original/253.html"
+    },
+    {
+      "page": 254,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Oman osoitteen näyttö kohdemuistista",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (kohdemuisti)\nKohdemuistin luettelo ilman syöttömerkkejä\n\nKohdemuistin luettelossa ilman syöttömerkkejä merkintä ”My Address” on automaattisesti korostettuna.\n→ Painakaa n .\nJos oma osoite on jo määritetty, näette valikon reittiopastuksen aloittamiseen omilla osoitetiedoillanne.\n→ Valikosta poistuminen: Valitkaa ”Back”.\n\nKohdemuistin luettelo syöttömerkeillä\n1 Syöttömerkit\nKohdemuistin luettelossa syöttömerkeillä 1 syöttömerkit aktivoidaan automaattisesti.\n→ Siirtäkää q m toistuvasti, kunnes syöttömerkit katoavat.\nLuettelomerkintä ”My Address” korostuu automaattisesti, kunhan ette ole syöttäneet merkkejä syöttömerkeillä.\n→ Jos olette syöttäneet merkkejä syöttömerkkiluettelosta:\nPyörittäkää y m z tai siirtäkää q m toistuvasti, kunnes luettelomerkintä ”My Address” on korostettuna.\n→ Painakaa n .\nJos oma osoite on jo määritetty, näette valikon reittiopastuksen aloittamiseen omilla osoitetiedoillanne.\n→ Valikosta poistuminen: Valitkaa ”Back”.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=254",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/254/bgfe.webp",
+      "originalPath": "original/254.html"
+    },
+    {
+      "page": 255,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Viimeisimmät kohteet – tallennus ja poisto",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (viimeisimmät kohteet)\nKohteen pysyvä tallennus kohdemuistiin\n\n→ Toimikaa kuten osiossa ”Kohteen tallennus viimeisimpien kohteiden luettelosta” (sivu 247).\n\nAjoneuvon sijainnin tallennus viimeisimpien kohteiden luetteloon\n→ Kartan keskitys ajoneuvon sijaintiin: Valitkaa ”Navi” → ”Position” → ”Vehicle Position Map”.\n→ Tallennus: Valitkaa ”Navi” → ”Position” → ”Save Position”.\nCOMAND tallentaa nykyisen ajoneuvon sijainnin kohteeksi viimeisimpien kohteiden luetteloon.\n\nRistikon sijainnin tallennus viimeisimpien kohteiden luetteloon\n→ Valikkojärjestelmän näyttö tarvittaessa: Painakaa n .\n→ Valitkaa ”Position” → ”Save Position”.\nCOMAND tallentaa ristikon sijainnin kohteeksi viimeisimpien kohteiden luetteloon.\n\nYhden viimeisimmän kohteen poisto\n→ Valitkaa ”Navi” → ”Destination” → ”From Last Destinations”.\nViimeisimpien kohteiden luettelo tulee näkyviin.\n→ Valitkaa haluttu kohde.\nKohteen osoite tulee näkyviin.\n→ Valitkaa ”Delete”.\n→ Valitkaa ”Yes” tai ”No”.\n\ni\nCOMAND tallentaa automaattisesti viimeisimmät kohteet, joille reitinlaskenta on käynnistetty. Ne tallennetaan ”viimeisimpien kohteiden” muistiin. Jos tämä muisti on täynnä, COMAND poistaa vanhimman kohteen. Voitte myös tallentaa yhden kohteen viimeisimpien kohteiden luettelosta kohdemuistiin. Se tallennetaan sinne pysyvästi.\n\ni\nJos olette siirtäneet karttaa manuaalisesti, näette kartalla ristikon (sivu 191). Voitte tallentaa ristikon sijainnin kohteeksi viimeisimpien kohteiden luetteloon.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=255",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/255/bgff.webp",
+      "originalPath": "original/255.html"
+    },
+    {
+      "page": 256,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "COMAND-järjestelmäasetukset – näyttö ja aika",
+      "fi": "Ohjausjärjestelmät\nCOMAND-järjestelmäasetukset\nCOMAND-järjestelmäasetukset\nJärjestelmäasetusten valikon yleiskuva\n\nDisplay\n(sivu 255)\nNäyttöasetukset\n\nTime\n(sivu 255)\nAika-asetukset\n\nVoice Control\n(sivu 257)\nÄäniohjauksen asetukset\n\nLanguage\n(sivu 258)\nKieliasetukset\n\nFavorite\n(sivu 259)\nSuosikkinäppäimen määritys\n\nReset\n(sivu 255)\nCOMANDin palautus tehdasasetuksiin\n\nNäyttöasetukset\nNäytön kytkeminen päälle tai pois\n→ Poiskytkentä: Valitkaa ”Vehicle” → ”Display OFF”.\n→ Takaisin päälle: Pyörittäkää y m z tai siirtäkää q m r .\n\nNäyttöasun asetus\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Display”.\n→ Valitkaa ”Day Mode”, ”Night Mode” tai ”Automatic”.\n\nAika-asetukset\nAjan asetus\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Time” → ”Time”.\n→ Tunnin tai minuutin/minuuttien valinta: Siirtäkää o m p .\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\ni\nAsetuksessa ”Automatic” COMAND analysoi ajoneuvon automaattisen valoanturin ja vaihtaa näyttöasua automaattisesti.\n\ni\nOikea aika on asetettava, jotta seuraavat navigointitoiminnot toimivat oikein:\n• Reittiopastus reiteillä, joilla on aikasidonnainen liikenneohjaus\n• Arvioidun saapumisajan laskenta",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=256",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/256/bg100.webp",
+      "originalPath": "original/256.html"
+    },
+    {
+      "page": 257,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Aikavyöhyke ja kesä-/normaaliaika",
+      "fi": "Ohjausjärjestelmät\nCOMAND-järjestelmäasetukset\n\n→ Arvon asetus: Pyörittäkää y m z tai siirtäkää q m r .\n→ Asetuksen tallennus: Painakaa n .\n\nAikavyöhykkeen asetus sekä vaihto kesäajan ja normaaliajan välillä\n→ Aikavyöhykkeen asetus: Valitkaa ”Vehicle” → ”System Settings” → ”Time” → ”Time Zone”.\nMaaluettelo tulee näkyviin. Piste R luettelomerkinnän edessä ilmaisee nykyisen asetuksen.\n→ Valitkaa maa, jossa parhaillaan ajatte.\nValitusta maasta riippuen myös aikavyöhykeluettelo voi tulla näkyviin.\n→ Valitkaa haluttu aikavyöhyke.\nJatko riippuu siitä:\n• onko navigointijärjestelmällänne GPS-vastaanotto\n• mikä maa on aiemmin asetettu\nVoitte joko:\n• vaihtaa manuaalisesti luettelossa asetusten ”Daylight Savings Time (Summer)” ja ”Standard time (Winter)” välillä\ntai\n• kytkeä automaattisen vaihdon kesäajan ja normaaliajan välillä päälle tai pois\n→ Manuaalinen vaihto: Valitkaa ”Daylight Savings Time (Summer)” tai ”Standard time (Winter)”.\nPiste R luettelomerkinnän edessä ilmaisee nykyisen asetuksen.\n→ Automaattisen vaihdon kytkentä päälle tai pois: Valitkaa ”Automatic Daylight Savings Time”.\nOlette kytkeneet toiminnon päälle tai pois. Kun toiminto on päällä, näkyviin tulee valintamerkki.\n→ Asetuksen tallennus ja valikosta poistuminen: Siirtäkää o m p .\n\ni\nMinuuttien säätöaskel riippuu tilanteesta. Jos GPS-vastaanotto on käytettävissä, askel on 30 minuuttia. Jos GPS-vastaanottoa ei ole, askel on yksi minuutti.\n\ni\nOikea aikavyöhyke sekä kesäaika/normaaliaika on asetettava, jotta seuraavat navigointitoiminnot toimivat oikein:\n• Reittiopastus reiteillä, joilla on aikasidonnainen liikenneohjaus\n• Arvioidun saapumisajan laskenta\n\ni\nAutomaattisen kesäajan vaihdon saatavuus riippuu valitusta maasta.\n\ni\nJos olette kytkeneet automaattisen vaihdon pois, teidän on vaihdettava kesäaika normaaliaikaan ja päinvastoin itse.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=257",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/257/bg101.webp",
+      "originalPath": "original/257.html"
+    },
+    {
+      "page": 258,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Päivämäärä, muoto ja ääniohjauksen asetukset",
+      "fi": "Ohjausjärjestelmät\nCOMAND-järjestelmäasetukset\nPäivämäärän asetus\n\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Time” → ”Date”.\n→ Kuukauden, päivän tai vuoden valinta: Siirtäkää o m p .\n→ Arvon asetus: Pyörittäkää y m z tai siirtäkää q m r .\n→ Asetuksen tallennus: Painakaa n .\n\nAjan/päivämäärän muodon asetus\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Time” → ”Format”.\nMuotoluettelo tulee näkyviin. Pisteet R luettelomerkintöjen edessä ilmaisevat nykyisen asetuksen.\n→ Muotoasetuksen muutos: Valitkaa haluttu muoto.\n→ Asetuksen tallennus ja valikosta poistuminen: Siirtäkää o m p .\n\nÄäniohjauksen asetukset\nOhjeikkunan kytkeminen päälle tai pois\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Voice Control”.\n→ Valitkaa ”Help Window”.\nVoitte kytkeä ohjeikkunan päälle tai pois. Kun ohjeikkuna on päällä, näkyviin tulee valintamerkki.\n\nYksilöinti\nYksilöinnillä voitte hienosäätää ääniohjausta omaan ääneenne ja näin parantaa puheentunnistusta. Järjestelmän kyky tunnistaa muiden käyttäjien komentoja ei heikkene tästä.\n\nYksilöinti koostuu kahdesta osasta. Ensimmäisessä osassa harjoitatte järjestelmää tunnistamaan numerot ja toisessa osassa tietyt komennot.\n\nUuden yksilöinnin aloitus\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Voice Control” → ”Start new individualization”.\nNäkyviin tulee kysymys, haluatteko lisätietoja.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”No”, yksilöinnin ensimmäinen osa alkaa.\nJos valitsette ”Yes”, näkyviin tulee tietonäyttö ääniopastuksella.\n→ Näytön sulkeminen: Valitkaa ”OK”.\nYksilöinnin ensimmäinen osa alkaa.\n\ni\nYksilöinnin voi aloittaa vain ajoneuvon ollessa paikallaan. Istunnon aloittamisen jälkeen järjestelmä opastaa teitä yksilöinnissä ääniohjeilla.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=258",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/258/bg102.webp",
+      "originalPath": "original/258.html"
+    },
+    {
+      "page": 259,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Yksilöinnin jatko, poisto ja kieli",
+      "fi": "Ohjausjärjestelmät\nCOMAND-järjestelmäasetukset\n\nEnsimmäisen osan lopussa näette kysymyksen, haluatteko aloittaa toisen osan.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”No”, yksilöinti peruutetaan. Ensimmäisen osan tiedot tallennetaan automaattisesti.\nJos valitsette ”Yes”, toinen osa alkaa.\nYksilöinti valmistuu toisen osan lopussa. Näette siitä ilmoituksen. Toisen osan tiedot tallennetaan automaattisesti.\n\nPeruutus yksilöinnin ensimmäisen tai toisen osan aikana\n→ Valitkaa ”Cancel”.\nNäkyviin tulee kysymys, haluatteko todella peruuttaa.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”Yes”, yksilöinti peruutetaan. Sen osan tietoja, jossa lopetitte, ei tallenneta.\nJos valitsette ”No”, se osa, jossa pysähdyitte, alkaa uudelleen.\n\nOlemassa olevan yksilöintidatan poisto\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Voice Control” → ”Delete individualization”.\nNäkyviin tulee kysymys, haluatteko todella poistaa.\n→ Valitkaa ”Yes” tai ”No”.\nYksilöintidata joko poistetaan tai jätetään, valinnastanne riippuen.\n\nJärjestelmän kielen asetus\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Language”.\nKieliluettelo tulee näkyviin. Piste R ilmaisee nykyisen asetuksen.\n→ Asetuksen muutos: Valitkaa haluttu kieli.\nKieli asetetaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=259",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/259/bg103.webp",
+      "originalPath": "original/259.html"
+    },
+    {
+      "page": 260,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Suosikkinäppäin ja tehdasasetusten palautus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-järjestelmäasetukset\nSuosikkinäppäimen määritys\n\n1 Suosikkinäppäin\nVoitte määrittää suosikkinäppäimelle P seuraavat ennalta määritetyt toiminnot:\n• ”Rear Window Sunshade” (sivu 267)\nVoitte käyttää suosikkinäppäintä takalasin aurinkoverhon ulos- tai sisäänvetoon. Tämä on oletusasetus.\n• ”Display OFF” (sivu 255)\nVoitte käyttää suosikkinäppäintä COMAND-näytön kytkemiseen päälle tai pois.\n• ”Repeat Navigation Command” (sivu 239)\nVoitte käyttää suosikkinäppäintä navigointijärjestelmän viimeisimmän kuulutuksen toistamiseen.\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Favorite”.\nEnnalta määritettyjen toimintojen luettelo tulee näkyviin. Piste R luettelomerkinnän edessä ilmaisee nykyisen asetuksen.\n→ Asetuksen muutos: Pyörittäkää y m z ja valitkaa haluttu toiminto.\n→ Asetuksen tallennus ja valikosta poistuminen: Painakaa n .\n\nPalautus\n→ Valitkaa ”Vehicle” → ”System Settings” → ”Reset”.\nNäkyviin tulee kysymys, haluatteko todella palauttaa.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”Yes”, näkyviin tulee vielä toinen kysymys, haluatteko todella palauttaa.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”Yes”, COMAND palautetaan ja käynnistetään uudelleen.\n\ni\nVoitte palauttaa COMANDin tehdasasetuksiin.\nTällöin poistetaan muun muassa kaikki henkilökohtaiset tiedot (esim. osoitekirjamerkinnät, kohdemuistin merkinnät sekä navigointijärjestelmän viimeisimpien kohteiden luettelo).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=260",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/260/bg104.webp",
+      "originalPath": "original/260.html"
+    }
+  ]
+}

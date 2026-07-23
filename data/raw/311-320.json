@@ -1,0 +1,97 @@
+{
+  "from": 311,
+  "to": 320,
+  "fetchedAt": "2026-07-23T13:21:05.935Z",
+  "pages": [
+    {
+      "page": 311,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=311",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/311/bg137.webp",
+      "originalPath": "original/311.html",
+      "title": "310",
+      "en": "310\n Control systems\n Voice Control telephone\n “Dial number”\n You can dial a phone number using the\n command “Dial number”.\n Digits from “Zero” to “Nine” may be used.\n The phone number must be spoken\n • as a continuously spoken string of\n digits, or\n • in digit blocks (three to five digits in\n each block).\n After each digit block (separate the digit\n blocks by using an approximately\n 0.5 second pause), the Voice Control System repeats the recognized digits and\n waits until you continue speaking.\n When dialing 1800 numbers, you may pronounce the first four digits as “One eight\n hundred” and the system will recognize the\n spoken entries as “One eight zero zero”.\n All other numeric entries must be spoken\n as individual numbers.\n Sample dialog:\n s Dial number\n t Please say the number\n s One two three\n t One two three\n s Four five six seven\n t Four five six seven\n s OK\n t Dialing\n “Confirm”\n Using the command “Confirm” will repeat\n all digits spoken up to that point. Upon repeating the digits, the system will prompt\n you to continue your input.\n Sample dialog:\n s Dial number\n t Please say the number\n s One two three\n t One two three\n s Confirm\n t One two three, please continue\n s Four five six seven\n t Four five six seven\n s OK\n t Dialing\n i\n You can also dial the telephone number spoken by pressing button s on the multifunction steering wheel (instead of using the\n command “OK”):\n You can dial the telephone number before all\n numbers are recited in full."
+    },
+    {
+      "page": 312,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=312",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/312/bg138.webp",
+      "originalPath": "original/312.html",
+      "title": "311",
+      "en": "311\n Control systems\n Voice Control telephone\n “Correction”\n Using the command “Correction” will correct the last entered digit block. After\n speaking the command, the last digit block\n is deleted and all previously entered digits\n are repeated. The system then prompts\n you to continue your input.\n Sample dialog:\n s Dial number\n t Please say the number\n s One two three\n t One two three\n s Four five six seven\n t Five five six seven\n s Correction\n t One two three, please continue\n s Four five six seven\n t Four five six seven\n s OK\n t Dialing\n “Delete”\n Using the command “Delete” will erase all\n digits entered. The system then prompts\n you to start your input again.\n Sample dialog:\n s Dial number\n t Please say the number\n s One two three\n t One two three\n s Four five six seven\n t Four five six seven\n s Delete\n t Number deleted. Please enter the\n number again\n s Four two seven three\n t Four two seven three\n s Three nine one\n t Three nine one\n s OK\n t Dialing\n “Redial”\n Use the command “Redial” to dial the last\n dialed number.\n “Save name” (COMAND address book)\n Use the command “Save name” to create a\n new entry in your COMAND address book.\n After using the command, the system will\n prompt you to enter a phone number.\n Digits from “Zero” to “Nine” can be entered (\n 컄 page 310).\n Speak the telephone number\n • as a continuous string\n or, with longer phone numbers,\n • in form of digit blocks (three to five digits).\n After each digit block (separate the digit\n blocks by using an approximately\n 0.5 second pause), the Voice Control System repeats the recognized digits and\n waits until you continue speaking."
+    },
+    {
+      "page": 313,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=313",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/313/bg139.webp",
+      "originalPath": "original/313.html",
+      "title": "312",
+      "en": "312\n Control systems\n Voice Control telephone\n After the command “OK”, you will be\n prompted up to two times to input the\n name. When repeating the name, make\n sure that you pronounce it in the same\n manner as during the first input. Otherwise\n the name cannot be saved and the Voice\n Control System cancels the save procedure.\n Sample dialog:\n s Save name\n t Please say the number first\n s One two three\n t One two three\n s Four five six seven\n t Four five six seven\n s OK\n t Please say the name\n s John Smith\n t Please repeat the name\n s John Smith\n t Do you want to save the number in\n a category?\n s No\n t Name and number saved\n “Dial name” (COMAND address book)\n Use the command “Dial name” to place a\n phone call by selecting a name previously\n saved in your personal address book.\n Sample dialog:\n s Dial name\n t Please say the name\n s John Smith\n If several telephone numbers exist\n for the same entry, the Voice Control System will ask for clarification.\n t Do you want to place a work call or\n a home call?\n s Work\n t John Smith work\n Dialing\n i\n The Voice Control System may recognize\n names even if not saved in your voice. For optimum call-up performance, however, you should\n speak and save the names you intend to use\n yourself.\n i\n You can also add a name to an entry by calling up the corresponding menu on COMAND and\n saying the name twice (\n 컄 page 163)."
+    },
+    {
+      "page": 314,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=314",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/314/bg13a.webp",
+      "originalPath": "original/314.html",
+      "title": "313",
+      "en": "313\n Control systems\n Voice Control telephone\n “Call <voice entry>” (Address book)\n Use the command “Call <voice entry>” to\n place a phone call by directly selecting a\n name previously stored in your address\n book.\n One address book entry can have up to\n three different telephone numbers (mobile\n phone/car/land line) for both the home\n and work fields.\n If only one telephone number is stored for\n a given name, you can recall the entry using the command “Call John Smith”.\n If several telephone numbers are associated with one entry, you can recall the desired telephone number by using the\n following commands:\n • “Call John Smith home”\n • “Call John Smith work”\n • “Call John Smith home cell phone”\n • “Call John Smith home car”\n • “Call John Smith home land line”\n • “Call John Smith work cell phone”\n • “Call John Smith work car”\n • “Call John Smith work land line”\n The system confirms your input and the\n number is dialed.\n Sample dialog:\n s Call John Smith\n If several telephone numbers exist\n for the same entry, the Voice Control System will ask for clarification.\n t Do you want to place a work call or\n a home call?\n s Work\n t John Smith work\n Dialing\n “Delete name” (COMAND Address\n book)\n Use the command “Delete name” to delete\n a name from the COMAND address book.\n Sample dialog:\n s Delete name\n t The name, please\n s Smith office\n t Smith office: Would you like to delete the voice name?\n s Yes\n t The voice name is deleted"
+    },
+    {
+      "page": 315,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=315",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/315/bg13b.webp",
+      "originalPath": "original/315.html",
+      "title": "314",
+      "en": "314\n Control systems\n Voice Control telephone\n “List phone book” and dialing a phone\n number\n Use the command “List phone book” to listen to all voice entries in the phone book\n with a phone number stored, and select an\n entry and dial that number.\n Sample dialog:\n s List phone book\n The system reads out the complete\n phone book entry by entry.\n Selecting an entry and dialing that\n number\n 왘 For the de sired entry, pres s ! du ring or immediately after voice output.\n If more than one phone number exists\n for a given entry, the Voice Control System prompts:\n t Do you want to place a work call or\n a home call?\n s Home\n The system reads out the name of\n the selected entry and dials the corresponding number.\n Cancelling the dialog\n 왘 Press L .\n The system confirms “Cancel”.\n The dialog is concluded.\n Managing automated answering system/voice mail box\n Activate the Voice Control System to access and manage your answering machine/voice mail box.\n 왘 Activate the Voice Control System during a phone call (\n 컄 page 306).\n An audible tone (beep) confirms the activation of the system.\n 왘 Speak the required digits (“Zero” to\n “Nine”).\n or\n 왘 Speak the required words “Star” and\n “Pound”.\n 왘 Speak the final command “OK”.\n The system dials the number entered."
+    },
+    {
+      "page": 316,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=316",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/316/bg13c.webp",
+      "originalPath": "original/316.html",
+      "title": "315",
+      "en": "315\n Control systems\n Voice Control navigation\n 왔 Voice Control navigation\n Important notes\n Warning! G\n For safety reasons, you should only select a\n destination when the vehicle is stationary.\n While the navigation system provides directional assistance, the driver must remain focused on safe driving behavior, especially\n attention to traffic and street signs, and\n should utilize the system’s audio cues while\n driving.\n The navigation system does not supply any\n information on stop signs, yield signs, traffic\n regulations or traffic safety rules. Their observance always remains in the driver’ personal responsibility. DVD maps do not cover\n all areas nor all routes within an area.\n Traffic regulations always have priority over\n any route recommendations given.\n Bear in mind that at a speed of just 30 mph\n (approximately 50 km/h), your vehicle is\n covering a distance of 44 feet\n (approximately 13.5 m) every second.\n During route guidance, you will not receive\n information on:\n • traffic lights\n • stop and yield signs\n • parking or stopping zones\n • one-way streets\n • narrow bridges, or\n • other traffic regulation data.\n You should therefore always strictly observe\n traffic regulations while driving. Drive carefully and always obey traffic laws and road\n signs, even if they contradict navigation system instructions.\n Warning! G\n Please do not use the Voice Control System\n in an emergency, as the tone of your voice\n may change in a stressful situation. This\n could cause a delay in completing your\n phone call in a timely manner. This could\n distract you in an emergency situation and\n cause you to be involved in an accident.\n Warning! G\n Navigation announcements are intended to\n direct you while driving without diverting\n your attention from the road and driving.\n Please always use this feature instead of\n consulting the map display for directions.\n Consulting the symbols or map display for\n directions may cause you to divert your attention from driving and increase your risk\n of an accident."
+    },
+    {
+      "page": 317,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=317",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/317/bg13d.webp",
+      "originalPath": "original/317.html",
+      "title": "316",
+      "en": "316\n Control systems\n Voice Control navigation\n Navigation operation\n The Voice Control System allows you to\n • enter a state or province\n • enter a city\n • spell the name of a city\n • spell the name of district or center\n • spell the name of a street\n • spell the name of an intersection\n • enter a house number\n • enter a complete address\n • select one of your last destinations\n • enter a POI (point of interest)\n • select one of your last destinations\n • save a destination\n • navigate to a destination stored in the\n destination memory of the address\n book\n • start route guidance\n • display the map\n • zoom in or zoom out of the map\n • listen to the destination memory\n • cancel route guidance\n • turn guide instructions on or off\n Before you can operate navigation using\n the Voice Control System, you have to activate the Voice Control System\n (\n 컄 page 306).\n Selecting navigation mode\n 왘 Press ! .\n 왘 Speak the command “Navigation”.\n 왘 Press ! .\n 왘 Speak one of the navigation commands.\n Navigation commands\n For a complete list of commands\n (\n 컄 page 335).\n “Help navigation”/“Help”\n Use the command “Help navigation” or\n “Help” to read out an option list of available functions and commands that can be\n used in conjunction with the navigation\n system.\n “Enter state”,“Enter province”\n Use the command “Enter state” or “Enter\n province” to select a different state or\n province on the navigation DVD.\n i\n You cannot start the route guidance until all\n necessary address data has been entered."
+    },
+    {
+      "page": 318,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=318",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/318/bg13e.webp",
+      "originalPath": "original/318.html",
+      "title": "317",
+      "en": "317\n Control systems\n Voice Control navigation\n Sample dialog:\n s Enter state\n t Please say the name of the state\n s New York\n u The system shows a numbered list\n of states recognized by the system\n t Please select a line number\n s Number two\n or accept, say\n s Yes\n t State accepted\n The selected entry is adopted from the list.\n “Last states”\n Use the command “Last states” to select a\n state or province from among a number of\n last selected states or provinces.\n Dialog for entering a complete address\n “Enter destination”\n Use the command “Enter destination” to\n enter a complete destination address.\n The system guides you through the dialog.\n As soon as a valid address has been entered, you can start route guidance or save\n the destination. For information on spelling\n (\n 컄 page 322).\n Sample dialog:\n s Enter destination\n t Please spell a New York street\n name\n s B-R-O-A-D-W\n u The system displays a numbered\n list of matching street names on\n the COMAND display\n t Please select a line number\n s Number two\n t Number two accepted\n t Do you want to enter a house number ?\n s No\n t Do you want to enter an intersection?\n s No\n t Do you want to spell the town’s\n name?\n s Yes\n t Please spell the town name\n s N-E-W-Y-O-R-K\n u The system displays a numbered\n list of matching city names on the\n COMAND display\n t Please select a line number\n s Number one"
+    },
+    {
+      "page": 319,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=319",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/319/bg13f.webp",
+      "originalPath": "original/319.html",
+      "title": "318",
+      "en": "318\n Control systems\n Voice Control navigation\n t Number one accepted\n t Do you want to start route guidance?\n s Yes\n t Starting route guidance\n The system calculates the route and, upon\n completing route calculation, starts route\n guidance.\n “Points of interest”\n Use the command “Points of interest” to\n select a point of interest (POI) such as airports, railroad stations, gas stations etc.\n Sample dialog:\n s Points of interest\n u The system shows the following list\n on the COMAND display:\n • current position\n • other city\n • Global POI\n t Please select a line number\n s Number one\n u The system displays a numbered\n list of available POI categories:\n Select POI category menu\n t Please select a line number\n s Number one\n u The system displays a numbered\n list search categories: Find menu\n t Please select a line number\n s Number one\n u The system displays a numbered\n list of airports sorted by distance\n t Please select a line number\n s Number one\n t Point of interest accepted\n t Do you want to start route guidance?\n s Yes\n t Starting route guidance\n i\n You may not need to spell the entire name\n (street, intersection, city or point of interest) especially if the name is lengthy. Spelling the first\n three to five characters of the name should be\n sufficient for the system to recognize the name\n provided it is available on the navigation DVD.\n i\n The selection appearing on the COMAND\n display is sorted based on your recognized voice\n input and a matching algorithm.\n You can use the commands “Continue” or\n “Back” to scroll up or down in the list.\n Use the command “Correction” to start over by\n again spelling the name.\n Speak each character as clearly as you can, especially when they sound very similar (d or e).\n i\n Depending on the number of categories and\n POI’s available for a given area, the system may\n display several lists on each of which you may\n have to make a selection by speaking the desired\n line number or you have to spell the name of a\n POI."
+    },
+    {
+      "page": 320,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=320",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/320/bg140.webp",
+      "originalPath": "original/320.html",
+      "title": "319",
+      "en": "319\n Control systems\n Voice Control navigation\n “Next POI”\n With the commands\n • “Next gas station”\n • “Next parking lot”\n • “Next Mercedes-Benz service”\n • “Next restaurant”\n • “Next hospital”\n you can select POIs in your vicinity.\n Sample dialog:\n s Next gas station\n u The system shows a numbered list\n of gas stations on the COMAND display\n t Please select a line number\n s Number one\n t Number one accepted\n t Do you want to start route guidance?\n s Yes\n The system calculates the route and, upon\n completing route calculation, starts route\n guidance.\n “Last destinations”\n Use the command “Last destinations” to\n select a destination from among a number\n of destinations last navigated to.\n “Save destination”\n Use the command “Save destination” to\n save the current destination in the address\n book.\n Sample dialog:\n s Save destination\n t Please say the name\n s John Smith\n t Please repeat the name\n s John Smith\n t Where do you want to save: home\n or work?\n s Work\n t The destination has been saved\n i\n The Voice Control System may recognize\n names even if not saved in your voice. For best\n possible call-up performance, however, you\n should speak and save the names you intend to\n use yourself.\n If an entry is already available in the address\n book, the system will ask you if you would like to\n add the address to the available entry."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "from": 321,
+  "to": 330,
+  "pages": [
+    {
+      "page": 321,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-navigointi – Navigoi äänimerkintään",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: navigointi\n”Navigate to <voice entry>” (osoitekirja)\n\nKomennolla ”Navigate to <voice entry>” voitte aloittaa reittiopastuksen valitsemalla äänimerkinnän, johon on tallennettu kohdeosoite COMAND-osoitekirjaan.\nÄänimerkintään voi liittyä kaksi eri kohdeosoitetta (koti tai työ).\nJärjestelmä vahvistaa komentonne, laskee reitin ja aloittaa reittiopastuksen.\n\nJos vain yksi osoite on tallennettu, voitte käyttää komentoa ”Navigate <voice name>” valitaksenne kyseiselle nimelle tallennetun kohdeosoitteen.\n\nJos kaksi osoitetta on tallennettu, voitte käyttää komentoja\n• ”Navigate <voice name> home”\ntai\n• ”Navigate <voice name> work”\nvalitaksenne suoraan kotiosoitteen tai työosoitteen kyseiselle nimelle. Järjestelmä vahvistaa valintanne, laskee reitin ja aloittaa reittiopastuksen.\n\nEsimerkkikeskustelu:\ns Navigate to John Smith\nJos tälle äänimerkinnälle on useampi kuin yksi osoite, Ääniohjausjärjestelmä kysyy:\nt Navigate to home or work?\ns Work\nt John Smith work\n\nReittiopastuksen käynnistys\n”Start route guidance”\nKomennolla ”Start route guidance” voitte käynnistää reittiopastuksen, kun olette syöttäneet kelvollisen kohteen.\n\nEsimerkkikeskustelu:\ns Start route guidance\nt Starting route guidance\nReittiopastus alkaa.\n\n”Guidance instructions on”\nKomennolla ”Guidance instructions on” Ääniohjausjärjestelmä toistaa viimeisimmän opastusohjeen. Jos opastusääni oli aiemmin mykistetty, tämä komento poistaa opastusäänen mykistyksen.\n\n”Guidance instructions off”\nKomennolla ”Guidance instructions off” mykistätte järjestelmän opastusäänen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=321",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/321/bg141.webp",
+      "originalPath": "original/321.html"
+    },
+    {
+      "page": 322,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-navigointi – peruutus, kartta ja kohdemuisti",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: navigointi\n”Cancel route guidance”\nKomennolla ”Cancel route guidance” voitte peruuttaa reittiopastuksen.\n\nEsimerkkikeskustelu:\ns Cancel route guidance\nt Are you sure you want to cancel route guidance?\ns Yes\nReittiopastus peruutetaan.\ntai\ns No\nt Cancel\nKeskustelu Ääniohjausjärjestelmän kanssa peruutetaan. Reittiopastus jää aktiiviseksi.\n\n”Map”\nKomennolla ”Map” aktivoitte karttanäytön tai siirrytte siihen.\n\n”Zoom in”, ”Zoom out”\nNäillä komennoilla lähennätte tai loitonnatte karttaa haluttuun yksityiskohtaisuuteen.\n\n”Zoom in completely”, ”Zoom out completely”\nNäillä komennoilla asetatte karttanäytön suoraan pienimpään tai suurimpaan mittakaavaan.\n\n”List destination memory”\nKomennolla ”List destination memory” järjestelmä lukee kaikki kohdemuistin merkinnät, ja voitte valita merkinnän reittiopastusta varten.\n\nEsimerkkikeskustelu:\ns List destination memory\nJärjestelmä lukee osoitekirjan kohdemuistin.\n\nÄänimerkinnän valinta ja osoitteen ottaminen reittiopastukseen:\n→ Kun järjestelmä lukee halutun merkinnän, painakaa ! .\nJos käytettävissä on useampi kuin yksi osoite, järjestelmä kysyy:\nt Navigate to home or work?\ns Home\nJärjestelmä lukee valitun äänimerkinnän ja aloittaa reittiopastuksen.\n\nKeskustelun peruutus:\n→ Painakaa L .\nOlette peruuttaneet keskustelun. Järjestelmä vahvistaa peruutuksen sanomalla ”Cancel”.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=322",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/322/bg142.webp",
+      "originalPath": "original/322.html"
+    },
+    {
+      "page": 323,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-navigointi – kaupungin syöttö ja oikeinkirjoitus",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: navigointi\nOsoitteen osien syöttöön liittyvät komennot\n\n”Enter town”\nKomentoa ”Enter town” käytetään minkä tahansa suuremman kaupungin syöttöön USA:ssa tai Kanadassa.\n\nEsimerkkikeskustelu:\ns Enter town\nt Please spell the name of the town\ns E-A-S-T-O-N\nu Järjestelmä näyttää numeroitujen kaupunkinimien luettelon\nt Please select a line number\ns Number one\nt Number one, town accepted\nValittu kaupunki otetaan käyttöön reittiopastukseen.\n\n”Spell town”\nKomennolla ”Spell town” voitte syöttää kaupungin nimen kirjain kirjaimelta ja tarkistaa, vastaako se navigointi-DVD:llä olevaa merkintää.\nPuhukaa merkit yhtenäisenä jonona (viidestä seitsemään merkkiä). Järjestelmä näyttää sitten COMAND-näytössä kaupunkiluettelon, josta voitte valita halutun kaupungin.\n\nEsimerkkikeskustelu:\ns Spell town\nt Please spell the town name\ns N-E-W-Y-O-R\nu Järjestelmä näyttää numeroitujen kaupunkinimien luettelon\nt Please select a line number\ns Number one\nt Number one, town accepted\nValittu kaupunki otetaan käyttöön reittiopastukseen.\n\ni\nJos haluttua kaupunkia ei näy kaupunkiluettelossa, kaupunki voidaan syöttää komennolla ”Spell town”.\n\ni\nVoitte selata luetteloa komennoilla ”Continue” tai ”Back”. Sanokaa ”Correction” syöttääksenne kaupungin uudelleen.\n\ni\nVoitte käyttää komentoja ”Continue” tai ”Back” selataksenne luetteloa ylös- tai alaspäin. Komennolla ”Correction” voitte aloittaa alusta kirjoittamalla kaupungin nimen uudelleen.\n\ni\nMyös ulkomaiset kaupungit on kirjoitettava englanniksi. Huomatkaa, että COMAND-näytön luettelo on järjestetty puheentunnistuksen todennäköisyyden mukaan.\nPuhukaa kukin merkki mahdollisimman selvästi, erityisesti kun merkit kuulostavat hyvin samankaltaisilta (d tai e).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=323",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/323/bg143.webp",
+      "originalPath": "original/323.html"
+    },
+    {
+      "page": 324,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-navigointi – kaupunginosa ja katu",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: navigointi\n”District” tai ”Center”\nKomennolla ”District” tai ”Center” voitte kirjoittaa kaupunginosan tai keskustan aiemmin valitussa kaupungissa.\nPuhukaa merkit yhtenäisenä jonona (viidestä seitsemään merkkiä). Järjestelmä näyttää sitten COMAND-näytössä saatavilla olevien kaupunginosien tai keskustojen luettelon. Valitkaa haluttu keskusta kyseisestä luettelosta.\n\nEsimerkkikeskustelu:\ns District\nt Please spell the center\ns S-T-A-T-E-N-I-S\nu Järjestelmä näyttää saatavilla olevien kaupunginosien luettelon, jos useampi kuin yksi nimi vastaa kaupunginosaa kyseisessä kaupungissa\nt Please select a line number\ns Number one\nt Number one, center accepted\nValittu kaupunginosa otetaan käyttöön reittiopastukseen.\n\n”Street”\nKomennolla ”Street” voitte kirjoittaa ja valita kadun valittuun kaupunkiin. Vain navigointi-DVD:llä olevat kadunnimet voidaan valita.\nPuhukaa merkit yhtenäisenä jonona (viidestä seitsemään merkkiä). Järjestelmä näyttää sitten COMAND-näytössä saatavilla olevien kadunnimien luettelon. Valitkaa haluttu kadunnimi kyseisestä luettelosta.\n\nEsimerkkikeskustelu:\ns Street\nt Please spell the name of the street\ns F-O-R-E-S-T\nu Järjestelmä näyttää numeroitujen kadunnimien luettelon\nt Please select a line number\ns Number one\nt Number one, street accepted\nValittu kadunnimi otetaan käyttöön reittiopastukseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=324",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/324/bg144.webp",
+      "originalPath": "original/324.html"
+    },
+    {
+      "page": 325,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-navigointi – risteys ja talonumero",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: navigointi\n”Intersection”, ”Cross street”\nKomennolla ”Intersection” tai ”Cross street” voitte kirjoittaa ja valita risteyksen.\nPuhukaa merkit yhtenäisenä jonona (viidestä seitsemään merkkiä). Järjestelmä näyttää sitten COMAND-näytössä saatavilla olevien risteysten luettelon. Valitkaa haluttu risteys kyseisestä luettelosta.\n\nEsimerkkikeskustelu:\ns Intersection\nt Please spell the first street name\ns F-O-R-E-S-T\nt Please spell the name of the crossing street\ns D-U-D-L-E-Y\nu Järjestelmä näyttää COMAND-näytössä numeroitujen risteysten luettelon\nt Please select a line number\ns Number one\nt Intersection accepted\nRisteys otetaan käyttöön reittiopastukseen. Jos risteyksessä tunnistetaan osoite, järjestelmä kysyy, onko se oikein. Sanokaa ”Yes” tai ”No”.\n\n”House number”\nKomennolla ”House number” voitte valita talonumeron aiemmin valitulle kadulle. Puhukaa talonumero yksittäisinä numeroina.\n\nEsimerkkikeskustelu:\ns House number\nt Please say the house number in single digits\ns Three two\nt Is three two correct?\ns OK\nt House number accepted\nTalonumero otetaan käyttöön reittiopastukseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=325",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/325/bg145.webp",
+      "originalPath": "original/325.html"
+    },
+    {
+      "page": 326,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-osoitekirja – yleiskuva",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: osoitekirja\nCOMAND-osoitekirjan yleiskuva\n\nÄäniohjausjärjestelmän osoitekirjatoiminnolla voitte tallentaa nimiä sekä niihin liittyviä puhelinnumeroita ja osoitetietoja.\nVoitte tallentaa Ääniohjausjärjestelmän osoitekirjaan enintään 80 puhujakohtaista äänimerkintää.\nNäillä äänimerkinnöillä voitte valita osoitekirjaan tallennetun puhelinnumeron tai aloittaa reittiopastuksen osoitekirjaan tallennettuun osoitteeseen. Käytettävissä olevat komennot riippuvat osoitekirjan tilasta. Osoitekirja voi olla yhdessä seuraavista tiloista:\n• Osoitekirja ei ole auki\n• Osoitekirja on auki\n\nKäyttö, kun osoitekirja ei ole auki (globaali)\nÄäniohjausjärjestelmä tarjoaa seuraavat mahdollisuudet:\n• Nimen tallennus (sivu 311)\n• Nimen valinta / soitto (sivu 312)\n• Nimen poisto (sivu 313)\n• Navigointi merkintään (sivu 320)\n• Osoitekirjan luettelointi (sivu 327)\n• Osoitekirjan puhelinluettelon luettelointi (sivu 314)\n• Osoitekirjan kohdemuistin luettelointi (sivu 321)\n• Osoitekirjan poisto (sivu 327)\n• Osoitekirjan avaus\n\nVaroitus!\nKuljettajan huomion on ajon aikana aina oltava ensisijaisesti tiessä ja liikenneolosuhteissa.\nTutustukaa osoitekirjan toimintoihin ennen matkaa.\nKäyttäkää Ääniohjausjärjestelmää vain, kun tie- ja liikenneolosuhteet sen sallivat. Muuten voitte joutua onnettomuuteen, jossa te tai muut voivat loukkaantua.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=326",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/326/bg146.webp",
+      "originalPath": "original/326.html"
+    },
+    {
+      "page": 327,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-osoitekirja – avaus ja komennot",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: osoitekirja\nOsoitekirjan avaus\n\n→ Painakaa ! .\n→ Sanokaa komento ”Address book”.\n→ Painakaa ! .\n→ Sanokaa jokin alla kuvatuista osoitekirjakomennoista.\n\nKäyttö, kun osoitekirja on auki (paikallinen)\nOsoitekirjan ollessa auki voitte edellä mainittujen toimintojen lisäksi:\n• avata merkinnän vastaavalla äänimerkinnällä\n• avata minkä tahansa merkinnän kirjoittamalla nimen\n→ Merkinnän avaus: Sanokaa komento ”Open entry”.\n\nOsoitekirjan käyttö\n→ Painakaa ! .\n→ Sanokaa jokin seuraavista komennoista osoitekirjan tilan mukaan (auki tai ei auki).\n\nKäytettävissä olevat komennot, kun osoitekirja ei ole auki\nTäydellinen komentoluettelo (sivu 335).\n\n”Help address book”\nKomennolla ”Help address book” Ääniohjausjärjestelmä lukee vaihtoehtoluettelon kaikista osoitekirjassa käytettävissä olevista komennoista.\n\n”Save name” (sivu 311)\n”Dial name” (sivu 312)\n”Call <voice name>” (sivu 313)",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=327",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/327/bg147.webp",
+      "originalPath": "original/327.html"
+    },
+    {
+      "page": 328,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-osoitekirja – poisto ja luettelointi",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: osoitekirja\n”Delete name” (osoitekirja)\nKomennolla ”Delete name” voitte poistaa ääninimen osoitekirjastanne.\n\nEsimerkkikeskustelu:\ns Delete name\nt Please say the name\ns John Smith\nt Do you want to delete John Smith?\ns Yes\nt The voice name is deleted\n\n”Navigate to <voice entry>” (osoitekirja) (sivu 320)\n\n”List address book”\nKomennolla ”List address book” järjestelmä lukee kaikki käytettävissä olevat osoitekirjamerkinnät, ja voitte tarvittaessa valita merkinnän sen lukemisen aikana.\n\nEsimerkkikeskustelu:\ns List address book\nJärjestelmä lukee kaikki käytettävissä olevat osoitekirjamerkinnät.\n→ Osoitekirjamerkinnän valinta: Kun järjestelmä lukee halutun merkinnän, painakaa ! .\nMerkintä valitaan ja näytetään COMAND-näytössä.\n→ Keskustelun peruutus: Painakaa L .\nOlette peruuttaneet keskustelun. Järjestelmä lukee ”Cancel”.\n\n”List phone book” ja puhelinnumeron valinta (sivu 314)\n”List destination memory” (sivu 321)\n\n”Delete address book”\nKomennolla ”Delete address book” voitte poistaa kaikki tai yksittäiset ääninimet osoitekirjamerkinnöistä. Vain ääninimi poistetaan; merkinnän muut tiedot säilyvät.\n\n”Address book”\nTällä komennolla avaatte osoitekirjan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=328",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/328/bg148.webp",
+      "originalPath": "original/328.html"
+    },
+    {
+      "page": 329,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-osoitekirja – avoimen kirjan komennot",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: osoitekirja\nKäytettävissä olevat komennot, kun osoitekirja on auki\n\n”Help address book”\nKomennolla ”Help address book” Ääniohjausjärjestelmä lukee vaihtoehtoluettelon kaikista osoitekirjassa käytettävissä olevista komennoista.\n\n”Open <voice name>”\nKomennolla ”Open <voice name>” voitte avata osoitekirjamerkinnän, jolle on jo määritetty ääninimi.\n\nEsimerkkikeskustelu:\ns Open John Smith\nu Merkintä ”John Smith” näkyy COMAND-näytössä\n\n”Select entry”\nKomennolla ”Select entry” voitte avata merkinnän osoitekirjastanne.\n\nEsimerkkikeskustelu:\ns Select entry\nt Please say the name\ns John Smith\nu Merkintä ”John Smith” näkyy COMAND-näytössä.\n\n”Spell entry”\nKomennolla ”Spell entry” voitte avata osoitekirjamerkinnän kirjoittamalla nimen. Puhukaa nimi yhtenäisenä jonona (viidestä seitsemään merkkiä).\nJärjestelmä näyttää COMAND-näytössä mahdollisten osumien luettelon, josta voitte valita halutun merkinnän.\n\nEsimerkkikeskustelu:\ns Spell entry\nt Please spell the name\ns S-M-I-T-H\nu Järjestelmä näyttää COMAND-näytössä numeroitujen osumien luettelon\nt Please select a line number\ns Number two\nu Järjestelmä avaa luettelon rivinumeroon kaksi liittyvän merkinnän\n\ni\nVoitte käyttää komentoja ”Continue” tai ”Back” selataksenne seuraavalle tai edelliselle sivulle. Komennolla ”Correction” poistutte nykyisestä valintaluettelosta ja kirjoitatte nimen uudelleen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=329",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/329/bg149.webp",
+      "originalPath": "original/329.html"
+    },
+    {
+      "page": 330,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus-radio – käyttöönotto ja aaltoalue",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus: radio\nRadion käyttö\n\nÄäniohjausjärjestelmällä voitte:\n• Valita aseman\n• Etsiä aseman\n• Valita tietyn taajuuden\n• Tallentaa enintään 20 asemaa asemaluetteloonne\n• Valita aaltoalueen (FM tai AM)\n• Valita sääkanavan (weatherband)\n• Siirtyä satelliittiradioon\n• Poistaa aseman (asemaluettelosta)\n• Luetteloida asemaluettelon\n• Poistaa asemaluettelon\n\nJotta voitte käyttää radiota Ääniohjausjärjestelmällä, Ääniohjausjärjestelmän on oltava aktivoituna (sivu 306).\n\nRadiotilan valinta\n→ Painakaa ! .\n→ Sanokaa komento ”Radio”.\n→ Painakaa ! .\n→ Sanokaa jokin radiokomennoista.\nJärjestelmä siirtyy valitun aaltoalueen viimeksi viritettyyn asemaan.\n\nRadiokomennot\nTäydellinen komentoluettelo (sivu 335).\n\n”Help Radio”\nKomennolla ”Help Radio” Ääniohjausjärjestelmä lukee vaihtoehtoluettelon radiossa käytettävissä olevista komennoista.\n\nKäyttäkää komentoja\n• ”FM”\n• ”AM”\n• ”Weatherband”\nvalitaksenne halutun aaltoalueen tai kytkeäksenne radion sääkanavalle.\n\nVaroitus!\nKuljettajan huomion on ajon aikana aina oltava ensisijaisesti tiessä ja liikenneolosuhteissa.\nTutustukaa radion toimintoihin ennen matkaa.\nKäyttäkää Ääniohjausjärjestelmää vain, kun tie- ja liikenneolosuhteet sen sallivat. Muuten voitte joutua onnettomuuteen, jossa te tai muut voivat loukkaantua.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=330",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/330/bg14a.webp",
+      "originalPath": "original/330.html"
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+:root {
+  --bg: #f3f1ec;
+  --surface: #ffffff;
+  --ink: #1a2332;
+  --muted: #5c6675;
+  --accent: #0b5f8a;
+  --accent-soft: #d7ebf5;
+  --border: #d5d2cb;
+  --font: Georgia, "Times New Roman", serif;
+  --ui: system-ui, -apple-system, "Segoe UI", sans-serif;
+  --bottom-bar: 2.9rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  -webkit-text-size-adjust: 100%;
+  /* tilaa kiinteälle alapalkille (napit + pieni padding, ei tupla-safe-area) */
+  padding-bottom: calc(var(--bottom-bar) + env(safe-area-inset-bottom, 0px));
+}
+
+.app {
+  max-width: 40rem;
+  margin: 0 auto;
+  min-height: 100%;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.chrome {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+}
+
+.lang-bar {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  padding: calc(0.2rem + env(safe-area-inset-top, 0px)) 0 0;
+  background: #121820;
+  border-bottom: 1px solid #2a3444;
+}
+
+.lang-btn {
+  min-height: 2rem;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  color: #a8b2c0;
+  font-family: var(--ui);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.lang-btn.is-active {
+  background: #1a2332;
+  color: #fff;
+  box-shadow: inset 0 -2px 0 var(--accent);
+}
+
+.top {
+  background: #1a2332;
+  color: #f7f5f0;
+  padding: 0.35rem 0.75rem 0.4rem;
+}
+
+.top-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.top h1 {
+  margin: 0;
+  font-family: var(--ui);
+  font-size: 0.95rem;
+  font-weight: 650;
+  line-height: 1.2;
+}
+
+.progress {
+  margin: 0;
+  font-family: var(--ui);
+  font-size: 0.7rem;
+  color: #9aa3b0;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.search-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.4rem;
+  align-items: stretch;
+}
+
+.search-label,
+.page-picker-filter-label {
+  display: block;
+  min-width: 0;
+}
+
+#search,
+#page-picker-filter {
+  width: 100%;
+  min-height: 2.35rem;
+  padding: 0.45rem 0.7rem;
+  border: none;
+  border-radius: 0.45rem;
+  background: #fff;
+  color: var(--ink);
+  font-family: var(--ui);
+  font-size: 16px; /* estää iOS-zoomauksen fokuksessa */
+}
+
+#search::placeholder,
+#page-picker-filter::placeholder {
+  color: #7a8494;
+}
+
+.page-jump-btn,
+.page-picker-close {
+  min-height: 2.35rem;
+  padding: 0.35rem 0.75rem;
+  border: none;
+  border-radius: 0.45rem;
+  background: #2a3444;
+  color: #f7f5f0;
+  font-family: var(--ui);
+  font-size: 0.9rem;
+  font-weight: 650;
+  white-space: nowrap;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.page-picker-filter-label,
+.page-picker-close {
+  display: none;
+}
+
+body.is-picking .search-label,
+body.is-picking .page-jump-btn {
+  display: none;
+}
+
+body.is-picking .page-picker-filter-label {
+  display: block;
+}
+
+body.is-picking .page-picker-close {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body.is-picking .top-row {
+  display: none;
+}
+
+body.is-picking .top {
+  padding-bottom: 0.45rem;
+}
+
+/* Alapalkki piiloon sivunvalitsimessa — muuten body-padding + lista
+   jättävät tyhjän kaistan joka näyttää tupla-alapalkilta */
+body.is-picking .bottom {
+  display: none;
+}
+
+body.is-picking {
+  padding-bottom: 0;
+}
+
+.page-picker {
+  margin-bottom: 0;
+}
+
+.page-picker .panel-title {
+  margin-bottom: 0.45rem;
+}
+
+.page-picker-list {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0.5rem;
+  display: grid;
+  gap: 0.4rem;
+  /* Ei sisäistä scroll-ikkunaa: kaikki sivut 1–769 body-scrollissa.
+     Aiempi max-height näytti vain ~yhden ruudullisen ja katkaisi listan. */
+}
+
+body.is-picking .main {
+  padding-bottom: 0.5rem;
+}
+
+.page-picker-list button {
+  width: 100%;
+  text-align: left;
+  min-height: 3.1rem;
+  padding: 0.7rem 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 0.55rem;
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 1rem;
+  line-height: 1.3;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.page-picker-list button.is-current {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.page-picker-list .pick-page {
+  display: block;
+  font-family: var(--ui);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 0.15rem;
+}
+
+.page-picker-list .pick-title {
+  display: block;
+  font-weight: 650;
+}
+
+.page-picker-list .pick-meta {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--muted);
+  font-family: var(--ui);
+  font-size: 0.85rem;
+}
+
+.main {
+  padding: 0.65rem 0.85rem 0.85rem;
+}
+
+.panel-title {
+  margin: 0 0 0.5rem;
+  font-family: var(--ui);
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.search-results {
+  list-style: none;
+  margin: 0 0 0.85rem;
+  padding: 0;
+  display: grid;
+  gap: 0.45rem;
+}
+
+.search-results button {
+  width: 100%;
+  text-align: left;
+  min-height: 3.25rem;
+  padding: 0.75rem 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 0.55rem;
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 1rem;
+  line-height: 1.35;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.search-results .hit-page {
+  display: block;
+  font-family: var(--ui);
+  font-size: 0.75rem;
+  color: var(--accent);
+  margin-bottom: 0.15rem;
+}
+
+.search-results .hit-title {
+  display: block;
+  font-weight: 650;
+}
+
+.search-results .hit-snip {
+  display: block;
+  margin-top: 0.2rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+mark.hl {
+  background: #ffe566;
+  color: var(--ink);
+  padding: 0 0.12em;
+  border-radius: 0.15em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.muted {
+  color: var(--muted);
+  font-family: var(--ui);
+}
+
+.page-meta {
+  margin: 0 0 0.3rem;
+  font-family: var(--ui);
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.page-title {
+  margin: 0 0 0.7rem;
+  font-size: 1.3rem;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.page-body {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.55rem;
+  padding: 0.85rem 0.9rem 1rem;
+  font-size: 1.08rem;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+  word-wrap: break-word;
+  word-break: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+.page-body p {
+  margin: 0 0 0.85rem;
+  max-width: 100%;
+}
+
+.page-body p:last-child {
+  margin-bottom: 0;
+}
+
+.body-list {
+  margin: 0 0 0.85rem;
+  padding-left: 1.25rem;
+}
+
+.body-list li {
+  margin: 0 0 0.45rem;
+  padding-left: 0.15rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.body-list li:last-child {
+  margin-bottom: 0;
+}
+
+.toc-heading {
+  margin: 0.85rem 0 0.35rem;
+  font-family: var(--ui);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.toc-heading:first-child {
+  margin-top: 0;
+}
+
+.toc {
+  list-style: none;
+  margin: 0 0 0.5rem;
+  padding: 0;
+}
+
+.toc li {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.toc li:last-child {
+  border-bottom: none;
+}
+
+.toc-title {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  line-height: 1.35;
+}
+
+.toc-page {
+  flex: 0 0 auto;
+  appearance: none;
+  border: none;
+  background: transparent;
+  font-family: var(--ui);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--accent);
+  padding: 0.05rem 0.15rem;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.toc-page:active {
+  opacity: 0.7;
+}
+
+.orig-view {
+  display: grid;
+  gap: 0.65rem;
+  min-height: 100%;
+}
+
+/* [hidden] jää muuten display:grid:n alle → näkyy suomi-sivun lopussa */
+.orig-view[hidden],
+.fi-view[hidden],
+.search-panel[hidden],
+.page-picker[hidden],
+#orig-error[hidden],
+#search-empty[hidden] {
+  display: none !important;
+}
+
+.orig-hint {
+  margin: 0;
+  font-family: var(--ui);
+  font-size: 0.9rem;
+  color: var(--muted);
+  line-height: 1.35;
+}
+
+.iframe-wrap {
+  border: 1px solid var(--border);
+  border-radius: 0.55rem;
+  background: #e8e8e8;
+  overflow: hidden;
+  height: min(78vh, 36rem);
+  min-height: 8rem;
+  transition: height 0.15s ease;
+}
+
+#orig-frame {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  background: #e8e8e8;
+}
+
+.orig-actions {
+  display: none;
+}
+
+.primary-link,
+.secondary-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.75rem;
+  padding: 0.65rem 0.9rem;
+  border-radius: 0.55rem;
+  font-family: var(--ui);
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.primary-link {
+  background: var(--accent);
+  color: #fff;
+}
+
+.secondary-btn {
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.bottom {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 50;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 0.35rem;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 0.25rem 0.65rem calc(0.25rem + env(safe-area-inset-bottom, 0px));
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+}
+
+.nav-btn {
+  min-height: 2.35rem;
+  border: 1px solid var(--border);
+  border-radius: 0.45rem;
+  background: var(--accent-soft);
+  color: var(--ink);
+  font-family: var(--ui);
+  font-size: 0.95rem;
+  font-weight: 650;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.nav-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+#btn-prev {
+  justify-self: start;
+  padding-inline: 0.85rem;
+}
+
+#btn-next {
+  justify-self: end;
+  padding-inline: 0.85rem;
+}
+
+.page-indicator {
+  margin: 0;
+  font-family: var(--ui);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+body.is-orig .lang-bar {
+  background: #0d1520;
+}
+
+body.is-orig .lang-btn.is-active {
+  background: #152033;
+}
+
+body.is-orig .progress {
+  visibility: hidden;
+}

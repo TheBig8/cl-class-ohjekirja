@@ -1,0 +1,96 @@
+{
+  "from": 311,
+  "to": 320,
+  "pages": [
+    {
+      "page": 311,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – ”Dial number” ja ”Confirm”",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – puhelin\n”Dial number”\n\nVoitte valita puhelinnumeron komennolla ”Dial number”.\nNumerot ”Zero”–”Nine” ovat käytettävissä.\nPuhelinnumero on lausuttava\n• yhtenäisenä numerosarjana tai\n• numerolohkoissa (kolmesta viiteen numeroa lohkoa kohden).\nKunkin numerolohkon jälkeen (erottakaa lohkot noin 0,5 sekunnin tauolla) Ääniohjausjärjestelmä toistaa tunnistetut numerot ja odottaa, kunnes jatkatte puhumista.\nKun valitsette 1800-numeroita, voitte lausua neljä ensimmäistä numeroa muodossa ”One eight hundred”, ja järjestelmä tunnistaa ne muodossa ”One eight zero zero”.\nKaikki muut numerot on lausuttava yksittäisinä numeroina.\n\nEsimerkkikeskustelu:\ns Dial number\nt Please say the number\ns One two three\nt One two three\ns Four five six seven\nt Four five six seven\ns OK\nt Dialing\n\n”Confirm”\nKomennolla ”Confirm” järjestelmä toistaa kaikki siihen mennessä lausutut numerot. Numeroiden toiston jälkeen järjestelmä kehottaa teitä jatkamaan syöttöä.\n\nEsimerkkikeskustelu:\ns Dial number\nt Please say the number\ns One two three\nt One two three\ns Confirm\nt One two three, please continue\ns Four five six seven\nt Four five six seven\ns OK\nt Dialing\n\ni\nVoitte myös valita lausutun puhelinnumeron painamalla painiketta s monitoimirattissa (komennon ”OK” sijaan):\nVoitte valita puhelinnumeron ennen kuin kaikki numerot on toistettu kokonaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=311",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/311/bg137.webp",
+      "originalPath": "original/311.html"
+    },
+    {
+      "page": 312,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – ”Correction”, ”Delete”, ”Redial” ja ”Save name”",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – puhelin\n”Correction”\n\nKomennolla ”Correction” korjataan viimeksi syötetty numerolohko. Komennon jälkeen viimeinen numerolohko poistetaan ja kaikki aiemmin syötetyt numerot toistetaan. Järjestelmä kehottaa sitten teitä jatkamaan syöttöä.\n\nEsimerkkikeskustelu:\ns Dial number\nt Please say the number\ns One two three\nt One two three\ns Four five six seven\nt Five five six seven\ns Correction\nt One two three, please continue\ns Four five six seven\nt Four five six seven\ns OK\nt Dialing\n\n”Delete”\nKomennolla ”Delete” poistetaan kaikki syötetyt numerot. Järjestelmä kehottaa sitten teitä aloittamaan syötön uudelleen.\n\nEsimerkkikeskustelu:\ns Dial number\nt Please say the number\ns One two three\nt One two three\ns Four five six seven\nt Four five six seven\ns Delete\nt Number deleted. Please enter the number again\ns Four two seven three\nt Four two seven three\ns Three nine one\nt Three nine one\ns OK\nt Dialing\n\n”Redial”\nKomennolla ”Redial” valitaan viimeksi valittu numero.\n\n”Save name” (COMAND-osoitekirja)\nKomennolla ”Save name” luotte uuden merkinnän COMAND-osoitekirjaan.\nKomennon jälkeen järjestelmä kehottaa teitä syöttämään puhelinnumeron.\nNumerot ”Zero”–”Nine” voidaan syöttää (sivu 310).\nLausukaa puhelinnumero\n• yhtenäisenä sarjana\ntai pidemmissä numeroissa\n• numerolohkoina (kolmesta viiteen numeroa).\nKunkin numerolohkon jälkeen (erottakaa lohkot noin 0,5 sekunnin tauolla) Ääniohjausjärjestelmä toistaa tunnistetut numerot ja odottaa, kunnes jatkatte puhumista.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=312",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/312/bg138.webp",
+      "originalPath": "original/312.html"
+    },
+    {
+      "page": 313,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – ”Save name” (jatko) ja ”Dial name”",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – puhelin\n\nKomennon ”OK” jälkeen teitä kehotetaan enintään kaksi kertaa syöttämään nimi. Kun toistatte nimen, lausukaa se samalla tavalla kuin ensimmäisellä kerralla. Muuten nimeä ei voida tallentaa, ja Ääniohjausjärjestelmä peruuttaa tallennuksen.\n\nEsimerkkikeskustelu:\ns Save name\nt Please say the number first\ns One two three\nt One two three\ns Four five six seven\nt Four five six seven\ns OK\nt Please say the name\ns John Smith\nt Please repeat the name\ns John Smith\nt Do you want to save the number in a category?\ns No\nt Name and number saved\n\n”Dial name” (COMAND-osoitekirja)\nKomennolla ”Dial name” soitatte puhelun valitsemalla nimen, joka on aiemmin tallennettu henkilökohtaiseen osoitekirjaanne.\n\nEsimerkkikeskustelu:\ns Dial name\nt Please say the name\ns John Smith\nJos samalle merkinnälle on useita puhelinnumeroita, Ääniohjausjärjestelmä pyytää tarkennusta.\nt Do you want to place a work call or a home call?\ns Work\nt John Smith work\nDialing\n\ni\nÄäniohjausjärjestelmä voi tunnistaa nimiä myös, vaikka niitä ei olisi tallennettu teidän äänellänne. Parhaan kutsuntatuloksen saamiseksi teidän tulisi kuitenkin itse lausua ja tallentaa nimet, joita aiotte käyttää.\n\ni\nVoitte myös lisätä nimen merkintään avaamalla vastaavan valikon COMANDissa ja lausumalla nimen kahdesti (sivu 163).",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=313",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/313/bg139.webp",
+      "originalPath": "original/313.html"
+    },
+    {
+      "page": 314,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – ”Call <voice entry>” ja ”Delete name”",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – puhelin\n”Call <voice entry>” (osoitekirja)\n\nKomennolla ”Call <voice entry>” soitatte puhelun valitsemalla suoraan nimen, joka on aiemmin tallennettu osoitekirjaanne.\nYhdellä osoitekirjamerkinnällä voi olla enintään kolme eri puhelinnumeroa (matkapuhelin/auto/lankapuhelin) sekä koti- että työ-kentille.\nJos nimelle on tallennettu vain yksi puhelinnumero, voitte kutsua merkinnän komennolla ”Call John Smith”.\nJos samaan merkintään liittyy useita puhelinnumeroita, voitte kutsua halutun numeron seuraavilla komennoilla:\n• ”Call John Smith home”\n• ”Call John Smith work”\n• ”Call John Smith home cell phone”\n• ”Call John Smith home car”\n• ”Call John Smith home land line”\n• ”Call John Smith work cell phone”\n• ”Call John Smith work car”\n• ”Call John Smith work land line”\nJärjestelmä vahvistaa syöttönne ja numero valitaan.\n\nEsimerkkikeskustelu:\ns Call John Smith\nJos samalle merkinnälle on useita puhelinnumeroita, Ääniohjausjärjestelmä pyytää tarkennusta.\nt Do you want to place a work call or a home call?\ns Work\nt John Smith work\nDialing\n\n”Delete name” (COMAND-osoitekirja)\nKomennolla ”Delete name” poistatte nimen COMAND-osoitekirjasta.\n\nEsimerkkikeskustelu:\ns Delete name\nt The name, please\ns Smith office\nt Smith office: Would you like to delete the voice name?\ns Yes\nt The voice name is deleted",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=314",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/314/bg13a.webp",
+      "originalPath": "original/314.html"
+    },
+    {
+      "page": 315,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – ”List phone book” ja vastaaja/ääniposti",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – puhelin\n”List phone book” ja puhelinnumeron valinta\n\nKomennolla ”List phone book” kuuntelette kaikki puhelinluettelon äänimerkinnät, joihin on tallennettu puhelinnumero, sekä valitsette merkinnän ja soitatte siihen.\n\nEsimerkkikeskustelu:\ns List phone book\nJärjestelmä lukee koko puhelinluettelon merkintä merkinnältä.\n\nMerkinnän valinta ja numeron valinta\n→ Halutulle merkinnälle painakaa ! lukemisen aikana tai heti sen jälkeen.\nJos merkinnällä on useampi kuin yksi puhelinnumero, Ääniohjausjärjestelmä kysyy:\nt Do you want to place a work call or a home call?\ns Home\nJärjestelmä lukee valitun merkinnän nimen ja valitsee vastaavan numeron.\n\nKeskustelun peruutus\n→ Painakaa L .\nJärjestelmä vahvistaa ”Cancel”.\nKeskustelu päättyy.\n\nAutomaattisen vastaajan / äänipostin hallinta\nAktivoikaa Ääniohjausjärjestelmä käyttääksenne ja hallitaksenne vastaajaa / äänipostia.\n→ Aktivoikaa Ääniohjausjärjestelmä puhelun aikana (sivu 306).\nKuuluva äänimerkki (piip) vahvistaa järjestelmän aktivoinnin.\n→ Lausukaa tarvittavat numerot (”Zero”–”Nine”).\ntai\n→ Lausukaa tarvittavat sanat ”Star” ja ”Pound”.\n→ Lausukaa lopuksi komento ”OK”.\nJärjestelmä valitsee syötetyn numeron.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=315",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/315/bg13b.webp",
+      "originalPath": "original/315.html"
+    },
+    {
+      "page": 316,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – navigointi: tärkeät huomiot",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – navigointi\nÄäniohjaus – navigointi\nTärkeät huomiot\n\nVaroitus!\nTurvallisuussyistä valitkaa kohde vain ajoneuvon seisoessa paikallaan.\nVaikka navigointijärjestelmä antaa suuntaohjeita, kuljettajan on säilytettävä keskittyminen turvalliseen ajamiseen – erityisesti liikenteeseen ja liikennemerkkeihin – ja käytettävä järjestelmän äänivihjeitä ajon aikana.\nNavigointijärjestelmä ei anna tietoja stop-merkeistä, väistämisvelvollisuusmerkeistä, liikennesäännöistä eikä liikenneturvallisuussäännöistä. Niiden noudattaminen on aina kuljettajan henkilökohtainen vastuu. DVD-kartat eivät kata kaikkia alueita eivätkä kaikkia reittejä alueen sisällä.\nLiikennesäännöt ovat aina ensisijaisia järjestelmän reittiehdotuksiin nähden.\nMuistakaa, että jo nopeudella 30 mph (noin 50 km/h) ajoneuvonne kulkee 44 jalkaa (noin 13,5 m) sekunnissa.\n\nReittiopastuksen aikana ette saa tietoja seuraavista:\n• liikennevaloista\n• stop- ja väistämisvelvollisuusmerkeistä\n• pysäköinti- tai pysähtymisalueista\n• yksisuuntaisista kaduista\n• kapeista silloista tai\n• muista liikennesääntötiedoista.\nNoudattakaa siksi aina tiukasti liikennesääntöjä ajaessanne. Ajakaa varovaisesti ja noudattakaa aina liikennemääräyksiä ja liikennemerkkejä, vaikka ne olisivat ristiriidassa navigointijärjestelmän ohjeiden kanssa.\n\nVaroitus!\nÄlkää käyttäkö Ääniohjausjärjestelmää hätätilanteessa, sillä äänenne sävy voi muuttua stressitilanteessa. Tämä voi viivästyttää puhelun muodostamista ajoissa. Se voi häiritä teitä hätätilanteessa ja johtaa onnettomuuteen.\n\nVaroitus!\nNavigointikuulutukset on tarkoitettu ohjaamaan teitä ajon aikana ilman, että huomionne siirtyy pois tiestä ja ajamisesta.\nKäyttäkää aina tätä ominaisuutta sen sijaan, että katsoisitte karttanäyttöä ohjeiden saamiseksi.\nSymbolien tai karttanäytön katsominen ohjeita varten voi siirtää huomionne pois ajamisesta ja kasvattaa onnettomuusriskiä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=316",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/316/bg13c.webp",
+      "originalPath": "original/316.html"
+    },
+    {
+      "page": 317,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – navigoinnin käyttö ja komennot",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – navigointi\nNavigoinnin käyttö\n\nÄäniohjausjärjestelmällä voitte\n• syöttää osavaltion tai provinssin\n• syöttää kaupungin\n• tavata kaupungin nimen\n• tavata kaupunginosan tai keskuksen nimen\n• tavata kadun nimen\n• tavata risteyksen nimen\n• syöttää talonumeron\n• syöttää kokonaisen osoitteen\n• valita yhden viimeisistä kohteistanne\n• syöttää POI:n (point of interest / kiinnostava kohde)\n• tallentaa kohteen\n• navigoida osoitekirjan kohdemuistiin tallennettuun kohteeseen\n• käynnistää reittiopastuksen\n• näyttää kartan\n• lähentää tai loitontaa karttaa\n• kuunnella kohdemuistia\n• peruuttaa reittiopastuksen\n• kytkeä opastusohjeet päälle tai pois\n\nEnnen kuin voitte käyttää navigointia Ääniohjausjärjestelmällä, teidän on aktivoitava Ääniohjausjärjestelmä (sivu 306).\n\nNavigointitilan valinta\n→ Painakaa ! .\n→ Lausukaa komento ”Navigation”.\n→ Painakaa ! .\n→ Lausukaa jokin navigointikomennoista.\n\nNavigointikomennot\nTäydellinen komentoluettelo (sivu 335).\n\n”Help navigation” / ”Help”\nKomennolla ”Help navigation” tai ”Help” järjestelmä lukee vaihtoehtoluettelon käytettävissä olevista toiminnoista ja komennoista, joita voidaan käyttää navigointijärjestelmän kanssa.\n\n”Enter state”, ”Enter province”\nKomennolla ”Enter state” tai ”Enter province” valitsette toisen osavaltion tai provinssin navigointi-DVD:ltä.\n\ni\nEtte voi käynnistää reittiopastusta, ennen kuin kaikki tarvittavat osoitetiedot on syötetty.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=317",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/317/bg13d.webp",
+      "originalPath": "original/317.html"
+    },
+    {
+      "page": 318,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – ”Enter state”, ”Last states” ja ”Enter destination”",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – navigointi\n\nEsimerkkikeskustelu:\ns Enter state\nt Please say the name of the state\ns New York\nu Järjestelmä näyttää numeroidun luettelon tunnistetuista osavaltioista\nt Please select a line number\ns Number two\ntai hyväksykää sanomalla\ns Yes\nt State accepted\nValittu merkintä otetaan luettelosta.\n\n”Last states”\nKomennolla ”Last states” valitsette osavaltion tai provinssin useista viimeksi valituista osavaltioista tai provinsseista.\n\nKeskustelu kokonaisen osoitteen syöttämiseksi\n”Enter destination”\nKomennolla ”Enter destination” syötätte kokonaisen kohdeosoitteen.\nJärjestelmä ohjaa teitä keskustelun läpi.\nHeti kun kelvollinen osoite on syötetty, voitte käynnistää reittiopastuksen tai tallentaa kohteen. Tietoja tavaamisesta (sivu 322).\n\nEsimerkkikeskustelu:\ns Enter destination\nt Please spell a New York street name\ns B-R-O-A-D-W\nu Järjestelmä näyttää COMAND-näytössä numeroidun luettelon vastaavista kadunnimistä\nt Please select a line number\ns Number two\nt Number two accepted\nt Do you want to enter a house number?\ns No\nt Do you want to enter an intersection?\ns No\nt Do you want to spell the town’s name?\ns Yes\nt Please spell the town name\ns N-E-W-Y-O-R-K\nu Järjestelmä näyttää COMAND-näytössä numeroidun luettelon vastaavista kaupunkinimistä\nt Please select a line number\ns Number one",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=318",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/318/bg13e.webp",
+      "originalPath": "original/318.html"
+    },
+    {
+      "page": 319,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – reittiopastuksen käynnistys ja ”Points of interest”",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – navigointi\n\nt Number one accepted\nt Do you want to start route guidance?\ns Yes\nt Starting route guidance\nJärjestelmä laskee reitin ja käynnistää reittiopastuksen reitinlaskennan valmistuttua.\n\n”Points of interest”\nKomennolla ”Points of interest” valitsette kiinnostavan kohteen (POI), kuten lentokentän, rautatieaseman, huoltoaseman jne.\n\nEsimerkkikeskustelu:\ns Points of interest\nu Järjestelmä näyttää COMAND-näytössä seuraavan luettelon:\n• current position\n• other city\n• Global POI\nt Please select a line number\ns Number one\nu Järjestelmä näyttää numeroidun luettelon käytettävissä olevista POI-kategorioista:\nSelect POI category -valikko\nt Please select a line number\ns Number one\nu Järjestelmä näyttää numeroidun hakukategorialuettelon: Find-valikko\nt Please select a line number\ns Number one\nu Järjestelmä näyttää numeroidun, etäisyyden mukaan lajitellun lentokenttäluettelon\nt Please select a line number\ns Number one\nt Point of interest accepted\nt Do you want to start route guidance?\ns Yes\nt Starting route guidance\n\ni\nTeidän ei välttämättä tarvitse tavata koko nimeä (katu, risteys, kaupunki tai kiinnostava kohde), erityisesti jos nimi on pitkä. Kolmen–viiden ensimmäisen merkin tavaaminen riittää yleensä, jotta järjestelmä tunnistaa nimen, jos se on saatavilla navigointi-DVD:llä.\n\ni\nCOMAND-näytössä näkyvä valinta lajitellaan tunnistetun äänisyötön ja vastaavuusalgoritmin perusteella.\nVoitte selata luetteloa ylös- tai alaspäin komennoilla ”Continue” tai ”Back”.\nKomennolla ”Correction” aloitatte uudelleen tavaamalla nimen taas.\nLausukaa kukin merkki mahdollisimman selvästi, erityisesti kun ne kuulostavat hyvin samankaltaisilta (d tai e).\n\ni\nAlueella käytettävissä olevien kategorioiden ja POI-kohteiden määrästä riippuen järjestelmä voi näyttää useita luetteloita, joista kussakin teidän on tehtävä valinta lausumalla haluttu rivinumero tai tavaamalla POI:n nimi.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=319",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/319/bg13f.webp",
+      "originalPath": "original/319.html"
+    },
+    {
+      "page": 320,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Ääniohjaus – ”Next POI”, ”Last destinations” ja ”Save destination”",
+      "fi": "Ohjausjärjestelmät\nÄäniohjaus – navigointi\n”Next POI”\n\nSeuraavilla komennoilla\n• ”Next gas station”\n• ”Next parking lot”\n• ”Next Mercedes-Benz service”\n• ”Next restaurant”\n• ”Next hospital”\nvoitte valita POI-kohteita lähiympäristöstänne.\n\nEsimerkkikeskustelu:\ns Next gas station\nu Järjestelmä näyttää numeroidun huoltoasemaluettelon COMAND-näytössä\nt Please select a line number\ns Number one\nt Number one accepted\nt Do you want to start route guidance?\ns Yes\nJärjestelmä laskee reitin ja käynnistää reittiopastuksen reitinlaskennan valmistuttua.\n\n”Last destinations”\nKomennolla ”Last destinations” valitsette kohteen useista viimeksi navigoiduista kohteista.\n\n”Save destination”\nKomennolla ”Save destination” tallennatte nykyisen kohteen osoitekirjaan.\n\nEsimerkkikeskustelu:\ns Save destination\nt Please say the name\ns John Smith\nt Please repeat the name\ns John Smith\nt Where do you want to save: home or work?\ns Work\nt The destination has been saved\n\ni\nÄäniohjausjärjestelmä voi tunnistaa nimiä myös, vaikka niitä ei olisi tallennettu teidän äänellänne. Parhaan kutsuntatuloksen saamiseksi teidän tulisi kuitenkin itse lausua ja tallentaa nimet, joita aiotte käyttää.\nJos merkintä on jo osoitekirjassa, järjestelmä kysyy, haluatteko lisätä osoitteen olemassa olevaan merkintään.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=320",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/320/bg140.webp",
+      "originalPath": "original/320.html"
+    }
+  ]
+}

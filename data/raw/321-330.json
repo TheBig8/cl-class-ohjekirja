@@ -1,0 +1,97 @@
+{
+  "from": 321,
+  "to": 330,
+  "fetchedAt": "2026-07-23T13:21:06.907Z",
+  "pages": [
+    {
+      "page": 321,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=321",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/321/bg141.webp",
+      "originalPath": "original/321.html",
+      "title": "320",
+      "en": "320\n Control systems\n Voice Control navigation\n “Navigate to <voice entry>” (Address\n book)\n Use the command “Navigate to <voice entry>” to start route guidance by selecting\n voice entry with a saved destination address from the COMAND address book.\n A voice entry may have two different destination addresses associated with it (home\n or work).\n The system confirms your command, calculates the route, and begins route guidance.\n If only one address is stored, you can use\n the command “Navigate <voice name>” to\n select the stored destination address for\n that name.\n If two addresses are stored, you can use\n the commands\n • “Navigate <voice name> home”\n or\n • “Navigate <voice name> work”\n to directly select between home or work\n address for that name. The system confirms your selection, calculates the route,\n and begins route guidance.\n Sample dialog:\n s Navigate to John Smith\n If more than one address exists for\n this voice entry, the Voice Control\n System will prompt you:\n t Navigate to home or work?\n s Work\n t John Smith work\n Starting route guidance\n “Start route guidance”\n Use the command “Start route guidance”\n to start route guidance after entering a valid destination.\n Sample dialog:\n s Start route guidance\n t Starting route guidance\n Route guidance begins.\n “Guidance instructions on”\n Use the command “Guidance instructions\n on” to have the Voice Control System repeat the last guidance instruction. If guidance voice output was previously muted,\n using this command will deactivate the\n muting of the voice output.\n “Guidance instructions off”\n Use the command “Guidance instructions\n off” to mute the systems’ guidance voice\n output."
+    },
+    {
+      "page": 322,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=322",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/322/bg142.webp",
+      "originalPath": "original/322.html",
+      "title": "321",
+      "en": "321\n Control systems\n Voice Control navigation\n “Cancel route guidance”\n Use the command “Cancel route guidance” to cancel route guidance.\n Sample dialog:\n s Cancel route guidance\n t Are you sure you want to cancel\n route guidance?\n s Yes\n Route guidance is canceled.\n or\n s No\n t Cancel\n The dialog with the Voice Control System\n is canceled. Route guidance remains active.\n “Map”\n Use the command “Map” to activate or\n switch to map display.\n “Zoom in”, “Zoom out”\n Use these commands to zoom in on map or\n to zoom out of map to the desired level of\n map detail.\n “Zoom in completely”, “Zoom out completely”\n These commands are used to adapt the\n map display directly to the smallest or largest map scale.\n “List destination memory”\n Use the command “List destination memory” to have the system read out all destination memory entries and select and entry\n for route guidance.\n Sample dialog:\n s List destination memory\n The system reads out the address\n book destination memory.\n To select a voice entry and adopt address\n for route guidance:\n 왘 When the system reads the desired entry, press ! .\n If more than one address is available,\n the system will prompt you:\n t Navigate to home or work?\n s Home\n The system reads the selected\n voice entry and starts route guidance.\n To cancel the dialog:\n 왘 Press L .\n You have canceled the dialog. The system confirms cancellation by saying\n “Cancel”."
+    },
+    {
+      "page": 323,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=323",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/323/bg143.webp",
+      "originalPath": "original/323.html",
+      "title": "322",
+      "en": "322\n Control systems\n Voice Control navigation\n Commands for entering parts of an\n address\n “Enter town”\n The “Enter town” command is used to enter any larger city in the USA or Canada.\n Sample dialog:\n s Enter town\n t Please spell the name of the town\n s E-A-S-T-O-N\n u The system displays a numbered\n list of available city names\n t Please select a line number\n s Number one\n t Number one, town accepted\n The city selected is adopted for route\n guidance.\n “Spell town”\n Use the command “Spell town” to enter a\n city name by spelling mode and see if it\n matches an entry available on the navigation DVD.\n Speak the characters as a continuous\n string (five to seven characters). The system then displays a list of cities on the\n COMAND display from which you can select the desired city.\n Sample dialog:\n s Spell town\n t Please spell the town name\n s N-E-W-Y-O-R\n u The system displays a numbered\n list of available city names\n t Please select a line number\n s Number one\n t Number one, town accepted\n The city selected is adopted for route\n guidance.\n i\n If the desired city does not appear on the list\n of towns/cities, the city can be entered by using\n the “Spell town” command.\n i\n You can scroll through the list by using the\n “Continue” or “Back” command. Say “Correction” to enter the city again.\n i\n You can use the commands “Continue” or\n “Back” to scroll up or down in the list. Use the\n command “Correction” to start over again by\n spelling the name of the town.\n i\n You must also spell foreign towns or cities in\n English. Please note that the list on the COMAND\n display is sorted according to the probability of\n the voice recognition.\n Speak each character as clearly as you can, especially when they sound very similar (d or e)."
+    },
+    {
+      "page": 324,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=324",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/324/bg144.webp",
+      "originalPath": "original/324.html",
+      "title": "323",
+      "en": "323\n Control systems\n Voice Control navigation\n “District” or “Center”\n Use the command “District” or “Center” to\n to spell a city location in the city previously\n selected.\n Speak the characters as a continuous\n string (five to seven characters). The system then displays a list of available city districts or centers on the COMAND display.\n Select the desired city center from that\n list.\n Sample dialog:\n s District\n t Please spell the center\n s S-T-A-T-E-N-I-S\n u The system displays a list of available districts if more than one name\n matches the name of a district for\n the given city\n t Please select a line number\n s Number one\n t Number one, center accepted\n The district selected is adopted for route\n guidance.\n “Street”\n Use the command “Street” to spell and select a street for the adopted city. Only\n street names available on the navigation\n DVD can be selected.\n Speak the characters as a continuous\n string (five to seven characters). The system then displays a list of available street\n names on the COMAND display. Select the\n desired street name from that list.\n Sample dialog:\n s Street\n t Please spell the name of the street\n s F-O-R-E-S-T\n u The system displays a numbered\n list of available street names\n t Please select a line number\n s Number one\n t Number one, street accepted\n The street name selected is adopted for\n route guidance."
+    },
+    {
+      "page": 325,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=325",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/325/bg145.webp",
+      "originalPath": "original/325.html",
+      "title": "324",
+      "en": "324\n Control systems\n Voice Control navigation\n “Intersection”, “Cross street”\n Use the command “Intersection” or “Cross\n street” to spell and select an intersection.\n Speak the characters as a continuous\n string (five to seven characters). The system then displays a list of available intersections on the COMAND display. Select\n the desired intersection from that list.\n Sample dialog:\n s Intersection\n t Please spell the first street name\n s F-O-R-E-S-T\n t Please spell the name of the crossing street\n s D-U-D-L-E-Y\n u The system displays a numbered\n list of available intersections on the\n COMAND display\n t Please select a line number\n s Number one\n t Intersection accepted\n The intersection is adopted for route guidance. If an address at the intersection is\n recognized, the system asks if it is correct.\n Say “Yes” or “No”.\n “House number”\n Use the command “House number” to select a house number for the street previously selected. Speak the house number in\n single digits.\n Sample dialog:\n s House number\n t Please say the house number in single digits\n s Three two\n t Is three two correct?\n s OK\n t House number accepted\n The house number is adopted for route\n guidance."
+    },
+    {
+      "page": 326,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=326",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/326/bg146.webp",
+      "originalPath": "original/326.html",
+      "title": "325",
+      "en": "325\n Control systems\n Voice Control address book\n 왔 Voice Control address book\n COMAND address book overview\n The Voice Control System Address book\n function gives you the capability to store\n names and associated phone numbers and\n address information.\n You can store up to 80 speaker-dependent\n voice entries in the Voice Control System\n Address book.\n Using these voice entries, you can dial a\n phone number stored in address book or\n start route guidance to an address stored\n in the address book. Available commands\n are dependent on the status of the address\n book. The address book can be in one of\n the following status:\n • Address book not open\n • Address book open\n Operation with address book not open\n (global)\n The Voice Control System gives you the\n following capabilities:\n • Store a na me ( 컄 page 311)\n • Dial a name ( 컄 page 312)\n • Delete a name ( 컄 page 313)\n • Navigate to an entry ( 컄 page 320)\n • List ad dre ss boo k ( 컄 page 32 7)\n • List phone book of the address\n (\n 컄 page 314)\n • List address book destination memory\n (\n 컄 page 321)\n • Delete the addres s book ( 컄 p age 327)\n • Open the address book\n Warning! G\n Please devote your attention first and foremost to the traffic situation you are in.\n Before your journey, please familiarize yourself with the address book functions.\n Only use the Voice Control System when\n road and traffic conditions permit you to do\n so. Otherwise you could be involved in an\n accident in which you or others could be injured."
+    },
+    {
+      "page": 327,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=327",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/327/bg147.webp",
+      "originalPath": "original/327.html",
+      "title": "326",
+      "en": "326\n Control systems\n Voice Control address book\n Opening address book\n 왘 Press ! .\n 왘 Speak the command “Address book”.\n 왘 Press ! .\n 왘 Speak one of the address book commands described below.\n Operation with address book open\n (local)\n In addition to the capabilities listed when\n the address book is not open, the address\n book opened allows you to:\n • open an entry using the corresponding\n voice entry\n • open any entry by spelling the name\n 왘 Opening entry: Speak the command\n “Open entry”.\n Operating and using address book\n 왘 Press ! .\n 왘 Speak one of the following commands\n depending on the address book status\n (open or not open).\n Available commands with the address\n book not open\n For a complete list of commands\n (\n 컄 page 335).\n “Help address book”\n Use the command “Help address book” to\n have the Voice Control System read out an\n option list of all available commands for\n the address book.\n “ Save name ” (\n 컄 page 311)\n “ Dial name ” (\n 컄 page 312)\n “ Call <voice name> ” (\n 컄 page 313)"
+    },
+    {
+      "page": 328,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=328",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/328/bg148.webp",
+      "originalPath": "original/328.html",
+      "title": "327",
+      "en": "327\n Control systems\n Voice Control address book\n “Delete name” (Address book)\n Use the command “Delete name” to delete\n a voice name from your address book.\n Sample dialog:\n s Delete name\n t Please say the name\n s John Smith\n t Do you want to delete John Smith?\n s Yes\n t The voice name is deleted\n “ Navigate to <voice entry> ” (Address\n book) (\n 컄 page 320)\n “List address book”\n Use the command “List address book” to\n have the system read out all available address book entries and, if desired, select\n an entry when it is being read.\n Sample dialog:\n s List address book\n The system reads out all available address\n book entries.\n 왘 Selecting address book entry: When\n the system reads the desired entry,\n press ! .\n The entry is selected and shown on the\n COMAND display.\n 왘 Canceling the dialog: Pre ss L .\n You have canceled the dialog. The system reads out “Cancel”.\n “ List phone book ” and dialing a phone\n number (\n 컄 page 314)\n “ List destination memory ” (\n 컄 page 321)\n “Delete address book”\n Use the command “Delete address book”\n to delete all or individual voice names of\n the address book entries. Only the voice\n name is deleted; the remaining data in the\n entry are retained.\n “Address book”\n Use this command to open the address\n book."
+    },
+    {
+      "page": 329,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=329",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/329/bg149.webp",
+      "originalPath": "original/329.html",
+      "title": "328",
+      "en": "328\n Control systems\n Voice Control address book\n Available commands with the address\n book open\n “Help address book”\n Use the command “Help address book” to\n have the Voice Control System read out an\n option list of all available commands for\n the address book.\n “Open <voice name>”\n Use the command “Open <voice name>”\n to open an entry in your address book that\n has a voice name already assigned to it.\n Sample dialog:\n s Open John Smith\n u The entry “John Smith” appears on\n the COMAND display\n “Select entry”\n Use the command “Select entry” to open\n an entry in your address book.\n Sample dialog:\n s Select entry\n t Please say the name\n s John Smith\n u The entry “John Smith” appears on\n the COMAND display.\n “Spell entry”\n Use the command “Spell entry” to open an\n address book entry by spelling the name.\n Speak the name as a continuous string\n (five to seven characters).\n The system will display a list of possible\n matches on the COMAND display from\n which you can select the desired entry.\n Sample dialog:\n s Spell entry\n t Please spell the name\n s S-M-I-T-H\n u The system displays a numbered\n list of matching entries on the\n COMAND display\n t Please select a line number\n s Number two\n u The system opens the entry associated with line number two on the\n list\n i\n You can use the commands “Continue” or\n “Back” to scroll up or down the next page. Use\n the command “Correction” to exit the current\n selection list and spell the name again."
+    },
+    {
+      "page": 330,
+      "status": "ok",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=330",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/330/bg14a.webp",
+      "originalPath": "original/330.html",
+      "title": "329",
+      "en": "329\n Control systems\n Voice Control radio\n 왔 Voice Control radio\n Radio operation\n The Voice Control System gives you the capability to:\n • Select a station\n • Seek a station\n • Select a specific frequency\n • Save up to 20 stations in your station\n list\n • Select frequency band (FM or AM)\n • Select weatherband\n • Switch to satellite radio\n • Delete station (from station list)\n • List the station list\n • Delete the station list\n To operate the radio using the Voice Control System, the Voice Control System\n must be activated (\n 컄 page 306).\n Selecting radio mode\n 왘 Press ! .\n 왘 Speak the command “Radio”.\n 왘 Press ! .\n 왘 Speak one of the radio commands.\n The system switches to the last tuned\n station in the selected band.\n Radio commands\n For a complete list of commands\n (\n 컄 page 335).\n “Help Radio”\n Use the commands\n • “FM”\n • “AM”\n • “Weatherband”\n to select the desired frequency band or\n switch the radio to the weatherband.\n Warning! G\n Please devote your attention first and foremost to the traffic situation you are in.\n Before your journey, please familiarize yourself with the radio functions.\n Only use the Voice Control System when\n road and traffic conditions permit you to do\n so. Otherwise you could be involved in an\n accident in which you or others could be injured."
+    }
+  ]
+}

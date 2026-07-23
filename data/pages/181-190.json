@@ -1,0 +1,96 @@
+{
+  "from": 181,
+  "to": 190,
+  "pages": [
+    {
+      "page": 181,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "SMS-lähettäjän soittaminen ja tallennus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\nSMS-lähettäjän soittaminen\n\n→ Valitkaa SMS-viesti → ”Options” → ”Call”.\nPuhelin yhdistää puhelun.\n\nSMS-lähettäjän tallennus uudeksi COMAND-osoitekirjamerkinnäksi\n→ SMS-viestin valinta: Valitkaa SMS-saapuneissa viesti → ”Options” → ”Save Number” → ”New Entry”.\n→ Numeroluokan valinta: Valitkaa luokka, esim. ”Home”.\n→ Puhelinluokan valinta: Valitkaa luokka, esim. ”Land Line”.\n→ Tallennus: Valitkaa ”Save”.\nSyöttövalikko tulee näkyviin tietokenttien kanssa. Puhelinnumeron tietokenttä täytetään automaattisesti.\n\n1 Tietokenttä\n2 Syöttömerkki (kursori)\n3 Syöttömerkit\n\n→ Jatkakaa kuten kohdassa ”Tietokentän muutos” osiossa ”Uuden osoitekirjamerkinnän luominen” (sivu 158).\n\nSMS-lähettäjän puhelinnumeron lisääminen olemassa olevaan osoitekirjamerkintään\n→ SMS-viestin valinta: Valitkaa SMS-saapuneissa viesti → ”Options” → ”Save Number” → ”Add”.\n→ Jatkakaa kuten kohdassa ”Numeroluokan valinta” osiossa ”Puhelinnumeron lisääminen olemassa olevaan osoitekirjamerkintään” (sivu 161).\n\nSMS-saapuneiden sulkeminen\n→ Valitkaa ”Back”.\nPuhelimen päävalikko tulee näkyviin.\n\nSMS-viestin lukeminen\n→ Valitkaa SMS-saapuneissa SMS-viesti ja painakaa n .\nSMS-viesti tulee näkyviin.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=181",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/181/bgb5.webp",
+      "originalPath": "original/181.html"
+    },
+    {
+      "page": 182,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Tekstiviestin tietojen käyttö",
+      "fi": "Ohjausjärjestelmät\nCOMAND-puhelin*\nTekstiviestin tietojen käyttö\n\n→ Tietojen valinta tekstistä: Pyörittäkää y m z tai siirtäkää q m r .\n→ Tietojen käyttö: Painakaa n → ”Use”.\nJos olette valinneet puhelinnumeron, puhelin yhdistää puhelun.\nJos olette valinneet navigoitavan osoitteen, se siirretään navigointijärjestelmään.\n\nSMS-lähettäjän soittaminen\n→ Painakaa n → ”Call”.\nPuhelin yhdistää puhelun.\n\nSMS-lähettäjän tallennus uudeksi osoitekirjamerkinnäksi\n→ Painakaa n → ”Save Number” → ”New Entry”.\n→ Jatkakaa kuten kohdassa ”Numeroluokan valinta” osiossa ”SMS-lähettäjän tallennus uudeksi osoitekirjamerkinnäksi” (sivu 180).\n\nSMS-lähettäjän puhelinnumeron lisääminen olemassa olevaan osoitekirjamerkintään\n→ Painakaa n → ”Save Number” → ”Add”.\n→ Jatkakaa kuten kohdassa ”Numeroluokan valinta” osiossa ”Puhelinnumeron lisääminen olemassa olevaan osoitekirjamerkintään” (sivu 161).\n\nSMS-viestin sulkeminen ja paluu SMS-saapuneisiin\n→ Painakaa n → ”Back”.\n\ni\nJos SMS-viesti sisältää puhelinnumeroita tai navigoitavia osoitetietoja, voitte valita nämä tiedot ja soittaa puhelun tai siirtää osoitetiedot navigointijärjestelmään.\n\ni\nTämä toiminto ei ole mahdollista kaikkien SMS-lähettäjien kanssa.\n\ni\nTämä toiminto ei ole mahdollista kaikkien SMS-lähettäjien kanssa.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=182",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/182/bgb6.webp",
+      "originalPath": "original/182.html"
+    },
+    {
+      "page": 183,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Navigoinnin turvallisuusohjeet",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi\nTurvallisuusohjeet\n\nVaroitus!\nTurvallisuussyistä syöttäkää määränpää vain ajoneuvon ollessa paikallaan. Kun ajoneuvo on liikkeessä, matkustajan tulisi syöttää määränpää. Tutustukaa ohjekirjaan ja valitkaa reitti ennen ajoa.\n\nMuistakaa, että jo nopeudella 30 mph (noin 50 km/h) ajoneuvonne kulkee 44 jalkaa (noin 14 m) joka sekunti.\n\nCOMAND laskee reitin määränpäähän ottamatta huomioon esimerkiksi seuraavia:\n• Liikennevaloja\n• Stop- ja etuajo-oikeusmerkkejä\n• Pysäköinti- tai pysähtymiskieltoalueita\n• Kaistojen yhdistymisiä\n• Muita tie- ja liikennesääntöjä sekä määräyksiä\n• Kapeita siltoja\n\nCOMAND voi antaa virheellisiä navigointiohjeita, jos digitaalisen kartan tiedot eivät vastaa todellista tie-/liikennetilannetta. DVD-kartat eivät kata kaikkia alueita eivätkä kaikkia reittejä alueen sisällä. Näin voi olla esimerkiksi, jos liikenteen ohjausta on muutettu tai yksisuuntaisen kadun suunta on vaihdettu.\n\nTästä syystä teidän on aina noudatettava voimassa olevia tie- ja liikennesääntöjä sekä määräyksiä matkanne aikana. Tie- ja liikennesäännöillä sekä määräyksillä on aina etusija järjestelmän antamiin navigointiohjeisiin nähden.\n\nVaroitus!\nNavigointiohjeet on tarkoitettu ohjaamaan teitä ajon aikana viemättä huomiotanne tiestä ja ajamisesta. Käyttäkää aina tätä ominaisuutta sen sijaan, että katselisitte karttanäyttöä ohjeita varten. Symbolien tai karttanäytön tarkastelu ohjeita varten voi viedä huomionne ajamisesta ja kasvattaa onnettomuusriskiä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=183",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/183/bgb7.webp",
+      "originalPath": "original/183.html"
+    },
+    {
+      "page": 184,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Karttaohjelmisto ja päivitys",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (johdanto)\nCOMAND-navigointi (johdanto)\nKarttaohjelmisto\n\nKarttaohjelmiston tuottamat digitaaliset kartat vanhenevat samalla tavalla kuin perinteiset tiekartat. Optimaalinen reittiopastus on mahdollista vain, kun navigointijärjestelmässä on käytössä mahdollisimman ajantasainen karttaohjelmisto.\n\nTietoja uusista karttaohjelmistoversioista saatte valtuutetusta Mercedes-Benz-keskuksesta.\n\nKarttaohjelmiston päivitys\nVoitte päivittää karttaohjelmiston itse DVD:llä.\n\nHuomioita DVD-levyjen käsittelystä\n• Pitäkää levyistä kiinni vain reunasta.\n• Käsitelkää levyjä varovasti lukemisongelmien välttämiseksi.\n• Välttäkää naarmuja, sormenjälkiä ja pölyä levyissä.\n• Puhdistakaa levyjä kaupallisesti saatavalla puhdistusliinalla. Älkää pyyhkimättä pyörivin liikkein, vaan ainoastaan suorina viivoina keskustasta ulospäin.\n• Palauttakaa levyt koteloihinsa käytön jälkeen.\n• Suojatkaa levyt kuumuudelta ja suoralta auringonvalolta.\n\nPäivitysprosessi\nPäivitysprosessissa on seuraavat vaiheet:\n• DVD:n lataaminen DVD-vaihtajaan (sivu 184)\n• Päivitysprosessi (sivu 185)\n\ni\nPäivitysprosessi voi kestää 10–60 minuuttia karttaohjelmiston koosta riippuen. Jos radio oli päällä ennen päivityksen aloittamista, voitte edelleen säätää äänenvoimakkuutta. Voitte myös käyttää COMANDia automaattisen ilmastoinnin ohjaamiseen ja prosessin peruuttamiseen. Muut toiminnot eivät ole käytettävissä.\nJos mahdollista, tehkää päivitys ajoneuvon ollessa paikallaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=184",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/184/bgb8.webp",
+      "originalPath": "original/184.html"
+    },
+    {
+      "page": 185,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "DVD:n lataus vaihtajaan",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (johdanto)\nDVD:n lataaminen DVD-vaihtajaan\n\n1 Levypaikka\n2 Makasiinipaikan painikkeet 1 – 6\n\n→ Kytkekää COMAND päälle (sivu 83).\n→ Painakaa yhtä makasiinipaikan painikkeista 2 .\nJos levy on ladattu, se poistetaan.\n→ Ottakaa levy pois paikkasta 1 .\n→ Odottakaa, kunnes painamanne makasiinipaikan painikkeen 2 LED vilkkuu nopeasti.\n→ Työntäkää DVD paikkaan 1 painettu puoli ylöspäin.\nCOMAND lataa DVD:n.\n\ni\nJos teette päivityksen moottorin ollessa sammutettuna ja ajoneuvon akun varaus on riittämätön, COMAND voi kytkeytyä automaattisesti pois päältä prosessin aikana akun suojaamiseksi. Jos näin käy, käynnistäkää päivitys uudelleen moottorin käydessä. Vastaavasti, jos SmartKey-asento kytketään tahattomasti asentoon 0 , käynnistäkää päivitys uudelleen.\n\nVaroitus!\nÄlkää koskaan jättäkö moottoria käymään suljettuun tilaan. Pakokaasut sisältävät häkää. Pakokaasujen hengittäminen on terveydelle vaarallista ja voi johtaa tajunnan menetykseen tai jopa kuolemaan.\n\ni\nKukin makasiinipaikan painike 2 ilmoittaa vastaavan makasiinipaikan tilan LED-valolla.\n• LED pois = makasiinipaikka on tyhjä\n• LED palaa jatkuvasti = makasiinipaikka on ladattu\n• LED vilkkuu = CD-/DVD-vaihtaja pyytää levyn lataamista",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=185",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/185/bgb9.webp",
+      "originalPath": "original/185.html"
+    },
+    {
+      "page": 186,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Karttatietojen päivitys",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (johdanto)\nPäivitys\n\nKun olette ladanneet DVD:n, näette ilmoituksen, jonka mukaan levy ei sisällä tunnistettavaa ääniformaattia.\n→ Ilmoituksen vahvistus: Painakaa n .\nCOMAND tarkistaa, onko DVD:n karttaohjelmisto yhteensopiva ajoneuvon navigointijärjestelmän kanssa ja onko se yhteensopiva nykyisen järjestelmäohjelmiston kanssa.\n\nKarttaohjelmisto on yhteensopiva navigointijärjestelmän ja nykyisen järjestelmäohjelmiston kanssa\nCOMAND tarkistaa nyt, onko DVD:n karttadata jo asennettu.\n\nKarttadataa ei ole vielä asennettu\nNäette näyttössä versiotilojen vertailun, ja näkyviin tulee kehotus, jossa kysytään, haluatteko jatkaa päivitystä.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”No”, COMAND poistaa DVD:n automaattisesti eikä karttadataa päivitetä.\n→ Ottakaa DVD pois paikasta.\nJos valitsette ”Yes”, karttadata päivitetään.\n\nKarttadata on jo asennettu\nNäette ilmoituksen, että karttadata on jo asennettu, ja näkyviin tulee kehotus, jossa kysytään, haluatteko jatkaa päivitystä.\n→ Valitkaa ”Yes” tai ”No”.\nJos valitsette ”No”, COMAND poistaa DVD:n automaattisesti eikä karttadataa päivitetä.\n→ Ottakaa DVD pois paikasta.\nJos valitsette ”Yes”, olemassa oleva karttadata tallennetaan uudelleen.\n\nKarttatietojen päivitys\nPäivityksen ollessa käynnissä näette siitä ilmoituksen ja edistymispalkin. Edistymispalkki täyttyy vasemmalta oikealle päivityksen aikana.\n\n1 Edistymispalkki\n\nVoitte joko peruuttaa päivityksen tai antaa sen edetä loppuun peruuttamatta.\n→ Päivityksen peruutus DVD-vaihtajassa: Painakaa vastaavaa makasiinipaikan painiketta 2 (sivu 184).\nMolemmissa tapauksissa DVD poistetaan.\n→ Ottakaa DVD pois paikasta.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=186",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/186/bgba.webp",
+      "originalPath": "original/186.html"
+    },
+    {
+      "page": 187,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Päivityksen päättyminen ja yhteensopivuus",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (johdanto)\n\n→ Päivityksen annetaan edetä loppuun peruuttamatta: Älkää tehkö mitään enempää.\nJos päivitys valmistuu onnistuneesti, näette siitä ilmoituksen.\n→ Ilmoituksen vahvistus: Painakaa n .\nCOMAND poistaa DVD:n.\n→ Ottakaa DVD pois paikasta.\nPäivitys on valmis.\n\nJos päivitys ei valmistu onnistuneesti, näette ilmoituksen, että karttapäivitys ei ole mahdollista.\n→ Ilmoituksen vahvistus: Painakaa n .\nCOMAND poistaa DVD:n.\n→ Ottakaa DVD pois paikasta.\n\nPäivitys ei ehkä valmistu onnistuneesti seuraavista syistä:\n• DVD likainen tai naarmuuntunut\n→ Puhdistakaa DVD.\nKs. kohta ”Huomioita DVD-levyjen käsittelystä” (sivu 183).\n→ Käynnistäkää päivitys uudelleen.\n• Ylikuumeneminen ajoneuvon sisätilan liian korkean lämpötilan vuoksi\n→ Odottakaa, kunnes ajoneuvon sisätila on jäähtynyt.\n→ Käynnistäkää päivitys uudelleen.\n• COMANDiin integroitu tallennusväline (kiintolevy) on viallinen.\n→ Ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen.\n\nKarttaohjelmisto ei ole yhteensopiva navigointijärjestelmän kanssa\nNäette ilmoituksen, että päivitys ei ole mahdollista.\n→ Ilmoituksen vahvistus: Painakaa n .\nCOMAND poistaa DVD:n.\n→ Ottakaa DVD pois paikasta.\n→ Ladatkaa DVD, joka on yhteensopiva ajoneuvon navigointijärjestelmän kanssa.\n\nKarttaohjelmisto ei ole yhteensopiva nykyisen järjestelmäohjelmiston kanssa\nNäette ilmoituksen, että järjestelmäohjelmisto ja karttaohjelmisto eivät ole yhteensopivia.\n→ Ilmoituksen vahvistus: Painakaa n .\nCOMAND poistaa DVD:n.\n→ Ottakaa DVD pois paikasta.\n→ Teettäkää järjestelmäohjelmiston päivitys valtuutetussa Mercedes-Benz-keskuksessa.\n\ni\nJos päivitys peruutetaan, navigointijärjestelmä säilyy täysin toimintakuntoisena aiemmilla karttatiedoilla. Voitte käynnistää päivityksen uudelleen myöhemmin. Se jatkuu tällöin siitä kohdasta, jossa se peruutettiin.\n\ni\nNavigointijärjestelmä säilyy täysin toimintakuntoisena aiemmilla karttatiedoilla.\n\ni\nKarttaohjelmistoa ei voida päivittää, ennen kuin järjestelmäohjelmisto on päivitetty.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=187",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/187/bgbb.webp",
+      "originalPath": "original/187.html"
+    },
+    {
+      "page": 188,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Yleisiä huomioita navigointiin",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (johdanto)\nYleisiä huomioita\n\nNavigointijärjestelmän toimintavalmius valtuutetun Mercedes-Benz-keskuksen tekemän järjestelmäohjelmistopäivityksen jälkeen\nValtuutetun Mercedes-Benz-keskuksen tekemän järjestelmäohjelmistopäivityksen jälkeen asennettu karttaohjelmisto ei ehkä enää ole yhteensopiva. Jos näin on, navigointijärjestelmä ei ole toimintakuntoinen.\n\nTiedätte asian olevan näin, kun navigointitilaan siirtyessänne näkyviin tulee seuraava ilmoitus: ”The system software has been updated. The map software must be updated now. Please insert the DVD with the map software.”\n\n→ Karttaohjelmiston päivitys: Toimikaa kuten kohdassa ”Karttaohjelmiston päivitys” (sivu 183). Käyttäkää karttaohjelmistoa, joka on yhteensopiva järjestelmäohjelmiston kanssa.\n\nEnsimmäinen käyttö tai käyttö järjestelmäohjelmistopäivityksen jälkeen\nMolemmissa tapauksissa navigointijärjestelmän on määritettävä ajoneuvon sijainti. Voitte joutua ajamaan hetken, ennen kuin tarkka reittiopastus on mahdollista.\n\nGPS-vastaanotto\nNavigointijärjestelmän oikea toiminta riippuu muun muassa GPS-vastaanotosta. Tietyissä tilanteissa GPS-vastaanotto voi heikentyä, siinä voi olla häiriöitä tai vastaanottoa ei ole lainkaan, esim. tunneleissa, pysäköintitaloissa tai kun lunta peittää tavaratilan kansi, jossa GPS-antenni sijaitsee. Jos tavaratilan kannella on lunta, se on poistettava.\n\nReittiopastus ajoneuvon kuljetuksen jälkeen\nCOMANDin on määritettävä ajoneuvon sijainti uudelleen, jos ajoneuvoa on kuljetettu (esim. lautalla, junalla tai hinauksen jälkeen).\n\nSijainnin määritys tapahtuu automaattisesti myös COMANDin ollessa pois päältä. Kesto vaihtelee tilanteesta toiseen.\n\nReittiopastus voi olla rajoitettua seuraavasti ajoneuvon sijainnin määrityksen aikana:\n• Navigointiohjeet, reittiopastusnäytöt ja näytetyt kadunnimet eivät vastaa ajoneuvon todellista sijaintia.\n• COMAND ei anna navigointiohjeita.\n• Reittiopastusnäyttöjen sijaan näette ”Off Road” -näytön ja suuntanuolen. Suuntanuoli näyttää kompassisuunnan määränpäähän.\n\ni\nHuomioikaa, että päivityksen on tässä tapauksessa annettava edetä loppuun. Jos keskeytätte sen, navigointijärjestelmä pysyy edelleen toimintakyvyttömänä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=188",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/188/bgbc.webp",
+      "originalPath": "original/188.html"
+    },
+    {
+      "page": 189,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Matkan keskeytys ja kiintolevyvirheet",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (johdanto)\n\nKun sijainnin määritys on valmis, reittiopastus on jälleen mahdollista navigointiohjeilla ja reittiopastusnäytöillä.\n\nMatkan keskeyttäminen reittiopastuksen aikana\nSeuraavaa sovelletaan, jos keskeytätte matkan reittiopastuksen aikana ja jatkatte matkaa myöhemmin:\n• COMAND jatkaa reittiopastusta automaattisesti, jos jatkatte matkaa 2 tunnin kuluessa.\n• Reittiopastus peruuntuu, jos jatkatte matkaa yli 2 tunnin kuluttua. Peruutettu reittiopastus on tällöin käynnistettävä uudelleen manuaalisesti (sivu 240).\n\nKiintolevyvirheet\nCOMANDissa on integroitu kiintolevy, jolle karttaohjelmisto on tallennettu.\n\nJos jollakin kiintolevyn alueella on virhe, COMAND ei enää pääse käsiksi tämän alueen karttatietoihin esimerkiksi reittiä laskettaessa.\n\nIlmoitus ”Navigation Unavailable. Please refer to the operating instructions.” tulee näkyviin.\n→ Ilmoituksen poisto: Kytkekää COMAND pois päältä ja uudelleen päälle.\n\nMittayksiköt\nNavigointitilan mittayksiköt ovat samat kuin mittaristossa asetetut.\n\nSyöttörajoitukset\nSyöttörajoitukset tulevat voimaan tietystä ajoneuvon nopeudesta alkaen. Rajoitukset poistuvat heti, kun nopeus laskee tietyn arvon alle.\n\nKun rajoitus on aktiivinen, tietyt toiminnot tai syötöt eivät ole mahdollisia.\nHuomaatte tämän siitä, että joitakin valikkokohtia ei voi valita tai tietyt toiminnot eivät ole mahdollisia.\n\ni\nMatka keskeytyy, jos pysäköitte ajoneuvon ja kytkette COMANDin pois päältä.\nMatka jatkuu, kun kytkette COMANDin uudelleen päälle ja lähdette ajamaan.\n\ni\nJos kytkette navigointijärjestelmän pois päältä/päälle, se on jälleen toimintakuntoinen, kunnes sen on jälleen käytettävä viallista kiintolevyn aluetta. Ilmoitus tulee tällöin uudelleen näkyviin. Ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=189",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/189/bgbd.webp",
+      "originalPath": "original/189.html"
+    },
+    {
+      "page": 190,
+      "section": "Ohjausjärjestelmät",
+      "titleFi": "Navigointivalikon yleiskuva",
+      "fi": "Ohjausjärjestelmät\nCOMAND-navigointi (johdanto)\nNavigointijärjestelmän valikon yleiskuva\n\ni\nCOMAND-osat ja käyttöperiaatteet: ks. (sivu 83).\n\nInfo\n(vain reittiopastuksen ollessa aktiivinen)\nTietoja aktiivisesta reittiopastuksesta\n\nTraffic (TMC)\nReaaliaikaisten liikennetietojen avaus\n\nRoute\n(vain reittiopastuksen ollessa aktiivinen)\n• Reittitietojen avaus\n• Reittiselaimen avaus\n• Kiertotietoiminnon avaus\n\nPosition\n• Tallenna sijaintimuisti -toiminnon avaus\n• Kartan keskitys ajoneuvon sijaintiin\n• Kartan keskitys määränpään sijaintiin\n\nRPT\n(vain reittiopastuksen ollessa aktiivinen)\nNykyisen navigointiohjeen toisto\n\nDestination\nValitkaa:\n• määränpää\n• välipysähdys\n• tallenna määränpää\n• peruuta reittiopastus",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=190",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/190/bgbe.webp",
+      "originalPath": "original/190.html"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "from": 451,
+  "to": 460,
+  "pages": [
+    {
+      "page": 451,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – aktivointiehdot ja kytkentä ajon aikana",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nSeuraavissa tapauksissa DISTRONIC Plusia ei voi aktivoida:\n• enintään 2 minuuttia moottorin käynnistämisen jälkeen\n• jos moottori on sammutettu\n• jos painatte jarrupoljinta ajon aikana\n• jos ajoneuvo on lukittu elektronisella pysäköintijarrulla\n• jos vaihteenvalitsin on pysäköintiasennossa P, peruutusvaihteella R tai vapaa-asennossa N\n• jos ESP® on kytketty pois päältä\n• jos konepelti on auki\n• jos kuljettajan ovi on auki eikä kuljettaja ole kiinnittänyt turvavyötään\n• jos tutka-anturit on kytketty pois päältä (sivu 302).\n\nKytkeminen päälle ajon aikana\n→ Napauttakaa DISTRONIC Plus -vipua ylös 1 tai alas 2, kunnes haluttu nopeus on asetettu.\nDISTRONIC Plus kytkeytyy päälle.\ntai\n→ Vetäkää DISTRONIC Plus -vipua lyhyesti nuolen 4 suuntaan palauttaaksenne viimeksi asetetun nopeuden (sivu 455).\nDISTRONIC Plus kytkeytyy päälle.\n→ Ottakaa jalka pois kaasupolkimelta.\nAjoneuvonne sovittaa nopeutensa edellä ajavaan ajoneuvoon siten, että asetettu nopeus on enimmäisarvo.\n\ni\nAlle 20 mph (30 km/h) voitte kytkeä DISTRONIC Plusin päälle vain, jos edellä ajava ajoneuvo on tunnistettu ja se näkyy monitoiminäytössä. Jos ette enää näe edellä ajavaa ajoneuvoa monitoiminäytössä eikä sitä enää tunnisteta, koska se on esimerkiksi vaihtanut kaistaa, DISTRONIC Plus kytkeytyy pois päältä ja kuulette äänimerkin.\n\ni\nJos ette nosta jalkaanne kokonaan pois kaasupolkimelta, monitoiminäytössä näkyy viesti ”DISTRONIC PLUS Override”. Etäisyyttä hitaammin ajavaan ajoneuvoon ei aseteta. Ajatte sillä nopeudella, jonka määrääte kaasupolkimella.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=451",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/451/bg1c3.webp",
+      "originalPath": "original/451.html"
+    },
+    {
+      "page": 452,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – kytkentä pysähtyneeseen ja ajo",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nKytkeminen päälle lähestyttäessä pysähtynyttä ajoneuvoa\nJos edessänne oleva ajoneuvo on pysähdyksissä, voitte kytkeä DISTRONIC Plusin päälle vain, jos oma ajoneuvonnekin on pysähdyksissä.\n\n→ Napauttakaa DISTRONIC Plus -vipua ylös 1 tai alas 2, kunnes haluttu nopeus on asetettu.\nDISTRONIC Plus kytkeytyy päälle.\ntai\n→ Vetäkää DISTRONIC Plus -vipua lyhyesti nuolen 4 suuntaan palauttaaksenne viimeksi asetetun nopeuden (sivu 455).\nDISTRONIC Plus kytkeytyy päälle.\n\nLiikkeellelähtö\nKun edessänne oleva ajoneuvo lähtee liikkeelle:\n→ Ottakaa jalka pois jarrupolkimelta.\n→ Vetäkää DISTRONIC Plus -vipua lyhyesti nuolen 4 suuntaan.\ntai\n→ Painakaa lyhyesti kaasupoljinta.\nAjoneuvonne lähtee liikkeelle ja sovittaa nopeutensa edessä olevaan ajoneuvoon.\n\nAjo\nJos edessänne ei aja ajoneuvoa, DISTRONIC Plus toimii kuten vakionopeudensäädin (sivu 437).\nKun DISTRONIC Plus tunnistaa, että edessä oleva ajoneuvo ajaa hitaammin, se jarruttaa ajoneuvoa pitääkseen asettamanne etäisyyden.\nKun DISTRONIC Plus tunnistaa, että edessä oleva ajoneuvo ajaa nopeammin, ajoneuvo kiihtyy asetettuun nopeuteen.\n\ni\nDISTRONIC Plus -näytön kytkeminen päälle mittaristossa (sivu 448) on hyödyllistä, sillä alle 20 mph (30 km/h) voitte kytkeä DISTRONIC Plusin päälle vain, kun edessä oleva ajoneuvo on tunnistettu.\n\ni\nVoitte säätää asetettua nopeutta DISTRONIC Plus -vivulla ja tavoite-etäisyyttä DISTRONIC Plus -vivun etäisyydenasetuskytkimellä (sivu 457).\n\ni\nJos DISTRONIC Plus on kytketty pois päältä, PRE-SAFE® Brake* (sivu 75) varoittaa uhkaavasta törmäyksestä, jos tämä toiminto on aktivoitu mittariston ohjausjärjestelmällä (sivu 298).\n\nVaroitus!\nKun painatte jarrupoljinta, kytkette DISTRONIC Plusin pois päältä, paitsi kun ajoneuvo on pysähdyksissä. DISTRONIC Plus ei enää jarruta ajoneuvoanne. Olette aina vastuussa etäisyyden pitämisestä muihin ajoneuvoihin, nopeusrajoitusten noudattamisesta ja jarruttamisesta hyvissä ajoin.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=452",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/452/bg1c4.webp",
+      "originalPath": "original/452.html"
+    },
+    {
+      "page": 453,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – pysähtyminen",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nPysähtyminen\nKun DISTRONIC Plus tunnistaa, että edessä oleva ajoneuvo pysähtyy, ajoneuvo jarruttaa, kunnes sekin pysähtyy.\nKun DISTRONIC Plus on pysäyttänyt ajoneuvonne ja se on pysähdyksissä, se pysyy paikallaan; jarrupoljinta ei tarvitse painaa.\n\nVaroitus!\nDISTRONIC Plusin jarrutusvaikutus peruuntuu ja ajoneuvo voi alkaa liikkua, jos\n• DISTRONIC Plus kytketään pois DISTRONIC Plus -vivulla\n• kiihdytätte\n• järjestelmässä tai virransyötössä on toimintahäiriö, esim. akun vikaantumisen vuoksi\n• moottoritilan sähkökomponentteja tai sulakkeita on manipuloitu\n• akku on irrotettu\n\nVaroitus!\nÄlkää koskaan poistuko ajoneuvosta DISTRONIC Plusin ollessa päällä!\nMatkustajat eivät saa koskaan käyttää tai kytkeä DISTRONIC Plusia pois, eikä sitä saa kytkeä pois ajoneuvon ulkopuolelta.\nDISTRONIC Plus ei korvaa elektronista pysäköintijarrua, eikä sitä saa käyttää pysäköintiin.\nKun poistutte ajoneuvosta tai sammutatte moottorin, deaktivoikaa DISTRONIC Plus ja lukitkaa ajoneuvo liikkumista vastaan kytkemällä elektroninen pysäköintijarru.\n\ni\nHetken kuluttua ajoneuvonne lukitaan paikalleen elektronisella pysäköintijarrulla, jotta käyttöjarru voi keventyä.\n\ni\nDISTRONIC Plus -vivun etäisyydenasetuskytkimellä asetetusta seuraamisetäisyydestä riippuen ajoneuvonne pysähtyy noin 13,1 ft etäisyydelle edessä olevasta ajoneuvosta.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=453",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/453/bg1c5.webp",
+      "originalPath": "original/453.html"
+    },
+    {
+      "page": 454,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – nykyinen ja korkeampi nopeus",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nNykyisen nopeuden asetus\n→ Kiihdyttäkää tai hidastakaa haluttuun nopeuteen.\n→ Nostakaa DISTRONIC Plus -vipua lyhyesti nuolen 1 suuntaan tai painakaa sitä nuolen 2 suuntaan.\nDISTRONIC Plus aktivoituu ja nykyinen nopeus asetetaan.\n→ Ottakaa jalka pois kaasupolkimelta.\n\nKorkeamman nopeuden asetus\nVoitte nostaa asetettua nopeutta kahdella tavalla.\n\nSäätö 1 mph (Kanada: 1 km/h) askelin\n→ Nostakaa DISTRONIC Plus -vipua lyhyesti vastuspisteeseen nuolen 1 suuntaan (sivu 449).\n→ Vapauttakaa DISTRONIC Plus -vipu.\nAjoneuvon nopeus nousee 1 mph (Kanada: 1 km/h) askelin.\n\ni\nJos ette nosta jalkaanne kokonaan pois kaasupolkimelta, monitoiminäytössä näkyy viesti ”DISTRONIC PLUS Override”.\nEtäisyyttä hitaammin ajavaan edessä olevaan ajoneuvoon ei aseteta. Ajoneuvonne nopeuden määrää tällöin vain kaasupolkimen asento.\n\nVaroitus!\nJos nostatte asetettua nopeutta, muistakaa, että voi kestää hetken, ennen kuin ajoneuvo saavuttaa asetetun nopeuden.\nNostakaa asetettu nopeus arvoon, jonka vallitsevat tieolosuhteet ja lakisääteiset nopeusrajoitukset sallivat. Muuten ajoneuvon äkillinen ja odottamaton kiihtyminen voi aiheuttaa onnettomuuden ja/tai vakavan henkilövahingon teille ja muille.\n\ni\nAsetetun nopeuden arvo nousee 1 mph (Kanada: 1 km/h) askelin joka kerta, kun nostatte DISTRONIC Plus -vipua vastuspisteeseen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=454",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/454/bg1c6.webp",
+      "originalPath": "original/454.html"
+    },
+    {
+      "page": 455,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – 5 mph -askelet ja alemman nopeuden asetus",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nSäätö 5 mph (Kanada: 10 km/h) askelin\n→ Nostakaa DISTRONIC Plus -vipua lyhyesti vastuspisteen ohi nuolen 1 suuntaan (sivu 449).\n→ Vapauttakaa DISTRONIC Plus -vipu.\nAjoneuvon nopeus nousee 5 mph (Kanada: 10 km/h) askelin.\n\nAlemman nopeuden asetus\nVoitte alentaa nopeutta kahdella tavalla.\n\nVaroitus!\nVoitte nostaa ajoneuvon nopeutta 5 mph (Kanada: 10 km/h) askelin. Kun käytätte tätä toimintoa, muistakaa, että voi kestää hetken, ennen kuin ajoneuvo saavuttaa asetetun nopeuden.\nNostakaa ajoneuvon nopeus arvoon, jonka vallitsevat tieolosuhteet sallivat. Muuten ajoneuvon äkillinen ja odottamaton kiihtyminen voi aiheuttaa onnettomuuden ja/tai vakavan henkilövahingon teille ja muille.\n\ni\nAsetetun nopeuden arvo nousee 5 mph (Kanada: 10 km/h) askelin joka kerta, kun nostatte DISTRONIC Plus -vipua vastuspisteen ohi.\n\ni\nUusi nopeus asetetaan ja ajoneuvo kiihtyy. Muistakaa, että voi kestää hetken, ennen kuin ajoneuvo saavuttaa asetetun nopeuden.\n\nVaroitus!\nJos alennatte asetettua nopeutta, muistakaa, että voi kestää hetken, ennen kuin ajoneuvo saavuttaa asetetun nopeuden.\nAlentakaa asetettu nopeus arvoon, jonka vallitsevat tieolosuhteet ja lakisääteiset nopeusrajoitukset sallivat. Muuten ajoneuvon äkillinen ja odottamaton hidastuminen voi aiheuttaa onnettomuuden ja/tai vakavan henkilövahingon teille ja muille.\n\ni\nKun hidastatte DISTRONIC Plus -vivulla, jarrujärjestelmä jarruttaa ajoneuvoa automaattisesti, jos moottorin jarrutusvoima ei riitä jarruttamaan ajoneuvoa riittävästi.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=455",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/455/bg1c7.webp",
+      "originalPath": "original/455.html"
+    },
+    {
+      "page": 456,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – alemman nopeuden askeleet ja Resume",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nSäätö 1 mph (Kanada: 1 km/h) askelin\n→ Painakaa DISTRONIC Plus -vipua lyhyesti alas vastuspisteeseen nuolen 2 suuntaan (sivu 449).\n→ Vapauttakaa DISTRONIC Plus -vipu.\nAjoneuvon nopeus laskee 1 mph (Kanada: 1 km/h) askelin.\n\nSäätö 5 mph (Kanada: 10 km/h) askelin\n→ Painakaa DISTRONIC Plus -vipua lyhyesti alas vastuspisteen ohi nuolen 2 suuntaan (sivu 449).\n→ Vapauttakaa DISTRONIC Plus -vipu.\nAjoneuvon nopeus laskee 5 mph (Kanada: 10 km/h) askelin.\n\nViimeksi tallennetun nopeuden asetus (Resume-toiminto)\n→ Vetäkää DISTRONIC Plus -vipua lyhyesti nuolen 4 suuntaan (sivu 449).\nDISTRONIC Plus palaa viimeksi asetettuun nopeuteen, tai jos nopeutta ei ole tallennettu, se asettaa ja tallentaa nykyisen nopeuden.\n→ Ottakaa jalka pois kaasupolkimelta.\n\ni\nAsetetun nopeuden arvo laskee 1 mph (Kanada: 1 km/h) askelin joka kerta, kun painatte DISTRONIC Plus -vipua alas vastuspisteeseen.\n\ni\nAsetetun nopeuden arvo laskee 5 mph (Kanada: 10 km/h) askelin joka kerta, kun painatte DISTRONIC Plus -vipua alas vastuspisteen ohi.\n\ni\nUusi nopeus asetetaan ja ajoneuvo hidastuu. Muistakaa, että voi kestää hetken, ennen kuin ajoneuvo saavuttaa asetetun nopeuden.\n\nVaroitus!\nMuistiin tallennettu nopeus saa asettaa uudelleen vain, jos vallitsevat tieolosuhteet sen sallivat. Paluu esiasetettuun nopeuteen voi aiheuttaa kiihtyvyys- tai hidastuvuuseroja, jotka voivat johtaa onnettomuuteen ja/tai vakavaan henkilövahinkoon teille ja muille.\n\ni\nMoottorin sammutuksen yhteydessä viimeksi tallennettu nopeus poistetaan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=456",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/456/bg1c8.webp",
+      "originalPath": "original/456.html"
+    },
+    {
+      "page": 457,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – poiskytkentä",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nDISTRONIC Plusin poiskytkentä\nDISTRONIC Plus -järjestelmän voi deaktivoida usealla tavalla:\n→ Kallistakaa DISTRONIC Plus -vipua lyhyesti nuolen 3 suuntaan (sivu 449).\ntai\n→ Painakaa jarrupoljinta.\nDISTRONIC Plus deaktivoituu.\nViimeksi asetettu nopeus tallennetaan muistiin.\n\nDISTRONIC Plus deaktivoituu automaattisesti, kun:\n• ajoneuvo on lukittu elektronisella pysäköintijarrulla\n• ajoneuvon nopeus on alle 20 mph (30 km/h) eikä edellä ajavaa ajoneuvoa tunnisteta\n• ESP® on toiminnassa tai kytketty pois ESP®-kytkimellä (sivu 72)\n• asetatte automaattivaihteiston ajon aikana pysäköintiasentoon P, peruutusvaihteelle R tai vapaa-asentoon N\n• tutka-anturit on kytketty pois päältä (sivu 302)\n• ajoneuvo vierii taaksepäin\n\nMonitoiminäytön segmentit sammuvat, kuuluu äänimerkki, ja monitoiminäytössä näkyy noin 5 sekunnin ajan viesti ”DISTRONIC PLUS Off”.\n\nJos DISTRONIC Plus on pysäyttänyt ajoneuvon ja järjestelmässä esiintyy toimintahäiriö, monitoiminäytössä näkyy viesti ”Brake Immediately”. Painakaa jarrua heti estääksenne ajoneuvoa vierimästä.\nDISTRONIC Plus kytkeytyy tällöin pois päältä ja viesti häviää.\n\ni\nViimeksi tallennettu asetettu nopeus poistetaan, kun moottori sammutetaan.\n\nVaroitus!\nDISTRONIC Plus kytkeytyy pois ja vapauttaa jarrut, kun järjestelmä hidastaa ajoneuvon alle vähimmäisnopeuden 20 mph (30 km/h), ellei DISTRONIC Plus tunnista suoraan edessänne olevaa ajoneuvoa. Kuljettajan on tällöin jarrutettava itse hidastaakseen ajoneuvoa edelleen tai pysäyttääkseen sen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=457",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/457/bg1c9.webp",
+      "originalPath": "original/457.html"
+    },
+    {
+      "page": 458,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – seuraamisetäisyyden asetus",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nSeuraamisetäisyyden asetus DISTRONIC Plusissa\nVoitte asettaa DISTRONIC Plusin määrätyn seuraamisetäisyyden säätämällä aika-asetusta välillä 1,0–2,0 sekuntia.\nTämän aika-asetuksen ja ajoneuvonne nykyisen nopeuden perusteella DISTRONIC Plus laskee ja asettaa tarvittavan seuraamisetäisyyden edellä ajavaan ajoneuvoon. Asetettu etäisyys näkyy monitoiminäytössä.\n\nTavoite-etäisyyden etäisyydenasetuskytkin sijaitsee DISTRONIC Plus -vivussa.\n\n1 Etäisyydenasetuskytkin tavoite-etäisyydelle\n2 Tavoite-etäisyyden kasvatus\n3 Tavoite-etäisyyden pienennys\n\n!\nAutomaattivaihteiston asettaminen vapaa-asentoon N ajon aikana peruuttaa DISTRONIC Plusin. Automaattivaihteistoa ei kuitenkaan tule asettaa vapaa-asentoon N ajon aikana muulloin kuin vapaalla vierittäessä, kun ajoneuvo on vaarassa luistaa (esim. jäisellä tiellä).\n\ni\nKaasupolkimen painaminen ei deaktivoi DISTRONIC Plusia. Lyhyen kiihdytyksen jälkeen (esim. ohitusta varten) DISTRONIC Plus palaa viimeksi asetettuun nopeuteen.\n\nVaroitus!\nKuljettajan on oman harkintansa mukaan valittava sopiva asetus ottaen huomioon tieolosuhteet, liikenne, oma ajotapa sekä voimassa olevat lait ja suositukset turvallisesta seuraamisetäisyydestä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=458",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/458/bg1ca.webp",
+      "originalPath": "original/458.html"
+    },
+    {
+      "page": 459,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – etäisyyssäätö ja ajo varoituksineen",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\nEtäisyyden kasvatus\nEtäisyysasetuksen kasvattaminen saa DISTRONIC Plusin pitämään suuremman seuraamisetäisyyden edellä ajavaan ajoneuvoon.\n→ Siirtäkää etäisyydenasetuskytkintä 1 suuntaan 2.\n\nEtäisyyden pienennys\nEtäisyysasetuksen pienentäminen saa DISTRONIC Plusin pitämään lyhyemmän seuraamisetäisyyden edellä ajavaan ajoneuvoon.\n→ Siirtäkää etäisyydenasetuskytkintä 1 suuntaan 3.\n\nAjo DISTRONIC Plusilla\nTässä jaksossa kuvataan useita ajotilanteita, joissa kuljettajalta vaaditaan erityistä varovaisuutta. Olkaa valmiina jarruttamaan tällaisissa tilanteissa. Jarrutus deaktivoi DISTRONIC Plus -järjestelmän.\n\nTodennäköisin syy järjestelmän toimintahäiriöön on likainen anturi (konepellin säleikön takana), erityisesti lumen, jään tai rankkasateen aikana. Tällöin DISTRONIC Plus kytkeytyy pois päältä, ja näytölle tulee viesti:\n\nVaroitus!\nDISTRONIC Plus ylläpitää kuljettajan valitsemaa nopeutta, ellei se tunnista suoraan edessä samaan suuntaan liikkuvaa estettä (esim. edellä ajavaa ajoneuvoa asettamallanne etäisyydellä).\nTämä tarkoittaa, että:\n• Ajoneuvonne voi ohittaa toisen ajoneuvon kaistanvaihdon jälkeen.\n• Tiukassa mutkassa tai jos edessä oleva ajoneuvo on tiukassa mutkassa DISTRONIC Plus voi menettää edessä ajavan ajoneuvon näkyvistään, jolloin ajoneuvonne voi kiihtyä aiemmin valittuun nopeuteen.\nDISTRONIC Plus säätää vain etäisyyttä ajoneuvonne ja suoraan edessä olevien ajoneuvojen välillä. Se ei välttämättä tunnista tiellä olevia paikallaan olevia kohteita, esim.:\n• ruuhkassa pysähtynyttä ajoneuvoa\n• rikkoutunutta ajoneuvoa\n• vastaantulevaa ajoneuvoa\nKuljettajan on aina oltava tarkkaavainen, seurattava liikennettä ja tarvittaessa ohjattava tai jarrutettava.\n\nVaroitus!\nDISTRONIC Plusia ei tule käyttää luminisilla tai jäisillä tieolosuhteilla.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=459",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/459/bg1cb.webp",
+      "originalPath": "original/459.html"
+    },
+    {
+      "page": 460,
+      "section": "Ohjaimet yksityiskohtaisesti",
+      "titleFi": "DISTRONIC Plus – ei käytettävissä, mutkat ja sivuttaissiirtymä",
+      "fi": "Ohjaimet yksityiskohtaisesti\nAjojärjestelmät\n\n”DISTRONIC PLUS\nCurrently Unavailable\nSee Oper. Manual”\nnäkyy monitoiminäytössä.\n\nDISTRONIC Plus -anturin puhdistuksesta ja hoidosta: ks. ”DISTRONIC Plus*/PRE-SAFE® Brake* -järjestelmän antureiden puhdistus (vain USA)” (sivu 599).\n\nToinen mahdollinen syy voi olla, että tutka-anturit on kytketty manuaalisesti pois mittariston ohjausjärjestelmässä.\nVarmistakaa, että tutka-anturit on kytketty päälle (sivu 302).\n\nMutkat ja kaarteet\nMutkissa tai kaarteissa DISTRONIC Plus ei ehkä tunnista edessä liikkuvaa ajoneuvoa, tai se voi tunnistaa sen liian aikaisin. Tämä voi saada ajoneuvonne jarruttamaan myöhään tai odottamatta.\n\nSivuttaissiirtynyt ajo\nKaistallanne mutta suoran ajolinjanne sivussa ajavaa ajoneuvoa DISTRONIC Plus ei ehkä tunnista. Etäisyys edessä olevaan ajoneuvoon jää tällöin riittämättömäksi.\n\ni\nJos viesti:\n”DISTRONIC PLUS\nCurrently Unavailable\nSee Oper. Manual”\nhäviää ajon aikana ja viimeksi tallennettu nopeus vilkkuu noin 5 sekunnin ajan, lika (esim. sohjo) on irronnut; DISTRONIC Plus on jälleen käytettävissä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=460",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/460/bg1cc.webp",
+      "originalPath": "original/460.html"
+    }
+  ]
+}

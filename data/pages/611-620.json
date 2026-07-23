@@ -1,0 +1,96 @@
+{
+  "from": 611,
+  "to": 620,
+  "pages": [
+    {
+      "page": 611,
+      "section": "Käytännön vinkit",
+      "titleFi": "ABS-/ESP®-häiriö ja elektroninen pysäköintijarru",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nOngelma | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\n-\nv\nKeltainen ABS-häiriömerkkivalo ja keltainen ESP®-varoitusvalo syttyvät moottorin käydessä, ja kuuluu äänivaroitus.\n\nABS ja ESP® on kytketty pois häiriön vuoksi.\nMyös BAS, EBP ja PRE-SAFE® on kytketty pois.\nJarrujärjestelmä toimii edelleen normaalisti, mutta ilman ABS:ää.\n\n→ Jatkakaa ajoa erityisen varovaisesti.\nPyörät voivat lukkiutua voimakkaassa jarrutuksessa, jolloin ohjattavuus heikkenee.\n→ Lukekaa ja noudattakaa monitoiminäytön viestejä (sivu 622).\n→ Tarkastuttakaa järjestelmä valtuutetussa Mercedes-Benz-keskuksessa mahdollisimman pian.\n\nNäiden ohjeiden noudattamatta jättäminen lisää onnettomuusriskiä.\n\n0\n(vain USA)\n!\n(vain Kanada)\nElektronisen pysäköintijarrun punainen merkkivalo vilkkuu ja/tai elektronisen pysäköintijarrun keltainen varoitusvalo palaa.\n\nElektroninen pysäköintijarru on viallinen tai toimintahäiriöinen.\n\n→ Lukekaa ja noudattakaa monitoiminäytön viestejä (sivu 622).\n→ Tarkastuttakaa järjestelmä valtuutetussa Mercedes-Benz-keskuksessa mahdollisimman pian.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=611",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/611/bg263.webp",
+      "originalPath": "original/611.html"
+    },
+    {
+      "page": 612,
+      "section": "Käytännön vinkit",
+      "titleFi": "Punainen jarruvaroitusvalo – jarruneste liian matala",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nOngelma | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\n;\n(vain USA)\n3\n(vain Kanada)\nPunainen jarruvaroitusvalo syttyy moottorin käydessä, ja kuuluu äänivaroitus.\n\nSäiliössä on liian vähän jarrunestettä.\nOnnettomuusvaara!\n\n→ Pysäyttäkää ajoneuvo varovasti turvalliseen paikkaan tai heti, kun se on turvallista.\n→ Kytkekää elektroninen pysäköintijarru (sivu 412).\n→ Ottakaa yhteyttä valtuutettuun Mercedes-Benz-keskukseen.\n→ Älkää lisätkö jarrunestettä! Se ei korjaa ongelmaa.\n\nVaroitus!\nAjaminen jarruvaroitusvalon palaessa voi johtaa onnettomuuteen. Tarkastuttakaa jarrujärjestelmä heti, jos jarruvaroitusvalo jää palamaan. Älkää lisätkö jarrunestettä ennen jarrujärjestelmän tarkistusta. Jarrunestesäiliön ylitäyttö voi aiheuttaa jarrunesteen roiskumisen kuumille moottorin osille ja jarrunesteen syttymisen. Voitte saada vakavia palovammoja.\n\n!\nJos huomaatte, että jarrunesteensäiliön neste on laskenut vähimmäismerkkiin tai sen alle, tarkastuttakaa jarrujärjestelmä jarrupalojen paksuuden ja vuotojen varalta.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=612",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/612/bg264.webp",
+      "originalPath": "original/612.html"
+    },
+    {
+      "page": 613,
+      "section": "Käytännön vinkit",
+      "titleFi": "Keltainen moottorivian merkkivalo – päästöjärjestelmät",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nOngelma | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\n±\nKeltainen moottorivian merkkivalo syttyy ajon aikana.\n\nHäiriö yhdessä seuraavista:\n• polttoaineenhallintajärjestelmä\n• sytytysjärjestelmä\n• päästöjenvalvontajärjestelmä\n• järjestelmät, jotka vaikuttavat päästöihin\n\nTällaiset häiriöt voivat johtaa liiallisiin päästöarvoihin ja kytkeä moottorin hätäkäyttötilaan (Limp-Home Mode).\n\n→ Tarkastuttakaa ajoneuvo mahdollisimman pian valtuutetussa Mercedes-Benz-keskuksessa.\n\nHuoltoliike käyttää ajoneuvon sisäistä diagnostiikkaliitintä kytkeäkseen ajoneuvon korjaamon diagnostiikkajärjestelmään. Sen avulla järjestelmähäiriöt voidaan tunnistaa tarkasti lukemalla vikakoodit. Liitin sijaitsee etuosan vasemmalla puolella jalkatilassa.\n\ni\nJoissakin osavaltioissa laki voi vaatia, että käytte korjaamolla heti, kun moottorivian merkkivalo syttyy. Tarkistakaa paikalliset vaatimukset.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=613",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/613/bg265.webp",
+      "originalPath": "original/613.html"
+    },
+    {
+      "page": 614,
+      "section": "Käytännön vinkit",
+      "titleFi": "Moottorivian merkkivalo – polttoainejärjestelmän painehäviö",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nOngelma | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\n±\nKeltainen moottorivian merkkivalo syttyy ajon aikana.\n\nPolttoainejärjestelmässä on havaittu painehäviö. Polttoainekorkki ei ehkä ole suljettu kunnolla, tai polttoainejärjestelmässä voi olla vuoto.\n\n→ Tarkistakaa polttoainekorkki.\nJos se ei ole suljettu kunnolla:\n→ Sulkekaa polttoainekorkki.\nJos se on suljettu kunnolla:\n→ Tarkastuttakaa polttoainejärjestelmä valtuutetussa Mercedes-Benz-keskuksessa.\n\nPolttoainesäiliönne on tyhjä.\n→ Tankkauksen jälkeen käynnistäkää, sammuttakaa ja käynnistäkää moottori uudelleen kolme tai neljä kertaa peräkkäin.\nHätäkäyttötila (Limp-Home Mode) peruuntuu. Ajoneuvoa ei tarvitse tarkastuttaa.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=614",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/614/bg266.webp",
+      "originalPath": "original/614.html"
+    },
+    {
+      "page": 615,
+      "section": "Käytännön vinkit",
+      "titleFi": "Etäisyysvaroitusvalo ja vilkkuva ESP®-varoitusvalo",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nOngelma | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nl\nPRE-SAFE® Brake*: Punainen etäisyysvaroitusvalo syttyy ajon aikana.\n\nOlette liian lähellä edessä olevaa ajoneuvoa valitun nopeuden ylläpitämiseksi.\n\n→ Jarruttakaa heti kasvattaaksenne seurantaväliä.\n\nl\nDISTRONIC Plus* tai PRE-SAFE® Brake*: Punainen etäisyysvaroitusvalo syttyy ajon aikana, ja kuuluu äänivaroitus.\n\nLähestytte edessä olevaa ajoneuvoa liian nopeasti.\n→ Jarruttakaa heti.\n\nDISTRONIC Plus* tai PRE-SAFE® Brake* on tunnistanut paikallaan olevan esteen todennäköisellä ajolinjallanne.\n→ Jarruttakaa heti.\n→ Seuratkaa liiketilannetta huolellisesti.\nSaatatte joutua jarruttamaan tai väistämään törmäyksen välttämiseksi.\n\nv\nKeltainen ESP®-varoitusvalo vilkkuu ajon aikana.\n\nESP® tai elektroninen pitonsäätö on aktivoitunut, koska ainakin yhdessä renkaassa on havaittu pidon menetystä.\nVakionopeudensäädin ja DISTRONIC Plus* on kytketty pois.\n\n→ Liikkeelle lähtiessä käyttäkää kaasua mahdollisimman vähän.\n→ Ajon aikana keventäkää kaasua.\n→ Mukauttakaa nopeutenne ja ajotapanne vallitseviin tie- ja sääolosuhteisiin.\n→ Älkää kytkekö ESP®:ää pois. Poikkeukset: (sivu 72).\n\nNäiden ohjeiden noudattamatta jättäminen lisää onnettomuusriskiä.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=615",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/615/bg267.webp",
+      "originalPath": "original/615.html"
+    },
+    {
+      "page": 616,
+      "section": "Käytännön vinkit",
+      "titleFi": "ESP® pois päältä / häiriö sekä turvavyömuistutus",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nOngelma | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nv\nKeltainen ESP®-varoitusvalo syttyy moottorin käydessä.\n\nESP® on kytketty pois.\nOnnettomuusvaara!\nMukauttakaa nopeutenne ja ajotapanne vallitseviin tie-, sää- ja liikenneolosuhteisiin.\n\n→ Kytkekää ESP® uudelleen päälle (sivu 70).\nPoikkeukset: (sivu 72).\n\nJos ESP®:ää ei voida kytkeä uudelleen päälle:\n→ Tarkastuttakaa järjestelmä valtuutetussa Mercedes-Benz-keskuksessa mahdollisimman pian.\n\nESP® on kytketty pois häiriön vuoksi.\nOnnettomuusvaara!\nMukauttakaa nopeutenne ja ajotapanne vallitseviin tie-, sää- ja liikenneolosuhteisiin.\n\n→ Jatkakaa ajoa erityisen varovaisesti.\n→ Lukekaa ja noudattakaa monitoiminäytön viestejä (sivu 622).\n→ Tarkastuttakaa järjestelmä valtuutetussa Mercedes-Benz-keskuksessa mahdollisimman pian.\n\n<\nPunainen turvavyön merkkivalo palaa enintään 6 sekuntia moottorin käynnistyksen jälkeen.\n\nTurvavyön merkkivalo muistuttaa teitä ja matkustajia kiinnittämään turvavyöt ennen liikkeellelähtöä.\n\n→ Kiinnittäkää turvavyönne.\nRiippumatta siitä, ovatko turvavyöt kiinnitettyinä vai eivät, turvavyön merkkivalo syttyy aina ja palaa 6 sekuntia moottorin käynnistyksen jälkeen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=616",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/616/bg268.webp",
+      "originalPath": "original/616.html"
+    },
+    {
+      "page": 617,
+      "section": "Käytännön vinkit",
+      "titleFi": "Turvavyön merkkivalo ja varoitusääni ajon aikana",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nOngelma | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\n<\nKuuluu varoitusääni enintään 6 sekunnin ajan moottorin käynnistyksen jälkeen.\n\nOlette unohtaneet kiinnittää turvavyön.\n→ Kiinnittäkää turvavyö.\nVaroitusääni lakkaa.\n\n<\nPunainen turvavyön merkkivalo palaa ajoneuvon seisoessa paikallaan moottorin käydessä tai ajon aikana.\n\nTe ja/tai etumatkustaja olette unohtaneet kiinnittää turvavyöt.\n→ Kiinnittäkää turvavyönne.\nTurvavyön merkkivalo sammuu.\n\nEtumatkustajan istuimella on esineitä, joten järjestelmä tulkitsee istuimen olevan käytössä.\n→ Poistakaa esineet etumatkustajan istuimelta ja sijoittakaa ne turvalliseen paikkaan.\nTurvavyön merkkivalo sammuu.\n\n<\nAjon aikana punainen turvavyön merkkivalo vilkkuu, ja lisäksi kuuluu jaksottainen varoitusääni, jonka voimakkuus kasvaa.\n\nAjoneuvon nopeus on ylittänyt kerran 15 mph (25 km/h), ja te ja/tai etumatkustaja olette unohtaneet kiinnittää turvavyöt.\n→ Kiinnittäkää turvavyönne.\nTurvavyön merkkivalo sammuu ja varoitusääni lakkaa.\n\nEtumatkustajan istuimella on esineitä, joten järjestelmä tulkitsee istuimen olevan käytössä.\n→ Poistakaa esineet etumatkustajan istuimelta ja sijoittakaa ne turvalliseen paikkaan.\nTurvavyön merkkivalo sammuu ja varoitusääni lakkaa.\n\ni\n60 sekunnin jälkeen kiinnittämättömällä turvavyöllä varoitusääni lakkaa ja turvavyön merkkivalo palaa jatkuvasti.\nTurvavyön merkkivalo sammuu vasta, kun sekä kuljettajan että etumatkustajan turvavyöt on kiinnitetty, tai kun ajoneuvo on paikallaan ja ovi avataan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=617",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/617/bg269.webp",
+      "originalPath": "original/617.html"
+    },
+    {
+      "page": 618,
+      "section": "Käytännön vinkit",
+      "titleFi": "Punainen SRS-merkkivalo – täydentävät turvajärjestelmät",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nOngelma | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\n=\nPunainen SRS-merkkivalo syttyy moottorin käydessä.\n\nTäydentävissä turvajärjestelmissä (SRS) on häiriö. Turvatyynyt tai turvavyönkiristimet (ETD) voivat laueta odottamatta tai jäädä laukeamatta onnettomuudessa.\n\n→ Ajakaa erityisen varovaisesti lähimpään valtuutettuun Mercedes-Benz-keskukseen.\n\nVaroitus!\nJos SRS-häiriö ilmoitetaan edellä kuvatulla tavalla, SRS ei ehkä ole toimintakunnossa. Turvallisuutenne vuoksi suosittelemme vahvasti, että otatte heti yhteyttä valtuutettuun Mercedes-Benz-keskukseen järjestelmän tarkastuttamiseksi; muuten SRS ei ehkä laukea tarvittaessa onnettomuudessa, mikä voi johtaa vakavaan tai kuolemaan johtavaan vammaan, tai se saattaa laueta odottamatta ja tarpeettomasti, mikä voi aiheuttaa onnettomuuden ja/tai vamman teille tai muille.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=618",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/618/bg26a.webp",
+      "originalPath": "original/618.html"
+    },
+    {
+      "page": 619,
+      "section": "Käytännön vinkit",
+      "titleFi": "Advanced TPMS – matala paine ja järjestelmähäiriö",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nOngelma | Mahdollinen syy/seuraus | Ehdotettu ratkaisu\n\nH\nVain USA:\nAdvanced TPMS:n yhdistetty matalan rengaspaineen / TPMS-häiriön merkkivalo palaa jatkuvasti.\n\nVain Kanada:\nAdvanced TPMS:n matalan rengaspaineen merkkivalo palaa jatkuvasti.\n\nAdvanced TPMS havaitsee painehäviön ainakin yhdessä renkaassa.\n\n→ Pysäyttäkää ajoneuvo varovasti, välttäen äkillisiä ohjaus- ja jarrutusliikkeitä. Seuratkaa ympäröivää liikennettä.\n→ Lukekaa ja noudattakaa monitoiminäytön viestejä (sivu 622).\n\nKun kyseisen renkaan (tai renkaiden) ilmanpaine on korjattu, yhdistetty matalan rengaspaineen / TPMS-häiriön merkkivalo sammuu muutaman minuutin ajon jälkeen.\n\nH\nVain USA:\nAdvanced TPMS:n yhdistetty matalan rengaspaineen / TPMS-häiriön merkkivalo vilkkuu 60 sekuntia ja jää sitten palamaan.\n\nAdvanced TPMS -järjestelmässä on häiriö.\n\n→ Lukekaa ja noudattakaa monitoiminäytön viestejä (sivu 622).\n→ Tarkastuttakaa Advanced TPMS valtuutetussa Mercedes-Benz-keskuksessa.\n\nHäiriön korjaamisen jälkeen yhdistetty matalan rengaspaineen / TPMS-häiriön merkkivalo sammuu muutaman minuutin ajon jälkeen.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=619",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/619/bg26b.webp",
+      "originalPath": "original/619.html"
+    },
+    {
+      "page": 620,
+      "section": "Käytännön vinkit",
+      "titleFi": "Advanced TPMS – NHTSA-turvallisuusteksti (USA)",
+      "fi": "Käytännön vinkit\nMitä tehdä, jos …?\n\nVaroitus!\nJokainen rengas, myös vararengas (jos toimitettu), tulee tarkistaa kuukausittain kylmänä ja täyttää ajoneuvon valmistajan suosittelemaan paineeseen, joka on merkitty ajoneuvon tietotarraan tai rengaspainetarraan. (Jos ajoneuvossanne on eri kokoisia renkaita kuin tietotarrassa tai rengaspainetarrassa ilmoitettu koko, teidän tulee määrittää oikea rengaspaine näille renkaille.)\n\nLisäturvaominaisuutena ajoneuvonne on varustettu Advanced Tire Pressure Monitoring Systemillä (Advanced TPMS), joka sytyttää matalan rengaspaineen merkkivalon, kun yksi tai useampi rengas on merkittävästi vajaapaineinen. Kun matalan rengaspaineen merkkivalo syttyy, pysähtykää ja tarkistakaa renkaat mahdollisimman pian sekä täyttäkää ne oikeaan paineeseen.\nMerkittävästi vajaapaineisella renkaalla ajaminen aiheuttaa renkaan ylikuumenemista ja voi johtaa rengasrikkoon.\nVajaapaineisuus heikentää myös polttoainetaloutta ja lyhentää kulutuspinnan käyttöikää sekä voi vaikuttaa ajoneuvon ajettavuuteen ja pysäytyskykyyn. Huomatkaa, että Advanced TPMS ei korvaa asianmukaista renkaiden huoltoa, ja kuljettajan vastuulla on ylläpitää oikeaa rengaspainetta silloinkin, kun vajaapaineisuus ei ole vielä saavuttanut tasoa, joka sytyttää Advanced TPMS:n matalan rengaspaineen merkkivalon.\n\nVain USA\nAjoneuvonne on myös varustettu Advanced TPMS -häiriöilmaisimella, joka ilmoittaa, kun järjestelmä ei toimi oikein. Advanced TPMS -häiriöilmaisin on yhdistetty matalan rengaspaineen merkkivaloon. Kun järjestelmä havaitsee häiriön, merkkivalo vilkkuu noin minuutin ja jää sitten jatkuvasti palamaan. Tämä jakso toistuu myöhemmissä käynnistyksissä niin kauan kuin häiriö on olemassa. Kun häiriöilmaisin palaa, järjestelmä ei ehkä pysty havaitsemaan tai ilmoittamaan matalasta rengaspaineesta tarkoitetulla tavalla.\nAdvanced TPMS -häiriöitä voi esiintyä monista syistä, mukaan lukien vaihtorenkaiden tai -vanteiden asennus ajoneuvoon siten, että Advanced TPMS ei toimi oikein. Tarkistakaa aina Advanced TPMS -häiriömerkkivalo yhden tai useamman renkaan tai vanteen vaihdon jälkeen varmistaaksenne, että vaihtorenkaat ja -vanteet sallivat Advanced TPMS:n jatkuvan oikean toiminnan.",
+      "sourceUrl": "https://www.kayttooh.je/mercedes/cl-class-2008/k%C3%A4ytt%C3%B6ohje?p=620",
+      "imageUrl": "https://www.kayttooh.je/viewer/59/540359/620/bg26c.webp",
+      "originalPath": "original/620.html"
+    }
+  ]
+}

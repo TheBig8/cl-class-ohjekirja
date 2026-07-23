@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>CL-Class sivu 486</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #e8e8e8;
+      overflow: hidden;
+    }
+    .wrap {
+      box-sizing: border-box;
+      width: 100%;
+      overflow: hidden;
+      padding: 0.35rem;
+    }
+    .frame {
+      margin: 0 auto;
+      overflow: hidden;
+    }
+    .stage {
+      transform-origin: 0 0;
+      position: relative;
+    }
+    .stage.viewer-page {
+      margin: 0;
+      box-shadow: 0 0 4px rgba(0, 0, 0, 0.35);
+    }
+    .bi {
+      background-repeat: no-repeat !important;
+      background-position: 0 0 !important;
+      background-size: 100% 100% !important;
+    }
+    #sidebar{bottom:0;width:250px;overflow:auto}#page-container,#sidebar{position:absolute;top:0;left:0;padding:0;margin:0}#page-container{border:0;-webkit-overflow-scrolling:touch;padding:0!important}@media screen{#sidebar.opened+#page-container{left:250px}#page-container{bottom:0;right:0;overflow:auto}.loading-indicator{display:none}.loading-indicator.active{display:block;position:absolute;top:50%;left:50%;margin-top:-32px;margin-left:-32px;width:32px;height:32px;background:url('https://www.kayttooh.je/images/loading.gif')}.loading-indicator img{position:absolute;inset:0}}.pf{position:relative;background-color:#fff}.pc,.pf{overflow:hidden;margin:0;border:0}.pc{position:absolute;padding:0;top:0;left:0;width:100%;height:100%;transform-origin:0 0;-ms-transform-origin:0 0;-webkit-transform-origin:0 0}.pc,.pc.opened{display:block}.bf{top:0;bottom:0;width:100%;height:100%}.bf,.bi{position:absolute;border:0;margin:0;-moz-user-select:none;-webkit-user-select:none;user-select:none}.c{border:0;padding:0;margin:0;overflow:hidden;display:block}.c,.t{position:absolute}.t{white-space:pre;font-size:1px;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%;unicode-bidi:bidi-override;-moz-font-feature-settings:"liga" 0}._{color:transparent;z-index:-1}.pi{display:none}.d{position:absolute;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%}.tabs{margin-top:.5rem;margin-bottom:-.8rem;overflow-x:scroll;display:flex;align-items:baseline}.tabs .app-icon{margin-right:.3rem;transform:translateY(-2px)}.tabs button{background-color:#2b2f35;color:#fff;margin-left:.3rem;margin-bottom:0;padding:.2rem .5rem;font-weight:400;font-size:.875rem;text-transform:capitalize;transition:background-color .2s;cursor:pointer}.tabs button:first-child{padding-bottom:.8rem;background-color:#3d4652;border-bottom-left-radius:0;border-bottom-right-radius:0}@media(min-width:768px){.tabs button:first-child{margin-left:1rem}}.tabs button:hover{background-color:#3d4652}.hero{z-index:1000;display:flex;justify-content:center;align-content:start;flex-wrap:wrap;padding-top:50px}.hero,.hero:before{position:absolute;top:0;width:100%;height:100%}.hero:before{left:0;background:#ffffff4d;content:"";z-index:-1;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px)}.hero>div{position:sticky;top:0;max-width:400px;margin:0 auto;z-index:1}.glide__track{padding-bottom:10px}.glide__arrow--left,.glide__arrow--right{position:absolute;top:10px;bottom:10px;width:50px;z-index:10;justify-content:center;align-items:center;display:flex;font-size:1rem;transition:background-color .2s ease-in-out;transform:scale(1);opacity:1;width:80px}.glide__arrow--left:hover,.glide__arrow--right:hover{background-color:#0000001a}.glide__arrow--left:active .app-icon,.glide__arrow--right:active .app-icon{transform:scale(.8)}.glide__arrow--left{left:10px}.glide__arrow--right{right:10px}.glide__arrow .app-icon{margin:30px 0;position:sticky;bottom:50%;top:20px;color:#fff;-webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);z-index:-1;content:"";background:#0003;border:1px solid rgba(0,0,0,.3);border-radius:50%;height:2.5rem;width:2.5rem;display:flex}@media(min-width:768px){.viewer--in-view .glide__arrow .app-icon{animation:blink-desktop 1.5s 3}}.glide__arrow ::v-deep(svg){width:1rem}.viewer{position:relative;width:-100%;direction:ltr;background-color:#3d4652;padding-top:.5rem}@media(min-width:768px){.viewer{padding:.5rem .5rem 0;border-radius:.5rem;margin:0 .5rem;width:calc(100% - 1rem)}}.viewer__toolbar-top{position:absolute;bottom:0;right:.5rem;display:flex}.viewer__toolbar-top button{color:#fff;transition:background-color .3s ease-in-out}.viewer__toolbar-top button .app-icon{height:1.4rem;width:1.4rem}.viewer__toolbar-top button:hover{background-color:#0003}.viewer__title{padding:.5rem 3rem .5rem .5rem;margin:0;color:#fff;font-size:1rem}.viewer-transition{display:flex;flex-direction:row;position:relative}.viewer-transition>div{width:100vw}.js-only .viewer-transition>div{position:absolute;top:0}@media(max-width:767.98px){.viewer--in-view .viewer-container{animation:blink 1s 3}}.viewer-container{max-width:100%;margin:10px}.viewer-container:not(.active){display:none}.mounted .viewer-container{display:list-item}.viewer-page{min-height:80px;box-shadow:0 0 5px #000000e6;position:relative;background:#fff}}.viewer .pf{transform-origin:0 0}.slide-left-enter-active,.slide-left-leave-active,.slide-right-enter-active,.slide-right-leave-active{transition:.4s}@media(max-width:767.98px){.slide-left-enter{transform:translate(100%)!important}.slide-left-leave-to,.slide-right-enter{transform:translate(-100%)!important}.slide-right-leave-to{transform:translate(100%)!important}}@media(min-width:768px){.slide-left-enter{opacity:1}.slide-left-leave-to{opacity:0}.slide-right-enter{opacity:1}.slide-right-leave-to{opacity:0}}@keyframes blink{0%{transform:translate(0)}30%{transform:translate(0)}60%{transform:translate(-20px)}}@keyframes blink-desktop{0%{transform:scale(1)}80%{transform:scale(1)}90%{transform:scale(1.2)}}
+.viewer-page .h1,.viewer-page .h2,.viewer-page .h3,.viewer-page .h4,.viewer-page .h5,.viewer-page .h6,.viewer-page h1,.viewer-page h2,.viewer-page h3,.viewer-page h4,.viewer-page h5,.viewer-page h6{margin-bottom:auto}.viewer-page figure{margin:0}#sidebar{bottom:0;width:250px;overflow:auto}#page-container,#sidebar{position:absolute;top:0;left:0;padding:0;margin:0}#page-container{border:0}@media screen{#sidebar.opened+#page-container{left:250px}#page-container{bottom:0;right:0;overflow:auto}.loading-indicator{display:none}.loading-indicator.active{display:block;position:absolute;width:64px;height:64px;top:50%;left:50%;margin-top:-32px;margin-left:-32px}.loading-indicator img{position:absolute;inset:0}}.pf{position:relative;background-color:#fff}.pc,.pf{overflow:hidden;margin:0;border:0}.pc{position:absolute;padding:0;top:0;left:0;width:100%;height:100%;transform-origin:0 0;-ms-transform-origin:0 0;-webkit-transform-origin:0 0}.pc,.pc.opened{display:block}.bf{top:0;bottom:0;width:100%;height:100%}.bf,.bi{position:absolute;border:0;margin:0;-moz-user-select:none;-webkit-user-select:none;user-select:none}.c{border:0;padding:0;margin:0;overflow:hidden;display:block}.c,.t{position:absolute}.t{white-space:pre;font-size:1px;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%;unicode-bidi:bidi-override;-moz-font-feature-settings:"liga" 0}.t:after{content:""}.t span{position:relative;display:inline-block;unicode-bidi:bidi-override}._{color:transparent;z-index:-1}.pi{display:none}.d{position:absolute;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%}span[data-link]>div{cursor:pointer;transition:background .2s ease-in-out;background-color:transparent!important;z-index:1}span[data-link]>div:hover{background-color:#0003!important}
+.viewer-page .ff0{font-family:sans-serif;visibility:hidden;}
+@font-face{font-family:ff1;font-display:swap;src:url('assets/486/f1.woff')format("woff");}.viewer-page .ff1{font-family:ff1;line-height:0.905000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff2;font-display:swap;src:url('assets/486/f2.woff')format("woff");}.viewer-page .ff2{font-family:ff2;line-height:0.914000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff3;font-display:swap;src:url('assets/486/f3.woff')format("woff");}.viewer-page .ff3{font-family:ff3;line-height:0.885000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff4;font-display:swap;src:url('assets/486/f4.woff')format("woff");}.viewer-page .ff4{font-family:ff4;line-height:0.772000;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff5;font-display:swap;src:url('assets/486/f5.woff')format("woff");}.viewer-page .ff5{font-family:ff5;line-height:0.997000;font-style:normal;font-weight:normal;visibility:visible;}
+.viewer-page .m0{transform:matrix(0.250000,0.000000,0.000000,0.250000,0,0);-ms-transform:matrix(0.250000,0.000000,0.000000,0.250000,0,0);-webkit-transform:matrix(0.250000,0.000000,0.000000,0.250000,0,0);}
+.viewer-page .v0{vertical-align:0.000000px;}
+.viewer-page .ls24{letter-spacing:-0.980064px;}
+.viewer-page .ls39{letter-spacing:-0.309600px;}
+.viewer-page .ls3d{letter-spacing:-0.291600px;}
+.viewer-page .ls33{letter-spacing:-0.277200px;}
+.viewer-page .ls26{letter-spacing:-0.201600px;}
+.viewer-page .ls2b{letter-spacing:-0.198000px;}
+.viewer-page .ls9{letter-spacing:-0.183264px;}
+.viewer-page .ls8{letter-spacing:-0.159360px;}
+.viewer-page .ls22{letter-spacing:-0.147408px;}
+.viewer-page .ls0{letter-spacing:-0.144000px;}
+.viewer-page .lsf{letter-spacing:-0.139440px;}
+.viewer-page .lsa{letter-spacing:-0.127488px;}
+.viewer-page .lsc{letter-spacing:-0.123504px;}
+.viewer-page .ls1a{letter-spacing:-0.095616px;}
+.viewer-page .ls20{letter-spacing:-0.091632px;}
+.viewer-page .ls18{letter-spacing:-0.083664px;}
+.viewer-page .lse{letter-spacing:-0.075696px;}
+.viewer-page .ls19{letter-spacing:-0.067728px;}
+.viewer-page .ls1d{letter-spacing:-0.063744px;}
+.viewer-page .ls3a{letter-spacing:-0.050400px;}
+.viewer-page .ls12{letter-spacing:-0.043824px;}
+.viewer-page .lsd{letter-spacing:-0.039840px;}
+.viewer-page .ls37{letter-spacing:-0.032400px;}
+.viewer-page .ls3b{letter-spacing:-0.021600px;}
+.viewer-page .ls3e{letter-spacing:-0.018000px;}
+.viewer-page .ls2c{letter-spacing:-0.014400px;}
+.viewer-page .ls25{letter-spacing:-0.010800px;}
+.viewer-page .ls31{letter-spacing:-0.003600px;}
+.viewer-page .ls17{letter-spacing:0.000000px;}
+.viewer-page .ls2f{letter-spacing:0.018000px;}
+.viewer-page .ls1c{letter-spacing:0.023904px;}
+.viewer-page .ls16{letter-spacing:0.031872px;}
+.viewer-page .ls4{letter-spacing:0.035856px;}
+.viewer-page .ls10{letter-spacing:0.043824px;}
+.viewer-page .ls13{letter-spacing:0.055776px;}
+.viewer-page .ls11{letter-spacing:0.059760px;}
+.viewer-page .ls36{letter-spacing:0.064800px;}
+.viewer-page .ls14{letter-spacing:0.071712px;}
+.viewer-page .ls30{letter-spacing:0.075600px;}
+.viewer-page .ls1b{letter-spacing:0.075696px;}
+.viewer-page .ls2{letter-spacing:0.078624px;}
+.viewer-page .ls2e{letter-spacing:0.082800px;}
+.viewer-page .ls15{letter-spacing:0.087648px;}
+.viewer-page .ls1{letter-spacing:0.091200px;}
+.viewer-page .lsb{letter-spacing:0.091632px;}
+.viewer-page .ls29{letter-spacing:0.097200px;}
+.viewer-page .ls7{letter-spacing:0.099600px;}
+.viewer-page .ls35{letter-spacing:0.104400px;}
+.viewer-page .ls27{letter-spacing:0.108000px;}
+.viewer-page .ls34{letter-spacing:0.111600px;}
+.viewer-page .ls32{letter-spacing:0.122400px;}
+.viewer-page .ls28{letter-spacing:0.133200px;}
+.viewer-page .ls3c{letter-spacing:0.136800px;}
+.viewer-page .ls2d{letter-spacing:0.147600px;}
+.viewer-page .ls38{letter-spacing:0.162000px;}
+.viewer-page .ls2a{letter-spacing:0.165600px;}
+.viewer-page .ls1e{letter-spacing:0.195216px;}
+.viewer-page .ls3{letter-spacing:0.211152px;}
+.viewer-page .ls1f{letter-spacing:0.235056px;}
+.viewer-page .ls23{letter-spacing:0.266928px;}
+.viewer-page .ls5{letter-spacing:0.270912px;}
+.viewer-page .ls6{letter-spacing:0.298800px;}
+.viewer-page .ls21{letter-spacing:0.366528px;}
+.viewer-page .sc_{text-shadow:none;}
+.viewer-page .sc0{text-shadow:-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em  transparent;}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.viewer-page .sc_{-webkit-text-stroke:0px transparent;}
+.viewer-page .sc0{-webkit-text-stroke:0.015em transparent;text-shadow:none;}
+}
+.viewer-page .ws1a{word-spacing:-3.314688px;}
+.viewer-page .ws14{word-spacing:-3.310704px;}
+.viewer-page .ws18{word-spacing:-2.693184px;}
+.viewer-page .ws19{word-spacing:-2.183232px;}
+.viewer-page .ws35{word-spacing:-1.969200px;}
+.viewer-page .ws26{word-spacing:-1.965600px;}
+.viewer-page .ws32{word-spacing:-1.864800px;}
+.viewer-page .wse{word-spacing:-1.725072px;}
+.viewer-page .ws39{word-spacing:-1.458000px;}
+.viewer-page .ws38{word-spacing:-1.418400px;}
+.viewer-page .ws34{word-spacing:-1.000800px;}
+.viewer-page .ws37{word-spacing:-0.817200px;}
+.viewer-page .wsf{word-spacing:-0.701184px;}
+.viewer-page .ws1c{word-spacing:-0.569712px;}
+.viewer-page .ws23{word-spacing:-0.468000px;}
+.viewer-page .ws7{word-spacing:-0.458160px;}
+.viewer-page .ws2c{word-spacing:-0.435600px;}
+.viewer-page .ws11{word-spacing:-0.418320px;}
+.viewer-page .ws10{word-spacing:-0.402384px;}
+.viewer-page .ws2d{word-spacing:-0.356400px;}
+.viewer-page .ws3b{word-spacing:-0.342000px;}
+.viewer-page .wsd{word-spacing:-0.318720px;}
+.viewer-page .ws6{word-spacing:-0.179280px;}
+.viewer-page .ws9{word-spacing:-0.175296px;}
+.viewer-page .ws22{word-spacing:-0.158400px;}
+.viewer-page .ws5{word-spacing:-0.151392px;}
+.viewer-page .ws20{word-spacing:-0.147408px;}
+.viewer-page .ws1d{word-spacing:-0.115536px;}
+.viewer-page .ws3{word-spacing:-0.091632px;}
+.viewer-page .ws1{word-spacing:-0.091200px;}
+.viewer-page .ws3a{word-spacing:-0.068400px;}
+.viewer-page .ws29{word-spacing:-0.028800px;}
+.viewer-page .ws24{word-spacing:-0.014400px;}
+.viewer-page .ws2e{word-spacing:-0.003600px;}
+.viewer-page .ws0{word-spacing:0.000000px;}
+.viewer-page .ws30{word-spacing:0.007200px;}
+.viewer-page .ws31{word-spacing:0.014400px;}
+.viewer-page .ws25{word-spacing:0.021600px;}
+.viewer-page .wsb{word-spacing:0.027888px;}
+.viewer-page .ws2a{word-spacing:0.036000px;}
+.viewer-page .ws2{word-spacing:0.043680px;}
+.viewer-page .ws16{word-spacing:0.047808px;}
+.viewer-page .ws13{word-spacing:0.063744px;}
+.viewer-page .ws4{word-spacing:0.083664px;}
+.viewer-page .ws17{word-spacing:0.087648px;}
+.viewer-page .ws1b{word-spacing:0.095616px;}
+.viewer-page .ws2b{word-spacing:0.100800px;}
+.viewer-page .ws21{word-spacing:0.129600px;}
+.viewer-page .ws28{word-spacing:0.133200px;}
+.viewer-page .ws33{word-spacing:0.151200px;}
+.viewer-page .ws12{word-spacing:0.163344px;}
+.viewer-page .ws36{word-spacing:0.169200px;}
+.viewer-page .ws1e{word-spacing:0.211152px;}
+.viewer-page .wsc{word-spacing:0.243024px;}
+.viewer-page .wsa{word-spacing:0.247008px;}
+.viewer-page .ws1f{word-spacing:0.266928px;}
+.viewer-page .ws8{word-spacing:0.278880px;}
+.viewer-page .ws15{word-spacing:0.302784px;}
+.viewer-page .ws27{word-spacing:0.316800px;}
+.viewer-page .ws2f{word-spacing:0.396000px;}
+.viewer-page ._0{margin-left:-1.089600px;}
+.viewer-page ._1{width:1.011936px;}
+.viewer-page ._6{width:2.147376px;}
+.viewer-page ._5{width:8.600064px;}
+.viewer-page ._3{width:10.058880px;}
+.viewer-page ._2{width:11.426112px;}
+.viewer-page ._4{width:36.021120px;}
+.viewer-page ._7{width:400.400688px;}
+.viewer-page .fc2{color:rgb(255,0,0);}
+.viewer-page .fc1{color:rgb(0,0,0);}
+.viewer-page .fc0{color:rgb(255,255,255);}
+.viewer-page .fs4{font-size:25.440000px;}
+.viewer-page .fs3{font-size:31.680000px;}
+.viewer-page .fs6{font-size:36.000000px;}
+.viewer-page .fs2{font-size:39.840000px;}
+.viewer-page .fs1{font-size:43.680000px;}
+.viewer-page .fs0{font-size:48.000000px;}
+.viewer-page .fs5{font-size:55.680000px;}
+.viewer-page .y0{bottom:0.000000px;}
+.viewer-page .y1{bottom:103.481000px;}
+.viewer-page .y28{bottom:131.560900px;}
+.viewer-page .y27{bottom:131.561092px;}
+.viewer-page .y2e{bottom:136.602200px;}
+.viewer-page .y26{bottom:143.560900px;}
+.viewer-page .y2d{bottom:148.601900px;}
+.viewer-page .y47{bottom:152.205700px;}
+.viewer-page .y25{bottom:160.601000px;}
+.viewer-page .y2c{bottom:160.601600px;}
+.viewer-page .y46{bottom:164.205400px;}
+.viewer-page .y2b{bottom:172.601300px;}
+.viewer-page .y45{bottom:176.205100px;}
+.viewer-page .y24{bottom:177.641000px;}
+.viewer-page .y2a{bottom:184.601000px;}
+.viewer-page .y44{bottom:188.204800px;}
+.viewer-page .y22{bottom:194.560900px;}
+.viewer-page .y23{bottom:197.801000px;}
+.viewer-page .y43{bottom:200.204500px;}
+.viewer-page .y29{bottom:207.280900px;}
+.viewer-page .y21{bottom:211.601000px;}
+.viewer-page .y42{bottom:212.204200px;}
+.viewer-page .y41{bottom:224.203900px;}
+.viewer-page .y20{bottom:228.641576px;}
+.viewer-page .y40{bottom:236.203600px;}
+.viewer-page .y13{bottom:236.923912px;}
+.viewer-page .y1f{bottom:240.641384px;}
+.viewer-page .y12{bottom:248.923720px;}
+.viewer-page .y3f{bottom:252.283900px;}
+.viewer-page .y1e{bottom:252.641192px;}
+.viewer-page .y11{bottom:260.923528px;}
+.viewer-page .y3e{bottom:264.283600px;}
+.viewer-page .y1d{bottom:264.641000px;}
+.viewer-page .y1c{bottom:264.641384px;}
+.viewer-page .y10{bottom:272.923336px;}
+.viewer-page .y3d{bottom:276.283300px;}
+.viewer-page .y1b{bottom:276.641192px;}
+.viewer-page .yf{bottom:284.923144px;}
+.viewer-page .y3c{bottom:288.283000px;}
+.viewer-page .y1a{bottom:288.641000px;}
+.viewer-page .y19{bottom:288.644200px;}
+.viewer-page .ye{bottom:296.922952px;}
+.viewer-page .y3b{bottom:300.282700px;}
+.viewer-page .y18{bottom:300.644008px;}
+.viewer-page .yd{bottom:308.922760px;}
+.viewer-page .y17{bottom:312.643816px;}
+.viewer-page .y3a{bottom:316.242400px;}
+.viewer-page .yc{bottom:320.922568px;}
+.viewer-page .y39{bottom:328.242100px;}
+.viewer-page .y16{bottom:329.563864px;}
+.viewer-page .yb{bottom:332.922376px;}
+.viewer-page .y38{bottom:340.241800px;}
+.viewer-page .y15{bottom:341.563672px;}
+.viewer-page .ya{bottom:344.922184px;}
+.viewer-page .y37{bottom:352.241500px;}
+.viewer-page .y14{bottom:353.563480px;}
+.viewer-page .y9{bottom:356.921992px;}
+.viewer-page .y36{bottom:368.201200px;}
+.viewer-page .y8{bottom:368.921800px;}
+.viewer-page .y33{bottom:379.242200px;}
+.viewer-page .y35{bottom:380.200900px;}
+.viewer-page .y7{bottom:380.921608px;}
+.viewer-page .y32{bottom:391.241900px;}
+.viewer-page .y6{bottom:397.961176px;}
+.viewer-page .y34{bottom:402.881000px;}
+.viewer-page .y31{bottom:403.241600px;}
+.viewer-page .y5{bottom:409.960984px;}
+.viewer-page .y30{bottom:415.241300px;}
+.viewer-page .y2f{bottom:427.241000px;}
+.viewer-page .y4{bottom:432.640900px;}
+.viewer-page .y3{bottom:466.000900px;}
+.viewer-page .y2{bottom:485.081000px;}
+.viewer-page .h5{height:17.324640px;}
+.viewer-page .h7{height:24.516000px;}
+.viewer-page .h4{height:27.131040px;}
+.viewer-page .h3{height:27.370080px;}
+.viewer-page .h2{height:29.789760px;}
+.viewer-page .h1{height:32.736000px;}
+.viewer-page .h6{height:44.098560px;}
+.viewer-page .h0{height:595.000000px;}
+.viewer-page .w0{width:842.000000px;}
+.viewer-page .x0{left:0.000000px;}
+.viewer-page .x4{left:157.479700px;}
+.viewer-page .xd{left:163.479700px;}
+.viewer-page .x5{left:338.799508px;}
+.viewer-page .xe{left:344.799700px;}
+.viewer-page .xa{left:353.079700px;}
+.viewer-page .xb{left:355.839700px;}
+.viewer-page .x8{left:392.679700px;}
+.viewer-page .x9{left:397.719700px;}
+.viewer-page .x7{left:444.039700px;}
+.viewer-page .x6{left:446.559700px;}
+.viewer-page .xc{left:520.239600px;}
+.viewer-page .xf{left:526.239600px;}
+.viewer-page .x2{left:592.719600px;}
+.viewer-page .x3{left:607.239600px;}
+.viewer-page .x1{left:668.319600px;}
+
+
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="frame">
+      <div class="stage viewer-page"><div class="page-486 pf w0 h0" data-v-85eae2e3><div id="pf1e6" class="pf w0 h0" data-page-no="1e6"><div class="pc pc1e6 w0 h0"><div class="bi x0 y0 w0 h0" alt="" style="background: url('assets/486/bg1e6.webp'); background-size: contain;"></div><div class="t m0 x1 h1 y1 ff1 fs0 fc0 sc0 ls0 ws0">485</div><h3 class="t m0 x2 h1 y2 ff1 fs0 fc0 sc0 ls1 ws1">Controls in detail</h3><h4 class="t m0 x3 h2 y3 ff1 fs1 fc1 sc0 ls2 ws2">Driving systems</h4><h5 class="t m0 x4 h3 y4 ff2 fs2 fc1 sc0 ls3 ws3">Blind Spot Assist*</h5><h5 class="t m0 x4 h4 y5 ff3 fs2 fc1 sc0 ls4 ws4">Depending on production date, your vehi-</h5><h5 class="t m0 x4 h4 y6 ff3 fs2 fc1 sc0 ls5 ws5">cle may not be equipped with this feature.</h5><h5 class="t m0 x4 h4 y7 ff3 fs2 fc1 sc0 ls6 ws6">Blind Spot Assist uses radar sensors to </h5><h5 class="t m0 x4 h4 y8 ff3 fs2 fc1 sc0 ls7 ws7">monitor the area on both sides of your ve-</h5><h5 class="t m0 x4 h4 y9 ff3 fs2 fc1 sc0 ls8 ws8">hicle. It will assist you when you change </h5><h5 class="t m0 x4 h4 ya ff3 fs2 fc1 sc0 ls9 ws9">lanes driving at speeds of above 20 mph </h5><h5 class="t m0 x4 h4 yb ff3 fs2 fc1 sc0 lsa wsa">(30<span class="_"> </span>km/h). A warning will appear on the </h5><h5 class="t m0 x4 h4 yc ff3 fs2 fc1 sc0 lsb wsb">outside rear view mirror as soon as anoth-</h5><h5 class="t m0 x4 h4 yd ff3 fs2 fc1 sc0 lsc wsc">er vehicle is detected in the area being </h5><h5 class="t m0 x4 h4 ye ff3 fs2 fc1 sc0 lsd wsd">monitored. If you then activate the corre-</h5><h5 class="t m0 x4 h4 yf ff3 fs2 fc1 sc0 lse wse">sponding turn signals to change lanes, you </h5><h5 class="t m0 x4 h4 y10 ff3 fs2 fc1 sc0 lsf wsf">will see and hear a collision warning. Blind </h5><h5 class="t m0 x4 h4 y11 ff3 fs2 fc1 sc0 ls10 ws10">Spot Assist operates using two sensors in </h5><h5 class="t m0 x4 h4 y12 ff3 fs2 fc1 sc0 ls11 ws11">the front bumper and four sensors in the </h5><h5 class="t m0 x4 h4 y13 ff3 fs2 fc1 sc0 ls12 ws12">rear bumper.</h5><h5 class="t m0 x5 h4 y14 ff3 fs2 fc1 sc0 ls13 ws13">In order for Blind Spot Assist to function, </h5><h5 class="t m0 x5 h4 y15 ff3 fs2 fc1 sc0 ls14 ws14">the radar sensors must be switched on and </h5><h5 class="t m0 x5 h4 y16 ff3 fs2 fc1 sc0 ls15 ws0">operational.</h5><h5 class="t m0 x5 h4 y17 ff3 fs2 fc1 sc0 ls9 ws15">When travelling in Canada in a vehicle not </h5><h5 class="t m0 x5 h4 y18 ff3 fs2 fc1 sc0 ls14 ws16">registered in Canada, you must switch off </h5><h5 class="t m0 x5 h4 y19 ff3 fs2 fc1 sc0 ls16 ws17">the radar sensor system* (</h5><h7 class="t m0 x6 h4 y1a ff4 fs3 fc1 sc0 ls17 ws0">컄 <span class="ff3 fs2 ls18">page<span class="_"> </span>302). </span></h7><h5 class="t m0 x5 h4 y1b ff3 fs2 fc1 sc0 lsc wsc">Canadian law does not permit the use of </h5><h5 class="t m0 x5 h4 y1c ff3 fs2 fc1 sc0 ls19 ws18">the radar sensor system* (</h5><h7 class="t m0 x7 h4 y1d ff4 fs3 fc1 sc0 ls17 ws0">컄 <span class="ff3 fs2 ls1a ws19">page 302) for </span></h7><h5 class="t m0 x5 h4 y1e ff3 fs2 fc1 sc0 ls1b ws1a">vehicles from outside of Canada. When you </h5><h5 class="t m0 x5 h4 y1f ff3 fs2 fc1 sc0 lsb wsb">switch off the radar sensor system*, the </h5><h5 class="t m0 x5 h4 y20 ff3 fs2 fc1 sc0 ls1c ws1b">following functions are deactivated:</h5><h7 class="t m0 x5 h4 y21 ff4 fs3 fc1 sc0 ls17 ws0">앫 <span class="ff3 fs2 ls3 ws1c">BAS Plus* (</span>컄 <span class="ff3 fs2 ls1d">page<span class="_"> </span>68)</span></h7><h7 class="t m0 x5 h4 y22 ff4 fs3 fc1 sc0 ls17 ws0">앫 <span class="ff3 fs2 ls1e">PRE-SAFE</span></h7><div class="t m0 x8 h5 y23 ff3 fs4 fc1 sc0 ls17 ws0">®</div><h5 class="t m0 x9 h4 y22 ff3 fs2 fc1 sc0 ls1f ws1d"> Brake* (<span class="ff4 fs3 ls17 ws0">컄 </span><span class="ls1d ws0">page<span class="_"> </span>75)</span></h5><h7 class="t m0 x5 h4 y24 ff4 fs3 fc1 sc0 ls17 ws0">앫 <span class="ff3 fs2 ls20 ws1e">DISTRONIC Plus* (</span>컄 <span class="ff3 fs2 ls21">page 443)</span></h7><div class="t m0 x5 h4 y25 ff4 fs3 fc1 sc0 ls17 ws0">앫<span class="_ _4"> </span><span class="ff3 fs2 ls1f ws1d">Park As<span class="_ _0"></span>sist (<span class="_ _0"></span><span class="ff4 fs3 ls17 ws0">컄<span class="_ _3"> </span><span class="ff3 fs2 ls18">page<span class="_"> </span>467)</span></span></span></div><h7 class="t m0 x5 h4 y26 ff4 fs3 fc1 sc0 ls17 ws0">앫 <span class="ff3 fs2 ls22 ws1f">Advanced Parking Guidance* </span></h7><div class="t m0 xa h4 y27 ff3 fs2 fc1 sc0 ls17 ws0">(</div><h7 class="t m0 xb h4 y28 ff4 fs3 fc1 sc0 ls17 ws0">컄 <span class="ff3 fs2 ls21">page 471)</span></h7><div class="t m0 xc h4 y4 ff4 fs3 fc1 sc0 ls17 ws0">앫<span class="_ _4"> </span><span class="ff3 fs2 ls23 ws20">Blin<span class="_ _0"></span>d Spot<span class="_ _0"></span> Assi<span class="_ _0"></span>st* (<span class="ff4 fs3 ls17 ws0">컄<span class="_ _5"> </span></span><span class="ls21 ws0">page<span class="_ _5"> </span>485)</span></span></div><h5 class="t m0 xd h6 y29 ff2 fs2 fc2 sc0 ls24 ws0">Warning! <span class="ff5 fs5 ls17">G</span></h5><h6 class="t m0 xd h7 y2a ff3 fs6 fc1 sc0 ls25 ws21">Blind Spot Assist is only a driving aid and </h6><h6 class="t m0 xd h7 y2b ff3 fs6 fc1 sc0 ls26 ws22">may not detect all vehicles. It is the driver’s </h6><h6 class="t m0 xd h7 y2c ff3 fs6 fc1 sc0 ls27 ws23">responsibility at all times to be attentive to </h6><h6 class="t m0 xd h7 y2d ff3 fs6 fc1 sc0 ls28 ws24">road, weather and traffic conditions and to </h6><h6 class="t m0 xd h7 y2e ff3 fs6 fc1 sc0 ls29 ws25">provide the steering, braking and other</h6><h6 class="t m0 xe h7 y2f ff3 fs6 fc1 sc0 ls2a ws26"> driving inputs necessary to retain control of </h6><h6 class="t m0 xe h7 y30 ff3 fs6 fc1 sc0 ls2b ws27">the vehicle. Failure to do so could result in </h6><h6 class="t m0 xe h7 y31 ff3 fs6 fc1 sc0 ls2c ws28">recognizing dangers too late, possibly re-</h6><h6 class="t m0 xe h7 y32 ff3 fs6 fc1 sc0 ls2d ws29">sulting in an accident and serious injury to </h6><h6 class="t m0 xe h7 y33 ff3 fs6 fc1 sc0 ls2e ws2a">yourself and others.</h6><h5 class="t m0 xf h6 y34 ff2 fs2 fc2 sc0 ls24 ws0">Warning! <span class="ff5 fs5 ls17">G</span></h5><h6 class="t m0 xf h7 y35 ff3 fs6 fc1 sc0 ls2f ws2b">Blind Spot Assist cannot detect road and </h6><h6 class="t m0 xf h7 y36 ff3 fs6 fc1 sc0 ls30 ws2c">traffic conditions.</h6><h6 class="t m0 xf h7 y37 ff3 fs6 fc1 sc0 ls31 ws2d">Blind Spot Assist may not be able to detect </h6><h6 class="t m0 xf h7 y38 ff3 fs6 fc1 sc0 ls32 ws2e">narrow vehicles such as motorcycles or bi-</h6><h6 class="t m0 xf h7 y39 ff3 fs6 fc1 sc0 ls33 ws2f">cycles, or it may not detect them until it is </h6><h6 class="t m0 xf h7 y3a ff3 fs6 fc1 sc0 ls29 ws25">too late.</h6><h6 class="t m0 xf h7 y3b ff3 fs6 fc1 sc0 ls34 ws30">The monitoring function may be impaired if </h6><h6 class="t m0 xf h7 y3c ff3 fs6 fc1 sc0 ls35 ws31">your sensors are dirty, subject to heavy </h6><h6 class="t m0 xf h7 y3d ff3 fs6 fc1 sc0 ls36 ws32">spray, or if visibility is poor due to e.g. snow, </h6><h6 class="t m0 xf h7 y3e ff3 fs6 fc1 sc0 ls28 ws24">rain, or fog. This can result in vehicles not </h6><h6 class="t m0 xf h7 y3f ff3 fs6 fc1 sc0 ls37 ws33">being detected or being detected too late.</h6><h6 class="t m0 xf h7 y40 ff3 fs6 fc1 sc0 ls38 ws34">It is the driver’s responsibility at all times to </h6><h6 class="t m0 xf h7 y41 ff3 fs6 fc1 sc0 ls39 ws35">be attentive to road, weather and traffic con-</h6><h6 class="t m0 xf h7 y42 ff3 fs6 fc1 sc0 ls3a ws36">ditions and to provide the steering, braking </h6><h6 class="t m0 xf h7 y43 ff3 fs6 fc1 sc0 ls3b ws37">and other driving inputs necessary to retain </h6><h6 class="t m0 xf h7 y44 ff3 fs6 fc1 sc0 ls29 ws38">control of the vehicle. Failure to do so could </h6><h6 class="t m0 xf h7 y45 ff3 fs6 fc1 sc0 ls3c ws39">result in recognizing dangers too late, possi-</h6><h6 class="t m0 xf h7 y46 ff3 fs6 fc1 sc0 ls3d ws3a">bly resulting in an acci<span class="ls3e ws3b">dent and serious inju-</span></h6><h6 class="t m0 xf h7 y47 ff3 fs6 fc1 sc0 ls32 ws2e">ry to yourself and others.</h6></div><div class="pi" data-data='{"ctm":[0.000000,-1.000000,1.000000,0.000000,0.000000,595.000000]}'></div></div>
+</div></div>
+    </div>
+  </div>
+  <script>
+(function () {
+  var stage = document.querySelector(".stage");
+  var frame = document.querySelector(".frame");
+  var wrap = document.querySelector(".wrap");
+  var page = document.querySelector(".stage .pf.w0, .stage .pf[data-page-no], .stage > .pf");
+  if (!stage || !frame || !page) return;
+
+  function notifyParent(height) {
+    try {
+      if (window.parent && window.parent !== window) {
+        window.parent.postMessage({
+          type: "cl-orig-size",
+          page: 486,
+          height: height
+        }, "*");
+      }
+    } catch (e) {}
+  }
+
+  function fit() {
+    page.style.transform = "none";
+    var pad = 8;
+    var avail = Math.max(120, document.documentElement.clientWidth - pad);
+    var w = page.offsetWidth || 842;
+    var h = page.offsetHeight || 595;
+    if (!w || !h) return;
+    var scale = Math.min(1, avail / w);
+    var fw = Math.round(w * scale);
+    var fh = Math.round(h * scale);
+    stage.style.transform = "scale(" + scale + ")";
+    frame.style.width = fw + "px";
+    frame.style.height = fh + "px";
+    var total = fh + 12;
+    if (wrap) wrap.style.height = total + "px";
+    document.body.style.height = total + "px";
+    notifyParent(total);
+  }
+
+  window.addEventListener("resize", fit);
+  window.addEventListener("load", fit);
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(fit).catch(function () {});
+  }
+  var bi = page.querySelector(".bi");
+  if (bi) {
+    var bg = getComputedStyle(bi).backgroundImage;
+    var m = bg && bg.match(/url\(["']?([^"')]+)/);
+    if (m && m[1]) {
+      var img = new Image();
+      img.onload = fit;
+      img.src = m[1];
+    }
+  }
+  fit();
+  setTimeout(fit, 50);
+  setTimeout(fit, 300);
+})();
+  </script>
+</body>
+</html>
