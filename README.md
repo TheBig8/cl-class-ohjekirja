@@ -1,6 +1,6 @@
 # CL-Class ohjekirja
 
-Suomenkielinen lukija Mercedes-Benz CL-Class (2008) -käyttöohjeelle (769 sivua).
+Mercedes-Benz CL-Class (2008) -käyttöohje suomeksi (769 sivua). Selattava verkkosivu — ei ääneen lukemista.
 
 ## Käyttö puhelimella / selaimella
 
