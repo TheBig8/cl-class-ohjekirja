@@ -87,16 +87,42 @@ async function loadMeta() {
 }
 
 async function loadBatches() {
-  const batches = state.meta.batches || [];
   const pages = [];
-  for (const file of batches) {
-    const res = await fetch(`data/pages/${file}`);
-    if (!res.ok) continue;
-    const data = await res.json();
-    for (const page of data.pages || []) {
-      pages.push(page);
+
+  // Prefer one bundle request (GitHub Pages latency >> payload size).
+  try {
+    const bundleRes = await fetch("data/pages-bundle.json");
+    if (bundleRes.ok) {
+      const bundle = await bundleRes.json();
+      for (const page of bundle.pages || []) {
+        pages.push(page);
+      }
+    }
+  } catch {
+    // Fall through to per-batch loads.
+  }
+
+  if (!pages.length) {
+    const batches = state.meta.batches || [];
+    const results = await Promise.all(
+      batches.map(async (file) => {
+        try {
+          const res = await fetch(`data/pages/${file}`);
+          if (!res.ok) return [];
+          const data = await res.json();
+          return data.pages || [];
+        } catch {
+          return [];
+        }
+      })
+    );
+    for (const batchPages of results) {
+      for (const page of batchPages) {
+        pages.push(page);
+      }
     }
   }
+
   pages.sort((a, b) => a.page - b.page);
   state.pages = pages;
   state.pageByNumber = new Map(pages.map((p) => [p.page, p]));
@@ -662,10 +688,20 @@ function bind() {
   });
 }
 
+function setLoadingState() {
+  if (els.pageTitle) els.pageTitle.textContent = "Ladataan…";
+  if (els.pageBody) {
+    els.pageBody.innerHTML = "<p>Ladataan ohjekirjan sivuja…</p>";
+  }
+  if (els.progress) els.progress.textContent = "Ladataan…";
+}
+
 async function main() {
   bind();
+  setLoadingState();
   try {
     await loadMeta();
+    setLoadingState();
     await loadBatches();
     const saved = Number(localStorage.getItem(PAGE_KEY));
     const start = Number.isFinite(saved) ? saved : 1;
